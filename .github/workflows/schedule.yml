@@ -1,0 +1,40 @@
+name: Update Agent Knowledge Bases
+
+on:
+  schedule:
+    # Runs at 08:00 UTC every Tuesday (After all games are final)
+    - cron: '0 8 * * *'
+  workflow_dispatch: # Allows you to click "Run Now" manually for testing
+
+permissions:
+  contents: write
+
+jobs:
+  update-nfl-data:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.10'
+
+      - name: Install dependencies
+        run: |
+          pip install -r requirements.txt
+
+      - name: Run Data Update Script
+        run: |
+          python update_data.py
+
+      - name: Commit and Push Updated Data
+        run: |
+          git config --global user.name "NFL Data Bot"
+          git config --global user.email "bot@example.com"
+          git add data/*.csv
+          # Only commit if there are changes (prevents errors if data hasn't changed)
+          git commit -m "Auto-update: Agent Knowledge Bases" || exit 0
+          git push
