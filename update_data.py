@@ -1,4 +1,4 @@
-import nfl_data_py as nfl
+import nflreadpy as nfl
 import pandas as pd
 import os
 from datetime import datetime
