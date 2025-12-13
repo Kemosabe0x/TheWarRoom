@@ -18,7 +18,7 @@ print(f"Starting Data Update for Season: {current_year}")
 # --- 1. FETCH PLAY-BY-PLAY (The Heavy Lifting) ---
 print("Fetching Play-by-Play Data...")
 try:
-    pbp = nfl.import_pbp_data([current_year])
+    pbp = nfl.load_pbp_data(current_year)
 
     # FILTER 1: THE ANALYTICS AGENT (Math & Efficiency)
     # Needs: EPA, CPOE, WPA, Success Rate
