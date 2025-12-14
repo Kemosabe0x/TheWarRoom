@@ -38,3 +38,23 @@ jobs:
           # Only commit if there are changes (prevents errors if data hasn't changed)
           git commit -m "Auto-update: Agent Knowledge Bases" || exit 0
           git push
+
+      - name: List Generated Files (Debug)
+        run: |
+          ls -R
+          # This will show us if the 'data' folder exists and what is inside
+
+      - name: Commit and Push Updated Data
+        run: |
+          git config --global user.name "NFL Data Bot"
+          git config --global user.email "bot@example.com"
+          
+          # Check if data directory exists and has files before adding
+          if [ -d "data" ] && [ "$(ls -A data)" ]; then
+            git add data/*.csv
+            git commit -m "Auto-update: Agent Knowledge Bases" || echo "No changes to commit"
+            git push
+          else
+            echo "ERROR: No data files found in 'data/' directory. Check the script logs above."
+            exit 1
+          fi
