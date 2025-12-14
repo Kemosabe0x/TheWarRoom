@@ -2,9 +2,9 @@ name: Update Agent Knowledge Bases
 
 on:
   schedule:
-    # Runs at 08:00 UTC every Tuesday (After all games are final)
+    # Runs at 08:00 UTC every day
     - cron: '0 8 * * *'
-  workflow_dispatch: # Allows you to click "Run Now" manually for testing
+  workflow_dispatch: # Allows manual testing
 
 permissions:
   contents: write
@@ -30,20 +30,11 @@ jobs:
         run: |
           python update_data.py
 
-      - name: Commit and Push Updated Data
-        run: |
-          git config --global user.name "NFL Data Bot"
-          git config --global user.email "bot@example.com"
-          git add data/*.csv
-          # Only commit if there are changes (prevents errors if data hasn't changed)
-          git commit -m "Auto-update: Agent Knowledge Bases" || exit 0
-          git push
-
       - name: List Generated Files (Debug)
         run: |
+          # Verify the data folder exists and list contents
           ls -R
-          # This will show us if the 'data' folder exists and what is inside
-
+          
       - name: Commit and Push Updated Data
         run: |
           git config --global user.name "NFL Data Bot"
@@ -55,6 +46,6 @@ jobs:
             git commit -m "Auto-update: Agent Knowledge Bases" || echo "No changes to commit"
             git push
           else
-            echo "ERROR: No data files found in 'data/' directory. Check the script logs above."
+            echo "ERROR: No data files found in 'data/' directory. Check the logs above for Python errors."
             exit 1
           fi
