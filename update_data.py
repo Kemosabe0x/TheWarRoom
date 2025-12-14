@@ -17,28 +17,27 @@ print(f"Starting Data Update (nflreadpy) for Season: {current_year}")
 # --- 1. FETCH PLAY-BY-PLAY (Analytics & Gruden) ---
 print("Fetching Play-by-Play Data...")
 try:
-    # nflreadpy returns Polars by default; convert to pandas for easier filtering
+    # 1. LOAD DATA
     pbp = nfl.load_pbp(seasons=[current_year]).to_pandas()
     
-    # AGENT 1: ANALYTICS (EPA, CPOE)
-    analytics_cols = [
-        'game_id', 'week', 'posteam', 'defteam', 'qtr', 'down', 
-        'play_type', 'epa', 'wpa', 'cpoe', 'success'
-    ]
-    # Filter for rows with actual stats
-    analytics_df = pbp[analytics_cols].dropna(subset=['epa'])
-    analytics_df.to_csv(f"{DATA_DIR}/agent_analytics_kb.csv", index=False)
-    print(" -> Analytics Agent data saved.")
-
-    # AGENT 2: COACH GRUDEN (Raw Descriptions)
+    # 2. CRITICAL FIX: CREATE "DAY OF WEEK" COLUMN
+    # Convert game_date to datetime objects
+    pbp['game_date'] = pd.to_datetime(pbp['game_date'])
+    # Create a new column that explicitly says "Thursday", "Sunday", etc.
+    pbp['day_of_week'] = pbp['game_date'].dt.day_name()
+    
+    # AGENT 2: COACH GRUDEN
+    # We now include 'game_date' and 'day_of_week' in his brain
     gruden_cols = [
-        'game_id', 'week', 'posteam', 'defteam', 'desc', 
+        'game_id', 'week', 'game_date', 'day_of_week', # <--- NEW COLUMNS
+        'posteam', 'defteam', 'desc', 
         'play_type', 'yards_gained', 'touchdown'
     ]
+    
     gruden_df = pbp[gruden_cols]
     gruden_df.to_csv(f"{DATA_DIR}/agent_gruden_kb.csv", index=False)
-    print(" -> Coach Gruden data saved.")
-
+    print(" -> Coach Gruden data saved (with Dates!).")
+    
 except Exception as e:
     print(f"Error fetching PBP: {e}")
 
