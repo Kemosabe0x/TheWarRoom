@@ -48577,3 +48577,196 @@ game_id,week,game_date,day_of_week,posteam,defteam,desc,play_type,yards_gained,t
 2025_21_NE_DEN,21,2026-01-25,Sunday,NE,DEN,(1:11) 10-D.Maye kneels to DEN 49 for -1 yards.,qb_kneel,-1.0,0.0
 2025_21_NE_DEN,21,2026-01-25,Sunday,NE,DEN,(:38) 10-D.Maye kneels to 50 for -1 yards.,qb_kneel,-1.0,0.0
 2025_21_NE_DEN,21,2026-01-25,Sunday,NE,DEN,END GAME,,,
+2025_22_SEA_NE,22,2026-02-08,Sunday,,,GAME,,,
+2025_22_SEA_NE,22,2026-02-08,Sunday,SEA,NE,"36-A.Borregales kicks 65 yards from NE 35 to end zone, Touchback to the SEA 35.",kickoff,0.0,0.0
+2025_22_SEA_NE,22,2026-02-08,Sunday,SEA,NE,(15:00) 9-K.Walker left end pushed ob at SEA 45 for 10 yards (7-C.Davis).,run,10.0,0.0
+2025_22_SEA_NE,22,2026-02-08,Sunday,SEA,NE,(14:29) 9-K.Walker right tackle to SEA 45 for no gain (90-C.Barmore).,run,0.0,0.0
+2025_22_SEA_NE,22,2026-02-08,Sunday,SEA,NE,(13:50) (Shotgun) 14-S.Darnold pass short left to 88-A.Barner to NE 40 for 15 yards (31-C.Woodson).,pass,15.0,0.0
+2025_22_SEA_NE,22,2026-02-08,Sunday,SEA,NE,(13:25) (No Huddle) 14-S.Darnold pass deep left to 10-C.Kupp pushed ob at NE 17 for 23 yards (25-M.Jones).,pass,23.0,0.0
+2025_22_SEA_NE,22,2026-02-08,Sunday,SEA,NE,"(12:58) (No Huddle, Shotgun) 14-S.Darnold pass incomplete deep left.",pass,0.0,0.0
+2025_22_SEA_NE,22,2026-02-08,Sunday,SEA,NE,(12:51) 9-K.Walker right tackle to NE 14 for 3 yards (33-A.Jennings).,run,3.0,0.0
+2025_22_SEA_NE,22,2026-02-08,Sunday,SEA,NE,(12:06) (Shotgun) 14-S.Darnold pass incomplete short left to 22-R.Shaheed.,pass,0.0,0.0
+2025_22_SEA_NE,22,2026-02-08,Sunday,SEA,NE,"(12:02) 5-J.Myers 33 yard field goal is GOOD, Center-41-C.Stoll, Holder-4-M.Dickson.",field_goal,0.0,0.0
+2025_22_SEA_NE,22,2026-02-08,Sunday,NE,SEA,5-J.Myers kicks 65 yards from SEA 35 to NE 0. 34-D.Johnson to NE 28 for 28 yards (83-D.Young).,kickoff,0.0,0.0
+2025_22_SEA_NE,22,2026-02-08,Sunday,NE,SEA,(11:52) 38-R.Stevenson up the middle to NE 34 for 6 yards (13-E.Jones).,run,6.0,0.0
+2025_22_SEA_NE,22,2026-02-08,Sunday,NE,SEA,(11:21) 38-R.Stevenson up the middle to NE 36 for 2 yards (13-E.Jones; 42-D.Thomas).,run,2.0,0.0
+2025_22_SEA_NE,22,2026-02-08,Sunday,NE,SEA,(10:40) (Shotgun) 10-D.Maye pass short left to 38-R.Stevenson ran ob at NE 43 for 7 yards (42-D.Thomas) [7-U.Nwosu].,pass,7.0,0.0
+2025_22_SEA_NE,22,2026-02-08,Sunday,NE,SEA,(10:04) 10-D.Maye pass short left to 3-D.Douglas to SEA 49 for 8 yards (13-E.Jones).,pass,8.0,0.0
+2025_22_SEA_NE,22,2026-02-08,Sunday,NE,SEA,(9:28) 38-R.Stevenson right tackle to SEA 45 for 4 yards (8-C.Bryant).,run,4.0,0.0
+2025_22_SEA_NE,22,2026-02-08,Sunday,NE,SEA,(8:51) (Shotgun) 10-D.Maye sacked at NE 45 for -10 yards (58-D.Hall).,pass,-10.0,0.0
+2025_22_SEA_NE,22,2026-02-08,Sunday,NE,SEA,(8:09) (Shotgun) 10-D.Maye scrambles right tackle to SEA 44 for 11 yards (3-N.Emmanwori).,run,11.0,0.0
+2025_22_SEA_NE,22,2026-02-08,Sunday,NE,SEA,(7:23) (Shotgun) 10-D.Maye pass incomplete deep right [21-D.Witherspoon].,pass,0.0,0.0
+2025_22_SEA_NE,22,2026-02-08,Sunday,NE,SEA,"(7:18) 17-B.Baringer punts 34 yards to SEA 10, Center-47-J.Ashby, fair catch by 22-R.Shaheed.",punt,0.0,0.0
+2025_22_SEA_NE,22,2026-02-08,Sunday,SEA,NE,(7:11) (Shotgun) 14-S.Darnold pass incomplete short left to 11-J.Smith-Njigba (31-C.Woodson) [33-A.Jennings].,pass,0.0,0.0
+2025_22_SEA_NE,22,2026-02-08,Sunday,SEA,NE,(7:06) (Shotgun) 14-S.Darnold pass short left to 11-J.Smith-Njigba to SEA 14 for 4 yards (7-C.Davis).,pass,4.0,0.0
+2025_22_SEA_NE,22,2026-02-08,Sunday,SEA,NE,(6:22) (Shotgun) 14-S.Darnold pass incomplete deep left to 11-J.Smith-Njigba [21-J.Hawkins].,pass,0.0,0.0
+2025_22_SEA_NE,22,2026-02-08,Sunday,SEA,NE,"(6:15) 4-M.Dickson punts 50 yards to NE 36, Center-41-C.Stoll, fair catch by 25-M.Jones.",punt,0.0,0.0
+2025_22_SEA_NE,22,2026-02-08,Sunday,NE,SEA,(6:07) 74-T.Munford reported in as eligible. 10-D.Maye pass deep left to 9-K.Boutte to SEA 43 for 21 yards (20-J.Love).,pass,21.0,0.0
+2025_22_SEA_NE,22,2026-02-08,Sunday,NE,SEA,(5:33) (Shotgun) 32-T.Henderson up the middle to SEA 46 for -3 yards (13-E.Jones).,run,-3.0,0.0
+2025_22_SEA_NE,22,2026-02-08,Sunday,NE,SEA,(4:53) (Shotgun) 10-D.Maye pass short left to 32-T.Henderson to SEA 48 for -2 yards (29-J.Jobe).,pass,-2.0,0.0
+2025_22_SEA_NE,22,2026-02-08,Sunday,NE,SEA,(4:15) (Shotgun) 10-D.Maye sacked at NE 42 for -10 yards (21-D.Witherspoon).,pass,-10.0,0.0
+2025_22_SEA_NE,22,2026-02-08,Sunday,NE,SEA,"(3:39) 17-B.Baringer punts 51 yards to SEA 7, Center-47-J.Ashby. 22-R.Shaheed to SEA 13 for 6 yards (24-D.Pettus).",punt,0.0,0.0
+2025_22_SEA_NE,22,2026-02-08,Sunday,SEA,NE,(3:29) 9-K.Walker right tackle to SEA 15 for 2 yards (90-C.Barmore; 51-J.Gibbens).,run,2.0,0.0
+2025_22_SEA_NE,22,2026-02-08,Sunday,SEA,NE,(2:51) 9-K.Walker left tackle to SEA 16 for 1 yard (90-C.Barmore).,run,1.0,0.0
+2025_22_SEA_NE,22,2026-02-08,Sunday,SEA,NE,(2:07) (Shotgun) 14-S.Darnold pass short right to 88-A.Barner to SEA 28 for 12 yards (25-M.Jones).,pass,12.0,0.0
+2025_22_SEA_NE,22,2026-02-08,Sunday,SEA,NE,(1:25) 22-R.Shaheed left end to SEA 23 for -5 yards (31-C.Woodson).,run,-5.0,0.0
+2025_22_SEA_NE,22,2026-02-08,Sunday,SEA,NE,(:40) (Shotgun) 14-S.Darnold pass incomplete short left to 11-J.Smith-Njigba (33-A.Jennings).,pass,0.0,0.0
+2025_22_SEA_NE,22,2026-02-08,Sunday,SEA,NE,(:37) (Shotgun) 14-S.Darnold pass incomplete deep left to 11-J.Smith-Njigba.,pass,0.0,0.0
+2025_22_SEA_NE,22,2026-02-08,Sunday,SEA,NE,"(:32) 4-M.Dickson punts 45 yards to NE 32, Center-41-C.Stoll. 25-M.Jones to NE 32 for no gain (42-D.Thomas).",punt,0.0,0.0
+2025_22_SEA_NE,22,2026-02-08,Sunday,NE,SEA,(:19) 38-R.Stevenson right tackle to NE 37 for 5 yards (90-J.Reed; 42-D.Thomas).,run,5.0,0.0
+2025_22_SEA_NE,22,2026-02-08,Sunday,NE,SEA,END QUARTER 1,,,
+2025_22_SEA_NE,22,2026-02-08,Sunday,NE,SEA,(15:00) (Shotgun) 10-D.Maye pass incomplete short middle to 85-H.Henry.,pass,0.0,0.0
+2025_22_SEA_NE,22,2026-02-08,Sunday,NE,SEA,(14:55) (Shotgun) 38-R.Stevenson up the middle to NE 37 for no gain (90-J.Reed; 99-L.Williams).,run,0.0,0.0
+2025_22_SEA_NE,22,2026-02-08,Sunday,NE,SEA,"(14:18) 17-B.Baringer punts 39 yards to SEA 24, Center-47-J.Ashby, fair catch by 22-R.Shaheed.",punt,0.0,0.0
+2025_22_SEA_NE,22,2026-02-08,Sunday,SEA,NE,(14:10) (Shotgun) 14-S.Darnold pass incomplete deep middle to 22-R.Shaheed (0-C.Gonzalez).,pass,0.0,0.0
+2025_22_SEA_NE,22,2026-02-08,Sunday,SEA,NE,(14:04) (Shotgun) 9-K.Walker left end pushed ob at NE 46 for 30 yards (25-M.Jones).,run,30.0,0.0
+2025_22_SEA_NE,22,2026-02-08,Sunday,SEA,NE,"(13:37) (No Huddle, Shotgun) 14-S.Darnold pass incomplete short middle to 11-J.Smith-Njigba (97-M.Williams).",pass,0.0,0.0
+2025_22_SEA_NE,22,2026-02-08,Sunday,SEA,NE,(13:34) 9-K.Walker right guard pushed ob at NE 17 for 29 yards (0-C.Gonzalez).,run,29.0,0.0
+2025_22_SEA_NE,22,2026-02-08,Sunday,SEA,NE,(12:52) 9-K.Walker right end to NE 19 for -2 yards (31-C.Woodson).,run,-2.0,0.0
+2025_22_SEA_NE,22,2026-02-08,Sunday,SEA,NE,(12:09) (Shotgun) 14-S.Darnold pass incomplete short middle to 10-C.Kupp [44-K.Chaisson].,pass,0.0,0.0
+2025_22_SEA_NE,22,2026-02-08,Sunday,SEA,NE,(12:04) (Shotgun) 9-K.Walker left end to NE 21 for -2 yards (31-C.Woodson).,run,-2.0,0.0
+2025_22_SEA_NE,22,2026-02-08,Sunday,SEA,NE,"(11:20) 5-J.Myers 39 yard field goal is GOOD, Center-41-C.Stoll, Holder-4-M.Dickson.",field_goal,0.0,0.0
+2025_22_SEA_NE,22,2026-02-08,Sunday,NE,SEA,"5-J.Myers kicks 65 yards from SEA 35 to end zone, Touchback to the NE 35. ** Injury Update: SEA-39-T.Okada has returned to the game.",kickoff,0.0,0.0
+2025_22_SEA_NE,22,2026-02-08,Sunday,NE,SEA,(11:16) 32-T.Henderson right tackle to NE 38 for 3 yards (13-E.Jones).,run,3.0,0.0
+2025_22_SEA_NE,22,2026-02-08,Sunday,NE,SEA,(10:44) (Shotgun) 10-D.Maye sacked at NE 28 for -10 yards (98-R.Mills).,pass,-10.0,0.0
+2025_22_SEA_NE,22,2026-02-08,Sunday,NE,SEA,(10:03) (Shotgun) 10-D.Maye pass short left to 8-S.Diggs pushed ob at NE 33 for 5 yards (27-T.Woolen).,pass,5.0,0.0
+2025_22_SEA_NE,22,2026-02-08,Sunday,NE,SEA,"(9:23) 17-B.Baringer punts 38 yards to SEA 29, Center-47-J.Ashby, fair catch by 22-R.Shaheed. ** Injury Update: NE-48-J.Tavai has returned to the game.",punt,0.0,0.0
+2025_22_SEA_NE,22,2026-02-08,Sunday,SEA,NE,(9:16) 9-K.Walker right end pushed ob at SEA 38 for 9 yards (0-C.Gonzalez).,run,9.0,0.0
+2025_22_SEA_NE,22,2026-02-08,Sunday,SEA,NE,(8:41) 9-K.Walker right guard to SEA 40 for 2 yards (51-J.Gibbens).,run,2.0,0.0
+2025_22_SEA_NE,22,2026-02-08,Sunday,SEA,NE,(7:56) 14-S.Darnold pass incomplete short left to 9-K.Walker.,pass,0.0,0.0
+2025_22_SEA_NE,22,2026-02-08,Sunday,SEA,NE,(7:51) (Shotgun) 14-S.Darnold pass short right to 10-C.Kupp to SEA 47 for 7 yards (25-M.Jones).,pass,7.0,0.0
+2025_22_SEA_NE,22,2026-02-08,Sunday,SEA,NE,(7:12) (Shotgun) 14-S.Darnold pass short right to 9-K.Walker to NE 47 for 6 yards (7-C.Davis; 24-D.Pettus).,pass,6.0,0.0
+2025_22_SEA_NE,22,2026-02-08,Sunday,SEA,NE,(6:29) 9-K.Walker up the middle to NE 43 for 4 yards (53-C.Elliss; 14-R.Spillane).,run,4.0,0.0
+2025_22_SEA_NE,22,2026-02-08,Sunday,SEA,NE,(5:50) 36-G.Holani right tackle to NE 42 for 1 yard (33-A.Jennings; 94-C.Durden).,run,1.0,0.0
+2025_22_SEA_NE,22,2026-02-08,Sunday,SEA,NE,(5:09) (Shotgun) 14-S.Darnold pass incomplete short left to 9-K.Walker.,pass,0.0,0.0
+2025_22_SEA_NE,22,2026-02-08,Sunday,SEA,NE,"(5:05) 4-M.Dickson punts 40 yards to NE 2, Center-41-C.Stoll, downed by SEA-32-V.Jones.",punt,0.0,0.0
+2025_22_SEA_NE,22,2026-02-08,Sunday,NE,SEA,(4:58) 38-R.Stevenson right end to NE 5 for 3 yards (29-J.Jobe).,run,3.0,0.0
+2025_22_SEA_NE,22,2026-02-08,Sunday,,,Timeout #1 by SEA at 04:21.,no_play,0.0,0.0
+2025_22_SEA_NE,22,2026-02-08,Sunday,NE,SEA,(4:21) (Shotgun) 10-D.Maye pass incomplete short middle to 13-M.Hollins.,pass,0.0,0.0
+2025_22_SEA_NE,22,2026-02-08,Sunday,NE,SEA,(4:19) (Shotgun) 10-D.Maye pass short right to 3-D.Douglas to NE 14 for 9 yards (29-J.Jobe).,pass,9.0,0.0
+2025_22_SEA_NE,22,2026-02-08,Sunday,NE,SEA,(3:46) 38-R.Stevenson right end pushed ob at NE 17 for 3 yards (29-J.Jobe).,run,3.0,0.0
+2025_22_SEA_NE,22,2026-02-08,Sunday,NE,SEA,(3:14) 10-D.Maye pass incomplete short right.,pass,0.0,0.0
+2025_22_SEA_NE,22,2026-02-08,Sunday,NE,SEA,"(3:09) (Shotgun) PENALTY on NE-66-W.Campbell, False Start, 5 yards, enforced at NE 17 - No Play.",no_play,0.0,0.0
+2025_22_SEA_NE,22,2026-02-08,Sunday,NE,SEA,(3:09) (Shotgun) 10-D.Maye pass incomplete deep right to 13-M.Hollins.,pass,0.0,0.0
+2025_22_SEA_NE,22,2026-02-08,Sunday,NE,SEA,"(3:03) 17-B.Baringer punts 55 yards to SEA 33, Center-47-J.Ashby. 22-R.Shaheed to SEA 43 for 10 yards (91-E.Ponder).",punt,0.0,0.0
+2025_22_SEA_NE,22,2026-02-08,Sunday,SEA,NE,(2:50) 14-S.Darnold pass short middle to 10-C.Kupp to 50 for 7 yards (21-J.Hawkins) [2-H.Landry].,pass,7.0,0.0
+2025_22_SEA_NE,22,2026-02-08,Sunday,SEA,NE,(2:11) 9-K.Walker right tackle to NE 43 for 7 yards (14-R.Spillane; 31-C.Woodson).,run,7.0,0.0
+2025_22_SEA_NE,22,2026-02-08,Sunday,SEA,NE,(2:00) (Shotgun) 9-K.Walker left end to NE 42 for 1 yard (31-C.Woodson).,run,1.0,0.0
+2025_22_SEA_NE,22,2026-02-08,Sunday,SEA,NE,(1:17) (Shotgun) 14-S.Darnold pass short middle to 36-G.Holani to NE 35 for 7 yards (53-C.Elliss).,pass,7.0,0.0
+2025_22_SEA_NE,22,2026-02-08,Sunday,SEA,NE,(:39) (Shotgun) 36-G.Holani left guard to NE 30 for 5 yards (31-C.Woodson).,run,5.0,0.0
+2025_22_SEA_NE,22,2026-02-08,Sunday,,,Timeout #2 by SEA at 00:32.,no_play,0.0,0.0
+2025_22_SEA_NE,22,2026-02-08,Sunday,SEA,NE,(:32) (Shotgun) 14-S.Darnold pass short right to 10-C.Kupp to NE 23 for 7 yards (7-C.Davis).,pass,7.0,0.0
+2025_22_SEA_NE,22,2026-02-08,Sunday,,,Timeout #3 by SEA at 00:23.,no_play,0.0,0.0
+2025_22_SEA_NE,22,2026-02-08,Sunday,SEA,NE,"(:23) (Shotgun) 14-S.Darnold pass incomplete short right to 10-C.Kupp. The Replay Official reviewed the incomplete pass ruling, and the play was Upheld. The ruling on the field stands.",pass,0.0,0.0
+2025_22_SEA_NE,22,2026-02-08,Sunday,,,Timeout #1 by NE at 00:20.,no_play,0.0,0.0
+2025_22_SEA_NE,22,2026-02-08,Sunday,SEA,NE,(:20) (Shotgun) 14-S.Darnold pass incomplete deep middle to 11-J.Smith-Njigba (0-C.Gonzalez).,pass,0.0,0.0
+2025_22_SEA_NE,22,2026-02-08,Sunday,SEA,NE,"(:16) 5-J.Myers 41 yard field goal is GOOD, Center-41-C.Stoll, Holder-4-M.Dickson.",field_goal,0.0,0.0
+2025_22_SEA_NE,22,2026-02-08,Sunday,NE,SEA,5-J.Myers kicks 61 yards from SEA 35 to NE 4. 34-D.Johnson to NE 29 for 25 yards (38-B.Russell; 52-P.O'Connell).,kickoff,0.0,0.0
+2025_22_SEA_NE,22,2026-02-08,Sunday,NE,SEA,(:06) 10-D.Maye kneels to NE 28 for -1 yards.,qb_kneel,-1.0,0.0
+2025_22_SEA_NE,22,2026-02-08,Sunday,,,END QUARTER 2,,,
+2025_22_SEA_NE,22,2026-02-08,Sunday,NE,SEA,5-J.Myers kicks 55 yards from SEA 35 to NE 10. 34-D.Johnson to NE 32 for 22 yards (38-B.Russell; 19-J.Bobo).,kickoff,0.0,0.0
+2025_22_SEA_NE,22,2026-02-08,Sunday,NE,SEA,(14:54) (Shotgun) 10-D.Maye pass incomplete deep left to 3-D.Douglas.,pass,0.0,0.0
+2025_22_SEA_NE,22,2026-02-08,Sunday,NE,SEA,(14:49) (Shotgun) 32-T.Henderson left end ran ob at NE 39 for 7 yards (8-C.Bryant).,run,7.0,0.0
+2025_22_SEA_NE,22,2026-02-08,Sunday,NE,SEA,(14:13) (Shotgun) 10-D.Maye pass incomplete short left to 9-K.Boutte (29-J.Jobe).,pass,0.0,0.0
+2025_22_SEA_NE,22,2026-02-08,Sunday,NE,SEA,"(14:08) 17-B.Baringer punts 52 yards to SEA 9, Center-47-J.Ashby, fair catch by 22-R.Shaheed.",punt,0.0,0.0
+2025_22_SEA_NE,22,2026-02-08,Sunday,SEA,NE,(14:02) 9-K.Walker right end to SEA 11 for 2 yards (51-J.Gibbens).,run,2.0,0.0
+2025_22_SEA_NE,22,2026-02-08,Sunday,SEA,NE,(13:21) (Shotgun) 14-S.Darnold pass short middle to 22-R.Shaheed to SEA 27 for 16 yards (7-C.Davis) [53-C.Elliss].,pass,16.0,0.0
+2025_22_SEA_NE,22,2026-02-08,Sunday,SEA,NE,(12:37) (Shotgun) 14-S.Darnold pass short middle to 11-J.Smith-Njigba to SEA 43 for 16 yards (21-J.Hawkins).,pass,16.0,0.0
+2025_22_SEA_NE,22,2026-02-08,Sunday,SEA,NE,(12:11) (No Huddle) 14-S.Darnold scrambles right tackle to NE 46 for 11 yards (14-R.Spillane).,run,11.0,0.0
+2025_22_SEA_NE,22,2026-02-08,Sunday,SEA,NE,(11:30) 9-K.Walker right tackle to NE 43 for 3 yards (31-C.Woodson; 14-R.Spillane).,run,3.0,0.0
+2025_22_SEA_NE,22,2026-02-08,Sunday,SEA,NE,(10:47) (Shotgun) 14-S.Darnold pass short right to 9-K.Walker pushed ob at NE 23 for 20 yards (25-M.Jones).,pass,20.0,0.0
+2025_22_SEA_NE,22,2026-02-08,Sunday,SEA,NE,(10:05) 9-K.Walker right end pushed ob at NE 22 for 1 yard (31-C.Woodson).,run,1.0,0.0
+2025_22_SEA_NE,22,2026-02-08,Sunday,,,Timeout #1 by SEA at 09:23.,no_play,0.0,0.0
+2025_22_SEA_NE,22,2026-02-08,Sunday,SEA,NE,(9:23) (Shotgun) 14-S.Darnold pass incomplete short right to 10-C.Kupp.,pass,0.0,0.0
+2025_22_SEA_NE,22,2026-02-08,Sunday,SEA,NE,(9:20) (Shotgun) 14-S.Darnold pass incomplete short right to 10-C.Kupp.,pass,0.0,0.0
+2025_22_SEA_NE,22,2026-02-08,Sunday,SEA,NE,"(9:17) 5-J.Myers 41 yard field goal is GOOD, Center-41-C.Stoll, Holder-4-M.Dickson.",field_goal,0.0,0.0
+2025_22_SEA_NE,22,2026-02-08,Sunday,NE,SEA,5-J.Myers kicks 61 yards from SEA 35 to NE 4. 34-D.Johnson to NE 32 for 28 yards (48-T.Knight).,kickoff,0.0,0.0
+2025_22_SEA_NE,22,2026-02-08,Sunday,NE,SEA,(9:07) 32-T.Henderson left end to NE 41 for 9 yards (8-C.Bryant; 20-J.Love).,run,9.0,0.0
+2025_22_SEA_NE,22,2026-02-08,Sunday,NE,SEA,(8:30) 32-T.Henderson up the middle to NE 41 for no gain (42-D.Thomas; 0-D.Lawrence).,run,0.0,0.0
+2025_22_SEA_NE,22,2026-02-08,Sunday,NE,SEA,(7:46) (Shotgun) 10-D.Maye pass incomplete deep left to 3-D.Douglas.,pass,0.0,0.0
+2025_22_SEA_NE,22,2026-02-08,Sunday,NE,SEA,"(7:41) 17-B.Baringer punts 41 yards to SEA 18, Center-47-J.Ashby, fair catch by 22-R.Shaheed.",punt,0.0,0.0
+2025_22_SEA_NE,22,2026-02-08,Sunday,SEA,NE,(7:34) 14-S.Darnold sacked at SEA 10 for -8 yards (97-M.Williams).,pass,-8.0,0.0
+2025_22_SEA_NE,22,2026-02-08,Sunday,SEA,NE,(6:50) (Shotgun) 14-S.Darnold pass short left to 11-J.Smith-Njigba to SEA 14 for 4 yards (25-M.Jones).,pass,4.0,0.0
+2025_22_SEA_NE,22,2026-02-08,Sunday,SEA,NE,(6:06) (Shotgun) 9-K.Walker right guard to SEA 20 for 6 yards (48-J.Tavai; 53-C.Elliss).,run,6.0,0.0
+2025_22_SEA_NE,22,2026-02-08,Sunday,SEA,NE,"(5:24) 4-M.Dickson punts 47 yards to NE 33, Center-41-C.Stoll. 25-M.Jones pushed ob at SEA 48 for 19 yards (4-M.Dickson). ** Injury Update: SEA-48-T.Knight has returned to the game. PENALTY on NE-24-D.Pettus, Illegal Block Above the Waist, 10 yards, enforced at NE 37.",punt,0.0,0.0
+2025_22_SEA_NE,22,2026-02-08,Sunday,NE,SEA,(5:10) (Shotgun) 10-D.Maye sacked at NE 25 for -2 yards (91-B.Murphy).,pass,-2.0,0.0
+2025_22_SEA_NE,22,2026-02-08,Sunday,NE,SEA,(4:30) (Shotgun) 10-D.Maye pass short right to 13-M.Hollins to NE 33 for 8 yards (13-E.Jones).,pass,8.0,0.0
+2025_22_SEA_NE,22,2026-02-08,Sunday,NE,SEA,(3:49) (Shotgun) 10-D.Maye pass incomplete short middle to 9-K.Boutte.,pass,0.0,0.0
+2025_22_SEA_NE,22,2026-02-08,Sunday,NE,SEA,"(3:45) 17-B.Baringer punts 46 yards to SEA 21, Center-47-J.Ashby, fair catch by 22-R.Shaheed.",punt,0.0,0.0
+2025_22_SEA_NE,22,2026-02-08,Sunday,SEA,NE,"(3:38) 9-K.Walker up the middle to SEA 19 for -2 yards (33-A.Jennings, 93-L.Taylor).",run,-2.0,0.0
+2025_22_SEA_NE,22,2026-02-08,Sunday,SEA,NE,(2:53) (Shotgun) 14-S.Darnold pass incomplete short middle to 10-C.Kupp (0-C.Gonzalez).,pass,0.0,0.0
+2025_22_SEA_NE,22,2026-02-08,Sunday,SEA,NE,(2:48) (Shotgun) 14-S.Darnold pass short middle to 10-C.Kupp to SEA 27 for 8 yards (21-J.Hawkins).,pass,8.0,0.0
+2025_22_SEA_NE,22,2026-02-08,Sunday,SEA,NE,"(2:08) 4-M.Dickson punts 46 yards to NE 27, Center-41-C.Stoll, downed by SEA-28-N.Pritchett.",punt,0.0,0.0
+2025_22_SEA_NE,22,2026-02-08,Sunday,NE,SEA,(1:55) (Shotgun) 32-T.Henderson up the middle to NE 30 for 3 yards (0-D.Lawrence).,run,3.0,0.0
+2025_22_SEA_NE,22,2026-02-08,Sunday,NE,SEA,"(1:23) (Shotgun) 10-D.Maye scrambles right tackle pushed ob at NE 35 for 5 yards (13-E.Jones). PENALTY on SEA-21-D.Witherspoon, Defensive Holding, 5 yards, enforced at NE 35.",run,5.0,0.0
+2025_22_SEA_NE,22,2026-02-08,Sunday,NE,SEA,(:58) 10-D.Maye pass incomplete short right to 85-H.Henry (0-D.Lawrence) [0-D.Lawrence].,pass,0.0,0.0
+2025_22_SEA_NE,22,2026-02-08,Sunday,NE,SEA,(:52) (Shotgun) 10-D.Maye pass short right to 32-T.Henderson pushed ob at NE 44 for 4 yards (3-N.Emmanwori).,pass,4.0,0.0
+2025_22_SEA_NE,22,2026-02-08,Sunday,NE,SEA,"(:16) (Shotgun) 10-D.Maye sacked at NE 37 for -7 yards (58-D.Hall). FUMBLES (58-D.Hall) [58-D.Hall], RECOVERED by SEA-91-B.Murphy at NE 37.",pass,-7.0,0.0
+2025_22_SEA_NE,22,2026-02-08,Sunday,SEA,NE,(:10) 14-S.Darnold pass short right to 88-A.Barner to NE 26 for 11 yards (33-A.Jennings).,pass,11.0,0.0
+2025_22_SEA_NE,22,2026-02-08,Sunday,SEA,NE,END QUARTER 3,,,
+2025_22_SEA_NE,22,2026-02-08,Sunday,SEA,NE,(15:00) 9-K.Walker right tackle to NE 25 for 1 yard (51-J.Gibbens).,run,1.0,0.0
+2025_22_SEA_NE,22,2026-02-08,Sunday,SEA,NE,(14:20) 14-S.Darnold pass incomplete deep right to 10-C.Kupp (31-C.Woodson).,pass,0.0,0.0
+2025_22_SEA_NE,22,2026-02-08,Sunday,SEA,NE,(14:14) (Shotgun) 14-S.Darnold pass short left to 10-C.Kupp to NE 16 for 9 yards (0-C.Gonzalez).,pass,9.0,0.0
+2025_22_SEA_NE,22,2026-02-08,Sunday,SEA,NE,"(13:29) 14-S.Darnold pass deep right to 88-A.Barner for 16 yards, TOUCHDOWN.",pass,16.0,1.0
+2025_22_SEA_NE,22,2026-02-08,Sunday,SEA,NE,"5-J.Myers extra point is GOOD, Center-41-C.Stoll, Holder-4-M.Dickson.",extra_point,0.0,0.0
+2025_22_SEA_NE,22,2026-02-08,Sunday,NE,SEA,"5-J.Myers kicks 65 yards from SEA 35 to end zone, Touchback to the NE 35.",kickoff,0.0,0.0
+2025_22_SEA_NE,22,2026-02-08,Sunday,NE,SEA,(13:24) (Shotgun) 10-D.Maye scrambles right end ran ob at NE 41 for 6 yards (42-D.Thomas).,run,6.0,0.0
+2025_22_SEA_NE,22,2026-02-08,Sunday,NE,SEA,(12:56) (Shotgun) 10-D.Maye pass deep middle to 13-M.Hollins to SEA 35 for 24 yards (27-T.Woolen) [53-B.Mafe].,pass,24.0,0.0
+2025_22_SEA_NE,22,2026-02-08,Sunday,NE,SEA,"(12:33) (No Huddle, Shotgun) 10-D.Maye pass deep left to 13-M.Hollins for 35 yards, TOUCHDOWN.",pass,35.0,1.0
+2025_22_SEA_NE,22,2026-02-08,Sunday,NE,SEA,"36-A.Borregales extra point is GOOD, Center-47-J.Ashby, Holder-17-B.Baringer.",extra_point,0.0,0.0
+2025_22_SEA_NE,22,2026-02-08,Sunday,SEA,NE,36-A.Borregales kicks 54 yards from NE 35 to SEA 11. 22-R.Shaheed to SEA 31 for 20 yards (49-C.Muma).,kickoff,0.0,0.0
+2025_22_SEA_NE,22,2026-02-08,Sunday,SEA,NE,(12:22) 14-S.Darnold pass short right to 22-R.Shaheed pushed ob at SEA 42 for 11 yards (0-C.Gonzalez).,pass,11.0,0.0
+2025_22_SEA_NE,22,2026-02-08,Sunday,SEA,NE,(11:41) 9-K.Walker up the middle to SEA 41 for -1 yards (44-K.Chaisson). ** Injury Update: SEA-11-J.Smith-Njigba has returned to the game.,run,-1.0,0.0
+2025_22_SEA_NE,22,2026-02-08,Sunday,SEA,NE,(11:04) (Shotgun) 14-S.Darnold pass incomplete short right.,pass,0.0,0.0
+2025_22_SEA_NE,22,2026-02-08,Sunday,SEA,NE,(11:00) (Shotgun) 14-S.Darnold pass incomplete deep right to 22-R.Shaheed.,pass,0.0,0.0
+2025_22_SEA_NE,22,2026-02-08,Sunday,SEA,NE,"(10:55) 4-M.Dickson punts 55 yards to NE 4, Center-41-C.Stoll, downed by SEA-32-V.Jones.",punt,0.0,0.0
+2025_22_SEA_NE,22,2026-02-08,Sunday,NE,SEA,(10:40) (Shotgun) 10-D.Maye pass incomplete deep left to 81-A.Hooper.,pass,0.0,0.0
+2025_22_SEA_NE,22,2026-02-08,Sunday,NE,SEA,(10:35) (Shotgun) 10-D.Maye pass short left to 38-R.Stevenson ran ob at NE 17 for 13 yards (29-J.Jobe).,pass,13.0,0.0
+2025_22_SEA_NE,22,2026-02-08,Sunday,NE,SEA,"(10:11) (No Huddle, Shotgun) 10-D.Maye pass incomplete deep left to 13-M.Hollins (8-C.Bryant).",pass,0.0,0.0
+2025_22_SEA_NE,22,2026-02-08,Sunday,NE,SEA,(10:02) (Shotgun) 10-D.Maye pass short left to 85-H.Henry to NE 21 for 4 yards (3-N.Emmanwori).,pass,4.0,0.0
+2025_22_SEA_NE,22,2026-02-08,Sunday,NE,SEA,"(9:35) (No Huddle, Shotgun) 10-D.Maye scrambles up the middle to NE 37 for 16 yards (27-T.Woolen).",run,16.0,0.0
+2025_22_SEA_NE,22,2026-02-08,Sunday,NE,SEA,"(9:07) (No Huddle, Shotgun) 10-D.Maye pass short left to 18-K.Williams ran ob at NE 44 for 7 yards (29-J.Jobe).",pass,7.0,0.0
+2025_22_SEA_NE,22,2026-02-08,Sunday,NE,SEA,"(8:49) (No Huddle, Shotgun) 10-D.Maye pass deep middle intended for 18-K.Williams INTERCEPTED by 20-J.Love at SEA 27. 20-J.Love pushed ob at NE 38 for 35 yards (32-T.Henderson).",pass,0.0,0.0
+2025_22_SEA_NE,22,2026-02-08,Sunday,SEA,NE,(8:37) 9-K.Walker right end pushed ob at NE 24 for 14 yards (21-J.Hawkins).,run,14.0,0.0
+2025_22_SEA_NE,22,2026-02-08,Sunday,SEA,NE,(7:59) 9-K.Walker right guard to NE 14 for 10 yards (31-C.Woodson; 21-J.Hawkins).,run,10.0,0.0
+2025_22_SEA_NE,22,2026-02-08,Sunday,SEA,NE,(7:11) 9-K.Walker right end to NE 12 for 2 yards (2-H.Landry).,run,2.0,0.0
+2025_22_SEA_NE,22,2026-02-08,Sunday,SEA,NE,(6:28) 9-K.Walker right end to NE 11 for 1 yard (7-C.Davis).,run,1.0,0.0
+2025_22_SEA_NE,22,2026-02-08,Sunday,SEA,NE,(5:43) (Shotgun) 14-S.Darnold pass short left to 11-J.Smith-Njigba to NE 8 for 3 yards (25-M.Jones).,pass,3.0,0.0
+2025_22_SEA_NE,22,2026-02-08,Sunday,,,Timeout #1 by NE at 05:38.,no_play,0.0,0.0
+2025_22_SEA_NE,22,2026-02-08,Sunday,SEA,NE,"(5:38) 5-J.Myers 26 yard field goal is GOOD, Center-41-C.Stoll, Holder-4-M.Dickson.",field_goal,0.0,0.0
+2025_22_SEA_NE,22,2026-02-08,Sunday,NE,SEA,5-J.Myers kicks 65 yards from SEA 35 to NE 0. 32-T.Henderson ran ob at NE 38 for 38 yards (5-J.Myers).,kickoff,0.0,0.0
+2025_22_SEA_NE,22,2026-02-08,Sunday,NE,SEA,(5:29) (Shotgun) 10-D.Maye sacked at NE 34 for -4 yards (91-B.Murphy).,pass,-4.0,0.0
+2025_22_SEA_NE,22,2026-02-08,Sunday,NE,SEA,"(5:04) (No Huddle, Shotgun) 10-D.Maye pass short right to 38-R.Stevenson ran ob at NE 40 for 6 yards (3-N.Emmanwori; 29-J.Jobe).",pass,6.0,0.0
+2025_22_SEA_NE,22,2026-02-08,Sunday,NE,SEA,(4:57) (Shotgun) 10-D.Maye pass short middle to 85-H.Henry to SEA 44 for 16 yards (13-E.Jones).,pass,16.0,0.0
+2025_22_SEA_NE,22,2026-02-08,Sunday,NE,SEA,"(4:37) (No Huddle, Shotgun) 10-D.Maye pass short middle intended for 9-K.Boutte INTERCEPTED by 7-U.Nwosu (21-D.Witherspoon) [21-D.Witherspoon] at NE 45. 7-U.Nwosu for 45 yards, TOUCHDOWN.",pass,0.0,1.0
+2025_22_SEA_NE,22,2026-02-08,Sunday,SEA,NE,"5-J.Myers extra point is GOOD, Center-41-C.Stoll, Holder-4-M.Dickson.",extra_point,0.0,0.0
+2025_22_SEA_NE,22,2026-02-08,Sunday,NE,SEA,"5-J.Myers kicks 65 yards from SEA 35 to end zone, Touchback to the NE 35.",kickoff,0.0,0.0
+2025_22_SEA_NE,22,2026-02-08,Sunday,NE,SEA,(4:27) (Shotgun) 10-D.Maye pass short middle to 3-D.Douglas to NE 46 for 11 yards (13-E.Jones).,pass,11.0,0.0
+2025_22_SEA_NE,22,2026-02-08,Sunday,NE,SEA,"(4:08) (No Huddle, Shotgun) 10-D.Maye pass short middle to 3-D.Douglas to SEA 46 for 8 yards (53-B.Mafe).",pass,8.0,0.0
+2025_22_SEA_NE,22,2026-02-08,Sunday,NE,SEA,"(3:48) (No Huddle, Shotgun) 10-D.Maye pass short left to 81-A.Hooper pushed ob at SEA 41 for 5 yards (21-D.Witherspoon).",pass,5.0,0.0
+2025_22_SEA_NE,22,2026-02-08,Sunday,NE,SEA,"(3:42) (No Huddle, Shotgun) 10-D.Maye scrambles left guard to SEA 37 for 4 yards (3-N.Emmanwori). PENALTY on NE-65-G.Bradbury, Offensive Holding, 10 yards, enforced at SEA 41 - No Play.",no_play,0.0,0.0
+2025_22_SEA_NE,22,2026-02-08,Sunday,NE,SEA,(3:36) (Shotgun) 10-D.Maye pass short right to 38-R.Stevenson pushed ob at SEA 44 for 7 yards (21-D.Witherspoon).,pass,7.0,0.0
+2025_22_SEA_NE,22,2026-02-08,Sunday,NE,SEA,"(3:28) (No Huddle, Shotgun) 10-D.Maye pass short middle to 85-H.Henry to SEA 33 for 11 yards (21-D.Witherspoon).",pass,11.0,0.0
+2025_22_SEA_NE,22,2026-02-08,Sunday,NE,SEA,"(2:58) (No Huddle, Shotgun) 10-D.Maye pass deep middle to 8-S.Diggs to SEA 7 for 26 yards (8-C.Bryant).",pass,26.0,0.0
+2025_22_SEA_NE,22,2026-02-08,Sunday,,,Timeout #2 by SEA at 02:32.,no_play,0.0,0.0
+2025_22_SEA_NE,22,2026-02-08,Sunday,NE,SEA,(2:32) (Shotgun) 10-D.Maye pass incomplete short left to 13-M.Hollins.,pass,0.0,0.0
+2025_22_SEA_NE,22,2026-02-08,Sunday,NE,SEA,"(2:28) (Shotgun) 10-D.Maye pass short left to 38-R.Stevenson for 7 yards, TOUCHDOWN.",pass,7.0,1.0
+2025_22_SEA_NE,22,2026-02-08,Sunday,NE,SEA,TWO-POINT CONVERSION ATTEMPT. 10-D.Maye pass to 85-H.Henry is incomplete. ATTEMPT FAILS. SEA-8-C.Bryant was injured during the play.,pass,0.0,0.0
+2025_22_SEA_NE,22,2026-02-08,Sunday,,,Timeout #3 by SEA at 02:21.,no_play,0.0,0.0
+2025_22_SEA_NE,22,2026-02-08,Sunday,SEA,NE,36-A.Borregales kicks onside 11 yards from NE 35 to NE 46. 36-G.Holani (didn't try to advance) to NE 46 for no gain.,kickoff,0.0,0.0
+2025_22_SEA_NE,22,2026-02-08,Sunday,SEA,NE,(2:20) 9-K.Walker right end to NE 43 for 3 yards (33-A.Jennings).,run,3.0,0.0
+2025_22_SEA_NE,22,2026-02-08,Sunday,,,Timeout #2 by NE at 02:14.,no_play,0.0,0.0
+2025_22_SEA_NE,22,2026-02-08,Sunday,SEA,NE,(2:14) 55-O.Oluwatimi and 74-J.Jones reported in as eligible. 14-S.Darnold right tackle to NE 49 for -6 yards (97-M.Williams).,run,-6.0,0.0
+2025_22_SEA_NE,22,2026-02-08,Sunday,,,Timeout #3 by NE at 02:10.,no_play,0.0,0.0
+2025_22_SEA_NE,22,2026-02-08,Sunday,SEA,NE,"(2:10) 55-O.Oluwatimi and 74-J.Jones reported in as eligible. 9-K.Walker up the middle for 49 yards, TOUCHDOWN NULLIFIED by Penalty. PENALTY on SEA-61-J.Sundell, Offensive Holding, 10 yards, enforced at NE 49 - No Play.",no_play,0.0,0.0
+2025_22_SEA_NE,22,2026-02-08,Sunday,SEA,NE,(2:01) 55-O.Oluwatimi and 74-J.Jones reported in as eligible. 9-K.Walker right guard to SEA 42 for 1 yard (33-A.Jennings; 95-K.Tonga).,run,1.0,0.0
+2025_22_SEA_NE,22,2026-02-08,Sunday,SEA,NE,"(1:57) 4-M.Dickson punts 52 yards to NE 6, Center-41-C.Stoll, out of bounds.",punt,0.0,0.0
+2025_22_SEA_NE,22,2026-02-08,Sunday,NE,SEA,(1:49) (Shotgun) 10-D.Maye pass short middle to 8-S.Diggs to NE 12 for 6 yards (13-E.Jones). ** Injury Update: SEA-8-C.Bryant has returned to the game.,pass,6.0,0.0
+2025_22_SEA_NE,22,2026-02-08,Sunday,NE,SEA,"(1:30) (No Huddle, Shotgun) 10-D.Maye pass short left to 81-A.Hooper to NE 17 for 5 yards (3-N.Emmanwori).",pass,5.0,0.0
+2025_22_SEA_NE,22,2026-02-08,Sunday,NE,SEA,"(1:12) (No Huddle, Shotgun) 10-D.Maye pass short left to 13-M.Hollins to NE 28 for 11 yards (27-T.Woolen).",pass,11.0,0.0
+2025_22_SEA_NE,22,2026-02-08,Sunday,NE,SEA,"(:53) (No Huddle, Shotgun) 10-D.Maye sacked at NE 27 for -1 yards (99-L.Williams). PENALTY on SEA-7-U.Nwosu, Defensive Offside, 5 yards, enforced at NE 28 - No Play.",no_play,0.0,0.0
+2025_22_SEA_NE,22,2026-02-08,Sunday,NE,SEA,"(:47) (No Huddle, Shotgun) 10-D.Maye pass incomplete deep right [53-B.Mafe]. PENALTY on SEA-27-T.Woolen, Illegal Use of Hands, 5 yards, enforced at NE 33 - No Play.",no_play,0.0,0.0
+2025_22_SEA_NE,22,2026-02-08,Sunday,NE,SEA,"(:39) (No Huddle, Shotgun) 10-D.Maye pass short middle to 3-D.Douglas to NE 47 for 9 yards (13-E.Jones).",pass,9.0,0.0
+2025_22_SEA_NE,22,2026-02-08,Sunday,NE,SEA,"(:20) (No Huddle, Shotgun) 10-D.Maye pass incomplete deep right to 9-K.Boutte.",pass,0.0,0.0
+2025_22_SEA_NE,22,2026-02-08,Sunday,NE,SEA,"(:12) (No Huddle, Shotgun) 10-D.Maye pass short right to 32-T.Henderson to SEA 29 for 24 yards (20-J.Love).",pass,24.0,0.0
+2025_22_SEA_NE,22,2026-02-08,Sunday,NE,SEA,END GAME,,,
