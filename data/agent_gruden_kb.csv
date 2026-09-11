@@ -165,3 +165,160 @@ game_id,week,game_date,day_of_week,posteam,defteam,desc,play_type,yards_gained,t
 2026_01_NE_SEA,1,2026-09-09,Wednesday,NE,SEA,(:26) (Shotgun) 10-D.Maye pass deep right intended for 13-M.Hollins INTERCEPTED by 29-J.Jobe [0-D.Lawrence] at SEA -3. Touchback.,pass,0.0,0.0
 2026_01_NE_SEA,1,2026-09-09,Wednesday,SEA,NE,(:21) 2-D.Lock kneels to SEA 19 for -1 yards.,qb_kneel,-1.0,0.0
 2026_01_NE_SEA,1,2026-09-09,Wednesday,SEA,NE,END GAME,,,
+2026_01_SF_LA,1,2026-09-10,Thursday,,,GAME,,,
+2026_01_SF_LA,1,2026-09-10,Thursday,LA,SF,18-E.Pineiro kicks 65 yards from SF 35 to LA 0. 88-J.Whittington to LA 17 for 17 yards (6-M.Mustapha).,kickoff,0.0,0.0
+2026_01_SF_LA,1,2026-09-10,Thursday,LA,SF,(14:54) (Shotgun) 9-M.Stafford pass incomplete short left to 12-P.Nacua (54-F.Warner) [97-N.Bosa].,pass,0.0,0.0
+2026_01_SF_LA,1,2026-09-10,Thursday,LA,SF,(14:50) (Shotgun) 23-K.Williams left guard to LA 22 for 5 yards (54-F.Warner).,run,5.0,0.0
+2026_01_SF_LA,1,2026-09-10,Thursday,LA,SF,(14:17) (Shotgun) 9-M.Stafford pass short left to 12-P.Nacua to LA 26 for 4 yards (2-D.Lenoir).,pass,4.0,0.0
+2026_01_SF_LA,1,2026-09-10,Thursday,LA,SF,"(13:38) 42-E.Evans punts 54 yards to SF 20, Center-49-J.Cardona. 4-J.Cowing ran ob at SF 33 for 13 yards (5-K.Kinchens).",punt,0.0,0.0
+2026_01_SF_LA,1,2026-09-10,Thursday,SF,LA,(13:28) 23-C.McCaffrey up the middle to SF 39 for 6 yards (53-N.Landman).,run,6.0,0.0
+2026_01_SF_LA,1,2026-09-10,Thursday,SF,LA,(12:59) (Shotgun) 13-B.Purdy pass incomplete short left to 85-G.Kittle (37-Q.Lake).,pass,0.0,0.0
+2026_01_SF_LA,1,2026-09-10,Thursday,SF,LA,(12:53) (Shotgun) 13-B.Purdy pass short left to 5-M.Evans to SF 46 for 7 yards (37-Q.Lake).,pass,7.0,0.0
+2026_01_SF_LA,1,2026-09-10,Thursday,SF,LA,(12:19) (Shotgun) 13-B.Purdy pass short left to 85-G.Kittle to LA 48 for 6 yards (35-J.Watson).,pass,6.0,0.0
+2026_01_SF_LA,1,2026-09-10,Thursday,SF,LA,(11:40) 13-B.Purdy pass short right to 19-D.Samuel pushed ob at LA 39 for 9 yards (22-T.McDuffie).,pass,9.0,0.0
+2026_01_SF_LA,1,2026-09-10,Thursday,SF,LA,(11:07) 26-K.Black left guard to LA 38 for 1 yard (91-K.Turner; 48-O.Speights).,run,1.0,0.0
+2026_01_SF_LA,1,2026-09-10,Thursday,SF,LA,(10:30) 13-B.Purdy pass short left to 26-K.Black to LA 33 for 5 yards (3-K.Curl; 5-K.Kinchens) [10-J.Stewart].,pass,5.0,0.0
+2026_01_SF_LA,1,2026-09-10,Thursday,SF,LA,(9:48) (Shotgun) 13-B.Purdy pass short right to 5-M.Evans to LA 26 for 7 yards (35-J.Watson; 2-J.McCollough).,pass,7.0,0.0
+2026_01_SF_LA,1,2026-09-10,Thursday,SF,LA,(9:07) (Shotgun) 13-B.Purdy pass incomplete deep right to 85-G.Kittle (22-T.McDuffie).,pass,0.0,0.0
+2026_01_SF_LA,1,2026-09-10,Thursday,SF,LA,(9:01) 13-B.Purdy pass short right to 23-C.McCaffrey to LA 18 for 8 yards (3-K.Curl).,pass,8.0,0.0
+2026_01_SF_LA,1,2026-09-10,Thursday,SF,LA,(8:19) (Shotgun) 13-B.Purdy pass short left to 5-M.Evans to LA 10 for 8 yards (37-Q.Lake).,pass,8.0,0.0
+2026_01_SF_LA,1,2026-09-10,Thursday,SF,LA,(7:44) 13-B.Purdy pass short right to 19-D.Samuel to LA 8 for 2 yards (22-T.McDuffie).,pass,2.0,0.0
+2026_01_SF_LA,1,2026-09-10,Thursday,SF,LA,(7:04) 13-B.Purdy pass short right to 85-G.Kittle to LA 2 for 6 yards (90-T.Davis; 5-K.Kinchens).,pass,6.0,0.0
+2026_01_SF_LA,1,2026-09-10,Thursday,SF,LA,(6:22) (Shotgun) 13-B.Purdy pass incomplete short right to 11-D.Robinson (22-T.McDuffie) [53-N.Landman].,pass,0.0,0.0
+2026_01_SF_LA,1,2026-09-10,Thursday,SF,LA,"(6:17) 18-E.Pineiro 20 yard field goal is GOOD, Center-46-J.Weeks, Holder-15-C.Waitman.",field_goal,0.0,0.0
+2026_01_SF_LA,1,2026-09-10,Thursday,LA,SF,18-E.Pineiro kicks 65 yards from SF 35 to LA 0. 19-X.Smith to LA 25 for 25 yards (24-A.Davis; 86-K.Hodge).,kickoff,0.0,0.0
+2026_01_SF_LA,1,2026-09-10,Thursday,LA,SF,(6:10) 24-B.Corum up the middle to LA 34 for 9 yards (36-M.Sigle).,run,9.0,0.0
+2026_01_SF_LA,1,2026-09-10,Thursday,LA,SF,(5:32) 24-B.Corum up the middle to LA 33 for -1 yards (97-N.Bosa).,run,-1.0,0.0
+2026_01_SF_LA,1,2026-09-10,Thursday,LA,SF,(4:59) 23-K.Williams up the middle to LA 36 for 3 yards (54-F.Warner; 92-O.Odighizuwa).,run,3.0,0.0
+2026_01_SF_LA,1,2026-09-10,Thursday,LA,SF,(4:18) 9-M.Stafford pass incomplete deep left to 12-P.Nacua [92-O.Odighizuwa].,pass,0.0,0.0
+2026_01_SF_LA,1,2026-09-10,Thursday,LA,SF,(4:13) (Shotgun) 9-M.Stafford pass short left to 23-K.Williams to LA 40 for 4 yards (57-D.Greenlaw) [99-C.West].,pass,4.0,0.0
+2026_01_SF_LA,1,2026-09-10,Thursday,LA,SF,(3:29) (Shotgun) 9-M.Stafford pass incomplete deep right to 17-D.Adams [92-O.Odighizuwa].,pass,0.0,0.0
+2026_01_SF_LA,1,2026-09-10,Thursday,LA,SF,"(3:25) 42-E.Evans punts 43 yards to SF 17, Center-49-J.Cardona, fair catch by 4-J.Cowing.",punt,0.0,0.0
+2026_01_SF_LA,1,2026-09-10,Thursday,SF,LA,(3:18) 13-B.Purdy pass short left to 89-L.Farrell to SF 22 for 5 yards (37-Q.Lake).,pass,5.0,0.0
+2026_01_SF_LA,1,2026-09-10,Thursday,SF,LA,(2:47) 26-K.Black left guard to SF 25 for 3 yards (53-N.Landman).,run,3.0,0.0
+2026_01_SF_LA,1,2026-09-10,Thursday,SF,LA,(2:06) (Shotgun) 13-B.Purdy pass incomplete short left to 23-C.McCaffrey (48-O.Speights).,pass,0.0,0.0
+2026_01_SF_LA,1,2026-09-10,Thursday,SF,LA,"(2:01) 15-C.Waitman punts 43 yards to LA 32, Center-46-J.Weeks. 19-X.Smith to LA 43 for 11 yards (53-J.Dugger; 24-A.Davis).",punt,0.0,0.0
+2026_01_SF_LA,1,2026-09-10,Thursday,LA,SF,(1:52) 23-K.Williams up the middle to SF 49 for 8 yards (36-M.Sigle; 96-J.Thompson).,run,8.0,0.0
+2026_01_SF_LA,1,2026-09-10,Thursday,LA,SF,"(1:31) (No Huddle, Shotgun) 9-M.Stafford pass deep right to 12-P.Nacua to SF 8 for 41 yards (36-M.Sigle; 0-R.Green).",pass,41.0,0.0
+2026_01_SF_LA,1,2026-09-10,Thursday,LA,SF,(:41) 23-K.Williams up the middle to SF 5 for 3 yards (97-N.Bosa).,run,3.0,0.0
+2026_01_SF_LA,1,2026-09-10,Thursday,LA,SF,END QUARTER 1,,,
+2026_01_SF_LA,1,2026-09-10,Thursday,LA,SF,"(15:00) 23-K.Williams up the middle for 5 yards, TOUCHDOWN.",run,5.0,1.0
+2026_01_SF_LA,1,2026-09-10,Thursday,LA,SF,"92-H.Mevis extra point is GOOD, Center-49-J.Cardona, Holder-42-E.Evans.",extra_point,0.0,0.0
+2026_01_SF_LA,1,2026-09-10,Thursday,SF,LA,92-H.Mevis kicks 63 yards from LA 35 to SF 2. 19-D.Samuel to SF 31 for 29 yards (56-S.Dolac; 10-J.Stewart).,kickoff,0.0,0.0
+2026_01_SF_LA,1,2026-09-10,Thursday,SF,LA,(14:51) (Shotgun) 13-B.Purdy pass incomplete short left to 19-D.Samuel. ** Injury Update: SF-7-D.Stribling has returned to the game.,pass,0.0,0.0
+2026_01_SF_LA,1,2026-09-10,Thursday,SF,LA,(14:47) (Shotgun) 13-B.Purdy pass short middle to 5-M.Evans to SF 43 for 12 yards (35-J.Watson).,pass,12.0,0.0
+2026_01_SF_LA,1,2026-09-10,Thursday,SF,LA,(14:14) 23-C.McCaffrey right end to SF 47 for 4 yards (56-S.Dolac).,run,4.0,0.0
+2026_01_SF_LA,1,2026-09-10,Thursday,SF,LA,(13:37) 13-B.Purdy pass short middle to 23-C.McCaffrey to LA 48 for 5 yards (0-B.Young; 91-K.Turner).,pass,5.0,0.0
+2026_01_SF_LA,1,2026-09-10,Thursday,,,Timeout #1 by SF at 12:46.,no_play,0.0,0.0
+2026_01_SF_LA,1,2026-09-10,Thursday,SF,LA,(12:46) 13-B.Purdy up the middle to LA 46 for 2 yards (56-S.Dolac).,run,2.0,0.0
+2026_01_SF_LA,1,2026-09-10,Thursday,SF,LA,(12:09) 13-B.Purdy pass short right intended for 85-G.Kittle INTERCEPTED by 37-Q.Lake at LA 31. 37-Q.Lake to LA 31 for no gain (85-G.Kittle).,pass,0.0,0.0
+2026_01_SF_LA,1,2026-09-10,Thursday,LA,SF,(12:04) 24-B.Corum right guard to LA 36 for 5 yards (36-M.Sigle; 54-F.Warner).,run,5.0,0.0
+2026_01_SF_LA,1,2026-09-10,Thursday,LA,SF,(11:28) 24-B.Corum left guard to LA 46 for 10 yards (36-M.Sigle).,run,10.0,0.0
+2026_01_SF_LA,1,2026-09-10,Thursday,LA,SF,(10:49) 24-B.Corum left tackle to SF 48 for 6 yards (53-J.Dugger).,run,6.0,0.0
+2026_01_SF_LA,1,2026-09-10,Thursday,LA,SF,(10:11) 24-B.Corum left tackle to SF 35 for 13 yards (36-M.Sigle).,run,13.0,0.0
+2026_01_SF_LA,1,2026-09-10,Thursday,LA,SF,(9:23) 23-K.Williams left guard to SF 35 for no gain (20-U.Stout).,run,0.0,0.0
+2026_01_SF_LA,1,2026-09-10,Thursday,LA,SF,"(9:02) (No Huddle, Shotgun) 9-M.Stafford pass incomplete short right [92-O.Odighizuwa].",pass,0.0,0.0
+2026_01_SF_LA,1,2026-09-10,Thursday,LA,SF,(8:58) (Shotgun) 9-M.Stafford pass deep right intended for 12-P.Nacua INTERCEPTED by 0-R.Green at SF 14. 0-R.Green to SF 14 for no gain (12-P.Nacua).,pass,0.0,0.0
+2026_01_SF_LA,1,2026-09-10,Thursday,SF,LA,(8:52) (Shotgun) 26-K.Black right tackle to SF 19 for 5 yards (90-T.Davis).,run,5.0,0.0
+2026_01_SF_LA,1,2026-09-10,Thursday,SF,LA,(8:14) 26-K.Black left end to SF 28 for 9 yards (90-T.Davis; 35-J.Watson).,run,9.0,0.0
+2026_01_SF_LA,1,2026-09-10,Thursday,SF,LA,(7:34) (Shotgun) 13-B.Purdy pass short middle to 64-J.Brendel to SF 30 for 2 yards (53-N.Landman). SF-7-D.Stribling was injured during the play.,pass,2.0,0.0
+2026_01_SF_LA,1,2026-09-10,Thursday,SF,LA,(7:01) (Shotgun) 13-B.Purdy pass incomplete short left to 23-C.McCaffrey (53-N.Landman).,pass,0.0,0.0
+2026_01_SF_LA,1,2026-09-10,Thursday,SF,LA,(6:55) (Shotgun) 13-B.Purdy pass short left to 5-M.Evans to SF 43 for 13 yards (22-T.McDuffie).,pass,13.0,0.0
+2026_01_SF_LA,1,2026-09-10,Thursday,SF,LA,(6:16) 26-K.Black left end pushed ob at LA 48 for 9 yards (2-J.McCollough).,run,9.0,0.0
+2026_01_SF_LA,1,2026-09-10,Thursday,SF,LA,(5:47) 26-K.Black up the middle to LA 43 for 5 yards (53-N.Landman).,run,5.0,0.0
+2026_01_SF_LA,1,2026-09-10,Thursday,SF,LA,(5:10) 26-K.Black up the middle to LA 39 for 4 yards (57-T.Hamilton; 48-O.Speights).,run,4.0,0.0
+2026_01_SF_LA,1,2026-09-10,Thursday,SF,LA,"(4:35) 13-B.Purdy pass deep middle to 11-D.Robinson for 39 yards, TOUCHDOWN.",pass,39.0,1.0
+2026_01_SF_LA,1,2026-09-10,Thursday,SF,LA,"18-E.Pineiro extra point is GOOD, Center-46-J.Weeks, Holder-15-C.Waitman.",extra_point,0.0,0.0
+2026_01_SF_LA,1,2026-09-10,Thursday,LA,SF,"18-E.Pineiro kicks 65 yards from SF 35 to end zone, Touchback to the LA 35.",kickoff,0.0,0.0
+2026_01_SF_LA,1,2026-09-10,Thursday,LA,SF,(4:28) 9-M.Stafford pass short left to 23-K.Williams to SF 49 for 16 yards (54-F.Warner).,pass,16.0,0.0
+2026_01_SF_LA,1,2026-09-10,Thursday,LA,SF,(3:48) 23-K.Williams up the middle to SF 42 for 7 yards (54-F.Warner).,run,7.0,0.0
+2026_01_SF_LA,1,2026-09-10,Thursday,LA,SF,"(3:10) (Shotgun) 9-M.Stafford pass incomplete short middle to 12-P.Nacua. PENALTY on LA-71-W.McClendon, Offensive Holding, 10 yards, enforced at SF 42 - No Play.",no_play,0.0,0.0
+2026_01_SF_LA,1,2026-09-10,Thursday,LA,SF,(3:05) (Shotgun) 9-M.Stafford pass incomplete short right to 84-C.Parkinson.,pass,0.0,0.0
+2026_01_SF_LA,1,2026-09-10,Thursday,LA,SF,(2:59) (Shotgun) 9-M.Stafford pass incomplete deep left to 17-D.Adams (25-J.Jones) [20-U.Stout].,pass,0.0,0.0
+2026_01_SF_LA,1,2026-09-10,Thursday,LA,SF,"(2:54) 42-E.Evans punts 48 yards to SF 4, Center-49-J.Cardona. 4-J.Cowing to SF 8 for 4 yards (2-J.McCollough).",punt,0.0,0.0
+2026_01_SF_LA,1,2026-09-10,Thursday,SF,LA,(2:43) (Shotgun) 19-D.Samuel right guard to SF 20 for 12 yards (37-Q.Lake; 2-J.McCollough). SF-88-J.Tonges was injured during the play.,run,12.0,0.0
+2026_01_SF_LA,1,2026-09-10,Thursday,SF,LA,(2:00) (Shotgun) 23-C.McCaffrey right guard to SF 27 for 7 yards (5-K.Kinchens; 90-T.Davis).,run,7.0,0.0
+2026_01_SF_LA,1,2026-09-10,Thursday,SF,LA,"(1:24) (Shotgun) 13-B.Purdy pass incomplete short middle to 19-D.Samuel. PENALTY on LA-90-T.Davis, Roughing the Passer, 15 yards, enforced at SF 27 - No Play.",no_play,0.0,0.0
+2026_01_SF_LA,1,2026-09-10,Thursday,SF,LA,(1:19) (Shotgun) 13-B.Purdy pass short right to 23-C.McCaffrey to SF 41 for -1 yards (22-T.McDuffie).,pass,-1.0,0.0
+2026_01_SF_LA,1,2026-09-10,Thursday,SF,LA,(:39) 13-B.Purdy pass short right to 23-C.McCaffrey to SF 49 for 8 yards (37-Q.Lake).,pass,8.0,0.0
+2026_01_SF_LA,1,2026-09-10,Thursday,,,Timeout #2 by SF at 00:32.,no_play,0.0,0.0
+2026_01_SF_LA,1,2026-09-10,Thursday,SF,LA,(:32) (Shotgun) 13-B.Purdy pass incomplete short left to 5-M.Evans.,pass,0.0,0.0
+2026_01_SF_LA,1,2026-09-10,Thursday,SF,LA,"(:28) 15-C.Waitman punts 51 yards to end zone, Center-46-J.Weeks, Touchback.",punt,0.0,0.0
+2026_01_SF_LA,1,2026-09-10,Thursday,LA,SF,(:20) 9-M.Stafford kneels to LA 19 for -1 yards.,qb_kneel,-1.0,0.0
+2026_01_SF_LA,1,2026-09-10,Thursday,,,END QUARTER 2,,,
+2026_01_SF_LA,1,2026-09-10,Thursday,SF,LA,92-H.Mevis kicks 61 yards from LA 35 to SF 4. 19-D.Samuel to SF 49 for 45 yards (5-K.Kinchens).,kickoff,0.0,0.0
+2026_01_SF_LA,1,2026-09-10,Thursday,SF,LA,(14:53) 23-C.McCaffrey right guard to LA 37 for 14 yards (5-K.Kinchens; 2-J.McCollough).,run,14.0,0.0
+2026_01_SF_LA,1,2026-09-10,Thursday,SF,LA,(14:20) 23-C.McCaffrey left guard to LA 21 for 16 yards (5-K.Kinchens; 37-Q.Lake).,run,16.0,0.0
+2026_01_SF_LA,1,2026-09-10,Thursday,SF,LA,(13:42) 26-K.Black up the middle to LA 17 for 4 yards (53-N.Landman).,run,4.0,0.0
+2026_01_SF_LA,1,2026-09-10,Thursday,SF,LA,(12:58) (Shotgun) 13-B.Purdy pass short right to 11-D.Robinson pushed ob at LA 6 for 11 yards (37-Q.Lake).,pass,11.0,0.0
+2026_01_SF_LA,1,2026-09-10,Thursday,SF,LA,(12:21) 23-C.McCaffrey right tackle to LA 5 for 1 yard (90-T.Davis).,run,1.0,0.0
+2026_01_SF_LA,1,2026-09-10,Thursday,,,Timeout #1 by SF at 11:44.,no_play,0.0,0.0
+2026_01_SF_LA,1,2026-09-10,Thursday,SF,LA,(11:44) (Shotgun) 13-B.Purdy pass short left to 19-D.Samuel to LA 2 for 3 yards (53-N.Landman; 37-Q.Lake).,pass,3.0,0.0
+2026_01_SF_LA,1,2026-09-10,Thursday,SF,LA,"(11:07) 13-B.Purdy pass short left to 5-M.Evans for 2 yards, TOUCHDOWN.",pass,2.0,1.0
+2026_01_SF_LA,1,2026-09-10,Thursday,SF,LA,"18-E.Pineiro extra point is GOOD, Center-46-J.Weeks, Holder-15-C.Waitman.",extra_point,0.0,0.0
+2026_01_SF_LA,1,2026-09-10,Thursday,LA,SF,"18-E.Pineiro kicks 62 yards from SF 35 to LA 3. 88-J.Whittington to LA 27 for 24 yards (33-S.Neal). FUMBLES (33-S.Neal), and recovers at LA 27.",kickoff,0.0,0.0
+2026_01_SF_LA,1,2026-09-10,Thursday,LA,SF,(10:59) 24-B.Corum right tackle to LA 26 for -1 yards (97-N.Bosa).,run,-1.0,0.0
+2026_01_SF_LA,1,2026-09-10,Thursday,LA,SF,"(10:24) 9-M.Stafford pass incomplete deep right to 12-P.Nacua (2-D.Lenoir). PENALTY on SF-2-D.Lenoir, Illegal Contact, 5 yards, enforced at LA 26 - No Play.",no_play,0.0,0.0
+2026_01_SF_LA,1,2026-09-10,Thursday,LA,SF,(10:17) 24-B.Corum left end to LA 39 for 8 yards (57-D.Greenlaw; 99-C.West).,run,8.0,0.0
+2026_01_SF_LA,1,2026-09-10,Thursday,LA,SF,(9:39) 24-B.Corum left tackle to LA 40 for 1 yard (97-N.Bosa; 54-F.Warner).,run,1.0,0.0
+2026_01_SF_LA,1,2026-09-10,Thursday,LA,SF,(9:01) 9-M.Stafford pass short right to 87-D.Allen pushed ob at SF 47 for 13 yards (57-D.Greenlaw; 27-J.Brown). LA-87-D.Allen was injured during the play.,pass,13.0,0.0
+2026_01_SF_LA,1,2026-09-10,Thursday,LA,SF,(8:29) 23-K.Williams up the middle to SF 42 for 5 yards (57-D.Greenlaw; 96-J.Thompson).,run,5.0,0.0
+2026_01_SF_LA,1,2026-09-10,Thursday,LA,SF,(7:53) 9-M.Stafford pass deep middle to 12-P.Nacua to SF 19 for 23 yards (2-D.Lenoir; 36-M.Sigle).,pass,23.0,0.0
+2026_01_SF_LA,1,2026-09-10,Thursday,LA,SF,"(7:13) PENALTY on LA-69-K.Dotson, False Start, 5 yards, enforced at SF 19 - No Play.",no_play,0.0,0.0
+2026_01_SF_LA,1,2026-09-10,Thursday,LA,SF,(6:56) 9-M.Stafford pass short left to 17-D.Adams to SF 11 for 13 yards (27-J.Brown).,pass,13.0,0.0
+2026_01_SF_LA,1,2026-09-10,Thursday,LA,SF,(6:20) 23-K.Williams up the middle to SF 9 for 2 yards (47-K.Kareem).,run,2.0,0.0
+2026_01_SF_LA,1,2026-09-10,Thursday,LA,SF,(5:37) 9-M.Stafford pass short left to 84-C.Parkinson pushed ob at SF 3 for 6 yards (2-D.Lenoir; 57-D.Greenlaw).,pass,6.0,0.0
+2026_01_SF_LA,1,2026-09-10,Thursday,LA,SF,(5:07) 23-K.Williams right guard to SF 2 for 1 yard (53-J.Dugger; 54-F.Warner).,run,1.0,0.0
+2026_01_SF_LA,1,2026-09-10,Thursday,LA,SF,(4:26) (Shotgun) 9-M.Stafford pass short left to 12-P.Nacua to SF 1 for 1 yard (2-D.Lenoir).,pass,1.0,0.0
+2026_01_SF_LA,1,2026-09-10,Thursday,LA,SF,"(3:46) 9-M.Stafford right guard to SF 1 for no gain (92-O.Odighizuwa). The Replay Official reviewed the short of the goal line ruling, and the play was Upheld. The ruling on the field stands.",run,0.0,0.0
+2026_01_SF_LA,1,2026-09-10,Thursday,SF,LA,"(3:41) 13-B.Purdy up the middle to SF 1 for no gain (53-N.Landman; 90-T.Davis). Penalty on SF-11-D.Robinson, Offensive Offside, declined.",run,0.0,0.0
+2026_01_SF_LA,1,2026-09-10,Thursday,SF,LA,(3:27) 13-B.Purdy pass short left to 89-L.Farrell to SF 15 for 14 yards (5-K.Kinchens).,pass,14.0,0.0
+2026_01_SF_LA,1,2026-09-10,Thursday,SF,LA,(2:41) 23-C.McCaffrey right end to SF 24 for 9 yards (56-S.Dolac).,run,9.0,0.0
+2026_01_SF_LA,1,2026-09-10,Thursday,SF,LA,(1:54) (Shotgun) 13-B.Purdy pass short left to 19-D.Samuel pushed ob at SF 37 for 13 yards (37-Q.Lake).,pass,13.0,0.0
+2026_01_SF_LA,1,2026-09-10,Thursday,SF,LA,(1:23) 26-K.Black right end pushed ob at LA 49 for 14 yards (37-Q.Lake).,run,14.0,0.0
+2026_01_SF_LA,1,2026-09-10,Thursday,SF,LA,(:54) 26-K.Black left end to LA 49 for no gain (55-B.Fiske; 5-K.Kinchens).,run,0.0,0.0
+2026_01_SF_LA,1,2026-09-10,Thursday,SF,LA,(:10) (Shotgun) 13-B.Purdy scrambles left end to LA 31 for 18 yards (2-J.McCollough).,run,18.0,0.0
+2026_01_SF_LA,1,2026-09-10,Thursday,SF,LA,END QUARTER 3,,,
+2026_01_SF_LA,1,2026-09-10,Thursday,SF,LA,(15:00) (Shotgun) 13-B.Purdy pass short right to 19-D.Samuel to LA 25 for 6 yards (90-T.Davis; 10-J.Stewart).,pass,6.0,0.0
+2026_01_SF_LA,1,2026-09-10,Thursday,SF,LA,(14:20) (Shotgun) 13-B.Purdy scrambles left end ran ob at LA 17 for 8 yards (10-J.Stewart).,run,8.0,0.0
+2026_01_SF_LA,1,2026-09-10,Thursday,SF,LA,(13:45) 23-C.McCaffrey right guard to LA 15 for 2 yards (10-J.Stewart; 91-K.Turner).,run,2.0,0.0
+2026_01_SF_LA,1,2026-09-10,Thursday,SF,LA,"(13:04) (Shotgun) 13-B.Purdy pass short right to 19-D.Samuel for 15 yards, TOUCHDOWN.",pass,15.0,1.0
+2026_01_SF_LA,1,2026-09-10,Thursday,SF,LA,"18-E.Pineiro extra point is GOOD, Center-46-J.Weeks, Holder-15-C.Waitman.",extra_point,0.0,0.0
+2026_01_SF_LA,1,2026-09-10,Thursday,LA,SF,18-E.Pineiro kicks 64 yards from SF 35 to LA 1. 88-J.Whittington to LA 23 for 22 yards (49-G.Wallow). ** Injury Update: LA-87-D.Allen has returned to the game.,kickoff,0.0,0.0
+2026_01_SF_LA,1,2026-09-10,Thursday,LA,SF,(12:53) (Shotgun) 9-M.Stafford pass short left to 17-D.Adams to LA 26 for 3 yards (20-U.Stout).,pass,3.0,0.0
+2026_01_SF_LA,1,2026-09-10,Thursday,LA,SF,"(12:30) (No Huddle, Shotgun) 9-M.Stafford pass short middle to 84-C.Parkinson to LA 36 for 10 yards (54-F.Warner; 57-D.Greenlaw). PENALTY on LA-77-A.Jackson, Chop Block, 13 yards, enforced at LA 26 - No Play.",no_play,0.0,0.0
+2026_01_SF_LA,1,2026-09-10,Thursday,LA,SF,(12:05) (Shotgun) 23-K.Williams up the middle to LA 15 for 2 yards (54-F.Warner).,run,2.0,0.0
+2026_01_SF_LA,1,2026-09-10,Thursday,LA,SF,"(11:45) (No Huddle, Shotgun) 9-M.Stafford pass incomplete deep middle to 12-P.Nacua (0-R.Green) [94-R.Height]. PENALTY on SF-0-R.Green, Defensive Pass Interference, 16 yards, enforced at LA 15 - No Play.",no_play,0.0,0.0
+2026_01_SF_LA,1,2026-09-10,Thursday,LA,SF,(11:40) (Shotgun) 9-M.Stafford pass short right to 89-T.Higbee to LA 39 for 8 yards (54-F.Warner).,pass,8.0,0.0
+2026_01_SF_LA,1,2026-09-10,Thursday,LA,SF,"(11:19) (No Huddle, Shotgun) 9-M.Stafford pass short middle to 89-T.Higbee to LA 44 for 5 yards (54-F.Warner; 57-D.Greenlaw). FUMBLES (54-F.Warner), RECOVERED by SF-56-K.White at LA 43.",pass,4.0,0.0
+2026_01_SF_LA,1,2026-09-10,Thursday,SF,LA,(11:08) 26-K.Black up the middle to LA 39 for 4 yards (91-K.Turner).,run,4.0,0.0
+2026_01_SF_LA,1,2026-09-10,Thursday,SF,LA,(10:29) 26-K.Black left tackle to LA 38 for 1 yard (10-J.Stewart; 91-K.Turner).,run,1.0,0.0
+2026_01_SF_LA,1,2026-09-10,Thursday,SF,LA,(9:52) (Shotgun) 13-B.Purdy pass incomplete short left to 23-C.McCaffrey (37-Q.Lake).,pass,0.0,0.0
+2026_01_SF_LA,1,2026-09-10,Thursday,SF,LA,"(9:48) 18-E.Pineiro 56 yard field goal is GOOD, Center-46-J.Weeks, Holder-15-C.Waitman.",field_goal,0.0,0.0
+2026_01_SF_LA,1,2026-09-10,Thursday,LA,SF,18-E.Pineiro kicks 64 yards from SF 35 to LA 1. 88-J.Whittington to LA 32 for 31 yards (86-K.Hodge).,kickoff,0.0,0.0
+2026_01_SF_LA,1,2026-09-10,Thursday,LA,SF,(9:38) (Shotgun) 9-M.Stafford pass short right to 23-K.Williams to LA 36 for 4 yards (2-D.Lenoir).,pass,4.0,0.0
+2026_01_SF_LA,1,2026-09-10,Thursday,LA,SF,(9:08) (Shotgun) 9-M.Stafford pass short left to 17-D.Adams to LA 46 for 10 yards (0-R.Green).,pass,10.0,0.0
+2026_01_SF_LA,1,2026-09-10,Thursday,LA,SF,"(8:45) (No Huddle, Shotgun) 9-M.Stafford pass incomplete short middle to 12-P.Nacua (25-J.Jones).",pass,0.0,0.0
+2026_01_SF_LA,1,2026-09-10,Thursday,LA,SF,(8:39) (Shotgun) 9-M.Stafford pass incomplete deep right to 17-D.Adams.,pass,0.0,0.0
+2026_01_SF_LA,1,2026-09-10,Thursday,LA,SF,(8:34) (Shotgun) 9-M.Stafford pass short right to 12-P.Nacua to SF 49 for 5 yards (36-M.Sigle).,pass,5.0,0.0
+2026_01_SF_LA,1,2026-09-10,Thursday,LA,SF,(7:58) (Shotgun) 9-M.Stafford pass incomplete deep right to 18-T.Ferguson [92-O.Odighizuwa].,pass,0.0,0.0
+2026_01_SF_LA,1,2026-09-10,Thursday,SF,LA,(7:54) 23-C.McCaffrey left guard to LA 43 for 7 yards (94-D.Johnson; 3-K.Curl).,run,7.0,0.0
+2026_01_SF_LA,1,2026-09-10,Thursday,SF,LA,(7:14) 23-C.McCaffrey up the middle to LA 41 for 2 yards (56-S.Dolac; 53-N.Landman).,run,2.0,0.0
+2026_01_SF_LA,1,2026-09-10,Thursday,SF,LA,(6:34) 13-B.Purdy up the middle to LA 40 for 1 yard (55-B.Fiske).,run,1.0,0.0
+2026_01_SF_LA,1,2026-09-10,Thursday,SF,LA,(5:52) 26-K.Black right guard to LA 38 for 2 yards (91-K.Turner).,run,2.0,0.0
+2026_01_SF_LA,1,2026-09-10,Thursday,SF,LA,(5:08) 26-K.Black left guard to LA 34 for 4 yards (56-S.Dolac; 91-K.Turner).,run,4.0,0.0
+2026_01_SF_LA,1,2026-09-10,Thursday,SF,LA,(4:24) (Shotgun) 13-B.Purdy pass short right to 23-C.McCaffrey to LA 34 for no gain (10-J.Stewart). LA-53-N.Landman was injured during the play.,pass,0.0,0.0
+2026_01_SF_LA,1,2026-09-10,Thursday,,,Timeout #2 by SF at 03:34.,no_play,0.0,0.0
+2026_01_SF_LA,1,2026-09-10,Thursday,SF,LA,"(3:34) 18-E.Pineiro 52 yard field goal is No Good, Hit Right Upright, Center-46-J.Weeks, Holder-15-C.Waitman.",field_goal,0.0,0.0
+2026_01_SF_LA,1,2026-09-10,Thursday,LA,SF,(3:29) 24-B.Corum up the middle to LA 46 for 4 yards (54-F.Warner; 27-J.Brown).,run,4.0,0.0
+2026_01_SF_LA,1,2026-09-10,Thursday,LA,SF,"(3:05) (No Huddle, Shotgun) 13-S.Bennett scrambles up the middle to SF 45 for 9 yards (27-J.Brown). Penalty on SF, Defensive Too Many Men on Field, declined.",run,9.0,0.0
+2026_01_SF_LA,1,2026-09-10,Thursday,LA,SF,(2:46) (Shotgun) 20-R.Rivers right guard to SF 38 for 7 yards (99-C.West).,run,7.0,0.0
+2026_01_SF_LA,1,2026-09-10,Thursday,LA,SF,"(2:22) (No Huddle, Shotgun) 13-S.Bennett pass incomplete short middle to 4-K.Mumpfield [59-O.Okoronkwo]. LA-4-K.Mumpfield was injured during the play.",pass,0.0,0.0
+2026_01_SF_LA,1,2026-09-10,Thursday,LA,SF,(2:18) (Shotgun) 20-R.Rivers right guard to SF 37 for 1 yard (49-G.Wallow).,run,1.0,0.0
+2026_01_SF_LA,1,2026-09-10,Thursday,LA,SF,(2:00) 20-R.Rivers right tackle to SF 32 for 5 yards (2-D.Lenoir; 36-M.Sigle). ** Injury Update: LA-4-K.Mumpfield has returned to the game.,run,5.0,0.0
+2026_01_SF_LA,1,2026-09-10,Thursday,LA,SF,(1:26) (Shotgun) 13-S.Bennett pass short middle to 88-J.Whittington to SF 24 for 8 yards (6-M.Mustapha).,pass,8.0,0.0
+2026_01_SF_LA,1,2026-09-10,Thursday,LA,SF,"(1:05) (No Huddle, Shotgun) 13-S.Bennett pass short middle to 20-R.Rivers to SF 19 for 5 yards (53-J.Dugger; 6-M.Mustapha). LA-69-K.Dotson was injured during the play.",pass,5.0,0.0
+2026_01_SF_LA,1,2026-09-10,Thursday,,,Timeout #1 by LA at 00:47.,no_play,0.0,0.0
+2026_01_SF_LA,1,2026-09-10,Thursday,LA,SF,(:47) 20-R.Rivers right guard to SF 15 for 4 yards (47-K.Kareem; 53-J.Dugger).,run,4.0,0.0
+2026_01_SF_LA,1,2026-09-10,Thursday,LA,SF,(:14) 20-R.Rivers left end to SF 13 for 2 yards (0-R.Green).,run,2.0,0.0
+2026_01_SF_LA,1,2026-09-10,Thursday,LA,SF,END GAME,,,
