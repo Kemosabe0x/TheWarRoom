@@ -1203,6 +1203,166 @@ game_id,week,game_date,day_of_week,posteam,defteam,desc,play_type,yards_gained,t
 2026_01_DAL_NYG,1,2026-09-13,Sunday,NYG,DAL,(1:10) 6-J.Dart kneels to DAL 24 for -2 yards.,qb_kneel,-2.0,0.0
 2026_01_DAL_NYG,1,2026-09-13,Sunday,NYG,DAL,(:34) 6-J.Dart kneels to DAL 25 for -1 yards.,qb_kneel,-1.0,0.0
 2026_01_DAL_NYG,1,2026-09-13,Sunday,NYG,DAL,END GAME,,,
+2026_01_DEN_KC,1,2026-09-14,Monday,,,GAME,,,
+2026_01_DEN_KC,1,2026-09-14,Monday,DEN,KC,"7-H.Butker kicks 65 yards from KC 35 to end zone, Touchback to the DEN 35.",kickoff,0.0,0.0
+2026_01_DEN_KC,1,2026-09-14,Monday,DEN,KC,(15:00) (Shotgun) 10-B.Nix sacked at DEN 32 for -3 yards (20-N.Williams).,pass,-3.0,0.0
+2026_01_DEN_KC,1,2026-09-14,Monday,DEN,KC,(14:22) (Shotgun) 27-J.Dobbins left end to DEN 34 for 2 yards (95-C.Jones; 32-N.Bolton).,run,2.0,0.0
+2026_01_DEN_KC,1,2026-09-14,Monday,DEN,KC,(13:39) (Shotgun) 10-B.Nix pass deep middle intended for 14-C.Sutton INTERCEPTED by 5-M.Delane at KC 49. 5-M.Delane to DEN 46 for 5 yards (14-C.Sutton).,pass,0.0,0.0
+2026_01_DEN_KC,1,2026-09-14,Monday,KC,DEN,(13:30) 9-K.Walker left tackle to DEN 44 for 2 yards (15-N.Bonitto; 49-A.Singleton).,run,2.0,0.0
+2026_01_DEN_KC,1,2026-09-14,Monday,KC,DEN,(12:59) (Shotgun) 9-K.Walker up the middle to DEN 39 for 5 yards (9-T.Hufanga).,run,5.0,0.0
+2026_01_DEN_KC,1,2026-09-14,Monday,KC,DEN,(12:20) (Shotgun) 9-K.Walker up the middle to DEN 38 for 1 yard (99-Z.Allen; 49-A.Singleton).,run,1.0,0.0
+2026_01_DEN_KC,1,2026-09-14,Monday,KC,DEN,(11:35) (Shotgun) 64-H.Nourzad and 92-K.Tonga reported in as eligible. 9-K.Walker up the middle to DEN 35 for 3 yards (96-E.Uwazurike; 9-T.Hufanga).,run,3.0,0.0
+2026_01_DEN_KC,1,2026-09-14,Monday,KC,DEN,(11:02) (Shotgun) 15-P.Mahomes pass incomplete short left to 87-T.Kelce.,pass,0.0,0.0
+2026_01_DEN_KC,1,2026-09-14,Monday,KC,DEN,(10:58) (Shotgun) 15-P.Mahomes pass short right to 1-X.Worthy ran ob at DEN 26 for 9 yards (21-R.Moss).,pass,9.0,0.0
+2026_01_DEN_KC,1,2026-09-14,Monday,KC,DEN,"(10:26) 77-J.Moore, 64-H.Nourzad and 92-K.Tonga reported in as eligible. 9-K.Walker up the middle to DEN 20 for 6 yards (9-T.Hufanga; 21-R.Moss).",run,6.0,0.0
+2026_01_DEN_KC,1,2026-09-14,Monday,KC,DEN,(9:47) 9-K.Walker right end to DEN 8 for 12 yards (49-A.Singleton).,run,12.0,0.0
+2026_01_DEN_KC,1,2026-09-14,Monday,KC,DEN,(9:10) 9-K.Walker right end to DEN 5 for 3 yards (97-M.Roach).,run,3.0,0.0
+2026_01_DEN_KC,1,2026-09-14,Monday,KC,DEN,"(8:27) (Shotgun) 15-P.Mahomes scrambles right end for 5 yards, TOUCHDOWN NULLIFIED by Penalty. PENALTY on KC-70-K.Benson, Offensive Holding, 10 yards, enforced at DEN 5 - No Play. Penalty on KC-77-J.Moore, Offensive Holding, declined.",no_play,0.0,0.0
+2026_01_DEN_KC,1,2026-09-14,Monday,KC,DEN,"(8:20) (Shotgun) 15-P.Mahomes scrambles up the middle for 15 yards, TOUCHDOWN.",run,15.0,1.0
+2026_01_DEN_KC,1,2026-09-14,Monday,KC,DEN,"7-H.Butker extra point is GOOD, Center-41-J.Winchester, Holder-14-M.Araiza.",extra_point,0.0,0.0
+2026_01_DEN_KC,1,2026-09-14,Monday,DEN,KC,7-H.Butker kicks 62 yards from KC 35 to DEN 3. 12-R.Harvey to DEN 32 for 29 yards (29-X.Nwankpa; 44-C.McDonald). KC-44-C.McDonald was injured during the play.,kickoff,0.0,0.0
+2026_01_DEN_KC,1,2026-09-14,Monday,DEN,KC,(8:06) (Shotgun) 12-R.Harvey right tackle to DEN 39 for 7 yards (97-A.Gillotte; 23-D.Tranquill).,run,7.0,0.0
+2026_01_DEN_KC,1,2026-09-14,Monday,DEN,KC,"(7:30) (Shotgun) 10-B.Nix pass short left to 17-J.Waddle to DEN 34 for -5 yards (20-N.Williams). PENALTY on KC-38-L.Sneed, Defensive Offside, 5 yards, enforced at DEN 39 - No Play.",no_play,0.0,0.0
+2026_01_DEN_KC,1,2026-09-14,Monday,DEN,KC,(7:07) (Shotgun) 10-B.Nix pass short right to 13-P.Bryant to KC 43 for 13 yards (17-A.Gilman).,pass,13.0,0.0
+2026_01_DEN_KC,1,2026-09-14,Monday,DEN,KC,(6:21) 27-J.Dobbins right end to KC 42 for 1 yard (23-D.Tranquill).,run,1.0,0.0
+2026_01_DEN_KC,1,2026-09-14,Monday,DEN,KC,(5:47) (Shotgun) 10-B.Nix pass short right to 82-A.Trautman pushed ob at KC 38 for 4 yards (38-L.Sneed).,pass,4.0,0.0
+2026_01_DEN_KC,1,2026-09-14,Monday,DEN,KC,(5:10) (Shotgun) 10-B.Nix pass short left to 13-P.Bryant to KC 30 for 8 yards (56-G.Karlaftis).,pass,8.0,0.0
+2026_01_DEN_KC,1,2026-09-14,Monday,DEN,KC,(4:29) (Shotgun) 10-B.Nix pass short left to 13-P.Bryant pushed ob at KC 19 for 11 yards (38-L.Sneed).,pass,11.0,0.0
+2026_01_DEN_KC,1,2026-09-14,Monday,DEN,KC,"(3:53) (Shotgun) 10-B.Nix pass deep left to 1-E.Engram for 19 yards, TOUCHDOWN.",pass,19.0,1.0
+2026_01_DEN_KC,1,2026-09-14,Monday,DEN,KC,"3-W.Lutz extra point is GOOD, Center-48-M.Fraboni, Holder-16-J.Crawshaw.",extra_point,0.0,0.0
+2026_01_DEN_KC,1,2026-09-14,Monday,KC,DEN,3-W.Lutz kicks 57 yards from DEN 35 to KC 8. 81-N.Remigio to KC 34 for 26 yards (26-D.Key; 6-T.Anderson).,kickoff,0.0,0.0
+2026_01_DEN_KC,1,2026-09-14,Monday,KC,DEN,(3:39) 15-P.Mahomes pass incomplete deep right.,pass,0.0,0.0
+2026_01_DEN_KC,1,2026-09-14,Monday,KC,DEN,(3:34) (Shotgun) 10-E.Johnson right tackle to KC 37 for 3 yards (97-M.Roach).,run,3.0,0.0
+2026_01_DEN_KC,1,2026-09-14,Monday,KC,DEN,(2:55) (Shotgun) 15-P.Mahomes pass incomplete short right to 1-X.Worthy (29-J.McMillian).,pass,0.0,0.0
+2026_01_DEN_KC,1,2026-09-14,Monday,KC,DEN,"(2:51) 14-M.Araiza punts 55 yards to DEN 8, Center-41-J.Winchester, fair catch by 31-K.Abrams-Draine.",punt,0.0,0.0
+2026_01_DEN_KC,1,2026-09-14,Monday,DEN,KC,"(2:43) 10-B.Nix pass incomplete short right to 82-A.Trautman [56-G.Karlaftis]. Penalty on DEN-72-G.Bolles, Ineligible Downfield Pass, declined.",pass,0.0,0.0
+2026_01_DEN_KC,1,2026-09-14,Monday,DEN,KC,(2:38) 10-B.Nix pass short left to 1-E.Engram to DEN 17 for 9 yards (20-N.Williams; 38-L.Sneed).,pass,9.0,0.0
+2026_01_DEN_KC,1,2026-09-14,Monday,DEN,KC,(1:54) 12-R.Harvey right end to DEN 23 for 6 yards (32-N.Bolton).,run,6.0,0.0
+2026_01_DEN_KC,1,2026-09-14,Monday,DEN,KC,"(1:14) 27-J.Dobbins left end to DEN 26 for 3 yards (23-D.Tranquill; 32-N.Bolton). PENALTY on DEN-13-P.Bryant, Offensive Holding, 10 yards, enforced at DEN 23 - No Play.",no_play,0.0,0.0
+2026_01_DEN_KC,1,2026-09-14,Monday,DEN,KC,(:46) (Shotgun) 10-B.Nix pass short left to 12-R.Harvey to DEN 14 for 1 yard (38-L.Sneed).,pass,1.0,0.0
+2026_01_DEN_KC,1,2026-09-14,Monday,DEN,KC,END QUARTER 1,,,
+2026_01_DEN_KC,1,2026-09-14,Monday,DEN,KC,(15:00) 27-J.Dobbins up the middle to DEN 16 for 2 yards (23-D.Tranquill).,run,2.0,0.0
+2026_01_DEN_KC,1,2026-09-14,Monday,DEN,KC,(14:21) (Shotgun) 10-B.Nix pass short left to 12-R.Harvey to DEN 27 for 11 yards (23-D.Tranquill; 56-G.Karlaftis).,pass,11.0,0.0
+2026_01_DEN_KC,1,2026-09-14,Monday,DEN,KC,"(13:40) 16-J.Crawshaw punts 51 yards to KC 22, Center-48-M.Fraboni. 81-N.Remigio to KC 29 for 7 yards (45-N.Adkins).",punt,0.0,0.0
+2026_01_DEN_KC,1,2026-09-14,Monday,KC,DEN,(13:28) 9-K.Walker left tackle to KC 38 for 9 yards (21-R.Moss).,run,9.0,0.0
+2026_01_DEN_KC,1,2026-09-14,Monday,KC,DEN,(12:42) 15-P.Mahomes pass incomplete deep left to 2-T.Thornton.,pass,0.0,0.0
+2026_01_DEN_KC,1,2026-09-14,Monday,KC,DEN,(12:37) (Shotgun) 64-H.Nourzad and 92-K.Tonga reported in as eligible. 9-K.Walker up the middle to KC 42 for 4 yards (49-A.Singleton; 93-D.Jones).,run,4.0,0.0
+2026_01_DEN_KC,1,2026-09-14,Monday,KC,DEN,(12:02) (Shotgun) 15-P.Mahomes pass short left to 9-K.Walker to KC 47 for 5 yards (92-D.Tillman).,pass,5.0,0.0
+2026_01_DEN_KC,1,2026-09-14,Monday,KC,DEN,"(11:21) (Shotgun) 52-C.Humphrey to KC 46 for -1 yards. FUMBLES, recovered by KC-15-P.Mahomes at KC 43. 15-P.Mahomes pass incomplete short right to 9-K.Walker.",pass,0.0,0.0
+2026_01_DEN_KC,1,2026-09-14,Monday,KC,DEN,(11:17) (Shotgun) 15-P.Mahomes pass incomplete short right to 13-C.Allen (97-M.Roach).,pass,0.0,0.0
+2026_01_DEN_KC,1,2026-09-14,Monday,KC,DEN,"(11:14) 14-M.Araiza punts 41 yards to DEN 12, Center-41-J.Winchester, downed by KC-22-J.Canady.",punt,0.0,0.0
+2026_01_DEN_KC,1,2026-09-14,Monday,DEN,KC,(11:04) 10-B.Nix pass short middle to 82-A.Trautman to DEN 18 for 6 yards (96-M.Harris; 23-D.Tranquill).,pass,6.0,0.0
+2026_01_DEN_KC,1,2026-09-14,Monday,DEN,KC,(10:21) (Shotgun) 10-B.Nix pass incomplete short right to 13-P.Bryant.,pass,0.0,0.0
+2026_01_DEN_KC,1,2026-09-14,Monday,DEN,KC,(10:13) (Shotgun) 10-B.Nix pass short right to 17-J.Waddle to DEN 20 for 2 yards (38-L.Sneed).,pass,2.0,0.0
+2026_01_DEN_KC,1,2026-09-14,Monday,DEN,KC,"(9:28) 16-J.Crawshaw punts 55 yards to KC 25, Center-48-M.Fraboni, fair catch by 81-N.Remigio.",punt,0.0,0.0
+2026_01_DEN_KC,1,2026-09-14,Monday,KC,DEN,(9:21) (Shotgun) 9-K.Walker left tackle to KC 27 for 2 yards (92-D.Tillman).,run,2.0,0.0
+2026_01_DEN_KC,1,2026-09-14,Monday,KC,DEN,(8:46) (Shotgun) 15-P.Mahomes pass incomplete short middle [51-Q.Robinson].,pass,0.0,0.0
+2026_01_DEN_KC,1,2026-09-14,Monday,KC,DEN,(8:41) (Shotgun) 15-P.Mahomes scrambles up the middle to KC 35 for 8 yards (99-Z.Allen; 49-A.Singleton).,run,8.0,0.0
+2026_01_DEN_KC,1,2026-09-14,Monday,KC,DEN,(8:01) (Shotgun) 9-K.Walker left guard to KC 42 for 7 yards (96-E.Uwazurike; 22-B.Jones).,run,7.0,0.0
+2026_01_DEN_KC,1,2026-09-14,Monday,KC,DEN,(7:26) 66-M.Caliendo reported in as eligible. 9-K.Walker up the middle to KC 43 for 1 yard (22-B.Jones; 49-A.Singleton).,run,1.0,0.0
+2026_01_DEN_KC,1,2026-09-14,Monday,KC,DEN,(6:46) (Shotgun) 15-P.Mahomes pass incomplete short right to 1-X.Worthy (21-R.Moss).,pass,0.0,0.0
+2026_01_DEN_KC,1,2026-09-14,Monday,KC,DEN,"(6:42) 14-M.Araiza punts 47 yards to DEN 10, Center-41-J.Winchester, out of bounds. PENALTY on KC-43-J.Cochrane, Offensive Holding, 10 yards, enforced at KC 43 - No Play.",no_play,0.0,0.0
+2026_01_DEN_KC,1,2026-09-14,Monday,KC,DEN,"(6:34) 14-M.Araiza punts 63 yards to DEN 4, Center-41-J.Winchester. 19-M.Mims to DEN 23 for 19 yards (31-J.Bassa; 88-J.Briningstool).",punt,0.0,0.0
+2026_01_DEN_KC,1,2026-09-14,Monday,DEN,KC,(6:22) 11-T.Franklin left end to DEN 28 for 5 yards (32-N.Bolton).,run,5.0,0.0
+2026_01_DEN_KC,1,2026-09-14,Monday,DEN,KC,(5:44) (Shotgun) 10-B.Nix pass short right to 12-R.Harvey to DEN 32 for 4 yards (99-P.Woods).,pass,4.0,0.0
+2026_01_DEN_KC,1,2026-09-14,Monday,DEN,KC,(4:56) (Shotgun) 10-B.Nix pass incomplete short right to 17-J.Waddle.,pass,0.0,0.0
+2026_01_DEN_KC,1,2026-09-14,Monday,DEN,KC,"(4:50) 16-J.Crawshaw punts 68 yards to end zone, Center-48-M.Fraboni, Touchback.",punt,0.0,0.0
+2026_01_DEN_KC,1,2026-09-14,Monday,KC,DEN,(4:41) (Shotgun) 15-P.Mahomes pass incomplete short middle to 9-K.Walker.,pass,0.0,0.0
+2026_01_DEN_KC,1,2026-09-14,Monday,KC,DEN,(4:37) (Shotgun) 15-P.Mahomes pass incomplete short right to 9-K.Walker.,pass,0.0,0.0
+2026_01_DEN_KC,1,2026-09-14,Monday,KC,DEN,"(4:33) (Shotgun) 52-C.Humphrey to KC 16 for -4 yards. FUMBLES, recovered by KC-15-P.Mahomes at KC 16. 15-P.Mahomes pass short left to 9-K.Walker pushed ob at KC 31 for 11 yards (23-J.Barron).",pass,11.0,0.0
+2026_01_DEN_KC,1,2026-09-14,Monday,KC,DEN,(4:06) (Shotgun) 9-K.Walker left end pushed ob at DEN 41 for 28 yards (22-B.Jones).,run,28.0,0.0
+2026_01_DEN_KC,1,2026-09-14,Monday,KC,DEN,(3:37) 10-E.Johnson right end to DEN 37 for 4 yards (51-Q.Robinson; 49-A.Singleton).,run,4.0,0.0
+2026_01_DEN_KC,1,2026-09-14,Monday,KC,DEN,"(3:00) (Shotgun) 15-P.Mahomes pass short middle to 83-N.Gray to DEN 32 for 5 yards (21-R.Moss, 40-J.Strnad).",pass,5.0,0.0
+2026_01_DEN_KC,1,2026-09-14,Monday,KC,DEN,(2:16) 9-K.Walker up the middle to DEN 26 for 6 yards (92-D.Tillman; 49-A.Singleton).,run,6.0,0.0
+2026_01_DEN_KC,1,2026-09-14,Monday,KC,DEN,(2:00) (Shotgun) 15-P.Mahomes pass short right to 88-J.Briningstool to DEN 17 for 9 yards (49-A.Singleton).,pass,9.0,0.0
+2026_01_DEN_KC,1,2026-09-14,Monday,,,Timeout #1 by DEN at 01:51.,no_play,0.0,0.0
+2026_01_DEN_KC,1,2026-09-14,Monday,KC,DEN,(1:51) (Shotgun) 15-P.Mahomes pass short left to 1-X.Worthy to DEN 13 for 4 yards (9-T.Hufanga).,pass,4.0,0.0
+2026_01_DEN_KC,1,2026-09-14,Monday,,,Timeout #2 by DEN at 01:46.,no_play,0.0,0.0
+2026_01_DEN_KC,1,2026-09-14,Monday,KC,DEN,"(1:46) (Shotgun) 15-P.Mahomes pass short right to 4-R.Rice for 13 yards, TOUCHDOWN.",pass,13.0,1.0
+2026_01_DEN_KC,1,2026-09-14,Monday,KC,DEN,"7-H.Butker extra point is GOOD, Center-41-J.Winchester, Holder-14-M.Araiza.",extra_point,0.0,0.0
+2026_01_DEN_KC,1,2026-09-14,Monday,DEN,KC,7-H.Butker kicks 56 yards from KC 35 to DEN 9. 12-R.Harvey to DEN 34 for 25 yards (10-E.Johnson; 43-J.Cochrane).,kickoff,0.0,0.0
+2026_01_DEN_KC,1,2026-09-14,Monday,DEN,KC,(1:33) (Shotgun) 10-B.Nix sacked at DEN 29 for -5 yards (51-R.Thomas).,pass,-5.0,0.0
+2026_01_DEN_KC,1,2026-09-14,Monday,,,Timeout #1 by KC at 01:25.,no_play,0.0,0.0
+2026_01_DEN_KC,1,2026-09-14,Monday,DEN,KC,(1:25) (Shotgun) 10-B.Nix pass short middle to 13-P.Bryant to DEN 39 for 10 yards (38-L.Sneed).,pass,10.0,0.0
+2026_01_DEN_KC,1,2026-09-14,Monday,DEN,KC,"(1:02) (No Huddle, Shotgun) 10-B.Nix pass incomplete short left to 14-C.Sutton.",pass,0.0,0.0
+2026_01_DEN_KC,1,2026-09-14,Monday,DEN,KC,"(:58) 16-J.Crawshaw punts 43 yards to KC 18, Center-48-M.Fraboni, fair catch by 81-N.Remigio. PENALTY on KC-22-J.Canady, Offensive Holding, 9 yards, enforced at KC 18.",punt,0.0,0.0
+2026_01_DEN_KC,1,2026-09-14,Monday,KC,DEN,(:51) (Shotgun) 15-P.Mahomes pass short right to 87-T.Kelce to KC 15 for 6 yards (2-P.Surtain).,pass,6.0,0.0
+2026_01_DEN_KC,1,2026-09-14,Monday,KC,DEN,(:21) (Shotgun) 10-E.Johnson right end to KC 16 for 1 yard (99-Z.Allen).,run,1.0,0.0
+2026_01_DEN_KC,1,2026-09-14,Monday,,,END QUARTER 2,,,
+2026_01_DEN_KC,1,2026-09-14,Monday,KC,DEN,3-W.Lutz kicks 62 yards from DEN 35 to KC 3. 81-N.Remigio pushed ob at KC 31 for 28 yards (23-J.Barron).,kickoff,0.0,0.0
+2026_01_DEN_KC,1,2026-09-14,Monday,KC,DEN,(14:53) (Shotgun) 9-K.Walker up the middle to KC 31 for no gain (40-J.Strnad; 9-T.Hufanga).,run,0.0,0.0
+2026_01_DEN_KC,1,2026-09-14,Monday,KC,DEN,(14:18) (Shotgun) 15-P.Mahomes scrambles up the middle to KC 34 for 3 yards (49-A.Singleton).,run,3.0,0.0
+2026_01_DEN_KC,1,2026-09-14,Monday,KC,DEN,(13:36) (Shotgun) 15-P.Mahomes pass short right to 4-R.Rice to KC 40 for 6 yards (21-R.Moss).,pass,6.0,0.0
+2026_01_DEN_KC,1,2026-09-14,Monday,KC,DEN,"(12:53) 73-J.Ezeudu, 77-J.Moore and 92-K.Tonga reported in as eligible. 9-K.Walker left end for 60 yards, TOUCHDOWN.",run,60.0,1.0
+2026_01_DEN_KC,1,2026-09-14,Monday,KC,DEN,"7-H.Butker extra point is GOOD, Center-41-J.Winchester, Holder-14-M.Araiza.",extra_point,0.0,0.0
+2026_01_DEN_KC,1,2026-09-14,Monday,DEN,KC,7-H.Butker kicks 60 yards from KC 35 to DEN 5. 12-R.Harvey to DEN 36 for 31 yards (29-X.Nwankpa).,kickoff,0.0,0.0
+2026_01_DEN_KC,1,2026-09-14,Monday,DEN,KC,(12:33) (Shotgun) 27-J.Dobbins left end ran ob at KC 47 for 17 yards (17-A.Gilman).,run,17.0,0.0
+2026_01_DEN_KC,1,2026-09-14,Monday,DEN,KC,(11:59) (Shotgun) 27-J.Dobbins left guard to KC 43 for 4 yards (23-D.Tranquill; 99-P.Woods).,run,4.0,0.0
+2026_01_DEN_KC,1,2026-09-14,Monday,DEN,KC,(11:19) (Shotgun) 27-J.Dobbins up the middle to KC 39 for 4 yards (92-K.Tonga; 56-G.Karlaftis).,run,4.0,0.0
+2026_01_DEN_KC,1,2026-09-14,Monday,DEN,KC,"(10:28) (Shotgun) PENALTY on DEN, Delay of Game, 5 yards, enforced at KC 39 - No Play.",no_play,0.0,0.0
+2026_01_DEN_KC,1,2026-09-14,Monday,DEN,KC,(10:07) (Shotgun) 10-B.Nix pass incomplete short left to 17-J.Waddle.,pass,0.0,0.0
+2026_01_DEN_KC,1,2026-09-14,Monday,DEN,KC,"(10:03) (Punt formation) PENALTY on DEN, Delay of Game, 5 yards, enforced at KC 44 - No Play.",no_play,0.0,0.0
+2026_01_DEN_KC,1,2026-09-14,Monday,DEN,KC,"(10:03) 16-J.Crawshaw punts 49 yards to end zone, Center-48-M.Fraboni, Touchback. PENALTY on KC-11-J.Royals, Illegal Formation, 5 yards, enforced at KC 49 - No Play.",no_play,0.0,0.0
+2026_01_DEN_KC,1,2026-09-14,Monday,DEN,KC,"(9:56) 16-J.Crawshaw punts 41 yards to KC 3, Center-48-M.Fraboni, downed by DEN-13-P.Bryant.",punt,0.0,0.0
+2026_01_DEN_KC,1,2026-09-14,Monday,KC,DEN,(9:47) 15-P.Mahomes pass deep middle intended for 1-X.Worthy INTERCEPTED by 22-B.Jones at KC 29. 22-B.Jones to KC 5 for 24 yards (77-J.Moore).,pass,0.0,0.0
+2026_01_DEN_KC,1,2026-09-14,Monday,DEN,KC,"(9:34) (Shotgun) 12-R.Harvey left end pushed ob at KC 3 for 2 yards (38-L.Sneed). PENALTY on DEN-13-P.Bryant, Offensive Holding, 10 yards, enforced at KC 5 - No Play.",no_play,0.0,0.0
+2026_01_DEN_KC,1,2026-09-14,Monday,DEN,KC,(9:10) (Shotgun) 10-B.Nix pass short right to 14-C.Sutton to KC 9 for 6 yards (21-J.Hicks).,pass,6.0,0.0
+2026_01_DEN_KC,1,2026-09-14,Monday,DEN,KC,"(8:29) (Shotgun) 10-B.Nix sacked at KC 15 for -6 yards. FUMBLES, ball out of bounds at KC 16.",pass,-7.0,0.0
+2026_01_DEN_KC,1,2026-09-14,Monday,DEN,KC,(8:10) (Shotgun) 10-B.Nix scrambles right end ran ob at KC 13 for 3 yards (17-A.Gilman; 51-R.Thomas).,run,3.0,0.0
+2026_01_DEN_KC,1,2026-09-14,Monday,DEN,KC,"(7:38) 3-W.Lutz 31 yard field goal is GOOD, Center-48-M.Fraboni, Holder-16-J.Crawshaw.",field_goal,0.0,0.0
+2026_01_DEN_KC,1,2026-09-14,Monday,KC,DEN,3-W.Lutz kicks 56 yards from DEN 35 to KC 9. 81-N.Remigio to KC 33 for 24 yards (47-K.Reid; 51-Q.Robinson).,kickoff,0.0,0.0
+2026_01_DEN_KC,1,2026-09-14,Monday,KC,DEN,(7:28) 9-K.Walker left guard to KC 34 for 1 yard (40-J.Strnad).,run,1.0,0.0
+2026_01_DEN_KC,1,2026-09-14,Monday,KC,DEN,(6:49) (Shotgun) 9-K.Walker right end to KC 37 for 3 yards (15-N.Bonitto).,run,3.0,0.0
+2026_01_DEN_KC,1,2026-09-14,Monday,KC,DEN,(6:09) (Shotgun) 15-P.Mahomes pass short left to 87-T.Kelce to DEN 4 for 59 yards (23-J.Barron).,pass,59.0,0.0
+2026_01_DEN_KC,1,2026-09-14,Monday,KC,DEN,"(5:21) 9-K.Walker left end to DEN 6 for -2 yards (92-D.Tillman, 2-P.Surtain).",run,-2.0,0.0
+2026_01_DEN_KC,1,2026-09-14,Monday,KC,DEN,(4:38) 15-P.Mahomes scrambles left end pushed ob at DEN 5 for 1 yard (49-A.Singleton).,run,1.0,0.0
+2026_01_DEN_KC,1,2026-09-14,Monday,KC,DEN,(4:01) (Shotgun) 15-P.Mahomes sacked at DEN 9 for -4 yards (99-Z.Allen).,pass,-4.0,0.0
+2026_01_DEN_KC,1,2026-09-14,Monday,KC,DEN,"(3:20) 7-H.Butker 28 yard field goal is GOOD, Center-41-J.Winchester, Holder-14-M.Araiza.",field_goal,0.0,0.0
+2026_01_DEN_KC,1,2026-09-14,Monday,DEN,KC,7-H.Butker kicks 62 yards from KC 35 to DEN 3. 20-J.Coleman to DEN 30 for 27 yards (47-B.VanSumeren; 88-J.Briningstool).,kickoff,0.0,0.0
+2026_01_DEN_KC,1,2026-09-14,Monday,DEN,KC,(3:11) 27-J.Dobbins left tackle to DEN 32 for 2 yards (20-N.Williams).,run,2.0,0.0
+2026_01_DEN_KC,1,2026-09-14,Monday,DEN,KC,(2:27) (Shotgun) 10-B.Nix pass short left to 1-E.Engram pushed ob at DEN 41 for 9 yards (21-J.Hicks).,pass,9.0,0.0
+2026_01_DEN_KC,1,2026-09-14,Monday,DEN,KC,(1:54) 27-J.Dobbins right end to DEN 45 for 4 yards (21-J.Hicks; 23-D.Tranquill).,run,4.0,0.0
+2026_01_DEN_KC,1,2026-09-14,Monday,DEN,KC,"(1:09) 10-B.Nix pass short left to 11-T.Franklin to KC 39 for 16 yards (20-N.Williams). PENALTY on DEN-11-T.Franklin, Offensive Pass Interference, 10 yards, enforced at DEN 45 - No Play.",no_play,0.0,0.0
+2026_01_DEN_KC,1,2026-09-14,Monday,DEN,KC,(:39) (Shotgun) 10-B.Nix pass incomplete short left to 13-P.Bryant.,pass,0.0,0.0
+2026_01_DEN_KC,1,2026-09-14,Monday,DEN,KC,"(:35) (Shotgun) 10-B.Nix sacked at DEN 26 for -9 yards (91-F.Anudike-Uzomah). FUMBLES (91-F.Anudike-Uzomah), RECOVERED by KC-95-C.Jones at DEN 34.",pass,-1.0,0.0
+2026_01_DEN_KC,1,2026-09-14,Monday,KC,DEN,(:27) 15-P.Mahomes pass incomplete short middle to 87-T.Kelce [52-J.Elliss].,pass,0.0,0.0
+2026_01_DEN_KC,1,2026-09-14,Monday,KC,DEN,(:23) (Shotgun) 15-P.Mahomes pass short right to 1-X.Worthy to DEN 29 for 5 yards (29-J.McMillian).,pass,5.0,0.0
+2026_01_DEN_KC,1,2026-09-14,Monday,KC,DEN,END QUARTER 3,,,
+2026_01_DEN_KC,1,2026-09-14,Monday,KC,DEN,"(15:00) (Shotgun) 15-P.Mahomes pass short left to 10-E.Johnson to DEN 4 for 25 yards (23-J.Barron) [99-Z.Allen]. PENALTY on DEN-49-A.Singleton, Unnecessary Roughness, 2 yards, enforced at DEN 4.",pass,25.0,0.0
+2026_01_DEN_KC,1,2026-09-14,Monday,KC,DEN,"(14:43) 15-P.Mahomes pass short middle to 9-K.Walker for 2 yards, TOUCHDOWN.",pass,2.0,1.0
+2026_01_DEN_KC,1,2026-09-14,Monday,KC,DEN,"7-H.Butker extra point is GOOD, Center-41-J.Winchester, Holder-14-M.Araiza.",extra_point,0.0,0.0
+2026_01_DEN_KC,1,2026-09-14,Monday,DEN,KC,7-H.Butker kicks 64 yards from KC 35 to DEN 1. 12-R.Harvey to DEN 27 for 26 yards (11-J.Royals).,kickoff,0.0,0.0
+2026_01_DEN_KC,1,2026-09-14,Monday,DEN,KC,(14:31) (Shotgun) 10-B.Nix pass incomplete short right to 14-C.Sutton (99-P.Woods).,pass,0.0,0.0
+2026_01_DEN_KC,1,2026-09-14,Monday,DEN,KC,(14:27) (Shotgun) 10-B.Nix pass short right to 14-C.Sutton to DEN 32 for 5 yards (8-K.Fulton).,pass,5.0,0.0
+2026_01_DEN_KC,1,2026-09-14,Monday,,,Timeout #1 by DEN at 13:42.,no_play,0.0,0.0
+2026_01_DEN_KC,1,2026-09-14,Monday,DEN,KC,(13:42) (Shotgun) 10-B.Nix pass incomplete short right.,pass,0.0,0.0
+2026_01_DEN_KC,1,2026-09-14,Monday,DEN,KC,"(13:38) 16-J.Crawshaw punts 56 yards to KC 12, Center-48-M.Fraboni. 81-N.Remigio to KC 27 for 15 yards (48-M.Fraboni; 34-J.Skinner). PENALTY on KC-13-C.Allen, Unnecessary Roughness, 6 yards, enforced at KC 12.",punt,0.0,0.0
+2026_01_DEN_KC,1,2026-09-14,Monday,KC,DEN,(13:25) 9-K.Walker up the middle to KC 7 for 1 yard (55-J.Turner).,run,1.0,0.0
+2026_01_DEN_KC,1,2026-09-14,Monday,KC,DEN,(12:43) 9-K.Walker left tackle to KC 20 for 13 yards (21-R.Moss; 49-A.Singleton).,run,13.0,0.0
+2026_01_DEN_KC,1,2026-09-14,Monday,KC,DEN,(11:59) 9-K.Walker up the middle to KC 20 for no gain (51-Q.Robinson).,run,0.0,0.0
+2026_01_DEN_KC,1,2026-09-14,Monday,KC,DEN,(11:18) 9-K.Walker left tackle to KC 28 for 8 yards (9-T.Hufanga; 49-A.Singleton).,run,8.0,0.0
+2026_01_DEN_KC,1,2026-09-14,Monday,KC,DEN,(10:33) (Shotgun) 15-P.Mahomes pass short middle to 87-T.Kelce to KC 34 for 6 yards (49-A.Singleton).,pass,6.0,0.0
+2026_01_DEN_KC,1,2026-09-14,Monday,KC,DEN,"(9:50) 10-E.Johnson left end to KC 34 for no gain (49-A.Singleton). PENALTY on KC-65-T.Smith, Chop Block, 15 yards, enforced at KC 34 - No Play.",no_play,0.0,0.0
+2026_01_DEN_KC,1,2026-09-14,Monday,KC,DEN,(9:24) (Shotgun) 15-P.Mahomes pass short middle to 10-E.Johnson to KC 38 for 19 yards (96-E.Uwazurike).,pass,19.0,0.0
+2026_01_DEN_KC,1,2026-09-14,Monday,KC,DEN,(8:35) 10-E.Johnson up the middle to KC 40 for 2 yards (52-J.Elliss; 22-B.Jones).,run,2.0,0.0
+2026_01_DEN_KC,1,2026-09-14,Monday,KC,DEN,(7:52) (Shotgun) 15-P.Mahomes sacked at KC 32 for -8 yards (99-Z.Allen).,pass,-8.0,0.0
+2026_01_DEN_KC,1,2026-09-14,Monday,KC,DEN,"(7:08) 14-M.Araiza punts 59 yards to DEN 9, Center-41-J.Winchester. 19-M.Mims ran ob at DEN 31 for 22 yards (47-B.VanSumeren). PENALTY on DEN-6-T.Anderson, Offensive Holding, 10 yards, enforced at DEN 26.",punt,0.0,0.0
+2026_01_DEN_KC,1,2026-09-14,Monday,DEN,KC,(6:54) (Shotgun) 12-R.Harvey up the middle to DEN 21 for 5 yards (32-N.Bolton; 21-J.Hicks).,run,5.0,0.0
+2026_01_DEN_KC,1,2026-09-14,Monday,DEN,KC,"(6:27) (No Huddle, Shotgun) 10-B.Nix pass short left to 1-E.Engram to DEN 27 for 6 yards (38-L.Sneed).",pass,6.0,0.0
+2026_01_DEN_KC,1,2026-09-14,Monday,DEN,KC,"(5:55) (No Huddle, Shotgun) 10-B.Nix FUMBLES (Aborted) at DEN 22, and recovers at DEN 22.",run,0.0,0.0
+2026_01_DEN_KC,1,2026-09-14,Monday,DEN,KC,"(5:18) (Shotgun) 10-B.Nix sacked at DEN 12 for -10 yards (32-N.Bolton). FUMBLES (32-N.Bolton), RECOVERED by KC-32-N.Bolton at DEN 12. 32-N.Bolton to DEN 12 for no gain (12-R.Harvey). The Replay Official reviewed the fumble ruling, and the play was REVERSED. (Shotgun) 10-B.Nix pass incomplete short middle to 1-E.Engram (32-N.Bolton) [56-G.Karlaftis].",pass,0.0,0.0
+2026_01_DEN_KC,1,2026-09-14,Monday,DEN,KC,(5:13) (Shotgun) 10-B.Nix pass short right to 12-R.Harvey pushed ob at DEN 29 for 7 yards (38-L.Sneed).,pass,7.0,0.0
+2026_01_DEN_KC,1,2026-09-14,Monday,,,Timeout #1 by KC at 04:41.,no_play,0.0,0.0
+2026_01_DEN_KC,1,2026-09-14,Monday,DEN,KC,(4:41) (Shotgun) 10-B.Nix pass incomplete deep left to 11-T.Franklin (20-N.Williams) [56-G.Karlaftis].,pass,0.0,0.0
+2026_01_DEN_KC,1,2026-09-14,Monday,KC,DEN,(4:32) 10-E.Johnson up the middle to DEN 22 for 6 yards (2-P.Surtain; 49-A.Singleton).,run,6.0,0.0
+2026_01_DEN_KC,1,2026-09-14,Monday,KC,DEN,(3:45) 10-E.Johnson left guard to DEN 21 for 1 yard (92-D.Tillman).,run,1.0,0.0
+2026_01_DEN_KC,1,2026-09-14,Monday,KC,DEN,(3:02) 10-E.Johnson left guard to DEN 18 for 3 yards (92-D.Tillman).,run,3.0,0.0
+2026_01_DEN_KC,1,2026-09-14,Monday,KC,DEN,(2:20) 10-E.Johnson up the middle to DEN 14 for 4 yards (22-B.Jones; 51-Q.Robinson).,run,4.0,0.0
+2026_01_DEN_KC,1,2026-09-14,Monday,KC,DEN,(2:00) 15-P.Mahomes kneels to DEN 15 for -1 yards.,qb_kneel,-1.0,0.0
+2026_01_DEN_KC,1,2026-09-14,Monday,KC,DEN,(1:19) 15-P.Mahomes kneels to DEN 17 for -2 yards.,qb_kneel,-2.0,0.0
+2026_01_DEN_KC,1,2026-09-14,Monday,KC,DEN,(:40) 15-P.Mahomes kneels to DEN 18 for -1 yards.,qb_kneel,-1.0,0.0
+2026_01_DEN_KC,1,2026-09-14,Monday,DEN,KC,(:36) 10-B.Nix kneels to DEN 18 for -1 yards.,qb_kneel,-1.0,0.0
+2026_01_DEN_KC,1,2026-09-14,Monday,DEN,KC,END GAME,,,
 2026_01_GB_MIN,1,2026-09-13,Sunday,,,GAME,,,
 2026_01_GB_MIN,1,2026-09-13,Sunday,MIN,GB,"28-T.Smack kicks 65 yards from GB 35 to end zone, Touchback to the MIN 35.",kickoff,0.0,0.0
 2026_01_GB_MIN,1,2026-09-13,Sunday,MIN,GB,(15:00) (Shotgun) 33-A.Jones up the middle to MIN 34 for -1 yards (25-K.Nixon).,run,-1.0,0.0
