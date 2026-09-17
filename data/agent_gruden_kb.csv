@@ -110,7 +110,7 @@ game_id,week,game_date,day_of_week,posteam,defteam,desc,play_type,yards_gained,t
 2026_01_ARI_LAC,1,2026-09-13,Sunday,ARI,LAC,(5:56) (Shotgun) 7-J.Brissett pass short right to 14-Mi.Wilson to ARI 27 for 6 yards (20-C.Hart; 3-D.James).,pass,6.0,0.0
 2026_01_ARI_LAC,1,2026-09-13,Sunday,ARI,LAC,"(5:33) (No Huddle, Shotgun) 7-J.Brissett pass short right to 14-Mi.Wilson to ARI 41 for 14 yards (20-C.Hart) [45-T.Tuipulotu]. Penalty on LAC, Defensive Too Many Men on Field, declined.",pass,14.0,0.0
 2026_01_ARI_LAC,1,2026-09-13,Sunday,ARI,LAC,(5:12) 4-J.Love right end to ARI 44 for 3 yards (0-D.Henley; 92-J.Eboigbe).,run,3.0,0.0
-2026_01_ARI_LAC,1,2026-09-13,Sunday,ARI,LAC,(4:31) (Shotgun) 7-J.Brissett pass short right to 85-T.McBride to LAC 49 for 7 yards (0-D.Henley; 45-T.Tuipulotu).,pass,7.0,0.0
+2026_01_ARI_LAC,1,2026-09-13,Sunday,ARI,LAC,(4:31) (Shotgun) 7-J.Brissett pass short right to 85-T.McBride to LAC 49 for 7 yards (0-D.Henley; 45-T.Tuipulotu). The first down was assisted by replay.,pass,7.0,0.0
 2026_01_ARI_LAC,1,2026-09-13,Sunday,ARI,LAC,"(3:46) PENALTY on ARI-70-P.Johnson, False Start, 5 yards, enforced at LAC 49 - No Play.",no_play,0.0,0.0
 2026_01_ARI_LAC,1,2026-09-13,Sunday,ARI,LAC,(3:32) 7-J.Brissett pass incomplete short middle to 4-J.Love.,pass,0.0,0.0
 2026_01_ARI_LAC,1,2026-09-13,Sunday,ARI,LAC,"(3:27) (No Huddle, Shotgun) 7-J.Brissett pass incomplete deep left to 18-M.Harrison.",pass,0.0,0.0
@@ -2169,8 +2169,8 @@ game_id,week,game_date,day_of_week,posteam,defteam,desc,play_type,yards_gained,t
 2026_01_NYJ_TEN,1,2026-09-13,Sunday,NYJ,TEN,"(:51) (No Huddle, Shotgun) 7-G.Smith pass short left to 18-I.Williams to NYJ 33 for 7 yards (26-M.Harris).",pass,7.0,0.0
 2026_01_NYJ_TEN,1,2026-09-13,Sunday,,,Timeout #2 by NYJ at 00:45.,no_play,0.0,0.0
 2026_01_NYJ_TEN,1,2026-09-13,Sunday,NYJ,TEN,(:45) (Shotgun) 7-G.Smith pass incomplete short right [57-J.Martin].,pass,0.0,0.0
-2026_01_NYJ_TEN,1,2026-09-13,Sunday,NYJ,TEN,"(:36) (Shotgun) 7-G.Smith pass deep right to 15-A.Mitchell pushed ob at TEN 49 for 18 yards (18-C.Flott). The Replay Official reviewed the pass completion ruling, and the play was Upheld. The ruling on the field stands.",pass,18.0,0.0
-2026_01_NYJ_TEN,1,2026-09-13,Sunday,,,Timeout #3 by NYJ at 00:32.,no_play,0.0,0.0
+2026_01_NYJ_TEN,1,2026-09-13,Sunday,NYJ,TEN,"(:36) (Shotgun) 7-G.Smith pass deep right to 15-A.Mitchell ran ob at TEN 49 for 18 yards. The Replay Official reviewed the runner was out of bounds ruling, and the play was REVERSED. (Shotgun) 7-G.Smith pass deep right to 15-A.Mitchell to TEN 49 for 18 yards (18-C.Flott).",pass,18.0,0.0
+2026_01_NYJ_TEN,1,2026-09-13,Sunday,,,Timeout #3 by NYJ at 00:32. 10-second runoff avoided.,no_play,0.0,0.0
 2026_01_NYJ_TEN,1,2026-09-13,Sunday,NYJ,TEN,(:32) (Shotgun) 7-G.Smith pass short middle to 15-A.Mitchell to TEN 47 for 2 yards (37-A.Hooker).,pass,2.0,0.0
 2026_01_NYJ_TEN,1,2026-09-13,Sunday,NYJ,TEN,"(:16) (No Huddle) PENALTY on NYJ-5-G.Wilson, False Start, 5 yards, enforced at TEN 47 - No Play. 10-second runoff.",no_play,0.0,0.0
 2026_01_NYJ_TEN,1,2026-09-13,Sunday,,,END QUARTER 2,,,
