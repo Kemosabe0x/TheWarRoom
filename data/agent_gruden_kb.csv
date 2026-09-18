@@ -2755,3 +2755,187 @@ game_id,week,game_date,day_of_week,posteam,defteam,desc,play_type,yards_gained,t
 2026_01_WAS_PHI,1,2026-09-13,Sunday,PHI,WAS,(1:00) 1-J.Hurts kneels to PHI 47 for -1 yards.,qb_kneel,-1.0,0.0
 2026_01_WAS_PHI,1,2026-09-13,Sunday,PHI,WAS,(:19) 1-J.Hurts kneels to PHI 46 for -1 yards.,qb_kneel,-1.0,0.0
 2026_01_WAS_PHI,1,2026-09-13,Sunday,PHI,WAS,END GAME,,,
+2026_02_DET_BUF,2,2026-09-17,Thursday,,,GAME,,,
+2026_02_DET_BUF,2,2026-09-17,Thursday,BUF,DET,"39-J.Bates kicks 66 yards from DET 35 to BUF -1. 19-G.Dortch to BUF 26 for 27 yards (66-E.O'Neill). PENALTY on BUF-28-S.Franklin, Offensive Holding, 10 yards, enforced at BUF 25.",kickoff,0.0,0.0
+2026_02_DET_BUF,2,2026-09-17,Thursday,BUF,DET,(14:51) 17-J.Allen pass short left to 10-K.Shakir pushed ob at BUF 24 for 9 yards (45-D.White).,pass,9.0,0.0
+2026_02_DET_BUF,2,2026-09-17,Thursday,BUF,DET,(14:25) 4-J.Cook up the middle to BUF 36 for 12 yards (36-C.Clark; 29-A.Maddox).,run,12.0,0.0
+2026_02_DET_BUF,2,2026-09-17,Thursday,BUF,DET,"(13:48) 17-J.Allen sacked at BUF 32 for -4 yards (97-A.Hutchinson). FUMBLES (97-A.Hutchinson) [97-A.Hutchinson], recovered by BUF-79-S.Brown at BUF 31.",pass,-5.0,0.0
+2026_02_DET_BUF,2,2026-09-17,Thursday,BUF,DET,"(12:54) (Shotgun) 17-J.Allen scrambles right end ran ob at BUF 44 for 13 yards (45-D.White). PENALTY on DET-4-D.Reed, Defensive Holding, 5 yards, enforced at BUF 44.",run,13.0,0.0
+2026_02_DET_BUF,2,2026-09-17,Thursday,BUF,DET,(12:26) 4-J.Cook right guard to 50 for 1 yard (46-J.Campbell; 91-T.Williams).,run,1.0,0.0
+2026_02_DET_BUF,2,2026-09-17,Thursday,BUF,DET,(11:48) (Shotgun) 17-J.Allen scrambles right tackle ran ob at DET 38 for 12 yards (55-D.Barnes).,run,12.0,0.0
+2026_02_DET_BUF,2,2026-09-17,Thursday,BUF,DET,(11:08) 17-J.Allen pass short middle to 10-K.Shakir to DET 25 for 13 yards (46-J.Campbell).,pass,13.0,0.0
+2026_02_DET_BUF,2,2026-09-17,Thursday,BUF,DET,(10:28) 4-J.Cook right guard to DET 15 for 10 yards (29-A.Maddox).,run,10.0,0.0
+2026_02_DET_BUF,2,2026-09-17,Thursday,BUF,DET,(9:42) 17-J.Allen scrambles left tackle to DET 1 for 14 yards (23-R.Ya-Sin; 4-D.Reed).,run,14.0,0.0
+2026_02_DET_BUF,2,2026-09-17,Thursday,BUF,DET,"(9:13) (No Huddle) 17-J.Allen left guard for 1 yard, TOUCHDOWN.",run,1.0,1.0
+2026_02_DET_BUF,2,2026-09-17,Thursday,BUF,DET,"16-T.Bass extra point is GOOD, Center-69-R.Ferguson, Holder-39-T.Doman.",extra_point,0.0,0.0
+2026_02_DET_BUF,2,2026-09-17,Thursday,DET,BUF,"16-T.Bass kicks 65 yards from BUF 35 to end zone, Touchback to the DET 35.",kickoff,0.0,0.0
+2026_02_DET_BUF,2,2026-09-17,Thursday,DET,BUF,(9:09) 16-J.Goff pass short left to 87-S.LaPorta to DET 37 for 2 yards (42-D.Williams).,pass,2.0,0.0
+2026_02_DET_BUF,2,2026-09-17,Thursday,DET,BUF,(8:36) 0-J.Gibbs right tackle to DET 37 for no gain (15-G.Rousseau).,run,0.0,0.0
+2026_02_DET_BUF,2,2026-09-17,Thursday,DET,BUF,(7:54) (Shotgun) 16-J.Goff sacked at DET 30 for -7 yards (15-G.Rousseau).,pass,-7.0,0.0
+2026_02_DET_BUF,2,2026-09-17,Thursday,DET,BUF,"(7:16) 3-J.Fox punts 49 yards to BUF 21, Center-49-H.Hatten, fair catch by 19-G.Dortch.",punt,0.0,0.0
+2026_02_DET_BUF,2,2026-09-17,Thursday,BUF,DET,(7:09) 17-J.Allen pass incomplete deep middle to 10-K.Shakir.,pass,0.0,0.0
+2026_02_DET_BUF,2,2026-09-17,Thursday,BUF,DET,(7:02) (Shotgun) 4-J.Cook left guard to BUF 25 for 4 yards (50-S.Gill-Howard; 55-D.Barnes).,run,4.0,0.0
+2026_02_DET_BUF,2,2026-09-17,Thursday,BUF,DET,(6:27) (Shotgun) 17-J.Allen pass short left to 0-K.Coleman pushed ob at BUF 32 for 7 yards (23-R.Ya-Sin).,pass,7.0,0.0
+2026_02_DET_BUF,2,2026-09-17,Thursday,BUF,DET,(5:53) 4-J.Cook up the middle to BUF 33 for 1 yard (5-C.Izien; 36-C.Clark).,run,1.0,0.0
+2026_02_DET_BUF,2,2026-09-17,Thursday,BUF,DET,(5:14) (Shotgun) 17-J.Allen pass deep middle to 86-D.Kincaid to DET 42 for 25 yards (29-A.Maddox; 4-D.Reed).,pass,25.0,0.0
+2026_02_DET_BUF,2,2026-09-17,Thursday,BUF,DET,(4:33) 2-D.Moore left end to DET 43 for -1 yards (55-D.Barnes).,run,-1.0,0.0
+2026_02_DET_BUF,2,2026-09-17,Thursday,BUF,DET,(3:55) (Shotgun) 17-J.Allen pass incomplete short right [46-J.Campbell].,pass,0.0,0.0
+2026_02_DET_BUF,2,2026-09-17,Thursday,BUF,DET,"(3:49) (Shotgun) 17-J.Allen pass deep middle to 5-J.Palmer for 43 yards, TOUCHDOWN [50-S.Gill-Howard].",pass,43.0,1.0
+2026_02_DET_BUF,2,2026-09-17,Thursday,BUF,DET,"16-T.Bass extra point is GOOD, Center-69-R.Ferguson, Holder-39-T.Doman.",extra_point,0.0,0.0
+2026_02_DET_BUF,2,2026-09-17,Thursday,DET,BUF,16-T.Bass kicks 59 yards from BUF 35 to DET 6. 25-J.Saylors to DET 34 for 28 yards (3-D.Hamlin).,kickoff,0.0,0.0
+2026_02_DET_BUF,2,2026-09-17,Thursday,DET,BUF,(3:34) 0-J.Gibbs right tackle to 50 for 16 yards (24-C.Bishop).,run,16.0,0.0
+2026_02_DET_BUF,2,2026-09-17,Thursday,DET,BUF,(2:56) 0-J.Gibbs right end pushed ob at BUF 41 for 9 yards (47-C.Benford).,run,9.0,0.0
+2026_02_DET_BUF,2,2026-09-17,Thursday,DET,BUF,"(2:25) 16-J.Goff sacked at 50 for -9 yards (15-G.Rousseau). FUMBLES (15-G.Rousseau) [15-G.Rousseau], recovered by DET-89-B.Wright at DET 49.",pass,-10.0,0.0
+2026_02_DET_BUF,2,2026-09-17,Thursday,DET,BUF,"(1:44) (Shotgun) 16-J.Goff FUMBLES (Aborted) at DET 44, and recovers at DET 38.",run,0.0,0.0
+2026_02_DET_BUF,2,2026-09-17,Thursday,DET,BUF,"(1:09) 3-J.Fox punts 44 yards to BUF 18, Center-49-H.Hatten. 19-G.Dortch pushed ob at BUF 43 for 25 yards (55-D.Barnes).",punt,0.0,0.0
+2026_02_DET_BUF,2,2026-09-17,Thursday,BUF,DET,(:57) 4-J.Cook right end to DET 48 for 9 yards (36-C.Clark; 93-T.Lacy).,run,9.0,0.0
+2026_02_DET_BUF,2,2026-09-17,Thursday,BUF,DET,(:19) 17-J.Allen pass incomplete deep right to 86-D.Kincaid [54-A.McNeill].,pass,0.0,0.0
+2026_02_DET_BUF,2,2026-09-17,Thursday,BUF,DET,(:13) 4-J.Cook left guard to DET 47 for 1 yard (91-T.Williams).,run,1.0,0.0
+2026_02_DET_BUF,2,2026-09-17,Thursday,BUF,DET,END QUARTER 1,,,
+2026_02_DET_BUF,2,2026-09-17,Thursday,BUF,DET,(15:00) 17-J.Allen pass short right to 86-D.Kincaid pushed ob at DET 35 for 12 yards (55-D.Barnes).,pass,12.0,0.0
+2026_02_DET_BUF,2,2026-09-17,Thursday,BUF,DET,(14:27) 17-J.Allen pass short right to 0-K.Coleman to DET 13 for 22 yards (36-C.Clark).,pass,22.0,0.0
+2026_02_DET_BUF,2,2026-09-17,Thursday,BUF,DET,(13:42) 17-J.Allen pass short right to 0-K.Coleman to DET 9 for 4 yards (23-R.Ya-Sin).,pass,4.0,0.0
+2026_02_DET_BUF,2,2026-09-17,Thursday,BUF,DET,(13:01) (Shotgun) 17-J.Allen pass incomplete short left to 4-J.Cook.,pass,0.0,0.0
+2026_02_DET_BUF,2,2026-09-17,Thursday,BUF,DET,"(12:58) (Shotgun) 17-J.Allen pass short right intended for 86-D.Kincaid INTERCEPTED by 50-S.Gill-Howard (21-R.McCreary) at DET 5. 50-S.Gill-Howard to DET 5 for no gain (86-D.Kincaid). PENALTY on DET-21-R.McCreary, Defensive Holding, 5 yards, enforced at DET 9 - No Play.",no_play,0.0,0.0
+2026_02_DET_BUF,2,2026-09-17,Thursday,BUF,DET,"(12:48) 17-J.Allen sacked at DET 11 for -7 yards (45-D.White). DET-29-A.Maddox was injured during the play. PENALTY on DET-46-J.Campbell, Defensive Holding, 2 yards, enforced at DET 4 - No Play.",no_play,0.0,0.0
+2026_02_DET_BUF,2,2026-09-17,Thursday,BUF,DET,(12:31) 4-J.Cook left tackle to DET 1 for 1 yard (97-A.Hutchinson).,run,1.0,0.0
+2026_02_DET_BUF,2,2026-09-17,Thursday,BUF,DET,"(11:52) 17-J.Allen pass short right to 88-D.Knox for 1 yard, TOUCHDOWN.",pass,1.0,1.0
+2026_02_DET_BUF,2,2026-09-17,Thursday,BUF,DET,"16-T.Bass extra point is GOOD, Center-69-R.Ferguson, Holder-39-T.Doman.",extra_point,0.0,0.0
+2026_02_DET_BUF,2,2026-09-17,Thursday,DET,BUF,16-T.Bass kicks 62 yards from BUF 35 to DET 3. 85-T.Kennedy pushed ob at DET 30 for 27 yards (21-D.Igbinosun; 83-K.Latu).,kickoff,0.0,0.0
+2026_02_DET_BUF,2,2026-09-17,Thursday,DET,BUF,(11:42) (Shotgun) 16-J.Goff scrambles up the middle to DET 33 for 3 yards (42-D.Williams).,run,3.0,0.0
+2026_02_DET_BUF,2,2026-09-17,Thursday,DET,BUF,(11:07) 16-J.Goff pass short left to 0-J.Gibbs to DET 45 for 12 yards (42-D.Williams).,pass,12.0,0.0
+2026_02_DET_BUF,2,2026-09-17,Thursday,DET,BUF,"(10:31) 0-J.Gibbs left guard to BUF 36 for 19 yards (8-T.Bernard; 1-M.Hairston). PENALTY on DET-79-L.Borom, Offensive Holding, 10 yards, enforced at DET 45 - No Play.",no_play,0.0,0.0
+2026_02_DET_BUF,2,2026-09-17,Thursday,DET,BUF,(10:06) (Shotgun) 0-J.Gibbs left end to DET 35 for no gain (23-D.Alford).,run,0.0,0.0
+2026_02_DET_BUF,2,2026-09-17,Thursday,DET,BUF,(9:30) (Shotgun) 16-J.Goff pass short left to 33-S.Vaki to DET 48 for 13 yards (42-D.Williams) [96-D.Walker].,pass,13.0,0.0
+2026_02_DET_BUF,2,2026-09-17,Thursday,DET,BUF,(8:47) (Shotgun) 0-J.Gibbs up the middle to BUF 42 for 10 yards (47-C.Benford).,run,10.0,0.0
+2026_02_DET_BUF,2,2026-09-17,Thursday,DET,BUF,(8:14) 0-J.Gibbs up the middle to BUF 43 for -1 yards (8-T.Bernard).,run,-1.0,0.0
+2026_02_DET_BUF,2,2026-09-17,Thursday,DET,BUF,(7:33) 33-S.Vaki up the middle to BUF 36 for 7 yards (52-K.Elarms-Orr; 23-D.Alford).,run,7.0,0.0
+2026_02_DET_BUF,2,2026-09-17,Thursday,DET,BUF,(6:56) (Shotgun) 16-J.Goff pass short left to 0-J.Gibbs to BUF 28 for 8 yards (24-C.Bishop).,pass,8.0,0.0
+2026_02_DET_BUF,2,2026-09-17,Thursday,DET,BUF,(6:22) 16-J.Goff pass incomplete short left to 87-S.LaPorta.,pass,0.0,0.0
+2026_02_DET_BUF,2,2026-09-17,Thursday,DET,BUF,(6:17) 16-J.Goff pass short right to 14-A.St. Brown pushed ob at BUF 17 for 11 yards (21-D.Igbinosun).,pass,11.0,0.0
+2026_02_DET_BUF,2,2026-09-17,Thursday,DET,BUF,(5:47) 0-J.Gibbs right tackle to BUF 11 for 6 yards (23-D.Alford; 9-B.Chubb).,run,6.0,0.0
+2026_02_DET_BUF,2,2026-09-17,Thursday,DET,BUF,"(5:07) (Shotgun) 16-J.Goff pass short right to 0-J.Gibbs for 11 yards, TOUCHDOWN.",pass,11.0,1.0
+2026_02_DET_BUF,2,2026-09-17,Thursday,DET,BUF,"39-J.Bates extra point is GOOD, Center-49-H.Hatten, Holder-3-J.Fox.",extra_point,0.0,0.0
+2026_02_DET_BUF,2,2026-09-17,Thursday,BUF,DET,39-J.Bates kicks 64 yards from DET 35 to BUF 1. 7-R.Davis to BUF 32 for 31 yards (5-C.Izien).,kickoff,0.0,0.0
+2026_02_DET_BUF,2,2026-09-17,Thursday,BUF,DET,(4:56) 4-J.Cook up the middle ran ob at DET 48 for 20 yards (23-R.Ya-Sin).,run,20.0,0.0
+2026_02_DET_BUF,2,2026-09-17,Thursday,BUF,DET,(4:22) 4-J.Cook left guard pushed ob at DET 13 for 35 yards (4-D.Reed).,run,35.0,0.0
+2026_02_DET_BUF,2,2026-09-17,Thursday,BUF,DET,(3:42) 4-J.Cook up the middle to DET 6 for 7 yards (36-C.Clark; 45-D.White).,run,7.0,0.0
+2026_02_DET_BUF,2,2026-09-17,Thursday,BUF,DET,"(3:01) 17-J.Allen pass incomplete short right to 2-D.Moore. BUF-2-D.Moore was injured during the play. PENALTY on BUF-88-D.Knox, Offensive Holding, 10 yards, enforced at DET 6 - No Play.",no_play,0.0,0.0
+2026_02_DET_BUF,2,2026-09-17,Thursday,BUF,DET,"(2:56) (Shotgun) 17-J.Allen pass deep middle to 86-D.Kincaid for 16 yards, TOUCHDOWN.",pass,16.0,1.0
+2026_02_DET_BUF,2,2026-09-17,Thursday,BUF,DET,"16-T.Bass extra point is No Good, Wide Left, Center-69-R.Ferguson, Holder-39-T.Doman.",extra_point,0.0,0.0
+2026_02_DET_BUF,2,2026-09-17,Thursday,DET,BUF,16-T.Bass kicks 65 yards from BUF 35 to DET 0. 85-T.Kennedy to DET 27 for 27 yards (28-S.Franklin).,kickoff,0.0,0.0
+2026_02_DET_BUF,2,2026-09-17,Thursday,DET,BUF,(2:46) 16-J.Goff pass short left to 87-S.LaPorta to DET 39 for 12 yards (8-T.Bernard).,pass,12.0,0.0
+2026_02_DET_BUF,2,2026-09-17,Thursday,DET,BUF,(2:08) 16-J.Goff pass incomplete short left to 1-J.Williams (96-D.Walker) [96-D.Walker].,pass,0.0,0.0
+2026_02_DET_BUF,2,2026-09-17,Thursday,DET,BUF,(2:03) 16-J.Goff pass short middle to 0-J.Gibbs to DET 48 for 9 yards (52-K.Elarms-Orr; 8-T.Bernard).,pass,9.0,0.0
+2026_02_DET_BUF,2,2026-09-17,Thursday,DET,BUF,"(1:56) PENALTY on DET-70-J.Scruggs, False Start, 4 yards, enforced at DET 48 - No Play.",no_play,0.0,0.0
+2026_02_DET_BUF,2,2026-09-17,Thursday,DET,BUF,(1:56) (Shotgun) 16-J.Goff sacked at DET 31 for -13 yards (9-B.Chubb).,pass,-13.0,0.0
+2026_02_DET_BUF,2,2026-09-17,Thursday,,,Timeout #1 by BUF at 01:51.,no_play,0.0,0.0
+2026_02_DET_BUF,2,2026-09-17,Thursday,DET,BUF,"(1:51) 3-J.Fox punts 62 yards to BUF 7, Center-49-H.Hatten. 19-G.Dortch to BUF 18 for 11 yards (53-T.Nowaske; 17-T.Martin).",punt,0.0,0.0
+2026_02_DET_BUF,2,2026-09-17,Thursday,BUF,DET,(1:36) (Shotgun) 17-J.Allen pass short left to 86-D.Kincaid to BUF 24 for 6 yards (36-C.Clark). BUF-0-K.Coleman was injured during the play.,pass,6.0,0.0
+2026_02_DET_BUF,2,2026-09-17,Thursday,,,Timeout #2 by BUF at 01:27.,no_play,0.0,0.0
+2026_02_DET_BUF,2,2026-09-17,Thursday,BUF,DET,(1:27) (Shotgun) 17-J.Allen pass short middle to 86-D.Kincaid to BUF 30 for 6 yards (46-J.Campbell; 36-C.Clark).,pass,6.0,0.0
+2026_02_DET_BUF,2,2026-09-17,Thursday,BUF,DET,"(1:03) (No Huddle, Shotgun) 17-J.Allen pass incomplete deep right to 10-K.Shakir (4-D.Reed). PENALTY on DET-23-R.Ya-Sin, Defensive Offside, 5 yards, enforced at BUF 30 - No Play.",no_play,0.0,0.0
+2026_02_DET_BUF,2,2026-09-17,Thursday,BUF,DET,(:58) (Shotgun) 17-J.Allen pass incomplete short right to 5-J.Palmer (12-T.Harper). ** Injury Update: BUF-0-K.Coleman has returned to the game.,pass,0.0,0.0
+2026_02_DET_BUF,2,2026-09-17,Thursday,BUF,DET,(:54) (Shotgun) 17-J.Allen pass incomplete short right to 5-J.Palmer.,pass,0.0,0.0
+2026_02_DET_BUF,2,2026-09-17,Thursday,BUF,DET,(:49) (Shotgun) 17-J.Allen pass incomplete short middle to 10-K.Shakir.,pass,0.0,0.0
+2026_02_DET_BUF,2,2026-09-17,Thursday,BUF,DET,"(:46) 39-T.Doman punts 43 yards to DET 22, Center-69-R.Ferguson, fair catch by 85-T.Kennedy.",punt,0.0,0.0
+2026_02_DET_BUF,2,2026-09-17,Thursday,DET,BUF,(:39) (Shotgun) 16-J.Goff pass incomplete deep middle to 18-I.TeSlaa (8-T.Bernard).,pass,0.0,0.0
+2026_02_DET_BUF,2,2026-09-17,Thursday,DET,BUF,(:33) (Shotgun) 16-J.Goff pass short left to 87-S.LaPorta to DET 34 for 12 yards (37-J.Hancock).,pass,12.0,0.0
+2026_02_DET_BUF,2,2026-09-17,Thursday,,,Timeout #1 by DET at 00:28.,no_play,0.0,0.0
+2026_02_DET_BUF,2,2026-09-17,Thursday,DET,BUF,(:28) (Shotgun) 16-J.Goff pass short right to 14-A.St. Brown to BUF 44 for 22 yards (37-J.Hancock; 47-C.Benford).,pass,22.0,0.0
+2026_02_DET_BUF,2,2026-09-17,Thursday,,,Timeout #2 by DET at 00:21.,no_play,0.0,0.0
+2026_02_DET_BUF,2,2026-09-17,Thursday,DET,BUF,(:21) (Shotgun) 16-J.Goff pass incomplete short right to 1-J.Williams [15-G.Rousseau].,pass,0.0,0.0
+2026_02_DET_BUF,2,2026-09-17,Thursday,DET,BUF,"(:16) (Shotgun) PENALTY on DET-79-L.Borom, False Start, 5 yards, enforced at BUF 44 - No Play.",no_play,0.0,0.0
+2026_02_DET_BUF,2,2026-09-17,Thursday,DET,BUF,(:16) (Shotgun) 16-J.Goff pass deep right to 1-J.Williams pushed ob at BUF 33 for 16 yards (1-M.Hairston).,pass,16.0,0.0
+2026_02_DET_BUF,2,2026-09-17,Thursday,DET,BUF,(:10) (Shotgun) 16-J.Goff pass incomplete deep right to 18-I.TeSlaa.,pass,0.0,0.0
+2026_02_DET_BUF,2,2026-09-17,Thursday,DET,BUF,"(:06) (Shotgun) 0-J.Gibbs left guard to BUF 26 for 7 yards (94-L.Jackson). PENALTY on BUF-94-L.Jackson, Tripping, 13 yards, enforced at BUF 26.",run,7.0,0.0
+2026_02_DET_BUF,2,2026-09-17,Thursday,,,Timeout #3 by BUF at 00:01.,no_play,0.0,0.0
+2026_02_DET_BUF,2,2026-09-17,Thursday,DET,BUF,"(:01) 39-J.Bates 31 yard field goal is GOOD, Center-49-H.Hatten, Holder-3-J.Fox.",field_goal,0.0,0.0
+2026_02_DET_BUF,2,2026-09-17,Thursday,,,END QUARTER 2,,,
+2026_02_DET_BUF,2,2026-09-17,Thursday,DET,BUF,16-T.Bass kicks 61 yards from BUF 35 to DET 4. 85-T.Kennedy to DET 26 for 22 yards (56-J.Solomon).,kickoff,0.0,0.0
+2026_02_DET_BUF,2,2026-09-17,Thursday,DET,BUF,(14:54) 0-J.Gibbs left guard to DET 28 for 2 yards (22-C.Gardner-Johnson).,run,2.0,0.0
+2026_02_DET_BUF,2,2026-09-17,Thursday,DET,BUF,(14:20) 16-J.Goff pass short right to 18-I.TeSlaa to DET 34 for 6 yards (37-J.Hancock).,pass,6.0,0.0
+2026_02_DET_BUF,2,2026-09-17,Thursday,DET,BUF,(13:36) (Shotgun) 16-J.Goff pass deep right to 14-A.St. Brown pushed ob at BUF 45 for 21 yards (47-C.Benford).,pass,21.0,0.0
+2026_02_DET_BUF,2,2026-09-17,Thursday,DET,BUF,(13:02) 16-J.Goff pass incomplete short left to 14-A.St. Brown (47-C.Benford).,pass,0.0,0.0
+2026_02_DET_BUF,2,2026-09-17,Thursday,DET,BUF,(12:57) 0-J.Gibbs left guard to BUF 45 for no gain (90-D.Carter).,run,0.0,0.0
+2026_02_DET_BUF,2,2026-09-17,Thursday,DET,BUF,(12:20) (Shotgun) 16-J.Goff pass short right to 14-A.St. Brown to BUF 40 for 5 yards (37-J.Hancock; 42-D.Williams).,pass,5.0,0.0
+2026_02_DET_BUF,2,2026-09-17,Thursday,DET,BUF,(11:40) (Shotgun) 16-J.Goff pass short middle to 87-S.LaPorta to BUF 22 for 18 yards (37-J.Hancock).,pass,18.0,0.0
+2026_02_DET_BUF,2,2026-09-17,Thursday,DET,BUF,(11:17) (No Huddle) 0-J.Gibbs left guard to BUF 20 for 2 yards (97-G.Gaines; 94-L.Jackson).,run,2.0,0.0
+2026_02_DET_BUF,2,2026-09-17,Thursday,DET,BUF,"(10:39) (Shotgun) 16-J.Goff pass short right to 0-J.Gibbs to BUF 11 for 9 yards (8-T.Bernard) [15-G.Rousseau]. Penalty on BUF-24-C.Bishop, Defensive Holding, declined.",pass,9.0,0.0
+2026_02_DET_BUF,2,2026-09-17,Thursday,DET,BUF,(10:11) (Shotgun) 16-J.Goff pass short right to 14-A.St. Brown to BUF 2 for 9 yards (24-C.Bishop; 47-C.Benford).,pass,9.0,0.0
+2026_02_DET_BUF,2,2026-09-17,Thursday,DET,BUF,"(9:31) (Shotgun) 16-J.Goff pass short left to 14-A.St. Brown for 2 yards, TOUCHDOWN.",pass,2.0,1.0
+2026_02_DET_BUF,2,2026-09-17,Thursday,DET,BUF,"39-J.Bates extra point is GOOD, Center-49-H.Hatten, Holder-3-J.Fox.",extra_point,0.0,0.0
+2026_02_DET_BUF,2,2026-09-17,Thursday,BUF,DET,39-J.Bates kicks 65 yards from DET 35 to BUF 0. 19-G.Dortch to BUF 25 for 25 yards (53-T.Nowaske).,kickoff,0.0,0.0
+2026_02_DET_BUF,2,2026-09-17,Thursday,BUF,DET,(9:23) 17-J.Allen scrambles right end to BUF 33 for 8 yards (91-T.Williams).,run,8.0,0.0
+2026_02_DET_BUF,2,2026-09-17,Thursday,BUF,DET,(8:41) 4-J.Cook left tackle to BUF 34 for 1 yard (4-D.Reed; 97-A.Hutchinson).,run,1.0,0.0
+2026_02_DET_BUF,2,2026-09-17,Thursday,BUF,DET,(8:20) (No Huddle) 17-J.Allen up the middle to BUF 37 for 3 yards (54-A.McNeill).,run,3.0,0.0
+2026_02_DET_BUF,2,2026-09-17,Thursday,BUF,DET,(7:43) (Shotgun) 4-J.Cook left tackle to BUF 41 for 4 yards (98-D.Wonnum).,run,4.0,0.0
+2026_02_DET_BUF,2,2026-09-17,Thursday,BUF,DET,(7:06) 17-J.Allen pass short right to 4-J.Cook to BUF 45 for 4 yards (4-D.Reed; 45-D.White).,pass,4.0,0.0
+2026_02_DET_BUF,2,2026-09-17,Thursday,BUF,DET,(6:20) 68-T.Grable reported in as eligible. 17-J.Allen pass short right to 88-D.Knox to BUF 49 for 4 yards (45-D.White).,pass,4.0,0.0
+2026_02_DET_BUF,2,2026-09-17,Thursday,BUF,DET,(5:38) 17-J.Allen sacked at BUF 49 for 0 yards (55-D.Barnes).,pass,0.0,0.0
+2026_02_DET_BUF,2,2026-09-17,Thursday,BUF,DET,(4:54) (Shotgun) 17-J.Allen pass short right to 0-K.Coleman to DET 42 for 9 yards (23-R.Ya-Sin).,pass,9.0,0.0
+2026_02_DET_BUF,2,2026-09-17,Thursday,BUF,DET,(4:15) 68-T.Grable reported in as eligible. 17-J.Allen up the middle to DET 40 for 2 yards (46-J.Campbell; 54-A.McNeill).,run,2.0,0.0
+2026_02_DET_BUF,2,2026-09-17,Thursday,BUF,DET,(3:33) 17-J.Allen pass incomplete short left to 4-J.Cook [91-T.Williams].,pass,0.0,0.0
+2026_02_DET_BUF,2,2026-09-17,Thursday,,,Timeout #1 by DET at 03:28.,no_play,0.0,0.0
+2026_02_DET_BUF,2,2026-09-17,Thursday,BUF,DET,(3:28) (Shotgun) 17-J.Allen left guard to DET 31 for 9 yards (98-D.Wonnum; 55-D.Barnes).,run,9.0,0.0
+2026_02_DET_BUF,2,2026-09-17,Thursday,BUF,DET,(2:50) 17-J.Allen up the middle to DET 29 for 2 yards (93-T.Lacy).,run,2.0,0.0
+2026_02_DET_BUF,2,2026-09-17,Thursday,BUF,DET,(2:07) (Shotgun) 17-J.Allen pass short left to 86-D.Kincaid pushed ob at DET 6 for 23 yards (36-C.Clark; 45-D.White).,pass,23.0,0.0
+2026_02_DET_BUF,2,2026-09-17,Thursday,BUF,DET,"(1:28) 4-J.Cook right end to DET 4 for 2 yards (4-D.Reed). PENALTY on DET-45-D.White, Face Mask, 2 yards, enforced at DET 4.",run,2.0,0.0
+2026_02_DET_BUF,2,2026-09-17,Thursday,BUF,DET,"(1:13) 17-J.Allen scrambles right end for 2 yards, TOUCHDOWN.",run,2.0,1.0
+2026_02_DET_BUF,2,2026-09-17,Thursday,BUF,DET,"16-T.Bass extra point is GOOD, Center-69-R.Ferguson, Holder-39-T.Doman.",extra_point,0.0,0.0
+2026_02_DET_BUF,2,2026-09-17,Thursday,DET,BUF,16-T.Bass kicks 61 yards from BUF 35 to DET 4. 25-J.Saylors to DET 34 for 30 yards (99-T.Parker).,kickoff,0.0,0.0
+2026_02_DET_BUF,2,2026-09-17,Thursday,DET,BUF,(1:01) 0-J.Gibbs right tackle pushed ob at DET 34 for no gain (21-D.Igbinosun).,run,0.0,0.0
+2026_02_DET_BUF,2,2026-09-17,Thursday,DET,BUF,(:28) 16-J.Goff pass deep left to 14-A.St. Brown pushed ob at BUF 32 for 34 yards (21-D.Igbinosun).,pass,34.0,0.0
+2026_02_DET_BUF,2,2026-09-17,Thursday,DET,BUF,END QUARTER 3,,,
+2026_02_DET_BUF,2,2026-09-17,Thursday,DET,BUF,(15:00) (Shotgun) 16-J.Goff pass incomplete deep middle to 14-A.St. Brown (42-D.Williams) [96-D.Walker].,pass,0.0,0.0
+2026_02_DET_BUF,2,2026-09-17,Thursday,DET,BUF,(14:55) 0-J.Gibbs right guard to BUF 30 for 2 yards (47-C.Benford; 96-D.Walker).,run,2.0,0.0
+2026_02_DET_BUF,2,2026-09-17,Thursday,DET,BUF,(14:13) (Shotgun) 16-J.Goff pass short left to 14-A.St. Brown to BUF 19 for 11 yards (23-D.Alford).,pass,11.0,0.0
+2026_02_DET_BUF,2,2026-09-17,Thursday,DET,BUF,(13:35) 16-J.Goff pass short left to 87-S.LaPorta pushed ob at BUF 12 for 7 yards (24-C.Bishop).,pass,7.0,0.0
+2026_02_DET_BUF,2,2026-09-17,Thursday,DET,BUF,(13:05) (Shotgun) 0-J.Gibbs left tackle to BUF 12 for no gain (47-C.Benford).,run,0.0,0.0
+2026_02_DET_BUF,2,2026-09-17,Thursday,DET,BUF,(12:28) (Shotgun) 16-J.Goff pass incomplete short left to 18-I.TeSlaa (47-C.Benford).,pass,0.0,0.0
+2026_02_DET_BUF,2,2026-09-17,Thursday,DET,BUF,"(12:24) (Shotgun) PENALTY on DET-79-L.Borom, False Start, 5 yards, enforced at BUF 12 - No Play.",no_play,0.0,0.0
+2026_02_DET_BUF,2,2026-09-17,Thursday,DET,BUF,"(12:24) (Shotgun) 16-J.Goff pass incomplete short left to 1-J.Williams (21-D.Igbinosun) [9-B.Chubb]. PENALTY on BUF-21-D.Igbinosun, Defensive Holding, 5 yards, enforced at BUF 17 - No Play.",no_play,0.0,0.0
+2026_02_DET_BUF,2,2026-09-17,Thursday,DET,BUF,(12:18) (Shotgun) 16-J.Goff scrambles left tackle pushed ob at BUF 8 for 4 yards (9-B.Chubb).,run,4.0,0.0
+2026_02_DET_BUF,2,2026-09-17,Thursday,DET,BUF,(11:42) 0-J.Gibbs right guard to BUF 9 for -1 yards (42-D.Williams).,run,-1.0,0.0
+2026_02_DET_BUF,2,2026-09-17,Thursday,DET,BUF,"(11:01) (Shotgun) 16-J.Goff pass incomplete short right to 87-S.LaPorta. PENALTY on BUF-47-C.Benford, Defensive Pass Interference, 8 yards, enforced at BUF 9 - No Play.",no_play,0.0,0.0
+2026_02_DET_BUF,2,2026-09-17,Thursday,DET,BUF,"(10:57) 16-J.Goff pass short left to 87-S.LaPorta for 1 yard, TOUCHDOWN.",pass,1.0,1.0
+2026_02_DET_BUF,2,2026-09-17,Thursday,DET,BUF,"39-J.Bates extra point is GOOD, Center-49-H.Hatten, Holder-3-J.Fox.",extra_point,0.0,0.0
+2026_02_DET_BUF,2,2026-09-17,Thursday,BUF,DET,"39-J.Bates kicks 65 yards from DET 35 to end zone, Touchback to the BUF 35.",kickoff,0.0,0.0
+2026_02_DET_BUF,2,2026-09-17,Thursday,BUF,DET,(10:53) 17-J.Allen pass incomplete short right.,pass,0.0,0.0
+2026_02_DET_BUF,2,2026-09-17,Thursday,BUF,DET,(10:47) (Shotgun) 17-J.Allen pass short left to 86-D.Kincaid to BUF 42 for 7 yards (12-T.Harper).,pass,7.0,0.0
+2026_02_DET_BUF,2,2026-09-17,Thursday,BUF,DET,(10:06) (Shotgun) 17-J.Allen left tackle to BUF 48 for 6 yards (12-T.Harper).,run,6.0,0.0
+2026_02_DET_BUF,2,2026-09-17,Thursday,BUF,DET,(9:22) 4-J.Cook right guard to 50 for 2 yards (91-T.Williams).,run,2.0,0.0
+2026_02_DET_BUF,2,2026-09-17,Thursday,BUF,DET,(8:45) 17-J.Allen pass incomplete short right [97-A.Hutchinson].,pass,0.0,0.0
+2026_02_DET_BUF,2,2026-09-17,Thursday,BUF,DET,(8:37) (Shotgun) 17-J.Allen pass incomplete short right to 10-K.Shakir.,pass,0.0,0.0
+2026_02_DET_BUF,2,2026-09-17,Thursday,BUF,DET,"(8:32) 39-T.Doman punts 40 yards to DET 10, Center-69-R.Ferguson, fair catch by 85-T.Kennedy.",punt,0.0,0.0
+2026_02_DET_BUF,2,2026-09-17,Thursday,DET,BUF,(8:25) (Shotgun) 16-J.Goff pass incomplete short middle to 0-J.Gibbs (96-D.Walker).,pass,0.0,0.0
+2026_02_DET_BUF,2,2026-09-17,Thursday,DET,BUF,(8:20) 0-J.Gibbs up the middle to DET 10 for no gain (24-C.Bishop).,run,0.0,0.0
+2026_02_DET_BUF,2,2026-09-17,Thursday,DET,BUF,(7:41) (Shotgun) 16-J.Goff pass incomplete short right to 14-A.St. Brown (96-D.Walker).,pass,0.0,0.0
+2026_02_DET_BUF,2,2026-09-17,Thursday,DET,BUF,"(7:36) 3-J.Fox punts 51 yards to BUF 39, Center-49-H.Hatten. 19-G.Dortch ran ob at BUF 39 for no gain.",punt,0.0,0.0
+2026_02_DET_BUF,2,2026-09-17,Thursday,BUF,DET,(7:28) 4-J.Cook left tackle to BUF 41 for 2 yards (36-C.Clark).,run,2.0,0.0
+2026_02_DET_BUF,2,2026-09-17,Thursday,BUF,DET,(6:47) (Shotgun) 4-J.Cook left guard to BUF 42 for 1 yard (5-C.Izien).,run,1.0,0.0
+2026_02_DET_BUF,2,2026-09-17,Thursday,BUF,DET,(6:05) (Shotgun) 17-J.Allen pass short left to 0-K.Coleman to DET 49 for 9 yards (23-R.Ya-Sin). DET-23-R.Ya-Sin was injured during the play.,pass,9.0,0.0
+2026_02_DET_BUF,2,2026-09-17,Thursday,BUF,DET,(5:25) 4-J.Cook right tackle to BUF 49 for -2 yards (30-K.Dorsey). The player down by contact was assisted by replay.,run,-2.0,0.0
+2026_02_DET_BUF,2,2026-09-17,Thursday,BUF,DET,(4:31) (Shotgun) 17-J.Allen pass short right to 10-K.Shakir to DET 35 for 16 yards (36-C.Clark; 46-J.Campbell).,pass,16.0,0.0
+2026_02_DET_BUF,2,2026-09-17,Thursday,BUF,DET,(3:45) 17-J.Allen pass short middle to 0-K.Coleman to DET 23 for 12 yards (46-J.Campbell) [53-T.Nowaske]. ** Injury Update: DET-23-R.Ya-Sin has returned to the game.,pass,12.0,0.0
+2026_02_DET_BUF,2,2026-09-17,Thursday,BUF,DET,(3:01) 4-J.Cook right tackle pushed ob at DET 1 for 22 yards (36-C.Clark).,run,22.0,0.0
+2026_02_DET_BUF,2,2026-09-17,Thursday,BUF,DET,"(2:53) 4-J.Cook right tackle for 1 yard, TOUCHDOWN.",run,1.0,1.0
+2026_02_DET_BUF,2,2026-09-17,Thursday,BUF,DET,"16-T.Bass extra point is GOOD, Center-69-R.Ferguson, Holder-39-T.Doman.",extra_point,0.0,0.0
+2026_02_DET_BUF,2,2026-09-17,Thursday,DET,BUF,16-T.Bass kicks 56 yards from BUF 35 to DET 9. 85-T.Kennedy pushed ob at DET 32 for 23 yards (21-D.Igbinosun).,kickoff,0.0,0.0
+2026_02_DET_BUF,2,2026-09-17,Thursday,DET,BUF,(2:45) (Shotgun) 16-J.Goff pass incomplete short right to 0-J.Gibbs.,pass,0.0,0.0
+2026_02_DET_BUF,2,2026-09-17,Thursday,DET,BUF,(2:41) (Shotgun) 16-J.Goff sacked at DET 24 for -8 yards (sack split by 55-M.Hoecht and 9-B.Chubb).,pass,-8.0,0.0
+2026_02_DET_BUF,2,2026-09-17,Thursday,DET,BUF,"(2:16) (No Huddle, Shotgun) 16-J.Goff pass incomplete deep middle to 14-A.St. Brown.",pass,0.0,0.0
+2026_02_DET_BUF,2,2026-09-17,Thursday,DET,BUF,(2:12) (Shotgun) 16-J.Goff pass deep left to 18-I.TeSlaa pushed ob at DET 44 for 20 yards (47-C.Benford).,pass,20.0,0.0
+2026_02_DET_BUF,2,2026-09-17,Thursday,DET,BUF,"(2:06) (No Huddle, Shotgun) 16-J.Goff pass short middle to 0-J.Gibbs to BUF 44 for 12 yards (24-C.Bishop).",pass,12.0,0.0
+2026_02_DET_BUF,2,2026-09-17,Thursday,DET,BUF,(2:00) (Shotgun) 16-J.Goff pass deep left to 1-J.Williams to BUF 27 for 17 yards (8-T.Bernard; 3-D.Hamlin). BUF-56-J.Solomon was injured during the play.,pass,17.0,0.0
+2026_02_DET_BUF,2,2026-09-17,Thursday,,,Timeout #1 by BUF at 01:48.,no_play,0.0,0.0
+2026_02_DET_BUF,2,2026-09-17,Thursday,DET,BUF,"(1:48) (Shotgun) 16-J.Goff pass deep middle to 14-A.St. Brown for 27 yards, TOUCHDOWN [51-M.Danna].",pass,27.0,1.0
+2026_02_DET_BUF,2,2026-09-17,Thursday,DET,BUF,"39-J.Bates extra point is GOOD, Center-49-H.Hatten, Holder-3-J.Fox.",extra_point,0.0,0.0
+2026_02_DET_BUF,2,2026-09-17,Thursday,BUF,DET,39-J.Bates kicks onside 12 yards from DET 35 to DET 47. 10-K.Shakir to DET 36 for 11 yards (25-J.Saylors).,kickoff,0.0,0.0
+2026_02_DET_BUF,2,2026-09-17,Thursday,BUF,DET,(1:39) 4-J.Cook right guard to DET 35 for 1 yard (44-M.Rodriguez; 91-T.Williams).,run,1.0,0.0
+2026_02_DET_BUF,2,2026-09-17,Thursday,,,Timeout #2 by DET at 01:33.,no_play,0.0,0.0
+2026_02_DET_BUF,2,2026-09-17,Thursday,BUF,DET,"(1:33) 4-J.Cook left tackle to DET 38 for -3 yards (93-T.Lacy, 91-T.Williams). PENALTY on DET-93-T.Lacy, Face Mask, 15 yards, enforced at DET 35 - No Play.",no_play,0.0,0.0
+2026_02_DET_BUF,2,2026-09-17,Thursday,BUF,DET,(1:28) 17-J.Allen kneels to DET 21 for -1 yards.,qb_kneel,-1.0,0.0
+2026_02_DET_BUF,2,2026-09-17,Thursday,BUF,DET,(:49) 17-J.Allen kneels to DET 22 for -1 yards.,qb_kneel,-1.0,0.0
+2026_02_DET_BUF,2,2026-09-17,Thursday,BUF,DET,(:11) 17-J.Allen kneels to DET 23 for -1 yards.,qb_kneel,-1.0,0.0
+2026_02_DET_BUF,2,2026-09-17,Thursday,BUF,DET,END GAME,,,
