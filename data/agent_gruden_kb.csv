@@ -4675,6 +4675,161 @@ game_id,week,game_date,day_of_week,posteam,defteam,desc,play_type,yards_gained,t
 2026_02_NO_BAL,2,2026-09-20,Sunday,BAL,NO,(:20) (Shotgun) 8-L.Jackson pass deep left intended for 7-R.Bateman INTERCEPTED by 23-J.Blackmon at NO 7. 23-J.Blackmon to NO 9 for 2 yards (7-R.Bateman).,pass,0.0,0.0
 2026_02_NO_BAL,2,2026-09-20,Sunday,NO,BAL,(:13) 6-T.Shough kneels to NO 8 for -1 yards.,qb_kneel,-1.0,0.0
 2026_02_NO_BAL,2,2026-09-20,Sunday,NO,BAL,END GAME,,,
+2026_02_NYG_LA,2,2026-09-21,Monday,,,GAME,,,
+2026_02_NYG_LA,2,2026-09-21,Monday,NYG,LA,92-H.Mevis kicks 63 yards from LA 35 to NYG 2. 87-B.Berrios pushed ob at NYG 30 for 28 yards (37-Q.Lake).,kickoff,0.0,0.0
+2026_02_NYG_LA,2,2026-09-21,Monday,NYG,LA,(14:54) 44-C.Skattebo left tackle to NYG 34 for 4 yards (22-T.McDuffie).,run,4.0,0.0
+2026_02_NYG_LA,2,2026-09-21,Monday,NYG,LA,(14:09) (No Huddle) 44-C.Skattebo right guard to NYG 37 for 3 yards (53-N.Landman).,run,3.0,0.0
+2026_02_NYG_LA,2,2026-09-21,Monday,NYG,LA,(13:27) (Shotgun) 6-J.Dart pass short middle to 9-I.Likely to NYG 41 for 4 yards (37-Q.Lake).,pass,4.0,0.0
+2026_02_NYG_LA,2,2026-09-21,Monday,NYG,LA,(12:42) 6-J.Dart pass short left to 88-M.Fields to LA 45 for 14 yards (35-J.Watson).,pass,14.0,0.0
+2026_02_NYG_LA,2,2026-09-21,Monday,NYG,LA,(12:08) (Shotgun) 6-J.Dart pass incomplete short right to 84-T.Johnson (37-Q.Lake).,pass,0.0,0.0
+2026_02_NYG_LA,2,2026-09-21,Monday,NYG,LA,(12:05) (Shotgun) 6-J.Dart pass short left to 44-C.Skattebo pushed ob at LA 43 for 2 yards (3-K.Curl).,pass,2.0,0.0
+2026_02_NYG_LA,2,2026-09-21,Monday,NYG,LA,(11:28) (Shotgun) 6-J.Dart pass incomplete deep left to 84-T.Johnson (3-K.Curl) [0-B.Young]. NYG-6-J.Dart was injured during the play.,pass,0.0,0.0
+2026_02_NYG_LA,2,2026-09-21,Monday,NYG,LA,"(11:20) 15-J.Stout punts 33 yards to LA 10, Center-58-B.Mann, fair catch by 19-X.Smith.",punt,0.0,0.0
+2026_02_NYG_LA,2,2026-09-21,Monday,LA,NYG,(11:12) 23-K.Williams up the middle to LA 13 for 3 yards (98-D.Reader).,run,3.0,0.0
+2026_02_NYG_LA,2,2026-09-21,Monday,LA,NYG,(10:40) (Shotgun) 9-M.Stafford pass short left to 23-K.Williams to LA 15 for 2 yards (12-C.Hood).,pass,2.0,0.0
+2026_02_NYG_LA,2,2026-09-21,Monday,LA,NYG,(10:02) (Shotgun) 9-M.Stafford pass incomplete short right to 17-D.Adams (20-G.Newsome).,pass,0.0,0.0
+2026_02_NYG_LA,2,2026-09-21,Monday,LA,NYG,"(9:58) 42-E.Evans punts 38 yards to NYG 47, Center-49-J.Cardona, fair catch by 87-B.Berrios.",punt,0.0,0.0
+2026_02_NYG_LA,2,2026-09-21,Monday,NYG,LA,(9:51) 44-C.Skattebo up the middle to NYG 49 for 2 yards (97-P.Ford; 48-O.Speights).,run,2.0,0.0
+2026_02_NYG_LA,2,2026-09-21,Monday,NYG,LA,(9:10) (Shotgun) 26-D.Singletary up the middle to LA 45 for 6 yards (35-J.Watson; 48-O.Speights).,run,6.0,0.0
+2026_02_NYG_LA,2,2026-09-21,Monday,NYG,LA,(8:33) (Shotgun) 44-C.Skattebo up the middle to LA 40 for 5 yards (37-Q.Lake; 53-N.Landman).,run,5.0,0.0
+2026_02_NYG_LA,2,2026-09-21,Monday,NYG,LA,(7:50) 19-J.Winston pass incomplete short left to 84-T.Johnson [91-K.Turner].,pass,0.0,0.0
+2026_02_NYG_LA,2,2026-09-21,Monday,NYG,LA,(7:46) (Shotgun) 26-D.Singletary up the middle to LA 39 for 1 yard (0-B.Young; 91-K.Turner).,run,1.0,0.0
+2026_02_NYG_LA,2,2026-09-21,Monday,NYG,LA,"(7:06) (Shotgun) 19-J.Winston pass incomplete short right to 17-D.Mooney [0-B.Young]. PENALTY on LA-30-J.Wallace, Defensive Pass Interference, 5 yards, enforced at LA 39 - No Play.",no_play,0.0,0.0
+2026_02_NYG_LA,2,2026-09-21,Monday,NYG,LA,"(7:02) (Shotgun) 44-C.Skattebo left end pushed ob at LA 31 for 3 yards (53-N.Landman; 35-J.Watson). PENALTY on NYG-76-J.Runyan, Offensive Holding, 10 yards, enforced at LA 34 - No Play.",no_play,0.0,0.0
+2026_02_NYG_LA,2,2026-09-21,Monday,NYG,LA,(6:37) (Shotgun) 19-J.Winston pass short left to 1-M.Nabers to LA 43 for 1 yard (30-J.Wallace).,pass,1.0,0.0
+2026_02_NYG_LA,2,2026-09-21,Monday,NYG,LA,(5:50) (Shotgun) 19-J.Winston pass incomplete short middle to 9-I.Likely (37-Q.Lake).,pass,0.0,0.0
+2026_02_NYG_LA,2,2026-09-21,Monday,NYG,LA,(5:46) (Shotgun) 19-J.Winston pass incomplete short left to 26-D.Singletary.,pass,0.0,0.0
+2026_02_NYG_LA,2,2026-09-21,Monday,NYG,LA,"(5:43) 15-J.Stout punts 43 yards to end zone, Center-58-B.Mann, Touchback.",punt,0.0,0.0
+2026_02_NYG_LA,2,2026-09-21,Monday,LA,NYG,(5:35) 24-B.Corum right tackle to LA 21 for 1 yard (49-T.Edmunds; 27-T.Nubin).,run,1.0,0.0
+2026_02_NYG_LA,2,2026-09-21,Monday,LA,NYG,(4:54) (Shotgun) 9-M.Stafford pass short right to 18-T.Ferguson to LA 29 for 8 yards (52-A.Reese).,pass,8.0,0.0
+2026_02_NYG_LA,2,2026-09-21,Monday,LA,NYG,(4:23) (Shotgun) 24-B.Corum up the middle to LA 31 for 2 yards (57-C.Golston).,run,2.0,0.0
+2026_02_NYG_LA,2,2026-09-21,Monday,LA,NYG,(3:42) 9-M.Stafford pass short left to 84-C.Parkinson to LA 38 for 7 yards (22-A.Phillips).,pass,7.0,0.0
+2026_02_NYG_LA,2,2026-09-21,Monday,LA,NYG,(2:59) 9-M.Stafford pass deep left to 17-D.Adams to NYG 43 for 19 yards (24-A.Washington).,pass,19.0,0.0
+2026_02_NYG_LA,2,2026-09-21,Monday,LA,NYG,(2:14) 24-B.Corum up the middle to NYG 27 for 16 yards (27-T.Nubin; 8-J.Holland).,run,16.0,0.0
+2026_02_NYG_LA,2,2026-09-21,Monday,LA,NYG,"(1:33) 9-M.Stafford scrambles right end to NYG 25 for 2 yards (5-K.Thibodeaux). PENALTY on LA-84-C.Parkinson, Offensive Holding, 10 yards, enforced at NYG 27 - No Play.",no_play,0.0,0.0
+2026_02_NYG_LA,2,2026-09-21,Monday,LA,NYG,(:58) (Shotgun) 9-M.Stafford pass short left to 18-T.Ferguson to NYG 31 for 6 yards (27-T.Nubin).,pass,6.0,0.0
+2026_02_NYG_LA,2,2026-09-21,Monday,LA,NYG,"(:19) (Shotgun) 9-M.Stafford pass short middle to 17-D.Adams for 31 yards, TOUCHDOWN.",pass,31.0,1.0
+2026_02_NYG_LA,2,2026-09-21,Monday,LA,NYG,"92-H.Mevis extra point is GOOD, Center-49-J.Cardona, Holder-42-E.Evans.",extra_point,0.0,0.0
+2026_02_NYG_LA,2,2026-09-21,Monday,NYG,LA,92-H.Mevis kicks 63 yards from LA 35 to NYG 2. 87-B.Berrios to NYG 27 for 25 yards (48-O.Speights).,kickoff,0.0,0.0
+2026_02_NYG_LA,2,2026-09-21,Monday,NYG,LA,(:06) (Shotgun) 19-J.Winston pass incomplete short left to 1-M.Nabers (22-T.McDuffie). NYG-1-M.Nabers was injured during the play.,pass,0.0,0.0
+2026_02_NYG_LA,2,2026-09-21,Monday,NYG,LA,(:01) (Shotgun) 44-C.Skattebo right tackle to NYG 28 for 1 yard (53-N.Landman; 94-D.Johnson).,run,1.0,0.0
+2026_02_NYG_LA,2,2026-09-21,Monday,NYG,LA,END QUARTER 1,,,
+2026_02_NYG_LA,2,2026-09-21,Monday,NYG,LA,(15:00) (Shotgun) 19-J.Winston pass incomplete deep middle to 88-M.Fields (35-J.Watson) [2-J.McCollough].,pass,0.0,0.0
+2026_02_NYG_LA,2,2026-09-21,Monday,NYG,LA,"(14:48) 15-J.Stout punts 61 yards to LA 11, Center-58-B.Mann. 19-X.Smith to LA 22 for 11 yards (46-Z.Barnes).",punt,0.0,0.0
+2026_02_NYG_LA,2,2026-09-21,Monday,LA,NYG,"(14:35) 23-K.Williams left end to LA 26 for 4 yards (52-A.Reese). PENALTY on LA-4-K.Mumpfield, Offensive Holding, 10 yards, enforced at LA 22 - No Play.",no_play,0.0,0.0
+2026_02_NYG_LA,2,2026-09-21,Monday,LA,NYG,(14:18) (Shotgun) 9-M.Stafford pass short right to 17-D.Adams to LA 16 for 4 yards (52-A.Reese).,pass,4.0,0.0
+2026_02_NYG_LA,2,2026-09-21,Monday,LA,NYG,(13:36) (Shotgun) 9-M.Stafford pass short right to 18-T.Ferguson to LA 22 for 6 yards (27-T.Nubin) [0-B.Burns].,pass,6.0,0.0
+2026_02_NYG_LA,2,2026-09-21,Monday,LA,NYG,(12:50) (Shotgun) 9-M.Stafford pass deep right to 17-D.Adams to NYG 14 for 64 yards (8-J.Holland).,pass,64.0,0.0
+2026_02_NYG_LA,2,2026-09-21,Monday,,,Timeout #1 by LA at 12:01.,no_play,0.0,0.0
+2026_02_NYG_LA,2,2026-09-21,Monday,LA,NYG,(12:01) 23-K.Williams up the middle to NYG 10 for 4 yards (57-C.Golston).,run,4.0,0.0
+2026_02_NYG_LA,2,2026-09-21,Monday,LA,NYG,(11:18) 9-M.Stafford pass incomplete short right to 19-X.Smith.,pass,0.0,0.0
+2026_02_NYG_LA,2,2026-09-21,Monday,LA,NYG,"(11:13) (Shotgun) 9-M.Stafford pass short left to 23-K.Williams for 10 yards, TOUCHDOWN.",pass,10.0,1.0
+2026_02_NYG_LA,2,2026-09-21,Monday,LA,NYG,"92-H.Mevis extra point is GOOD, Center-49-J.Cardona, Holder-42-E.Evans.",extra_point,0.0,0.0
+2026_02_NYG_LA,2,2026-09-21,Monday,NYG,LA,92-H.Mevis kicks 57 yards from LA 35 to NYG 8. 29-T.Tracy to NYG 34 for 26 yards (48-O.Speights; 92-H.Mevis).,kickoff,0.0,0.0
+2026_02_NYG_LA,2,2026-09-21,Monday,NYG,LA,(11:01) 23-N.Harris left guard to NYG 36 for 2 yards (97-P.Ford). ** Injury Update: NYG-1-M.Nabers has returned to the game.,run,2.0,0.0
+2026_02_NYG_LA,2,2026-09-21,Monday,NYG,LA,(10:20) 19-J.Winston pass deep left to 17-D.Mooney pushed ob at LA 31 for 33 yards (3-K.Curl) [94-D.Johnson].,pass,33.0,0.0
+2026_02_NYG_LA,2,2026-09-21,Monday,NYG,LA,(9:40) 23-N.Harris right tackle to LA 27 for 4 yards (53-N.Landman).,run,4.0,0.0
+2026_02_NYG_LA,2,2026-09-21,Monday,NYG,LA,(9:08) (Shotgun) 19-J.Winston pass short middle to 9-I.Likely to LA 22 for 5 yards (35-J.Watson).,pass,5.0,0.0
+2026_02_NYG_LA,2,2026-09-21,Monday,NYG,LA,(8:29) 19-J.Winston up the middle to LA 22 for no gain (97-P.Ford; 91-K.Turner).,run,0.0,0.0
+2026_02_NYG_LA,2,2026-09-21,Monday,NYG,LA,"(7:46) 19-J.Winston right guard to LA 21 for 1 yard (99-A.Donald; 0-B.Young). (Virtual Measurement). Los Angeles Rams challenged the first down ruling, and the play was Upheld. The ruling on the field stands. (Timeout #2.)",run,1.0,0.0
+2026_02_NYG_LA,2,2026-09-21,Monday,NYG,LA,(7:16) 19-J.Winston pass incomplete deep left to 84-T.Johnson.,pass,0.0,0.0
+2026_02_NYG_LA,2,2026-09-21,Monday,NYG,LA,(7:11) (Shotgun) 44-C.Skattebo right guard to LA 18 for 3 yards (91-K.Turner).,run,3.0,0.0
+2026_02_NYG_LA,2,2026-09-21,Monday,NYG,LA,(6:31) (Shotgun) 19-J.Winston pass deep middle intended for 1-M.Nabers INTERCEPTED by 22-T.McDuffie [0-B.Young] at LA -1. 22-T.McDuffie to LA 21 for 22 yards (84-T.Johnson).,pass,0.0,0.0
+2026_02_NYG_LA,2,2026-09-21,Monday,LA,NYG,(6:21) 24-B.Corum right guard to LA 26 for 5 yards (57-C.Golston).,run,5.0,0.0
+2026_02_NYG_LA,2,2026-09-21,Monday,LA,NYG,(5:37) 9-M.Stafford pass deep left intended for 17-D.Adams INTERCEPTED by 8-J.Holland at NYG 29. 8-J.Holland to NYG 29 for no gain (17-D.Adams).,pass,0.0,0.0
+2026_02_NYG_LA,2,2026-09-21,Monday,NYG,LA,(5:27) 19-J.Winston pass short right to 44-C.Skattebo pushed ob at NYG 48 for 19 yards (37-Q.Lake).,pass,19.0,0.0
+2026_02_NYG_LA,2,2026-09-21,Monday,NYG,LA,(4:45) 19-J.Winston sacked at NYG 48 for 0 yards (47-W.Bailey).,pass,0.0,0.0
+2026_02_NYG_LA,2,2026-09-21,Monday,NYG,LA,(4:06) 26-D.Singletary up the middle to 50 for 2 yards (53-N.Landman; 99-A.Donald).,run,2.0,0.0
+2026_02_NYG_LA,2,2026-09-21,Monday,NYG,LA,(3:24) (Shotgun) 19-J.Winston pass incomplete short left to 17-D.Mooney.,pass,0.0,0.0
+2026_02_NYG_LA,2,2026-09-21,Monday,NYG,LA,"(3:21) 15-J.Stout punts 42 yards to LA 8, Center-58-B.Mann. 19-X.Smith to LA 6 for -2 yards (88-M.Fields).",punt,0.0,0.0
+2026_02_NYG_LA,2,2026-09-21,Monday,LA,NYG,"(3:11) 23-K.Williams up the middle to LA 11 for 5 yards (8-J.Holland; 52-A.Reese). FUMBLES (8-J.Holland), RECOVERED by NYG-8-J.Holland at LA 11.",run,5.0,0.0
+2026_02_NYG_LA,2,2026-09-21,Monday,NYG,LA,"(3:06) 29-T.Tracy left tackle to LA 14 for -3 yards (48-O.Speights). PENALTY on LA-55-B.Fiske, Defensive Offside, 5 yards, enforced at LA 11 - No Play.",no_play,0.0,0.0
+2026_02_NYG_LA,2,2026-09-21,Monday,NYG,LA,(2:38) 44-C.Skattebo up the middle to LA 6 for no gain (10-J.Stewart; 97-P.Ford).,run,0.0,0.0
+2026_02_NYG_LA,2,2026-09-21,Monday,NYG,LA,(2:00) 23-N.Harris left tackle to LA 3 for 3 yards (37-Q.Lake).,run,3.0,0.0
+2026_02_NYG_LA,2,2026-09-21,Monday,,,Timeout #3 by LA at 01:21.,no_play,0.0,0.0
+2026_02_NYG_LA,2,2026-09-21,Monday,NYG,LA,(1:21) (Shotgun) 23-N.Harris up the middle to LA 6 for -3 yards (99-A.Donald).,run,-3.0,0.0
+2026_02_NYG_LA,2,2026-09-21,Monday,NYG,LA,"(:29) 34-D.Zvada 24 yard field goal is GOOD, Center-58-B.Mann, Holder-15-J.Stout.",field_goal,0.0,0.0
+2026_02_NYG_LA,2,2026-09-21,Monday,LA,NYG,"34-D.Zvada kicks 65 yards from NYG 35 to end zone, Touchback to the LA 35.",kickoff,0.0,0.0
+2026_02_NYG_LA,2,2026-09-21,Monday,LA,NYG,(:25) (Shotgun) 23-K.Williams right guard pushed ob at LA 48 for 13 yards (20-G.Newsome).,run,13.0,0.0
+2026_02_NYG_LA,2,2026-09-21,Monday,LA,NYG,(:19) (Shotgun) 9-M.Stafford pass deep right to 17-D.Adams to NYG 25 for 27 yards (20-G.Newsome).,pass,27.0,0.0
+2026_02_NYG_LA,2,2026-09-21,Monday,LA,NYG,(:03) (No Huddle) 9-M.Stafford spiked the ball to stop the clock.,qb_spike,0.0,0.0
+2026_02_NYG_LA,2,2026-09-21,Monday,LA,NYG,"(:02) 92-H.Mevis 43 yard field goal is No Good, Wide Left, Center-49-J.Cardona, Holder-42-E.Evans.",field_goal,0.0,0.0
+2026_02_NYG_LA,2,2026-09-21,Monday,,,END QUARTER 2,,,
+2026_02_NYG_LA,2,2026-09-21,Monday,LA,NYG,"34-D.Zvada kicks 60 yards from NYG 35 to LA 5. 19-X.Smith MUFFS catch, and recovers at LA 4. 19-X.Smith to LA 11 for 7 yards (29-T.Tracy; 28-E.Campbell).",kickoff,0.0,0.0
+2026_02_NYG_LA,2,2026-09-21,Monday,LA,NYG,(14:54) 24-B.Corum right tackle to LA 14 for 3 yards (3-A.Carter; 8-J.Holland).,run,3.0,0.0
+2026_02_NYG_LA,2,2026-09-21,Monday,LA,NYG,(14:14) 9-M.Stafford pass deep left to 8-T.Atwell ran ob at LA 33 for 19 yards.,pass,19.0,0.0
+2026_02_NYG_LA,2,2026-09-21,Monday,LA,NYG,(13:38) 9-M.Stafford pass incomplete deep left to 8-T.Atwell.,pass,0.0,0.0
+2026_02_NYG_LA,2,2026-09-21,Monday,LA,NYG,(13:32) (Shotgun) 9-M.Stafford pass incomplete short left to 18-T.Ferguson.,pass,0.0,0.0
+2026_02_NYG_LA,2,2026-09-21,Monday,LA,NYG,(13:28) (Shotgun) 9-M.Stafford pass incomplete deep right to 4-K.Mumpfield.,pass,0.0,0.0
+2026_02_NYG_LA,2,2026-09-21,Monday,LA,NYG,"(13:22) 42-E.Evans punts 67 yards to end zone, Center-49-J.Cardona, Touchback.",punt,0.0,0.0
+2026_02_NYG_LA,2,2026-09-21,Monday,NYG,LA,(13:14) 44-C.Skattebo left end to NYG 21 for 1 yard (0-B.Young).,run,1.0,0.0
+2026_02_NYG_LA,2,2026-09-21,Monday,NYG,LA,"(12:37) 19-J.Winston pass short left to 9-I.Likely to NYG 34 for 13 yards (3-K.Curl). Penalty on LA-35-J.Watson, Illegal Contact, declined.",pass,13.0,0.0
+2026_02_NYG_LA,2,2026-09-21,Monday,NYG,LA,(12:00) 44-C.Skattebo up the middle to NYG 39 for 5 yards (0-B.Young).,run,5.0,0.0
+2026_02_NYG_LA,2,2026-09-21,Monday,NYG,LA,"(11:22) PENALTY on NYG-84-T.Johnson, False Start, 5 yards, enforced at NYG 39 - No Play.",no_play,0.0,0.0
+2026_02_NYG_LA,2,2026-09-21,Monday,NYG,LA,(10:57) (Shotgun) 19-J.Winston pass short left to 44-C.Skattebo to NYG 32 for -2 yards (53-N.Landman).,pass,-2.0,0.0
+2026_02_NYG_LA,2,2026-09-21,Monday,NYG,LA,(10:16) (Shotgun) 19-J.Winston pass incomplete deep right to 1-M.Nabers (22-T.McDuffie).,pass,0.0,0.0
+2026_02_NYG_LA,2,2026-09-21,Monday,NYG,LA,"(10:07) 15-J.Stout punts 58 yards to LA 10, Center-58-B.Mann. 19-X.Smith to LA 14 for 4 yards (28-E.Campbell).",punt,0.0,0.0
+2026_02_NYG_LA,2,2026-09-21,Monday,LA,NYG,(9:56) (Shotgun) 23-K.Williams up the middle to LA 19 for 5 yards (99-B.Okoye; 52-A.Reese).,run,5.0,0.0
+2026_02_NYG_LA,2,2026-09-21,Monday,LA,NYG,(9:29) (Shotgun) 9-M.Stafford pass short left to 17-D.Adams to LA 35 for 16 yards (20-G.Newsome).,pass,16.0,0.0
+2026_02_NYG_LA,2,2026-09-21,Monday,LA,NYG,(8:53) 9-M.Stafford sacked at LA 26 for -9 yards (3-A.Carter).,pass,-9.0,0.0
+2026_02_NYG_LA,2,2026-09-21,Monday,LA,NYG,(8:11) (Shotgun) 9-M.Stafford pass short middle to 18-T.Ferguson to LA 46 for 20 yards (52-A.Reese; 49-T.Edmunds).,pass,20.0,0.0
+2026_02_NYG_LA,2,2026-09-21,Monday,LA,NYG,"(7:43) (No Huddle, Shotgun) 9-M.Stafford pass deep left to 17-D.Adams pushed ob at NYG 31 for 23 yards (27-T.Nubin).",pass,23.0,0.0
+2026_02_NYG_LA,2,2026-09-21,Monday,LA,NYG,(7:07) 23-K.Williams right end pushed ob at NYG 11 for 20 yards (8-J.Holland).,run,20.0,0.0
+2026_02_NYG_LA,2,2026-09-21,Monday,LA,NYG,"(6:25) 9-M.Stafford pass short left to 17-D.Adams for 11 yards, TOUCHDOWN.",pass,11.0,1.0
+2026_02_NYG_LA,2,2026-09-21,Monday,LA,NYG,"92-H.Mevis extra point is GOOD, Center-49-J.Cardona, Holder-42-E.Evans.",extra_point,0.0,0.0
+2026_02_NYG_LA,2,2026-09-21,Monday,NYG,LA,"92-H.Mevis kicks 57 yards from LA 35 to NYG 8. 29-T.Tracy pushed ob at NYG 34 for 26 yards (30-J.Wallace). PENALTY on LA-34-T.Ingle, Unnecessary Roughness, 15 yards, enforced at NYG 34.",kickoff,0.0,0.0
+2026_02_NYG_LA,2,2026-09-21,Monday,NYG,LA,(6:17) (Shotgun) 44-C.Skattebo up the middle to LA 49 for 2 yards (53-N.Landman; 48-O.Speights).,run,2.0,0.0
+2026_02_NYG_LA,2,2026-09-21,Monday,NYG,LA,"(5:54) (No Huddle, Shotgun) 19-J.Winston pass incomplete short right to 9-I.Likely (22-T.McDuffie).",pass,0.0,0.0
+2026_02_NYG_LA,2,2026-09-21,Monday,NYG,LA,(5:50) (Shotgun) 19-J.Winston pass short middle to 17-D.Mooney to LA 34 for 15 yards (30-J.Wallace).,pass,15.0,0.0
+2026_02_NYG_LA,2,2026-09-21,Monday,NYG,LA,"(5:21) (No Huddle, Shotgun) 19-J.Winston pass incomplete short left to 9-I.Likely.",pass,0.0,0.0
+2026_02_NYG_LA,2,2026-09-21,Monday,NYG,LA,(5:17) (Shotgun) 44-C.Skattebo left guard to LA 32 for 2 yards (91-K.Turner; 2-J.McCollough).,run,2.0,0.0
+2026_02_NYG_LA,2,2026-09-21,Monday,NYG,LA,(4:40) (Shotgun) 19-J.Winston sacked at LA 33 for -1 yards (0-B.Young).,pass,-1.0,0.0
+2026_02_NYG_LA,2,2026-09-21,Monday,NYG,LA,"(3:55) 34-D.Zvada 52 yard field goal is GOOD, Center-58-B.Mann, Holder-15-J.Stout.",field_goal,0.0,0.0
+2026_02_NYG_LA,2,2026-09-21,Monday,LA,NYG,34-D.Zvada kicks 59 yards from NYG 35 to LA 6. 19-X.Smith to LA 28 for 22 yards (28-E.Campbell; 46-Z.Barnes).,kickoff,0.0,0.0
+2026_02_NYG_LA,2,2026-09-21,Monday,LA,NYG,(3:44) 24-B.Corum right tackle to LA 29 for 1 yard (98-D.Reader).,run,1.0,0.0
+2026_02_NYG_LA,2,2026-09-21,Monday,LA,NYG,(3:03) (Shotgun) 9-M.Stafford pass short left to 4-K.Mumpfield to LA 41 for 12 yards (27-T.Nubin).,pass,12.0,0.0
+2026_02_NYG_LA,2,2026-09-21,Monday,LA,NYG,(2:15) (Shotgun) 24-B.Corum left guard to LA 47 for 6 yards (0-B.Burns).,run,6.0,0.0
+2026_02_NYG_LA,2,2026-09-21,Monday,LA,NYG,(1:32) (Shotgun) 24-B.Corum left end to NYG 40 for 13 yards (27-T.Nubin; 49-T.Edmunds).,run,13.0,0.0
+2026_02_NYG_LA,2,2026-09-21,Monday,LA,NYG,(:50) 9-M.Stafford scrambles right end pushed ob at NYG 38 for 2 yards (0-B.Burns).,run,2.0,0.0
+2026_02_NYG_LA,2,2026-09-21,Monday,,,Timeout #1 by LA at 00:16.,no_play,0.0,0.0
+2026_02_NYG_LA,2,2026-09-21,Monday,LA,NYG,(:16) (Shotgun) 9-M.Stafford pass incomplete short middle to 18-T.Ferguson (49-T.Edmunds).,pass,0.0,0.0
+2026_02_NYG_LA,2,2026-09-21,Monday,LA,NYG,(:12) (Shotgun) 9-M.Stafford pass incomplete short left to 18-T.Ferguson (27-T.Nubin).,pass,0.0,0.0
+2026_02_NYG_LA,2,2026-09-21,Monday,LA,NYG,"(:07) (Shotgun) PENALTY on LA, Delay of Game, 5 yards, enforced at NYG 38 - No Play.",no_play,0.0,0.0
+2026_02_NYG_LA,2,2026-09-21,Monday,LA,NYG,"(:07) 42-E.Evans punts 38 yards to NYG 5, Center-49-J.Cardona, fair catch by 87-B.Berrios.",punt,0.0,0.0
+2026_02_NYG_LA,2,2026-09-21,Monday,NYG,LA,END QUARTER 3,,,
+2026_02_NYG_LA,2,2026-09-21,Monday,NYG,LA,(15:00) (Shotgun) 19-J.Winston pass incomplete short right to 9-I.Likely (37-Q.Lake).,pass,0.0,0.0
+2026_02_NYG_LA,2,2026-09-21,Monday,NYG,LA,(14:56) (Shotgun) 19-J.Winston pass incomplete short middle to 9-I.Likely [55-B.Fiske].,pass,0.0,0.0
+2026_02_NYG_LA,2,2026-09-21,Monday,NYG,LA,(14:52) (Shotgun) 19-J.Winston pass incomplete deep middle to 88-M.Fields.,pass,0.0,0.0
+2026_02_NYG_LA,2,2026-09-21,Monday,NYG,LA,"(14:47) 15-J.Stout punts 78 yards to LA 17, Center-58-B.Mann. 19-X.Smith to LA 36 for 19 yards (31-N.Jones; 46-Z.Barnes).",punt,0.0,0.0
+2026_02_NYG_LA,2,2026-09-21,Monday,LA,NYG,(14:33) 9-M.Stafford pass short right to 18-T.Ferguson pushed ob at LA 45 for 9 yards (20-G.Newsome).,pass,9.0,0.0
+2026_02_NYG_LA,2,2026-09-21,Monday,LA,NYG,(13:59) 23-K.Williams up the middle to NYG 39 for 16 yards (57-C.Golston).,run,16.0,0.0
+2026_02_NYG_LA,2,2026-09-21,Monday,LA,NYG,(13:21) 23-K.Williams up the middle to NYG 33 for 6 yards (27-T.Nubin).,run,6.0,0.0
+2026_02_NYG_LA,2,2026-09-21,Monday,LA,NYG,(12:44) 23-K.Williams up the middle to NYG 30 for 3 yards (98-D.Reader).,run,3.0,0.0
+2026_02_NYG_LA,2,2026-09-21,Monday,LA,NYG,(12:00) 9-M.Stafford pass short right to 84-C.Parkinson to NYG 22 for 8 yards (12-C.Hood).,pass,8.0,0.0
+2026_02_NYG_LA,2,2026-09-21,Monday,LA,NYG,"(11:21) 24-B.Corum left guard to NYG 18 for 4 yards (8-J.Holland). FUMBLES (8-J.Holland), and recovers at NYG 21.",run,1.0,0.0
+2026_02_NYG_LA,2,2026-09-21,Monday,LA,NYG,(10:34) (Shotgun) 9-M.Stafford pass short left to 24-B.Corum to NYG 8 for 13 yards (49-T.Edmunds; 20-G.Newsome).,pass,13.0,0.0
+2026_02_NYG_LA,2,2026-09-21,Monday,LA,NYG,(9:47) 23-K.Williams right end to NYG 5 for 3 yards (12-C.Hood; 3-A.Carter).,run,3.0,0.0
+2026_02_NYG_LA,2,2026-09-21,Monday,LA,NYG,"(9:02) (Shotgun) 9-M.Stafford pass short middle to 18-T.Ferguson for 5 yards, TOUCHDOWN.",pass,5.0,1.0
+2026_02_NYG_LA,2,2026-09-21,Monday,LA,NYG,"92-H.Mevis extra point is GOOD, Center-49-J.Cardona, Holder-42-E.Evans.",extra_point,0.0,0.0
+2026_02_NYG_LA,2,2026-09-21,Monday,NYG,LA,"92-H.Mevis kicks 65 yards from LA 35 to end zone, Touchback to the NYG 35.",kickoff,0.0,0.0
+2026_02_NYG_LA,2,2026-09-21,Monday,NYG,LA,(8:57) (Shotgun) 44-C.Skattebo left end pushed ob at NYG 43 for 8 yards (3-K.Curl).,run,8.0,0.0
+2026_02_NYG_LA,2,2026-09-21,Monday,NYG,LA,"(8:37) (No Huddle, Shotgun) 19-J.Winston pass short middle to 9-I.Likely to NYG 49 for 6 yards (37-Q.Lake).",pass,6.0,0.0
+2026_02_NYG_LA,2,2026-09-21,Monday,NYG,LA,"(8:10) (No Huddle, Shotgun) 19-J.Winston pass short left to 88-M.Fields to LA 35 for 16 yards (35-J.Watson).",pass,16.0,0.0
+2026_02_NYG_LA,2,2026-09-21,Monday,NYG,LA,"(7:42) (No Huddle, Shotgun) 19-J.Winston pass short right to 9-I.Likely to LA 30 for 5 yards (22-T.McDuffie).",pass,5.0,0.0
+2026_02_NYG_LA,2,2026-09-21,Monday,NYG,LA,"(7:05) (No Huddle, Shotgun) 19-J.Winston pass short right to 44-C.Skattebo to LA 30 for no gain (37-Q.Lake). FUMBLES (37-Q.Lake), ball out of bounds at LA 30.",pass,0.0,0.0
+2026_02_NYG_LA,2,2026-09-21,Monday,NYG,LA,"(6:21) (Shotgun) PENALTY on NYG-65-F.Mauigoa, False Start, 5 yards, enforced at LA 30 - No Play.",no_play,0.0,0.0
+2026_02_NYG_LA,2,2026-09-21,Monday,NYG,LA,(6:21) (Shotgun) 19-J.Winston pass incomplete short middle to 88-M.Fields.,pass,0.0,0.0
+2026_02_NYG_LA,2,2026-09-21,Monday,NYG,LA,"(6:17) (Shotgun) 19-J.Winston pass incomplete deep right to 88-M.Fields (1-E.Forbes). Penalty on NYG-88-M.Fields, Offensive Pass Interference, declined.",pass,0.0,0.0
+2026_02_NYG_LA,2,2026-09-21,Monday,LA,NYG,(6:12) 24-B.Corum right end pushed ob at NYG 47 for 18 yards (8-J.Holland). NYG-0-B.Burns was injured during the play.,run,18.0,0.0
+2026_02_NYG_LA,2,2026-09-21,Monday,LA,NYG,(5:42) 24-B.Corum left tackle to NYG 39 for 8 yards (52-A.Reese).,run,8.0,0.0
+2026_02_NYG_LA,2,2026-09-21,Monday,LA,NYG,(4:57) 24-B.Corum up the middle to NYG 34 for 5 yards (93-S.Harris).,run,5.0,0.0
+2026_02_NYG_LA,2,2026-09-21,Monday,LA,NYG,(4:11) 23-K.Williams right tackle to NYG 28 for 6 yards (8-J.Holland).,run,6.0,0.0
+2026_02_NYG_LA,2,2026-09-21,Monday,LA,NYG,(3:25) 23-K.Williams up the middle to NYG 27 for 1 yard (52-A.Reese; 49-T.Edmunds).,run,1.0,0.0
+2026_02_NYG_LA,2,2026-09-21,Monday,LA,NYG,(2:38) 9-M.Stafford pass short left to 87-D.Allen to NYG 20 for 7 yards (31-N.Jones).,pass,7.0,0.0
+2026_02_NYG_LA,2,2026-09-21,Monday,LA,NYG,(2:00) 9-M.Stafford kneels to NYG 21 for -1 yards.,qb_kneel,-1.0,0.0
+2026_02_NYG_LA,2,2026-09-21,Monday,LA,NYG,(1:17) 9-M.Stafford kneels to NYG 22 for -1 yards.,qb_kneel,-1.0,0.0
+2026_02_NYG_LA,2,2026-09-21,Monday,LA,NYG,(:38) 9-M.Stafford kneels to NYG 23 for -1 yards.,qb_kneel,-1.0,0.0
+2026_02_NYG_LA,2,2026-09-21,Monday,LA,NYG,END GAME,,,
 2026_02_PHI_TEN,2,2026-09-20,Sunday,,,GAME,,,
 2026_02_PHI_TEN,2,2026-09-20,Sunday,TEN,PHI,4-J.Elliott kicks 57 yards from PHI 35 to TEN 8. 17-C.Dike to TEN 31 for 23 yards (54-J.Trotter).,kickoff,0.0,0.0
 2026_02_PHI_TEN,2,2026-09-20,Sunday,TEN,PHI,(14:55) 20-T.Pollard left tackle to TEN 29 for -2 yards (58-J.Hunt).,run,-2.0,0.0
