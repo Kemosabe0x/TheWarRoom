@@ -5488,3 +5488,176 @@ game_id,week,game_date,day_of_week,posteam,defteam,desc,play_type,yards_gained,t
 2026_02_WAS_DAL,2,2026-09-20,Sunday,WAS,DAL,(1:16) 31-K.Allen left tackle to DAL 36 for 4 yards (6-D.Ezeiruaku).,run,4.0,0.0
 2026_02_WAS_DAL,2,2026-09-20,Sunday,WAS,DAL,(:37) 31-K.Allen left tackle to DAL 33 for 3 yards (28-S.Revel).,run,3.0,0.0
 2026_02_WAS_DAL,2,2026-09-20,Sunday,WAS,DAL,END GAME,,,
+2026_03_ATL_GB,3,2026-09-24,Thursday,,,GAME,,,
+2026_03_ATL_GB,3,2026-09-24,Thursday,ATL,GB,28-T.Smack kicks 59 yards from GB 35 to ATL 6. 15-Br.Robinson to ATL 30 for 24 yards (16-B.Melton).,kickoff,0.0,0.0
+2026_03_ATL_GB,3,2026-09-24,Thursday,ATL,GB,(14:55) 7-Bi.Robinson left tackle to ATL 34 for 4 yards (95-D.Wyatt).,run,4.0,0.0
+2026_03_ATL_GB,3,2026-09-24,Thursday,ATL,GB,(14:22) (Shotgun) 9-M.Penix pass short left to 7-Bi.Robinson to GB 49 for 17 yards (44-Z.Franklin; 2-B.Cisse).,pass,17.0,0.0
+2026_03_ATL_GB,3,2026-09-24,Thursday,ATL,GB,(13:38) (Shotgun) 9-M.Penix pass incomplete deep left to 4-J.Dotson.,pass,0.0,0.0
+2026_03_ATL_GB,3,2026-09-24,Thursday,ATL,GB,(13:33) (Shotgun) 9-M.Penix pass short middle intended for 4-J.Dotson INTERCEPTED by 29-X.McKinney at GB 40. 29-X.McKinney to GB 45 for 5 yards (5-D.London).,pass,0.0,0.0
+2026_03_ATL_GB,3,2026-09-24,Thursday,GB,ATL,(13:27) 10-J.Love pass short left to 85-T.Kraft to ATL 49 for 6 yards (31-X.Watts) [54-B.Dorlus].,pass,6.0,0.0
+2026_03_ATL_GB,3,2026-09-24,Thursday,GB,ATL,(12:52) (Shotgun) 10-J.Love pass incomplete short left to 32-M.Lloyd.,pass,0.0,0.0
+2026_03_ATL_GB,3,2026-09-24,Thursday,GB,ATL,(12:48) (Shotgun) 10-J.Love pass incomplete short right to 9-C.Watson.,pass,0.0,0.0
+2026_03_ATL_GB,3,2026-09-24,Thursday,GB,ATL,"(12:45) (Shotgun) PENALTY on GB-52-J.Burton, False Start, 5 yards, enforced at ATL 49 - No Play.",no_play,0.0,0.0
+2026_03_ATL_GB,3,2026-09-24,Thursday,GB,ATL,"(12:45) 19-D.Whelan punts 41 yards to ATL 13, Center-42-M.Orzech. 14-O.Zaccheaus to ATL 17 for 4 yards (16-B.Melton; 59-T.Hopper).",punt,0.0,0.0
+2026_03_ATL_GB,3,2026-09-24,Thursday,ATL,GB,(12:33) (Shotgun) 7-Bi.Robinson right tackle to ATL 24 for 7 yards (33-E.Williams).,run,7.0,0.0
+2026_03_ATL_GB,3,2026-09-24,Thursday,ATL,GB,(11:52) 7-Bi.Robinson left guard to ATL 27 for 3 yards (55-C.McClellan; 44-Z.Franklin).,run,3.0,0.0
+2026_03_ATL_GB,3,2026-09-24,Thursday,ATL,GB,(11:07) 9-M.Penix pass incomplete short middle to 8-K.Pitts.,pass,0.0,0.0
+2026_03_ATL_GB,3,2026-09-24,Thursday,ATL,GB,"(11:03) (Shotgun) 7-Bi.Robinson up the middle to ATL 26 for -1 yards (57-B.Cox, 44-Z.Franklin).",run,-1.0,0.0
+2026_03_ATL_GB,3,2026-09-24,Thursday,ATL,GB,(10:19) (Shotgun) 9-M.Penix pass incomplete deep left to 17-Z.Branch.,pass,0.0,0.0
+2026_03_ATL_GB,3,2026-09-24,Thursday,ATL,GB,"(10:15) 16-J.Bailey punts 61 yards to GB 13, Center-49-L.McCullough, fair catch by 23-S.Moore.",punt,0.0,0.0
+2026_03_ATL_GB,3,2026-09-24,Thursday,GB,ATL,"(10:06) 26-K.Johnson right end to GB 12 for -1 yards (96-Z.Harrison, 53-K.Daniels).",run,-1.0,0.0
+2026_03_ATL_GB,3,2026-09-24,Thursday,GB,ATL,(9:23) (Shotgun) 10-J.Love pass incomplete deep right to 0-M.Golden.,pass,0.0,0.0
+2026_03_ATL_GB,3,2026-09-24,Thursday,GB,ATL,(9:18) (Shotgun) 10-J.Love pass deep right to 0-M.Golden to ATL 43 for 45 yards (21-M.Hughes).,pass,45.0,0.0
+2026_03_ATL_GB,3,2026-09-24,Thursday,GB,ATL,"(8:44) (Shotgun) 26-K.Johnson left end to ATL 38 for 5 yards (29-S.Brown). PENALTY on GB-9-C.Watson, Offensive Holding, 10 yards, enforced at ATL 43 - No Play.",no_play,0.0,0.0
+2026_03_ATL_GB,3,2026-09-24,Thursday,GB,ATL,"(8:21) (Shotgun) 10-J.Love pass short left to 32-M.Lloyd pushed ob at ATL 43 for 10 yards (21-M.Hughes). PENALTY on ATL-56-H.Perkins, Unnecessary Roughness, 15 yards, enforced at ATL 43.",pass,10.0,0.0
+2026_03_ATL_GB,3,2026-09-24,Thursday,GB,ATL,(7:56) (Shotgun) 32-M.Lloyd right guard to ATL 22 for 6 yards (31-X.Watts).,run,6.0,0.0
+2026_03_ATL_GB,3,2026-09-24,Thursday,,,Timeout #1 by GB at 07:10.,no_play,0.0,0.0
+2026_03_ATL_GB,3,2026-09-24,Thursday,GB,ATL,(7:10) 10-J.Love pass short right to 85-T.Kraft pushed ob at ATL 14 for 8 yards (26-C.Henderson).,pass,8.0,0.0
+2026_03_ATL_GB,3,2026-09-24,Thursday,GB,ATL,(6:38) (Shotgun) 10-J.Love pass short middle to 23-S.Moore to ATL 5 for 9 yards (29-S.Brown) [95-G.Dexter].,pass,9.0,0.0
+2026_03_ATL_GB,3,2026-09-24,Thursday,GB,ATL,(6:03) 32-M.Lloyd up the middle to ATL 4 for 1 yard (95-G.Dexter). The first down was assisted by replay.,run,1.0,0.0
+2026_03_ATL_GB,3,2026-09-24,Thursday,GB,ATL,"(5:17) 10-J.Love pass short middle to 9-C.Watson for 4 yards, TOUCHDOWN.",pass,4.0,1.0
+2026_03_ATL_GB,3,2026-09-24,Thursday,GB,ATL,"28-T.Smack extra point is GOOD, Center-42-M.Orzech, Holder-19-D.Whelan.",extra_point,0.0,0.0
+2026_03_ATL_GB,3,2026-09-24,Thursday,ATL,GB,"28-T.Smack kicks 62 yards from GB 35 to ATL 3. 17-Z.Branch to ATL 28 for 25 yards (31-N.Niemann; 58-I.McDuffie). PENALTY on ATL-42-J.Woods, Offensive Holding, 10 yards, enforced at ATL 25.",kickoff,0.0,0.0
+2026_03_ATL_GB,3,2026-09-24,Thursday,ATL,GB,(5:07) (Shotgun) 9-M.Penix pass short right to 8-K.Pitts to ATL 20 for 5 yards (29-X.McKinney).,pass,5.0,0.0
+2026_03_ATL_GB,3,2026-09-24,Thursday,ATL,GB,(4:32) 15-Br.Robinson left tackle to ATL 26 for 6 yards (44-Z.Franklin).,run,6.0,0.0
+2026_03_ATL_GB,3,2026-09-24,Thursday,ATL,GB,(3:57) 15-Br.Robinson left end to ATL 35 for 9 yards (29-X.McKinney; 7-J.Bullard).,run,9.0,0.0
+2026_03_ATL_GB,3,2026-09-24,Thursday,ATL,GB,"(3:14) 9-M.Penix pass incomplete short middle [90-L.Van Ness]. PENALTY on ATL-9-M.Penix, Intentional Grounding, 10 yards, enforced at ATL 35.",pass,0.0,0.0
+2026_03_ATL_GB,3,2026-09-24,Thursday,ATL,GB,"(3:10) (Shotgun) 9-M.Penix pass incomplete deep left to 5-D.London. PENALTY on GB-57-B.Cox, Roughing the Passer, 15 yards, enforced at ATL 25 - No Play.",no_play,0.0,0.0
+2026_03_ATL_GB,3,2026-09-24,Thursday,ATL,GB,(3:06) 7-Bi.Robinson left end to GB 5 for 55 yards (44-Z.Franklin; 51-D.Dennis-Sutton).,run,55.0,0.0
+2026_03_ATL_GB,3,2026-09-24,Thursday,ATL,GB,(2:15) 7-Bi.Robinson up the middle to GB 3 for 2 yards (44-Z.Franklin).,run,2.0,0.0
+2026_03_ATL_GB,3,2026-09-24,Thursday,ATL,GB,"(1:35) 7-Bi.Robinson left tackle for 3 yards, TOUCHDOWN.",run,3.0,1.0
+2026_03_ATL_GB,3,2026-09-24,Thursday,ATL,GB,"6-N.Folk extra point is GOOD, Center-49-L.McCullough, Holder-16-J.Bailey.",extra_point,0.0,0.0
+2026_03_ATL_GB,3,2026-09-24,Thursday,GB,ATL,6-N.Folk kicks 55 yards from ATL 35 to GB 10. 16-B.Melton to GB 31 for 21 yards (45-C.Harris).,kickoff,0.0,0.0
+2026_03_ATL_GB,3,2026-09-24,Thursday,GB,ATL,(1:27) 10-J.Love pass short right to 32-M.Lloyd to GB 28 for -3 yards (53-K.Daniels).,pass,-3.0,0.0
+2026_03_ATL_GB,3,2026-09-24,Thursday,GB,ATL,(:41) (Shotgun) 10-J.Love pass incomplete deep left to 0-M.Golden (33-B.Bowman).,pass,0.0,0.0
+2026_03_ATL_GB,3,2026-09-24,Thursday,GB,ATL,(:36) (Shotgun) 10-J.Love pass short left to 85-T.Kraft to GB 37 for 9 yards (55-Z.Smith; 0-D.Deablo) [99-C.Thomas].,pass,9.0,0.0
+2026_03_ATL_GB,3,2026-09-24,Thursday,GB,ATL,END QUARTER 1,,,
+2026_03_ATL_GB,3,2026-09-24,Thursday,GB,ATL,"(15:00) 19-D.Whelan punts 64 yards to ATL -1, Center-42-M.Orzech. 17-Z.Branch pushed ob at ATL 17 for 18 yards (59-T.Hopper).",punt,0.0,0.0
+2026_03_ATL_GB,3,2026-09-24,Thursday,ATL,GB,(14:48) 9-M.Penix pass short left to 17-Z.Branch to ATL 24 for 7 yards (56-E.Cooper; 44-Z.Franklin).,pass,7.0,0.0
+2026_03_ATL_GB,3,2026-09-24,Thursday,ATL,GB,(14:05) 7-Bi.Robinson left end to ATL 28 for 4 yards (2-B.Cisse).,run,4.0,0.0
+2026_03_ATL_GB,3,2026-09-24,Thursday,ATL,GB,(13:21) (Shotgun) 9-M.Penix pass short right to 4-J.Dotson to ATL 39 for 11 yards (29-X.McKinney).,pass,11.0,0.0
+2026_03_ATL_GB,3,2026-09-24,Thursday,ATL,GB,(12:43) 15-Br.Robinson left end to GB 45 for 16 yards (33-E.Williams).,run,16.0,0.0
+2026_03_ATL_GB,3,2026-09-24,Thursday,ATL,GB,(11:58) (Shotgun) 9-M.Penix pass incomplete short left to 5-D.London (98-J.Hargrave).,pass,0.0,0.0
+2026_03_ATL_GB,3,2026-09-24,Thursday,ATL,GB,(11:53) (Shotgun) 7-Bi.Robinson left guard to GB 45 for no gain (2-B.Cisse; 90-L.Van Ness).,run,0.0,0.0
+2026_03_ATL_GB,3,2026-09-24,Thursday,ATL,GB,(11:12) (Shotgun) 9-M.Penix pass short right to 5-D.London pushed ob at GB 41 for 4 yards (7-J.Bullard).,pass,4.0,0.0
+2026_03_ATL_GB,3,2026-09-24,Thursday,ATL,GB,"(10:41) 16-J.Bailey punts 30 yards to GB 11, Center-49-L.McCullough, fair catch by 23-S.Moore.",punt,0.0,0.0
+2026_03_ATL_GB,3,2026-09-24,Thursday,GB,ATL,(10:34) 26-K.Johnson right end to GB 12 for 1 yard (26-C.Henderson).,run,1.0,0.0
+2026_03_ATL_GB,3,2026-09-24,Thursday,GB,ATL,(9:51) (Shotgun) 10-J.Love pass incomplete deep right to 85-T.Kraft.,pass,0.0,0.0
+2026_03_ATL_GB,3,2026-09-24,Thursday,GB,ATL,"(9:46) (Shotgun) 10-J.Love sacked at GB 3 for -9 yards (0-D.Deablo). FUMBLES (0-D.Deablo) [0-D.Deablo], RECOVERED by ATL-26-C.Henderson at GB 17. 26-C.Henderson to GB 13 for 4 yards (23-S.Moore). The Replay Official reviewed the fumble ruling, and the play was REVERSED. (Shotgun) 10-J.Love pass incomplete short middle to 23-S.Moore (0-D.Deablo) [0-D.Deablo].",pass,0.0,0.0
+2026_03_ATL_GB,3,2026-09-24,Thursday,GB,ATL,"(9:42) 19-D.Whelan punts 52 yards to ATL 36, Center-42-M.Orzech, fair catch by 17-Z.Branch.",punt,0.0,0.0
+2026_03_ATL_GB,3,2026-09-24,Thursday,ATL,GB,(9:35) 9-M.Penix pass short left to 5-D.London pushed ob at ATL 43 for 7 yards (33-E.Williams).,pass,7.0,0.0
+2026_03_ATL_GB,3,2026-09-24,Thursday,ATL,GB,(9:05) 7-Bi.Robinson right end to GB 49 for 8 yards (56-E.Cooper).,run,8.0,0.0
+2026_03_ATL_GB,3,2026-09-24,Thursday,ATL,GB,(8:24) (Shotgun) 9-M.Penix pass short left to 14-O.Zaccheaus to GB 44 for 5 yards (94-K.Brooks).,pass,5.0,0.0
+2026_03_ATL_GB,3,2026-09-24,Thursday,ATL,GB,(7:46) (Shotgun) 7-Bi.Robinson right end to GB 34 for 10 yards (25-K.Nixon; 7-J.Bullard).,run,10.0,0.0
+2026_03_ATL_GB,3,2026-09-24,Thursday,ATL,GB,(7:01) 15-Br.Robinson left tackle to GB 37 for -3 yards (56-E.Cooper).,run,-3.0,0.0
+2026_03_ATL_GB,3,2026-09-24,Thursday,ATL,GB,(6:18) (Shotgun) 9-M.Penix pass short right to 5-D.London to GB 30 for 7 yards (29-X.McKinney).,pass,7.0,0.0
+2026_03_ATL_GB,3,2026-09-24,Thursday,ATL,GB,(5:34) (Shotgun) 9-M.Penix pass short right to 14-O.Zaccheaus to GB 26 for 4 yards (56-E.Cooper; 25-K.Nixon).,pass,4.0,0.0
+2026_03_ATL_GB,3,2026-09-24,Thursday,ATL,GB,"(4:53) 6-N.Folk 44 yard field goal is GOOD, Center-49-L.McCullough, Holder-16-J.Bailey.",field_goal,0.0,0.0
+2026_03_ATL_GB,3,2026-09-24,Thursday,GB,ATL,6-N.Folk kicks 57 yards from ATL 35 to GB 8. 23-S.Moore to GB 33 for 25 yards (87-N.Muse).,kickoff,0.0,0.0
+2026_03_ATL_GB,3,2026-09-24,Thursday,GB,ATL,"(4:44) (Shotgun) 10-J.Love pass incomplete deep left to 0-M.Golden. PENALTY on ATL-21-M.Hughes, Defensive Pass Interference, 34 yards, enforced at GB 33 - No Play.",no_play,0.0,0.0
+2026_03_ATL_GB,3,2026-09-24,Thursday,GB,ATL,(4:38) (Shotgun) 26-K.Johnson left guard to ATL 28 for 5 yards (94-L.London; 31-X.Watts).,run,5.0,0.0
+2026_03_ATL_GB,3,2026-09-24,Thursday,GB,ATL,(3:57) (Shotgun) 10-J.Love pass incomplete short right to 9-C.Watson (26-C.Henderson).,pass,0.0,0.0
+2026_03_ATL_GB,3,2026-09-24,Thursday,GB,ATL,(3:53) (Shotgun) 10-J.Love pass incomplete deep right to 0-M.Golden (26-C.Henderson).,pass,0.0,0.0
+2026_03_ATL_GB,3,2026-09-24,Thursday,GB,ATL,"(3:47) 28-T.Smack 47 yard field goal is BLOCKED (96-Z.Harrison), Center-42-M.Orzech, Holder-19-D.Whelan.",field_goal,0.0,0.0
+2026_03_ATL_GB,3,2026-09-24,Thursday,ATL,GB,(3:42) 9-M.Penix pass short middle to 5-D.London to GB 43 for 20 yards (25-K.Nixon).,pass,20.0,0.0
+2026_03_ATL_GB,3,2026-09-24,Thursday,ATL,GB,(3:04) 7-Bi.Robinson left tackle to GB 40 for 3 yards (99-B.Sorrell; 98-J.Hargrave).,run,3.0,0.0
+2026_03_ATL_GB,3,2026-09-24,Thursday,ATL,GB,(2:20) (Shotgun) 9-M.Penix pass short left to 81-A.Hooper to GB 34 for 6 yards (2-B.Cisse; 56-E.Cooper).,pass,6.0,0.0
+2026_03_ATL_GB,3,2026-09-24,Thursday,ATL,GB,(2:00) 9-M.Penix pass deep left to 5-D.London ran ob at GB 18 for 16 yards (2-B.Cisse).,pass,16.0,0.0
+2026_03_ATL_GB,3,2026-09-24,Thursday,ATL,GB,(1:55) 7-Bi.Robinson up the middle to GB 8 for 10 yards (25-K.Nixon).,run,10.0,0.0
+2026_03_ATL_GB,3,2026-09-24,Thursday,,,Timeout #2 by GB at 01:51.,no_play,0.0,0.0
+2026_03_ATL_GB,3,2026-09-24,Thursday,ATL,GB,(1:51) 7-Bi.Robinson right tackle to GB 2 for 6 yards (33-E.Williams; 95-D.Wyatt).,run,6.0,0.0
+2026_03_ATL_GB,3,2026-09-24,Thursday,ATL,GB,(1:07) 7-Bi.Robinson left guard to GB 5 for -3 yards (44-Z.Franklin).,run,-3.0,0.0
+2026_03_ATL_GB,3,2026-09-24,Thursday,,,Timeout #3 by GB at 01:02.,no_play,0.0,0.0
+2026_03_ATL_GB,3,2026-09-24,Thursday,ATL,GB,"(1:02) (Shotgun) 9-M.Penix pass short left to 81-A.Hooper for 5 yards, TOUCHDOWN.",pass,5.0,1.0
+2026_03_ATL_GB,3,2026-09-24,Thursday,ATL,GB,"6-N.Folk extra point is GOOD, Center-49-L.McCullough, Holder-16-J.Bailey.",extra_point,0.0,0.0
+2026_03_ATL_GB,3,2026-09-24,Thursday,GB,ATL,6-N.Folk kicks 61 yards from ATL 35 to GB 4. 23-S.Moore to GB 33 for 29 yards (56-H.Perkins; 87-N.Muse).,kickoff,0.0,0.0
+2026_03_ATL_GB,3,2026-09-24,Thursday,GB,ATL,(:50) (Shotgun) 10-J.Love pass incomplete short left to 0-M.Golden (26-C.Henderson).,pass,0.0,0.0
+2026_03_ATL_GB,3,2026-09-24,Thursday,GB,ATL,(:46) (Shotgun) 10-J.Love pass short right to 0-M.Golden pushed ob at GB 41 for 8 yards (21-M.Hughes) [95-G.Dexter].,pass,8.0,0.0
+2026_03_ATL_GB,3,2026-09-24,Thursday,GB,ATL,"(:41) (Shotgun) 10-J.Love pass short right to 85-T.Kraft to GB 45 for 4 yards (3-J.Bates). FUMBLES (3-J.Bates), ball out of bounds at GB 42. The Replay Official reviewed the pass completion ruling, and the play was REVERSED. (Shotgun) 10-J.Love pass incomplete short right to 85-T.Kraft (3-J.Bates).",pass,0.0,0.0
+2026_03_ATL_GB,3,2026-09-24,Thursday,GB,ATL,"(:38) 19-D.Whelan punts 48 yards to ATL 11, Center-42-M.Orzech, out of bounds.",punt,0.0,0.0
+2026_03_ATL_GB,3,2026-09-24,Thursday,ATL,GB,(:28) (Shotgun) 9-M.Penix pass incomplete short left.,pass,0.0,0.0
+2026_03_ATL_GB,3,2026-09-24,Thursday,ATL,GB,(:25) (Shotgun) 15-Br.Robinson right guard to ATL 11 for no gain (90-L.Van Ness; 57-B.Cox).,run,0.0,0.0
+2026_03_ATL_GB,3,2026-09-24,Thursday,,,END QUARTER 2,,,
+2026_03_ATL_GB,3,2026-09-24,Thursday,GB,ATL,6-N.Folk kicks 60 yards from ATL 35 to GB 5. 16-B.Melton to GB 30 for 25 yards (42-J.Woods; 87-N.Muse).,kickoff,0.0,0.0
+2026_03_ATL_GB,3,2026-09-24,Thursday,GB,ATL,(14:57) (Shotgun) 26-K.Johnson right guard to GB 31 for 1 yard (94-L.London; 99-C.Thomas).,run,1.0,0.0
+2026_03_ATL_GB,3,2026-09-24,Thursday,GB,ATL,(14:17) (Shotgun) 10-J.Love pass short middle to 18-J.Smith to GB 38 for 7 yards (53-K.Daniels).,pass,7.0,0.0
+2026_03_ATL_GB,3,2026-09-24,Thursday,GB,ATL,(13:43) (Shotgun) 10-J.Love pass short left to 0-M.Golden pushed ob at 50 for 12 yards (0-D.Deablo).,pass,12.0,0.0
+2026_03_ATL_GB,3,2026-09-24,Thursday,GB,ATL,(13:14) 10-J.Love pass deep middle to 9-C.Watson to ATL 28 for 22 yards (31-X.Watts; 3-J.Bates).,pass,22.0,0.0
+2026_03_ATL_GB,3,2026-09-24,Thursday,GB,ATL,(12:30) (Shotgun) 10-J.Love pass incomplete short left to 23-S.Moore.,pass,0.0,0.0
+2026_03_ATL_GB,3,2026-09-24,Thursday,GB,ATL,(12:26) (Shotgun) 10-J.Love pass short left to 23-S.Moore to ATL 16 for 12 yards (3-J.Bates; 21-M.Hughes). ATL-3-J.Bates was injured during the play.,pass,12.0,0.0
+2026_03_ATL_GB,3,2026-09-24,Thursday,GB,ATL,(12:01) 32-M.Lloyd right tackle to ATL 14 for 2 yards (26-C.Henderson).,run,2.0,0.0
+2026_03_ATL_GB,3,2026-09-24,Thursday,GB,ATL,(11:20) 32-M.Lloyd right tackle to ATL 12 for 2 yards (21-M.Hughes). ** Injury Update: ATL-3-J.Bates has returned to the game.,run,2.0,0.0
+2026_03_ATL_GB,3,2026-09-24,Thursday,GB,ATL,(10:34) (Shotgun) 10-J.Love pass short right to 9-C.Watson pushed ob at ATL 7 for 5 yards (21-M.Hughes).,pass,5.0,0.0
+2026_03_ATL_GB,3,2026-09-24,Thursday,GB,ATL,(10:02) 10-J.Love pass incomplete short right to 9-C.Watson.,pass,0.0,0.0
+2026_03_ATL_GB,3,2026-09-24,Thursday,ATL,GB,(9:56) (Shotgun) 7-Bi.Robinson right end to ATL 14 for 6 yards (25-K.Nixon).,run,6.0,0.0
+2026_03_ATL_GB,3,2026-09-24,Thursday,ATL,GB,(9:21) 7-Bi.Robinson right end pushed ob at ATL 45 for 31 yards (7-J.Bullard).,run,31.0,0.0
+2026_03_ATL_GB,3,2026-09-24,Thursday,ATL,GB,"(8:42) 9-M.Penix pass incomplete deep left to 17-Z.Branch. PENALTY on GB-2-B.Cisse, Illegal Contact, 5 yards, enforced at ATL 45 - No Play.",no_play,0.0,0.0
+2026_03_ATL_GB,3,2026-09-24,Thursday,ATL,GB,(8:37) 15-Br.Robinson left tackle to GB 42 for 8 yards (90-L.Van Ness; 33-E.Williams).,run,8.0,0.0
+2026_03_ATL_GB,3,2026-09-24,Thursday,ATL,GB,(7:56) 15-Br.Robinson up the middle to GB 35 for 7 yards (99-B.Sorrell).,run,7.0,0.0
+2026_03_ATL_GB,3,2026-09-24,Thursday,ATL,GB,(7:13) 7-Bi.Robinson left guard to GB 34 for 1 yard (98-J.Hargrave; 44-Z.Franklin).,run,1.0,0.0
+2026_03_ATL_GB,3,2026-09-24,Thursday,ATL,GB,(6:26) (Shotgun) 9-M.Penix pass short left to 7-Bi.Robinson to GB 32 for 2 yards (57-B.Cox; 95-D.Wyatt).,pass,2.0,0.0
+2026_03_ATL_GB,3,2026-09-24,Thursday,ATL,GB,(5:41) (Shotgun) 9-M.Penix pass short middle to 5-D.London to GB 16 for 16 yards (29-X.McKinney).,pass,16.0,0.0
+2026_03_ATL_GB,3,2026-09-24,Thursday,ATL,GB,(5:00) (Shotgun) 7-Bi.Robinson left tackle to GB 10 for 6 yards (96-J.Ford; 33-E.Williams).,run,6.0,0.0
+2026_03_ATL_GB,3,2026-09-24,Thursday,ATL,GB,(4:15) 7-Bi.Robinson right tackle to GB 7 for 3 yards (94-K.Brooks; 57-B.Cox).,run,3.0,0.0
+2026_03_ATL_GB,3,2026-09-24,Thursday,ATL,GB,"(3:41) 71-J.Taylor reported in as eligible. 15-Br.Robinson left guard for 7 yards, TOUCHDOWN.",run,7.0,1.0
+2026_03_ATL_GB,3,2026-09-24,Thursday,ATL,GB,"6-N.Folk extra point is GOOD, Center-49-L.McCullough, Holder-16-J.Bailey.",extra_point,0.0,0.0
+2026_03_ATL_GB,3,2026-09-24,Thursday,GB,ATL,6-N.Folk kicks 64 yards from ATL 35 to GB 1. 23-S.Moore to GB 29 for 28 yards (19-C.Blair).,kickoff,0.0,0.0
+2026_03_ATL_GB,3,2026-09-24,Thursday,GB,ATL,(3:31) 10-J.Love pass incomplete short right to 26-K.Johnson.,pass,0.0,0.0
+2026_03_ATL_GB,3,2026-09-24,Thursday,GB,ATL,"(3:26) (Shotgun) 10-J.Love FUMBLES (Aborted) at GB 25, recovered by GB-85-T.Kraft at GB 27. 85-T.Kraft to GB 34 for 7 yards (95-G.Dexter; 12-Av.Terrell).",run,0.0,0.0
+2026_03_ATL_GB,3,2026-09-24,Thursday,GB,ATL,(2:58) (Shotgun) 10-J.Love pass short middle to 87-J.Sturdivant to GB 43 for 9 yards (26-C.Henderson).,pass,9.0,0.0
+2026_03_ATL_GB,3,2026-09-24,Thursday,GB,ATL,(2:17) 10-J.Love pass short right to 26-K.Johnson ran ob at ATL 47 for 10 yards (3-J.Bates).,pass,10.0,0.0
+2026_03_ATL_GB,3,2026-09-24,Thursday,GB,ATL,(1:55) (Shotgun) 10-J.Love pass incomplete short right to 26-K.Johnson (48-B.Trice).,pass,0.0,0.0
+2026_03_ATL_GB,3,2026-09-24,Thursday,GB,ATL,(1:50) (Shotgun) 10-J.Love sacked at ATL 48 for -1 yards (99-C.Thomas).,pass,-1.0,0.0
+2026_03_ATL_GB,3,2026-09-24,Thursday,GB,ATL,(1:06) (Shotgun) 10-J.Love pass incomplete deep right to 0-M.Golden [99-C.Thomas].,pass,0.0,0.0
+2026_03_ATL_GB,3,2026-09-24,Thursday,GB,ATL,"(1:02) (Punt formation) PENALTY on GB, Delay of Game, 5 yards, enforced at ATL 48 - No Play.",no_play,0.0,0.0
+2026_03_ATL_GB,3,2026-09-24,Thursday,GB,ATL,"(1:02) 19-D.Whelan punts 45 yards to ATL 8, Center-42-M.Orzech, fair catch by 14-O.Zaccheaus.",punt,0.0,0.0
+2026_03_ATL_GB,3,2026-09-24,Thursday,ATL,GB,"(:55) 7-Bi.Robinson left guard to ATL 17 for 9 yards (33-E.Williams). PENALTY on ATL-64-R.Neuzil, Offensive Holding, 4 yards, enforced at ATL 8 - No Play.",no_play,0.0,0.0
+2026_03_ATL_GB,3,2026-09-24,Thursday,ATL,GB,(:28) 7-Bi.Robinson left end to ATL 13 for 9 yards (56-E.Cooper; 33-E.Williams).,run,9.0,0.0
+2026_03_ATL_GB,3,2026-09-24,Thursday,ATL,GB,END QUARTER 3,,,
+2026_03_ATL_GB,3,2026-09-24,Thursday,ATL,GB,(15:00) 7-Bi.Robinson left tackle to ATL 16 for 3 yards (90-L.Van Ness).,run,3.0,0.0
+2026_03_ATL_GB,3,2026-09-24,Thursday,ATL,GB,(14:17) (Shotgun) 9-M.Penix pass deep left to 5-D.London pushed ob at GB 16 for 68 yards (2-B.Cisse).,pass,68.0,0.0
+2026_03_ATL_GB,3,2026-09-24,Thursday,ATL,GB,"(13:39) 7-Bi.Robinson right tackle to GB 17 for -1 yards (7-J.Bullard, 58-I.McDuffie).",run,-1.0,0.0
+2026_03_ATL_GB,3,2026-09-24,Thursday,ATL,GB,"(12:55) (Shotgun) 9-M.Penix pass short right to 15-Br.Robinson pushed ob at GB 10 for 7 yards (33-E.Williams). PENALTY on ATL-71-J.Taylor, Offensive Holding, 10 yards, enforced at GB 17 - No Play.",no_play,0.0,0.0
+2026_03_ATL_GB,3,2026-09-24,Thursday,ATL,GB,"(12:31) (Shotgun) 15-Br.Robinson left end to GB 29 for -2 yards (58-I.McDuffie, 7-J.Bullard).",run,-2.0,0.0
+2026_03_ATL_GB,3,2026-09-24,Thursday,ATL,GB,(11:47) (Shotgun) 9-M.Penix pass short left to 5-D.London to GB 13 for 16 yards (2-B.Cisse).,pass,16.0,0.0
+2026_03_ATL_GB,3,2026-09-24,Thursday,ATL,GB,"(11:00) 6-N.Folk 31 yard field goal is GOOD, Center-49-L.McCullough, Holder-16-J.Bailey.",field_goal,0.0,0.0
+2026_03_ATL_GB,3,2026-09-24,Thursday,GB,ATL,6-N.Folk kicks 61 yards from ATL 35 to GB 4. 23-S.Moore to GB 24 for 20 yards (19-C.Blair).,kickoff,0.0,0.0
+2026_03_ATL_GB,3,2026-09-24,Thursday,GB,ATL,(10:51) (Shotgun) 10-J.Love pass incomplete short right to 85-T.Kraft.,pass,0.0,0.0
+2026_03_ATL_GB,3,2026-09-24,Thursday,GB,ATL,(10:47) (Shotgun) 10-J.Love pass incomplete short middle to 85-T.Kraft.,pass,0.0,0.0
+2026_03_ATL_GB,3,2026-09-24,Thursday,GB,ATL,(10:44) (Shotgun) 10-J.Love pass deep left to 9-C.Watson to ATL 42 for 34 yards (26-C.Henderson).,pass,34.0,0.0
+2026_03_ATL_GB,3,2026-09-24,Thursday,GB,ATL,"(10:16) (No Huddle, Shotgun) 10-J.Love pass incomplete short right to 0-M.Golden.",pass,0.0,0.0
+2026_03_ATL_GB,3,2026-09-24,Thursday,GB,ATL,(10:13) (Shotgun) 10-J.Love pass incomplete short right to 23-S.Moore.,pass,0.0,0.0
+2026_03_ATL_GB,3,2026-09-24,Thursday,GB,ATL,(10:08) (Shotgun) 10-J.Love pass short right to 87-J.Sturdivant to ATL 39 for 3 yards (26-C.Henderson) [54-B.Dorlus].,pass,3.0,0.0
+2026_03_ATL_GB,3,2026-09-24,Thursday,GB,ATL,(9:29) (Shotgun) 10-J.Love pass short middle to 23-S.Moore to ATL 29 for 10 yards (31-X.Watts).,pass,10.0,0.0
+2026_03_ATL_GB,3,2026-09-24,Thursday,GB,ATL,"(9:08) (No Huddle, Shotgun) 10-J.Love pass short right to 9-C.Watson ran ob at ATL 18 for 11 yards.",pass,11.0,0.0
+2026_03_ATL_GB,3,2026-09-24,Thursday,GB,ATL,"(8:51) (No Huddle, Shotgun) 10-J.Love pass short right to 85-T.Kraft pushed ob at ATL 15 for 3 yards (56-H.Perkins).",pass,3.0,0.0
+2026_03_ATL_GB,3,2026-09-24,Thursday,GB,ATL,"(8:21) (Shotgun) 10-J.Love pass short right to 0-M.Golden for 15 yards, TOUCHDOWN.",pass,15.0,1.0
+2026_03_ATL_GB,3,2026-09-24,Thursday,GB,ATL,"28-T.Smack extra point is GOOD, Center-42-M.Orzech, Holder-19-D.Whelan.",extra_point,0.0,0.0
+2026_03_ATL_GB,3,2026-09-24,Thursday,ATL,GB,28-T.Smack kicks 62 yards from GB 35 to ATL 3. 15-Br.Robinson to ATL 33 for 30 yards (30-C.Brooks).,kickoff,0.0,0.0
+2026_03_ATL_GB,3,2026-09-24,Thursday,ATL,GB,(8:11) 7-Bi.Robinson right tackle to ATL 38 for 5 yards (25-K.Nixon; 33-E.Williams).,run,5.0,0.0
+2026_03_ATL_GB,3,2026-09-24,Thursday,ATL,GB,(7:28) 7-Bi.Robinson left tackle to ATL 41 for 3 yards (99-B.Sorrell; 33-E.Williams).,run,3.0,0.0
+2026_03_ATL_GB,3,2026-09-24,Thursday,ATL,GB,(6:44) 7-Bi.Robinson left guard to ATL 45 for 4 yards (98-J.Hargrave).,run,4.0,0.0
+2026_03_ATL_GB,3,2026-09-24,Thursday,ATL,GB,(6:01) (Shotgun) 15-Br.Robinson left end to ATL 47 for 2 yards (44-Z.Franklin; 51-D.Dennis-Sutton).,run,2.0,0.0
+2026_03_ATL_GB,3,2026-09-24,Thursday,ATL,GB,(5:17) (Shotgun) 9-M.Penix pass deep right to 5-D.London to GB 13 for 40 yards (33-E.Williams).,pass,40.0,0.0
+2026_03_ATL_GB,3,2026-09-24,Thursday,ATL,GB,(4:26) (Shotgun) 7-Bi.Robinson left guard to GB 4 for 9 yards (7-J.Bullard; 58-I.McDuffie).,run,9.0,0.0
+2026_03_ATL_GB,3,2026-09-24,Thursday,ATL,GB,(3:39) 7-Bi.Robinson up the middle to GB 2 for 2 yards (95-D.Wyatt).,run,2.0,0.0
+2026_03_ATL_GB,3,2026-09-24,Thursday,,,Timeout #1 by GB at 03:35.,no_play,0.0,0.0
+2026_03_ATL_GB,3,2026-09-24,Thursday,ATL,GB,"(3:35) 62-C.Levin and 72-M.Jerrell reported in as eligible. 7-Bi.Robinson left guard for 2 yards, TOUCHDOWN.",run,2.0,1.0
+2026_03_ATL_GB,3,2026-09-24,Thursday,ATL,GB,TWO-POINT CONVERSION ATTEMPT. 9-M.Penix pass to 19-C.Blair is complete. ATTEMPT SUCCEEDS.,pass,2.0,0.0
+2026_03_ATL_GB,3,2026-09-24,Thursday,GB,ATL,6-N.Folk kicks 65 yards from ATL 35 to GB 0. 23-S.Moore to GB 32 for 32 yards (87-N.Muse).,kickoff,0.0,0.0
+2026_03_ATL_GB,3,2026-09-24,Thursday,GB,ATL,(3:26) (Shotgun) 10-J.Love pass short right to 18-J.Smith to GB 41 for 9 yards (3-J.Bates; 56-H.Perkins).,pass,9.0,0.0
+2026_03_ATL_GB,3,2026-09-24,Thursday,GB,ATL,"(3:07) (No Huddle, Shotgun) 10-J.Love pass incomplete short middle to 26-K.Johnson (56-H.Perkins). PENALTY on GB, Illegal Formation, 5 yards, enforced at GB 41 - No Play.",no_play,0.0,0.0
+2026_03_ATL_GB,3,2026-09-24,Thursday,GB,ATL,(3:02) (Shotgun) 10-J.Love pass short left to 9-C.Watson pushed ob at GB 41 for 5 yards (26-C.Henderson).,pass,5.0,0.0
+2026_03_ATL_GB,3,2026-09-24,Thursday,GB,ATL,"(2:36) (No Huddle, Shotgun) 10-J.Love pass short middle to 9-C.Watson to ATL 44 for 15 yards (26-C.Henderson) [92-M.Smith].",pass,15.0,0.0
+2026_03_ATL_GB,3,2026-09-24,Thursday,GB,ATL,"(2:15) (No Huddle, Shotgun) 10-J.Love pass incomplete short middle [54-B.Dorlus].",pass,0.0,0.0
+2026_03_ATL_GB,3,2026-09-24,Thursday,GB,ATL,(2:10) (Shotgun) 10-J.Love pass short right to 30-C.Brooks to ATL 40 for 4 yards (56-H.Perkins). GB-62-J.Monk was injured during the play.,pass,4.0,0.0
+2026_03_ATL_GB,3,2026-09-24,Thursday,GB,ATL,(2:00) (Shotgun) 10-J.Love pass incomplete short right to 0-M.Golden [99-C.Thomas].,pass,0.0,0.0
+2026_03_ATL_GB,3,2026-09-24,Thursday,GB,ATL,(1:56) (Shotgun) 10-J.Love pass short right to 87-J.Sturdivant to ATL 30 for 10 yards (21-M.Hughes).,pass,10.0,0.0
+2026_03_ATL_GB,3,2026-09-24,Thursday,GB,ATL,"(1:37) (No Huddle, Shotgun) 10-J.Love pass incomplete deep left to 16-B.Melton.",pass,0.0,0.0
+2026_03_ATL_GB,3,2026-09-24,Thursday,GB,ATL,(1:31) (Shotgun) 10-J.Love pass incomplete short left.,pass,0.0,0.0
+2026_03_ATL_GB,3,2026-09-24,Thursday,GB,ATL,(1:28) (Shotgun) 10-J.Love pass short left to 0-M.Golden ran ob at ATL 10 for 20 yards (33-B.Bowman).,pass,20.0,0.0
+2026_03_ATL_GB,3,2026-09-24,Thursday,GB,ATL,"(1:20) (No Huddle, Shotgun) 10-J.Love pass incomplete short middle to 23-S.Moore (33-B.Bowman).",pass,0.0,0.0
+2026_03_ATL_GB,3,2026-09-24,Thursday,GB,ATL,(1:18) (Shotgun) 10-J.Love pass short middle intended for 18-J.Smith INTERCEPTED by 31-X.Watts [54-B.Dorlus] at ATL 3. 31-X.Watts to ATL 20 for 17 yards.,pass,0.0,0.0
+2026_03_ATL_GB,3,2026-09-24,Thursday,ATL,GB,(1:11) 9-M.Penix kneels to ATL 19 for -1 yards.,qb_kneel,-1.0,0.0
+2026_03_ATL_GB,3,2026-09-24,Thursday,ATL,GB,(:38) 9-M.Penix kneels to ATL 18 for -1 yards.,qb_kneel,-1.0,0.0
+2026_03_ATL_GB,3,2026-09-24,Thursday,ATL,GB,END GAME,,,
