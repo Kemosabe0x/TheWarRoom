@@ -7800,6 +7800,161 @@ game_id,week,game_date,day_of_week,posteam,defteam,desc,play_type,yards_gained,t
 2026_03_NYJ_DET,3,2026-09-27,Sunday,DET,NYJ,(:45) 16-J.Goff kneels to NYJ 44 for -1 yards.,qb_kneel,-1.0,0.0
 2026_03_NYJ_DET,3,2026-09-27,Sunday,DET,NYJ,(:29) 16-J.Goff kneels to NYJ 45 for -1 yards.,qb_kneel,-1.0,0.0
 2026_03_NYJ_DET,3,2026-09-27,Sunday,DET,NYJ,END GAME,,,
+2026_03_PHI_CHI,3,2026-09-28,Monday,,,GAME,,,
+2026_03_PHI_CHI,3,2026-09-28,Monday,CHI,PHI,4-J.Elliott kicks 63 yards from PHI 35 to CHI 2. 13-Z.Thomas to CHI 34 for 32 yards (7-K.Ringo; 42-S.Mondon).,kickoff,0.0,0.0
+2026_03_PHI_CHI,3,2026-09-28,Monday,CHI,PHI,(14:52) (Shotgun) 11-C.Keenum pass short right to 10-L.Burden pushed ob at CHI 41 for 7 yards (11-J.Campbell).,pass,7.0,0.0
+2026_03_PHI_CHI,3,2026-09-28,Monday,CHI,PHI,(14:22) 11-C.Keenum pass short left to 84-C.Loveland to CHI 45 for 4 yards (53-Z.Baun).,pass,4.0,0.0
+2026_03_PHI_CHI,3,2026-09-28,Monday,CHI,PHI,(13:43) 4-D.Swift left tackle to CHI 49 for 4 yards (53-Z.Baun; 3-N.Smith).,run,4.0,0.0
+2026_03_PHI_CHI,3,2026-09-28,Monday,CHI,PHI,(13:08) 11-C.Keenum pass short right to 14-K.Raymond to PHI 41 for 10 yards (2-T.Woolen).,pass,10.0,0.0
+2026_03_PHI_CHI,3,2026-09-28,Monday,CHI,PHI,(12:38) 4-D.Swift right end to PHI 32 for 9 yards (29-M.Epps).,run,9.0,0.0
+2026_03_PHI_CHI,3,2026-09-28,Monday,CHI,PHI,(11:53) (Shotgun) 11-C.Keenum pass incomplete short middle to 85-C.Kmet. The incomplete pass was assisted by replay.,pass,0.0,0.0
+2026_03_PHI_CHI,3,2026-09-28,Monday,CHI,PHI,(11:33) 4-D.Swift left guard to PHI 32 for no gain (94-B.Young).,run,0.0,0.0
+2026_03_PHI_CHI,3,2026-09-28,Monday,CHI,PHI,(10:52) 11-C.Keenum pass short left to 87-S.Roush to PHI 16 for 16 yards (53-Z.Baun).,pass,16.0,0.0
+2026_03_PHI_CHI,3,2026-09-28,Monday,CHI,PHI,(10:13) 10-L.Burden left end to PHI 9 for 7 yards (11-J.Campbell).,run,7.0,0.0
+2026_03_PHI_CHI,3,2026-09-28,Monday,CHI,PHI,(9:33) 4-D.Swift right tackle to PHI 8 for 1 yard (29-M.Epps).,run,1.0,0.0
+2026_03_PHI_CHI,3,2026-09-28,Monday,CHI,PHI,"(8:56) (Shotgun) 11-C.Keenum pass short middle to 10-L.Burden for 8 yards, TOUCHDOWN.",pass,8.0,1.0
+2026_03_PHI_CHI,3,2026-09-28,Monday,CHI,PHI,"8-C.Santos extra point is GOOD, Center-46-S.Daly, Holder-19-T.Taylor.",extra_point,0.0,0.0
+2026_03_PHI_CHI,3,2026-09-28,Monday,PHI,CHI,8-C.Santos kicks 57 yards from CHI 35 to PHI 8. 28-W.Shipley to PHI 25 for 17 yards (22-E.Hicks).,kickoff,0.0,0.0
+2026_03_PHI_CHI,3,2026-09-28,Monday,PHI,CHI,(8:42) (Shotgun) 1-J.Hurts pass short right to 9-M.Lemon to PHI 44 for 19 yards (31-D.Thieneman).,pass,19.0,0.0
+2026_03_PHI_CHI,3,2026-09-28,Monday,PHI,CHI,(8:02) 26-S.Barkley left tackle pushed ob at CHI 44 for 12 yards (12-D.Bush).,run,12.0,0.0
+2026_03_PHI_CHI,3,2026-09-28,Monday,PHI,CHI,(7:32) 26-S.Barkley left tackle to CHI 40 for 4 yards (50-G.Jarrett; 48-D.Jackson).,run,4.0,0.0
+2026_03_PHI_CHI,3,2026-09-28,Monday,PHI,CHI,"(7:01) 1-J.Hurts pass incomplete short middle. PENALTY on PHI-1-J.Hurts, Intentional Grounding, 10 yards, enforced at CHI 40.",pass,0.0,0.0
+2026_03_PHI_CHI,3,2026-09-28,Monday,PHI,CHI,(6:57) (Shotgun) 1-J.Hurts pass short right to 83-J.Mundt to CHI 46 for 4 yards (21-C.Lewis; 31-D.Thieneman).,pass,4.0,0.0
+2026_03_PHI_CHI,3,2026-09-28,Monday,PHI,CHI,"(6:15) 10-B.Mann punts 30 yards to CHI 16, Center-41-R.Underwood, out of bounds.",punt,0.0,0.0
+2026_03_PHI_CHI,3,2026-09-28,Monday,CHI,PHI,(6:09) 4-D.Swift right guard to CHI 18 for 2 yards (53-Z.Baun; 35-M.Carter).,run,2.0,0.0
+2026_03_PHI_CHI,3,2026-09-28,Monday,CHI,PHI,(5:27) 4-D.Swift right tackle to CHI 24 for 6 yards (11-J.Campbell; 24-A.Mukuba).,run,6.0,0.0
+2026_03_PHI_CHI,3,2026-09-28,Monday,CHI,PHI,(4:48) (Shotgun) 11-C.Keenum pass short right to 4-D.Swift to CHI 28 for 4 yards (2-T.Woolen; 11-J.Campbell).,pass,4.0,0.0
+2026_03_PHI_CHI,3,2026-09-28,Monday,CHI,PHI,(4:15) (Shotgun) 11-C.Keenum pass short middle to 10-L.Burden to CHI 41 for 13 yards (27-Q.Mitchell).,pass,13.0,0.0
+2026_03_PHI_CHI,3,2026-09-28,Monday,CHI,PHI,"(3:31) 11-C.Keenum pass incomplete deep right to 13-Z.Thomas. PENALTY on PHI-2-T.Woolen, Defensive Holding, 5 yards, enforced at CHI 41 - No Play.",no_play,0.0,0.0
+2026_03_PHI_CHI,3,2026-09-28,Monday,CHI,PHI,(3:25) 25-K.Monangai right guard to CHI 49 for 3 yards (97-M.Ojomo; 17-A.Ebiketie).,run,3.0,0.0
+2026_03_PHI_CHI,3,2026-09-28,Monday,CHI,PHI,(2:48) (Shotgun) 11-C.Keenum pass short middle to 13-Z.Thomas to 50 for 1 yard (33-C.DeJean; 97-M.Ojomo).,pass,1.0,0.0
+2026_03_PHI_CHI,3,2026-09-28,Monday,CHI,PHI,(2:08) (Shotgun) 11-C.Keenum pass incomplete deep right to 15-R.Odunze.,pass,0.0,0.0
+2026_03_PHI_CHI,3,2026-09-28,Monday,CHI,PHI,"(2:02) 19-T.Taylor punts 50 yards to end zone, Center-46-S.Daly, Touchback.",punt,0.0,0.0
+2026_03_PHI_CHI,3,2026-09-28,Monday,PHI,CHI,(1:51) 1-J.Hurts pass incomplete short right to 26-S.Barkley.,pass,0.0,0.0
+2026_03_PHI_CHI,3,2026-09-28,Monday,PHI,CHI,"(1:46) (Shotgun) 26-S.Barkley left end pushed ob at PHI 39 for 19 yards (32-X.Woods). PENALTY on PHI-56-T.Steen, Offensive Holding, 10 yards, enforced at PHI 20 - No Play.",no_play,0.0,0.0
+2026_03_PHI_CHI,3,2026-09-28,Monday,PHI,CHI,"(1:15) (Shotgun) 1-J.Hurts pass short right to 8-T.Bigsby to PHI 15 for 5 yards (94-A.Booker; 12-D.Bush). FUMBLES (94-A.Booker), RECOVERED by CHI-32-X.Woods at PHI 15.",pass,5.0,0.0
+2026_03_PHI_CHI,3,2026-09-28,Monday,CHI,PHI,(1:04) 4-D.Swift left tackle to PHI 12 for 3 yards (24-A.Mukuba).,run,3.0,0.0
+2026_03_PHI_CHI,3,2026-09-28,Monday,CHI,PHI,"(:26) PENALTY on CHI-4-D.Swift, False Start, 5 yards, enforced at PHI 12 - No Play.",no_play,0.0,0.0
+2026_03_PHI_CHI,3,2026-09-28,Monday,CHI,PHI,(:09) (Shotgun) 11-C.Keenum pass short middle to 10-L.Burden to PHI 11 for 6 yards (53-Z.Baun).,pass,6.0,0.0
+2026_03_PHI_CHI,3,2026-09-28,Monday,CHI,PHI,END QUARTER 1,,,
+2026_03_PHI_CHI,3,2026-09-28,Monday,CHI,PHI,"(15:00) (Shotgun) 11-C.Keenum pass incomplete short middle to 14-K.Raymond (24-A.Mukuba). PENALTY on PHI-2-T.Woolen, Illegal Contact, 5 yards, enforced at PHI 11 - No Play.",no_play,0.0,0.0
+2026_03_PHI_CHI,3,2026-09-28,Monday,CHI,PHI,"(14:55) 11-C.Keenum pass short right to 84-C.Loveland for 6 yards, TOUCHDOWN. The Replay Official reviewed the runner broke the plane ruling, and the play was REVERSED. 11-C.Keenum pass short right to 84-C.Loveland to PHI 1 for 5 yards (35-M.Carter).",pass,5.0,0.0
+2026_03_PHI_CHI,3,2026-09-28,Monday,CHI,PHI,"(14:40) (Shotgun) 4-D.Swift right guard to PHI 3 for -2 yards (98-J.Carter, 97-M.Ojomo).",run,-2.0,0.0
+2026_03_PHI_CHI,3,2026-09-28,Monday,CHI,PHI,(14:08) 11-C.Keenum pass incomplete short right to 15-R.Odunze (3-N.Smith).,pass,0.0,0.0
+2026_03_PHI_CHI,3,2026-09-28,Monday,CHI,PHI,(14:02) (Shotgun) 11-C.Keenum pass incomplete short left to 10-L.Burden (27-Q.Mitchell).,pass,0.0,0.0
+2026_03_PHI_CHI,3,2026-09-28,Monday,PHI,CHI,"(13:59) PENALTY on PHI-66-D.Kendall, False Start, 1 yard, enforced at PHI 3 - No Play.",no_play,0.0,0.0
+2026_03_PHI_CHI,3,2026-09-28,Monday,PHI,CHI,(13:59) 26-S.Barkley left tackle to PHI 9 for 7 yards (32-X.Woods; 24-M.Muhammad).,run,7.0,0.0
+2026_03_PHI_CHI,3,2026-09-28,Monday,PHI,CHI,(13:17) (Shotgun) 26-S.Barkley left end pushed ob at PHI 12 for 3 yards (24-M.Muhammad).,run,3.0,0.0
+2026_03_PHI_CHI,3,2026-09-28,Monday,PHI,CHI,(12:39) (Shotgun) 1-J.Hurts pass short left to 6-D.Smith pushed ob at PHI 25 for 13 yards (24-M.Muhammad).,pass,13.0,0.0
+2026_03_PHI_CHI,3,2026-09-28,Monday,PHI,CHI,"(12:00) (Shotgun) 1-J.Hurts pass incomplete deep right to 6-D.Smith (21-C.Lewis). PENALTY on CHI-21-C.Lewis, Defensive Pass Interference, 21 yards, enforced at PHI 25 - No Play.",no_play,0.0,0.0
+2026_03_PHI_CHI,3,2026-09-28,Monday,PHI,CHI,(11:55) 26-S.Barkley left tackle to CHI 46 for 8 yards (90-N.Gallimore).,run,8.0,0.0
+2026_03_PHI_CHI,3,2026-09-28,Monday,PHI,CHI,(11:14) 26-S.Barkley right end to CHI 43 for 3 yards (32-X.Woods; 55-D.Odeyingbo).,run,3.0,0.0
+2026_03_PHI_CHI,3,2026-09-28,Monday,PHI,CHI,(10:34) (Shotgun) 1-J.Hurts pass short right to 6-D.Smith to CHI 38 for 5 yards (32-X.Woods).,pass,5.0,0.0
+2026_03_PHI_CHI,3,2026-09-28,Monday,PHI,CHI,(9:49) 26-S.Barkley right end pushed ob at CHI 21 for 17 yards (31-D.Thieneman).,run,17.0,0.0
+2026_03_PHI_CHI,3,2026-09-28,Monday,PHI,CHI,"(9:17) (No Huddle, Shotgun) 26-S.Barkley left guard to CHI 15 for 6 yards (12-D.Bush).",run,6.0,0.0
+2026_03_PHI_CHI,3,2026-09-28,Monday,PHI,CHI,"(8:37) (Shotgun) 1-J.Hurts scrambles right end ran ob at CHI 13 for 2 yards (48-D.Jackson). PHI-1-J.Hurts was injured during the play. Penalty on PHI-65-L.Johnson, Offensive Holding, offsetting, enforced at CHI 15 - No Play. Penalty on CHI-48-D.Jackson, Unnecessary Roughness, offsetting.",no_play,,
+2026_03_PHI_CHI,3,2026-09-28,Monday,PHI,CHI,(8:15) (Shotgun) 26-S.Barkley left end pushed ob at CHI 1 for 14 yards (31-D.Thieneman).,run,14.0,0.0
+2026_03_PHI_CHI,3,2026-09-28,Monday,PHI,CHI,(7:41) 72-M.Bell reported in as eligible. 26-S.Barkley right guard to CHI 2 for -1 yards (12-D.Bush).,run,-1.0,0.0
+2026_03_PHI_CHI,3,2026-09-28,Monday,PHI,CHI,(7:04) 26-S.Barkley right guard to CHI 2 for no gain (55-D.Odeyingbo; 31-D.Thieneman).,run,0.0,0.0
+2026_03_PHI_CHI,3,2026-09-28,Monday,PHI,CHI,(6:21) (Shotgun) 14-A.Dalton pass short middle intended for 13-D.Wicks INTERCEPTED by 31-D.Thieneman at CHI -9. Touchback.,pass,0.0,0.0
+2026_03_PHI_CHI,3,2026-09-28,Monday,CHI,PHI,(6:14) 11-C.Keenum pass short left to 10-L.Burden pushed ob at CHI 45 for 25 yards (24-A.Mukuba) [52-J.Greenard].,pass,25.0,0.0
+2026_03_PHI_CHI,3,2026-09-28,Monday,CHI,PHI,(5:40) 11-C.Keenum pass deep right to 15-R.Odunze pushed ob at PHI 33 for 22 yards (29-M.Epps).,pass,22.0,0.0
+2026_03_PHI_CHI,3,2026-09-28,Monday,CHI,PHI,(5:10) 11-C.Keenum pass short left to 4-D.Swift to PHI 33 for no gain (33-C.DeJean).,pass,0.0,0.0
+2026_03_PHI_CHI,3,2026-09-28,Monday,CHI,PHI,(4:28) (Shotgun) 11-C.Keenum pass incomplete short right to 14-K.Raymond.,pass,0.0,0.0
+2026_03_PHI_CHI,3,2026-09-28,Monday,CHI,PHI,(4:24) (Shotgun) 11-C.Keenum pass short middle to 15-R.Odunze to PHI 18 for 15 yards (27-Q.Mitchell; 24-A.Mukuba).,pass,15.0,0.0
+2026_03_PHI_CHI,3,2026-09-28,Monday,CHI,PHI,"(3:45) 25-K.Monangai right tackle to PHI 20 for -2 yards (53-Z.Baun, 17-A.Ebiketie).",run,-2.0,0.0
+2026_03_PHI_CHI,3,2026-09-28,Monday,CHI,PHI,(3:06) (Shotgun) 11-C.Keenum pass short middle to 14-K.Raymond to PHI 7 for 13 yards (11-J.Campbell).,pass,13.0,0.0
+2026_03_PHI_CHI,3,2026-09-28,Monday,CHI,PHI,"(2:30) 25-K.Monangai left tackle to PHI 9 for -2 yards (53-Z.Baun, 11-J.Campbell).",run,-2.0,0.0
+2026_03_PHI_CHI,3,2026-09-28,Monday,,,Timeout #1 by PHI at 02:24.,no_play,0.0,0.0
+2026_03_PHI_CHI,3,2026-09-28,Monday,CHI,PHI,(2:24) 4-D.Swift left end to PHI 11 for -2 yards (27-Q.Mitchell).,run,-2.0,0.0
+2026_03_PHI_CHI,3,2026-09-28,Monday,CHI,PHI,(2:00) (Shotgun) 11-C.Keenum pass incomplete short left to 10-L.Burden.,pass,0.0,0.0
+2026_03_PHI_CHI,3,2026-09-28,Monday,CHI,PHI,"(1:56) 8-C.Santos 29 yard field goal is GOOD, Center-46-S.Daly, Holder-19-T.Taylor.",field_goal,0.0,0.0
+2026_03_PHI_CHI,3,2026-09-28,Monday,PHI,CHI,8-C.Santos kicks 58 yards from CHI 35 to PHI 7. 85-B.Covey to PHI 33 for 26 yards (48-D.Jackson).,kickoff,0.0,0.0
+2026_03_PHI_CHI,3,2026-09-28,Monday,PHI,CHI,(1:46) (Shotgun) 1-J.Hurts pass short right to 13-D.Wicks pushed ob at PHI 46 for 13 yards (21-C.Lewis). ** Injury Update: PHI-1-J.Hurts has returned to the game.,pass,13.0,0.0
+2026_03_PHI_CHI,3,2026-09-28,Monday,PHI,CHI,(1:40) (Shotgun) 1-J.Hurts pass short right to 6-D.Smith to CHI 49 for 5 yards (1-J.Johnson).,pass,5.0,0.0
+2026_03_PHI_CHI,3,2026-09-28,Monday,PHI,CHI,"(1:12) (No Huddle, Shotgun) 1-J.Hurts pass deep right to 6-D.Smith to CHI 19 for 30 yards (1-J.Johnson).",pass,30.0,0.0
+2026_03_PHI_CHI,3,2026-09-28,Monday,PHI,CHI,"(:40) (No Huddle, Shotgun) 1-J.Hurts pass short right to 86-Z.Ertz to CHI 10 for 9 yards (1-J.Johnson).",pass,9.0,0.0
+2026_03_PHI_CHI,3,2026-09-28,Monday,,,Timeout #2 by PHI at 00:34.,no_play,0.0,0.0
+2026_03_PHI_CHI,3,2026-09-28,Monday,PHI,CHI,(:34) (Shotgun) 1-J.Hurts pass incomplete short right to 13-D.Wicks.,pass,0.0,0.0
+2026_03_PHI_CHI,3,2026-09-28,Monday,PHI,CHI,(:28) (Shotgun) 1-J.Hurts scrambles right guard to CHI 9 for 1 yard (94-A.Booker).,run,1.0,0.0
+2026_03_PHI_CHI,3,2026-09-28,Monday,,,Timeout #3 by PHI at 00:19.,no_play,0.0,0.0
+2026_03_PHI_CHI,3,2026-09-28,Monday,PHI,CHI,(:19) (Shotgun) 1-J.Hurts pass short left to 6-D.Smith to CHI 1 for 8 yards (32-X.Woods; 24-M.Muhammad).,pass,8.0,0.0
+2026_03_PHI_CHI,3,2026-09-28,Monday,PHI,CHI,"(:01) (No Huddle) 1-J.Hurts up the middle for 1 yard, TOUCHDOWN.",run,1.0,1.0
+2026_03_PHI_CHI,3,2026-09-28,Monday,PHI,CHI,"4-J.Elliott extra point is GOOD, Center-41-R.Underwood, Holder-10-B.Mann.",extra_point,0.0,0.0
+2026_03_PHI_CHI,3,2026-09-28,Monday,,,END QUARTER 2,,,
+2026_03_PHI_CHI,3,2026-09-28,Monday,PHI,CHI,"8-C.Santos kicks 65 yards from CHI 35 to landing zone to end zone, Touchback to the PHI 20.",kickoff,0.0,0.0
+2026_03_PHI_CHI,3,2026-09-28,Monday,PHI,CHI,(15:00) 26-S.Barkley right tackle to PHI 27 for 7 yards (31-D.Thieneman).,run,7.0,0.0
+2026_03_PHI_CHI,3,2026-09-28,Monday,PHI,CHI,"(14:23) (Shotgun) 1-J.Hurts pass short right to 26-S.Barkley to PHI 25 for -2 yards (53-T.Edwards, 97-J.Lynch).",pass,-2.0,0.0
+2026_03_PHI_CHI,3,2026-09-28,Monday,PHI,CHI,(13:38) (Shotgun) 1-J.Hurts pass incomplete short middle to 86-Z.Ertz (53-T.Edwards) [94-A.Booker].,pass,0.0,0.0
+2026_03_PHI_CHI,3,2026-09-28,Monday,PHI,CHI,"(13:34) 10-B.Mann punts 43 yards to CHI 32, Center-41-R.Underwood, fair catch by 14-K.Raymond.",punt,0.0,0.0
+2026_03_PHI_CHI,3,2026-09-28,Monday,CHI,PHI,(13:28) 4-D.Swift left tackle to CHI 41 for 9 yards (27-Q.Mitchell).,run,9.0,0.0
+2026_03_PHI_CHI,3,2026-09-28,Monday,CHI,PHI,(12:51) 11-C.Keenum pass short right to 84-C.Loveland pushed ob at PHI 47 for 12 yards (2-T.Woolen).,pass,12.0,0.0
+2026_03_PHI_CHI,3,2026-09-28,Monday,CHI,PHI,(12:21) 11-C.Keenum pass short left to 14-K.Raymond to PHI 35 for 12 yards (24-A.Mukuba) [58-J.Hunt].,pass,12.0,0.0
+2026_03_PHI_CHI,3,2026-09-28,Monday,CHI,PHI,(11:39) 4-D.Swift right guard to PHI 34 for 1 yard (90-J.Davis; 98-J.Carter).,run,1.0,0.0
+2026_03_PHI_CHI,3,2026-09-28,Monday,CHI,PHI,(11:05) (Shotgun) 11-C.Keenum pass short right to 10-L.Burden to PHI 30 for 4 yards (33-C.DeJean).,pass,4.0,0.0
+2026_03_PHI_CHI,3,2026-09-28,Monday,CHI,PHI,(10:26) (Shotgun) 11-C.Keenum pass incomplete short left to 15-R.Odunze (27-Q.Mitchell). CHI-70-B.Jones was injured during the play.,pass,0.0,0.0
+2026_03_PHI_CHI,3,2026-09-28,Monday,CHI,PHI,"(10:21) 8-C.Santos 48 yard field goal is GOOD, Center-46-S.Daly, Holder-19-T.Taylor.",field_goal,0.0,0.0
+2026_03_PHI_CHI,3,2026-09-28,Monday,PHI,CHI,"8-C.Santos kicks 65 yards from CHI 35 to end zone, Touchback to the PHI 35.",kickoff,0.0,0.0
+2026_03_PHI_CHI,3,2026-09-28,Monday,PHI,CHI,(10:17) 26-S.Barkley right tackle to PHI 36 for 1 yard (53-T.Edwards).,run,1.0,0.0
+2026_03_PHI_CHI,3,2026-09-28,Monday,PHI,CHI,(9:35) (Shotgun) 1-J.Hurts pass short right to 9-M.Lemon to PHI 33 for -3 yards (1-J.Johnson).,pass,-3.0,0.0
+2026_03_PHI_CHI,3,2026-09-28,Monday,PHI,CHI,(8:52) (Shotgun) 1-J.Hurts pass incomplete short left to 28-W.Shipley (53-T.Edwards).,pass,0.0,0.0
+2026_03_PHI_CHI,3,2026-09-28,Monday,PHI,CHI,"(8:47) 10-B.Mann punts 44 yards to CHI 23, Center-41-R.Underwood. 14-K.Raymond to CHI 29 for 6 yards (83-J.Mundt).",punt,0.0,0.0
+2026_03_PHI_CHI,3,2026-09-28,Monday,CHI,PHI,(8:36) 11-C.Keenum pass short left to 14-K.Raymond pushed ob at CHI 38 for 9 yards (27-Q.Mitchell).,pass,9.0,0.0
+2026_03_PHI_CHI,3,2026-09-28,Monday,CHI,PHI,(7:59) 11-C.Keenum pass short middle to 84-C.Loveland to CHI 48 for 10 yards (11-J.Campbell; 53-Z.Baun).,pass,10.0,0.0
+2026_03_PHI_CHI,3,2026-09-28,Monday,CHI,PHI,(7:17) (Shotgun) 11-C.Keenum pass short middle to 14-K.Raymond to PHI 47 for 5 yards (35-M.Carter).,pass,5.0,0.0
+2026_03_PHI_CHI,3,2026-09-28,Monday,CHI,PHI,(6:36) 25-K.Monangai left end to PHI 41 for 6 yards (58-J.Hunt).,run,6.0,0.0
+2026_03_PHI_CHI,3,2026-09-28,Monday,CHI,PHI,"(5:55) 11-C.Keenum pass short middle to 14-K.Raymond for 41 yards, TOUCHDOWN.",pass,41.0,1.0
+2026_03_PHI_CHI,3,2026-09-28,Monday,CHI,PHI,"8-C.Santos extra point is GOOD, Center-46-S.Daly, Holder-19-T.Taylor.",extra_point,0.0,0.0
+2026_03_PHI_CHI,3,2026-09-28,Monday,PHI,CHI,"8-C.Santos kicks 44 yards from CHI 35 to PHI 21, short of landing zone. PENALTY on CHI-8-C.Santos, Kickoff Short of Landing Zone, placed at PHI 40.",kickoff,0.0,0.0
+2026_03_PHI_CHI,3,2026-09-28,Monday,PHI,CHI,(5:47) (Shotgun) 1-J.Hurts sacked at PHI 38 for -2 yards (98-M.Sweat).,pass,-2.0,0.0
+2026_03_PHI_CHI,3,2026-09-28,Monday,PHI,CHI,(5:01) 26-S.Barkley left tackle to PHI 38 for no gain (21-C.Lewis).,run,0.0,0.0
+2026_03_PHI_CHI,3,2026-09-28,Monday,PHI,CHI,(4:17) (Shotgun) 1-J.Hurts pass short left to 28-W.Shipley to PHI 49 for 11 yards (24-M.Muhammad; 12-D.Bush).,pass,11.0,0.0
+2026_03_PHI_CHI,3,2026-09-28,Monday,PHI,CHI,"(3:30) (Run formation) PENALTY on PHI, Delay of Game, 5 yards, enforced at PHI 49 - No Play.",no_play,0.0,0.0
+2026_03_PHI_CHI,3,2026-09-28,Monday,PHI,CHI,"(3:22) 10-B.Mann punts 50 yards to CHI 6, Center-41-R.Underwood. 14-K.Raymond to CHI 15 for 9 yards (59-C.Campbell; 80-D.Cooper). CHI-14-K.Raymond was injured during the play.",punt,0.0,0.0
+2026_03_PHI_CHI,3,2026-09-28,Monday,CHI,PHI,"(3:12) (Shotgun) 11-C.Keenum pass short left to 10-L.Burden to CHI 13 for -2 yards (27-Q.Mitchell). Penalty on CHI-15-R.Odunze, Offensive Pass Interference, declined.",pass,-2.0,0.0
+2026_03_PHI_CHI,3,2026-09-28,Monday,CHI,PHI,(2:54) (Shotgun) 11-C.Keenum pass incomplete short middle to 10-L.Burden (33-C.DeJean). ** Injury Update: CHI-14-K.Raymond has returned to the game.,pass,0.0,0.0
+2026_03_PHI_CHI,3,2026-09-28,Monday,CHI,PHI,(2:51) (Shotgun) 11-C.Keenum pass incomplete short right to 4-D.Swift (33-C.DeJean) [97-M.Ojomo].,pass,0.0,0.0
+2026_03_PHI_CHI,3,2026-09-28,Monday,CHI,PHI,"(2:45) 19-T.Taylor punts 55 yards to PHI 32, Center-46-S.Daly. 85-B.Covey pushed ob at CHI 47 for 21 yards (87-S.Roush). PENALTY on PHI-7-K.Ringo, Offensive Holding, 10 yards, enforced at PHI 40.",punt,0.0,0.0
+2026_03_PHI_CHI,3,2026-09-28,Monday,PHI,CHI,(2:33) (Shotgun) 1-J.Hurts pass deep right to 13-D.Wicks to PHI 49 for 19 yards (1-J.Johnson).,pass,19.0,0.0
+2026_03_PHI_CHI,3,2026-09-28,Monday,PHI,CHI,"(2:00) (No Huddle, Shotgun) 26-S.Barkley right tackle to 50 for 1 yard (94-A.Booker).",run,1.0,0.0
+2026_03_PHI_CHI,3,2026-09-28,Monday,PHI,CHI,(1:20) 1-J.Hurts pass incomplete short right to 6-D.Smith.,pass,0.0,0.0
+2026_03_PHI_CHI,3,2026-09-28,Monday,PHI,CHI,(1:11) (Shotgun) 1-J.Hurts pass short right to 6-D.Smith to CHI 46 for 4 yards (22-E.Hicks).,pass,4.0,0.0
+2026_03_PHI_CHI,3,2026-09-28,Monday,PHI,CHI,"(:27) (No Huddle, Shotgun) 1-J.Hurts pass short left intended for 6-D.Smith INTERCEPTED by 53-T.Edwards at CHI 42. 53-T.Edwards to CHI 42 for no gain (9-M.Lemon).",pass,0.0,0.0
+2026_03_PHI_CHI,3,2026-09-28,Monday,CHI,PHI,(:23) 4-D.Swift right end to CHI 45 for 3 yards (98-J.Carter).,run,3.0,0.0
+2026_03_PHI_CHI,3,2026-09-28,Monday,CHI,PHI,END QUARTER 3,,,
+2026_03_PHI_CHI,3,2026-09-28,Monday,CHI,PHI,(15:00) (Shotgun) 25-K.Monangai right end to PHI 47 for 8 yards (35-M.Carter).,run,8.0,0.0
+2026_03_PHI_CHI,3,2026-09-28,Monday,CHI,PHI,(14:19) (Shotgun) 11-C.Keenum pass incomplete short middle to 10-L.Burden (53-Z.Baun).,pass,0.0,0.0
+2026_03_PHI_CHI,3,2026-09-28,Monday,CHI,PHI,(14:15) (Shotgun) 25-K.Monangai left guard to PHI 46 for 1 yard (58-J.Hunt).,run,1.0,0.0
+2026_03_PHI_CHI,3,2026-09-28,Monday,CHI,PHI,"(13:34) (Shotgun) 11-C.Keenum scrambles left end to PHI 42 for 4 yards (52-J.Greenard). FUMBLES (52-J.Greenard), and recovers at PHI 39.",run,7.0,0.0
+2026_03_PHI_CHI,3,2026-09-28,Monday,CHI,PHI,"(12:48) (Run formation) PENALTY on PHI-97-M.Ojomo, Neutral Zone Infraction, 5 yards, enforced at PHI 39 - No Play.",no_play,0.0,0.0
+2026_03_PHI_CHI,3,2026-09-28,Monday,CHI,PHI,(12:28) (Shotgun) 25-K.Monangai left guard to PHI 27 for 7 yards (24-A.Mukuba).,run,7.0,0.0
+2026_03_PHI_CHI,3,2026-09-28,Monday,CHI,PHI,(11:50) 25-K.Monangai right guard to PHI 25 for 2 yards (90-J.Davis; 29-M.Epps).,run,2.0,0.0
+2026_03_PHI_CHI,3,2026-09-28,Monday,CHI,PHI,(11:13) (Shotgun) 25-K.Monangai left guard to PHI 19 for 6 yards (29-M.Epps).,run,6.0,0.0
+2026_03_PHI_CHI,3,2026-09-28,Monday,CHI,PHI,(10:31) 25-K.Monangai right guard to PHI 17 for 2 yards (11-J.Campbell).,run,2.0,0.0
+2026_03_PHI_CHI,3,2026-09-28,Monday,CHI,PHI,(9:53) 11-C.Keenum pass short left to 15-R.Odunze to PHI 10 for 7 yards (27-Q.Mitchell).,pass,7.0,0.0
+2026_03_PHI_CHI,3,2026-09-28,Monday,CHI,PHI,"(9:14) PENALTY on CHI-15-R.Odunze, False Start, 4 yards, enforced at PHI 10 - No Play.",no_play,0.0,0.0
+2026_03_PHI_CHI,3,2026-09-28,Monday,CHI,PHI,"(9:14) (Shotgun) 11-C.Keenum sacked at PHI 16 for -2 yards (97-M.Ojomo). PENALTY on PHI-24-A.Mukuba, Defensive Holding, 5 yards, enforced at PHI 14 - No Play.",no_play,0.0,0.0
+2026_03_PHI_CHI,3,2026-09-28,Monday,CHI,PHI,(8:53) (Shotgun) 4-D.Swift left tackle to PHI 5 for 4 yards (53-Z.Baun; 11-J.Campbell).,run,4.0,0.0
+2026_03_PHI_CHI,3,2026-09-28,Monday,CHI,PHI,(8:09) 4-D.Swift left tackle to PHI 1 for 4 yards (24-A.Mukuba; 58-J.Hunt).,run,4.0,0.0
+2026_03_PHI_CHI,3,2026-09-28,Monday,CHI,PHI,"(7:21) 11-C.Keenum up the middle for 1 yard, TOUCHDOWN.",run,1.0,1.0
+2026_03_PHI_CHI,3,2026-09-28,Monday,CHI,PHI,"8-C.Santos extra point is GOOD, Center-46-S.Daly, Holder-19-T.Taylor. PENALTY on CHI-73-J.Jackson, Unnecessary Roughness, 15 yards, enforced between downs.",extra_point,0.0,0.0
+2026_03_PHI_CHI,3,2026-09-28,Monday,PHI,CHI,8-C.Santos kicks 67 yards from CHI 20 to PHI 13. 28-W.Shipley to PHI 40 for 27 yards (22-E.Hicks).,kickoff,0.0,0.0
+2026_03_PHI_CHI,3,2026-09-28,Monday,PHI,CHI,(7:13) (Shotgun) 1-J.Hurts pass short middle to 9-M.Lemon to CHI 47 for 13 yards (22-E.Hicks; 53-T.Edwards).,pass,13.0,0.0
+2026_03_PHI_CHI,3,2026-09-28,Monday,PHI,CHI,"(6:40) (No Huddle, Shotgun) 1-J.Hurts scrambles left tackle to CHI 27 for 20 yards (32-X.Woods). CHI-21-C.Lewis was injured during the play.",run,20.0,0.0
+2026_03_PHI_CHI,3,2026-09-28,Monday,PHI,CHI,"(6:30) (Shotgun) 1-J.Hurts pass deep middle to 13-D.Wicks to CHI 9 for 18 yards (1-J.Johnson). Chicago challenged the pass completion ruling, and the play was REVERSED. (Shotgun) 1-J.Hurts pass incomplete deep middle to 13-D.Wicks.",pass,0.0,0.0
+2026_03_PHI_CHI,3,2026-09-28,Monday,PHI,CHI,"(6:26) (Shotgun) PENALTY on PHI-84-E.Jenkins, False Start, 5 yards, enforced at CHI 27 - No Play.",no_play,0.0,0.0
+2026_03_PHI_CHI,3,2026-09-28,Monday,PHI,CHI,(6:26) (Shotgun) 1-J.Hurts sacked at CHI 42 for -10 yards (55-D.Odeyingbo).,pass,-10.0,0.0
+2026_03_PHI_CHI,3,2026-09-28,Monday,PHI,CHI,(5:56) (Shotgun) 1-J.Hurts scrambles right guard to CHI 39 for 3 yards (94-A.Booker).,run,3.0,0.0
+2026_03_PHI_CHI,3,2026-09-28,Monday,PHI,CHI,"(5:19) (No Huddle, Shotgun) 1-J.Hurts pass incomplete deep right to 9-M.Lemon [24-M.Muhammad].",pass,0.0,0.0
+2026_03_PHI_CHI,3,2026-09-28,Monday,CHI,PHI,(5:12) 4-D.Swift left tackle to CHI 48 for 9 yards (95-T.Robinson; 24-A.Mukuba).,run,9.0,0.0
+2026_03_PHI_CHI,3,2026-09-28,Monday,CHI,PHI,(4:30) 4-D.Swift right end to PHI 43 for 9 yards (2-T.Woolen; 33-C.DeJean).,run,9.0,0.0
+2026_03_PHI_CHI,3,2026-09-28,Monday,CHI,PHI,(3:45) 4-D.Swift right guard to PHI 38 for 5 yards (33-C.DeJean; 24-A.Mukuba).,run,5.0,0.0
+2026_03_PHI_CHI,3,2026-09-28,Monday,CHI,PHI,(3:03) 4-D.Swift left guard to PHI 36 for 2 yards (94-B.Young; 95-T.Robinson).,run,2.0,0.0
+2026_03_PHI_CHI,3,2026-09-28,Monday,CHI,PHI,(2:19) (Shotgun) 4-D.Swift right tackle to PHI 34 for 2 yards (94-B.Young; 90-J.Davis).,run,2.0,0.0
+2026_03_PHI_CHI,3,2026-09-28,Monday,CHI,PHI,(2:00) 65-L.Newman reported in as eligible. 4-D.Swift left tackle to PHI 19 for 15 yards (2-T.Woolen).,run,15.0,0.0
+2026_03_PHI_CHI,3,2026-09-28,Monday,CHI,PHI,(1:19) 11-C.Keenum kneels to PHI 20 for -1 yards.,qb_kneel,-1.0,0.0
+2026_03_PHI_CHI,3,2026-09-28,Monday,CHI,PHI,(:39) 11-C.Keenum kneels to PHI 21 for -1 yards.,qb_kneel,-1.0,0.0
+2026_03_PHI_CHI,3,2026-09-28,Monday,CHI,PHI,END GAME,,,
 2026_03_SEA_WAS,3,2026-09-27,Sunday,,,GAME,,,
 2026_03_SEA_WAS,3,2026-09-27,Sunday,SEA,WAS,19-D.Stevens kicks 64 yards from WAS 35 to SEA 1. 22-R.Shaheed pushed ob at SEA 37 for 36 yards (39-J.Reaves).,kickoff,0.0,0.0
 2026_03_SEA_WAS,3,2026-09-27,Sunday,SEA,WAS,(14:55) 8-J.Price left tackle to SEA 48 for 11 yards (39-J.Reaves).,run,11.0,0.0
