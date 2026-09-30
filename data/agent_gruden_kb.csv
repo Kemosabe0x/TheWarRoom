@@ -7284,7 +7284,7 @@ game_id,week,game_date,day_of_week,posteam,defteam,desc,play_type,yards_gained,t
 2026_03_LV_NO,3,2026-09-27,Sunday,NO,LV,"(1:08) (No Huddle, Shotgun) 6-T.Shough pass deep right to 12-C.Olave ran ob at NO 40 for 19 yards (3-T.Johnson).",pass,19.0,0.0
 2026_03_LV_NO,3,2026-09-27,Sunday,NO,LV,"(1:02) (Shotgun) 6-T.Shough pass short right to 83-J.Johnson to NO 41 for 1 yard (17-N.Dean). FUMBLES (17-N.Dean), touched at NO 40, RECOVERED by LV-5-E.Stokes at NO 35.",pass,0.0,0.0
 2026_03_LV_NO,3,2026-09-27,Sunday,LV,NO,(:53) 8-K.Cousins kneels to NO 36 for -1 yards.,qb_kneel,-1.0,0.0
-2026_03_LV_NO,3,2026-09-27,Sunday,LV,NO,(:35) 8-K.Cousins kneels to NO 37 for -1 yards.,qb_kneel,-1.0,0.0
+2026_03_LV_NO,3,2026-09-27,Sunday,LV,NO,(:36) 8-K.Cousins kneels to NO 37 for -1 yards.,qb_kneel,-1.0,0.0
 2026_03_LV_NO,3,2026-09-27,Sunday,LV,NO,END GAME,,,
 2026_03_MIN_TB,3,2026-09-27,Sunday,,,GAME,,,
 2026_03_MIN_TB,3,2026-09-27,Sunday,MIN,TB,4-C.McLaughlin kicks 62 yards from TB 35 to MIN 3. 4-M.Price to MIN 24 for 21 yards (22-K.Scott; 51-D.Walker).,kickoff,0.0,0.0
@@ -8139,7 +8139,7 @@ game_id,week,game_date,day_of_week,posteam,defteam,desc,play_type,yards_gained,t
 2026_03_SEA_WAS,3,2026-09-27,Sunday,,,Timeout #1 by SEA at 01:47.,no_play,0.0,0.0
 2026_03_SEA_WAS,3,2026-09-27,Sunday,WAS,SEA,(1:47) 71-A.Wylie reported in as eligible. 1-R.White up the middle to SEA 47 for no gain (21-D.Witherspoon; 90-J.Reed).,run,0.0,0.0
 2026_03_SEA_WAS,3,2026-09-27,Sunday,,,Timeout #2 by SEA at 01:42.,no_play,0.0,0.0
-2026_03_SEA_WAS,3,2026-09-27,Sunday,WAS,SEA,(1:42) 1-R.White right tackle to SEA 44 for 3 yards (90-J.Reed).,run,3.0,0.0
+2026_03_SEA_WAS,3,2026-09-27,Sunday,WAS,SEA,(1:42) 1-R.White right tackle to SEA 44 for 3 yards (90-J.Reed; 13-E.Jones).,run,3.0,0.0
 2026_03_SEA_WAS,3,2026-09-27,Sunday,,,Timeout #3 by SEA at 01:36.,no_play,0.0,0.0
 2026_03_SEA_WAS,3,2026-09-27,Sunday,WAS,SEA,(1:36) (Shotgun) 8-M.Mariota right end to SEA 35 for 9 yards (29-J.Jobe).,run,9.0,0.0
 2026_03_SEA_WAS,3,2026-09-27,Sunday,WAS,SEA,(:52) 8-M.Mariota kneels to SEA 36 for -1 yards.,qb_kneel,-1.0,0.0
