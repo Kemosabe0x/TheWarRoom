@@ -8310,3 +8310,189 @@ game_id,week,game_date,day_of_week,posteam,defteam,desc,play_type,yards_gained,t
 2026_03_TEN_NYG,3,2026-09-27,Sunday,TEN,NYG,"(:24) (Shotgun) 1-C.Ward pass short left intended for 5-E.Ayomanor INTERCEPTED by 8-J.Holland at NYG -4. Touchback. PENALTY on NYG-3-A.Carter, Unsportsmanlike Conduct, 10 yards, enforced at NYG 20.",pass,0.0,0.0
 2026_03_TEN_NYG,3,2026-09-27,Sunday,NYG,TEN,(:17) 19-J.Winston kneels to NYG 9 for -1 yards.,qb_kneel,-1.0,0.0
 2026_03_TEN_NYG,3,2026-09-27,Sunday,NYG,TEN,END GAME,,,
+2026_04_PIT_CLE,4,2026-10-01,Thursday,,,GAME,,,
+2026_04_PIT_CLE,4,2026-10-01,Thursday,CLE,PIT,"9-C.Boswell kicks 55 yards from PIT 35 to CLE 10. 23-R.Sanders to CLE 31 for 21 yards (55-C.Holcomb; 33-J.Sawyer). PENALTY on CLE-59-W.Reid, Offensive Holding, 10 yards, enforced at CLE 26.",kickoff,0.0,0.0
+2026_04_PIT_CLE,4,2026-10-01,Thursday,CLE,PIT,(14:54) (Shotgun) 4-D.Watson pass short right to 12-D.Boston to CLE 21 for 5 yards (22-A.Samuel).,pass,5.0,0.0
+2026_04_PIT_CLE,4,2026-10-01,Thursday,CLE,PIT,(14:21) (Shotgun) 10-Q.Judkins right guard to CLE 23 for 2 yards (6-P.Queen).,run,2.0,0.0
+2026_04_PIT_CLE,4,2026-10-01,Thursday,CLE,PIT,(13:44) (Shotgun) 4-D.Watson pass short left to 0-I.Bond to CLE 25 for 2 yards (5-J.Ramsey) [90-T.Watt].,pass,2.0,0.0
+2026_04_PIT_CLE,4,2026-10-01,Thursday,CLE,PIT,"(12:59) 13-C.Bojorquez punts 68 yards to PIT 7, Center-50-R.Sunahara. 10-K.Wetjen pushed ob at PIT 22 for 15 yards (86-B.Whiteheart).",punt,0.0,0.0
+2026_04_PIT_CLE,4,2026-10-01,Thursday,PIT,CLE,(12:47) 30-J.Warren left tackle to PIT 26 for 4 yards (7-T.Campbell).,run,4.0,0.0
+2026_04_PIT_CLE,4,2026-10-01,Thursday,PIT,CLE,(12:09) (Shotgun) 8-A.Rodgers pass incomplete deep right to 4-D.Metcalf.,pass,0.0,0.0
+2026_04_PIT_CLE,4,2026-10-01,Thursday,PIT,CLE,"(12:04) (Shotgun) PENALTY on PIT-11-M.Pittman, False Start, 5 yards, enforced at PIT 26 - No Play.",no_play,0.0,0.0
+2026_04_PIT_CLE,4,2026-10-01,Thursday,PIT,CLE,(12:04) (Shotgun) 8-A.Rodgers pass short right to 4-D.Metcalf to PIT 36 for 15 yards (33-R.Hickman).,pass,15.0,0.0
+2026_04_PIT_CLE,4,2026-10-01,Thursday,PIT,CLE,(11:23) 30-J.Warren left guard to PIT 37 for 1 yard (49-C.Schwesinger).,run,1.0,0.0
+2026_04_PIT_CLE,4,2026-10-01,Thursday,PIT,CLE,(10:45) (Shotgun) 8-A.Rodgers pass short left to 80-D.Washington to PIT 43 for 6 yards (33-R.Hickman; 9-G.Delpit).,pass,6.0,0.0
+2026_04_PIT_CLE,4,2026-10-01,Thursday,PIT,CLE,"(10:02) (Shotgun) 8-A.Rodgers pass short middle to 4-D.Metcalf to 50 for 7 yards (9-G.Delpit; 49-C.Schwesinger). PENALTY on PIT-4-D.Metcalf, Taunting, 15 yards, enforced at 50.",pass,7.0,0.0
+2026_04_PIT_CLE,4,2026-10-01,Thursday,PIT,CLE,"(9:33) 8-A.Rodgers pass incomplete deep right to 14-R.Wilson. PENALTY on CLE-21-D.Ward, Illegal Contact, 5 yards, enforced at PIT 35 - No Play.",no_play,0.0,0.0
+2026_04_PIT_CLE,4,2026-10-01,Thursday,PIT,CLE,(9:26) (Shotgun) 30-J.Warren right guard to PIT 40 for no gain (5-Q.Williams; 49-C.Schwesinger).,run,0.0,0.0
+2026_04_PIT_CLE,4,2026-10-01,Thursday,PIT,CLE,(8:46) 8-A.Rodgers pass short middle to 30-J.Warren to CLE 49 for 11 yards (5-Q.Williams; 49-C.Schwesinger).,pass,11.0,0.0
+2026_04_PIT_CLE,4,2026-10-01,Thursday,PIT,CLE,"(8:02) PENALTY on CLE-51-M.Hall, Neutral Zone Infraction, 5 yards, enforced at CLE 49 - No Play.",no_play,0.0,0.0
+2026_04_PIT_CLE,4,2026-10-01,Thursday,PIT,CLE,(7:41) 30-J.Warren up the middle to CLE 38 for 6 yards (26-M.Harden; 33-R.Hickman). CLE-94-M.Graham was injured during the play.,run,6.0,0.0
+2026_04_PIT_CLE,4,2026-10-01,Thursday,PIT,CLE,(7:14) 30-J.Warren right guard to CLE 37 for 1 yard (42-E.Mascarenas-Arnold).,run,1.0,0.0
+2026_04_PIT_CLE,4,2026-10-01,Thursday,PIT,CLE,(6:31) (Shotgun) 8-A.Rodgers sacked at CLE 44 for -7 yards (96-M.Collins).,pass,-7.0,0.0
+2026_04_PIT_CLE,4,2026-10-01,Thursday,PIT,CLE,"(5:49) (Shotgun) 8-A.Rodgers pass short right to 11-M.Pittman to CLE 35 for 9 yards (21-D.Ward). PENALTY on CLE-96-M.Collins, Roughing the Passer, 15 yards, enforced at CLE 35. Penalty on CLE-26-M.Harden, Illegal Contact, declined. Penalty on CLE-8-J.Verse, Unnecessary Roughness, declined.",pass,9.0,0.0
+2026_04_PIT_CLE,4,2026-10-01,Thursday,PIT,CLE,(5:21) 8-A.Rodgers pass incomplete short left to 15-B.Skowronek.,pass,0.0,0.0
+2026_04_PIT_CLE,4,2026-10-01,Thursday,PIT,CLE,(5:16) 30-J.Warren left guard to CLE 11 for 9 yards (7-T.Campbell).,run,9.0,0.0
+2026_04_PIT_CLE,4,2026-10-01,Thursday,PIT,CLE,(4:32) 21-T.Homer right guard to CLE 9 for 2 yards (57-I.McGuire).,run,2.0,0.0
+2026_04_PIT_CLE,4,2026-10-01,Thursday,PIT,CLE,"(3:47) 21-T.Homer up the middle to CLE 12 for -3 yards (96-M.Collins, 5-Q.Williams).",run,-3.0,0.0
+2026_04_PIT_CLE,4,2026-10-01,Thursday,PIT,CLE,"(3:03) (Shotgun) 8-A.Rodgers pass short middle to 14-R.Wilson for 12 yards, TOUCHDOWN.",pass,12.0,1.0
+2026_04_PIT_CLE,4,2026-10-01,Thursday,PIT,CLE,"9-C.Boswell extra point is GOOD, Center-46-C.Kuntz, Holder-19-C.Johnston.",extra_point,0.0,0.0
+2026_04_PIT_CLE,4,2026-10-01,Thursday,CLE,PIT,"9-C.Boswell kicks 65 yards from PIT 35 to end zone, Touchback to the CLE 35.",kickoff,0.0,0.0
+2026_04_PIT_CLE,4,2026-10-01,Thursday,CLE,PIT,(2:59) (Shotgun) 4-D.Watson pass deep left to 1-K.Concepcion to PIT 44 for 21 yards (3-J.Brisker) [97-C.Heyward].,pass,21.0,0.0
+2026_04_PIT_CLE,4,2026-10-01,Thursday,CLE,PIT,(2:21) (Shotgun) 4-D.Watson pass incomplete deep left to 12-D.Boston (35-J.Dean).,pass,0.0,0.0
+2026_04_PIT_CLE,4,2026-10-01,Thursday,CLE,PIT,(2:16) (Shotgun) 10-Q.Judkins left end to PIT 43 for 1 yard (90-T.Watt).,run,1.0,0.0
+2026_04_PIT_CLE,4,2026-10-01,Thursday,CLE,PIT,(1:36) (Shotgun) 4-D.Watson pass incomplete deep right to 12-D.Boston (22-A.Samuel).,pass,0.0,0.0
+2026_04_PIT_CLE,4,2026-10-01,Thursday,CLE,PIT,"(1:29) 13-C.Bojorquez punts 42 yards to PIT 1, impetus ends at PIT 1, Center-50-R.Sunahara, downed by CLE-24-D.Thomas.",punt,0.0,0.0
+2026_04_PIT_CLE,4,2026-10-01,Thursday,PIT,CLE,"(1:21) PENALTY on CLE-8-J.Verse, Encroachment, 5 yards, enforced at PIT 1 - No Play.",no_play,0.0,0.0
+2026_04_PIT_CLE,4,2026-10-01,Thursday,PIT,CLE,(1:21) 30-J.Warren right end to PIT 14 for 8 yards (28-E.McNeil-Warren).,run,8.0,0.0
+2026_04_PIT_CLE,4,2026-10-01,Thursday,PIT,CLE,"(:37) (Shotgun) 8-A.Rodgers pass short right to 30-J.Warren pushed ob at PIT 23 for 9 yards (49-C.Schwesinger, 21-D.Ward).",pass,9.0,0.0
+2026_04_PIT_CLE,4,2026-10-01,Thursday,PIT,CLE,END QUARTER 1,,,
+2026_04_PIT_CLE,4,2026-10-01,Thursday,PIT,CLE,(15:00) (Shotgun) 30-J.Warren up the middle to PIT 29 for 6 yards (5-Q.Williams; 28-E.McNeil-Warren).,run,6.0,0.0
+2026_04_PIT_CLE,4,2026-10-01,Thursday,PIT,CLE,(14:17) (Shotgun) 8-A.Rodgers pass deep right intended for 11-M.Pittman INTERCEPTED by 21-D.Ward (54-S.Williams) at CLE 44. 21-D.Ward to CLE 44 for no gain (11-M.Pittman).,pass,0.0,0.0
+2026_04_PIT_CLE,4,2026-10-01,Thursday,CLE,PIT,(14:11) (Shotgun) 10-Q.Judkins right tackle to CLE 47 for 3 yards (51-N.Herbig).,run,3.0,0.0
+2026_04_PIT_CLE,4,2026-10-01,Thursday,CLE,PIT,(13:36) (Shotgun) 4-D.Watson pass short right to 44-H.Fannin pushed ob at PIT 40 for 13 yards (3-J.Brisker; 35-J.Dean).,pass,13.0,0.0
+2026_04_PIT_CLE,4,2026-10-01,Thursday,CLE,PIT,(13:07) (Shotgun) 4-D.Watson pass short middle to 10-Q.Judkins to PIT 28 for 12 yards (55-C.Holcomb; 22-A.Samuel).,pass,12.0,0.0
+2026_04_PIT_CLE,4,2026-10-01,Thursday,CLE,PIT,"(12:22) (Shotgun) 38-J.McLaughlin right end for 28 yards, TOUCHDOWN.",run,28.0,1.0
+2026_04_PIT_CLE,4,2026-10-01,Thursday,CLE,PIT,"25-A.Szmyt extra point is GOOD, Center-50-R.Sunahara, Holder-13-C.Bojorquez.",extra_point,0.0,0.0
+2026_04_PIT_CLE,4,2026-10-01,Thursday,PIT,CLE,25-A.Szmyt kicks 62 yards from CLE 35 to PIT 3. 10-K.Wetjen to PIT 23 for 20 yards (31-D.McMillon).,kickoff,0.0,0.0
+2026_04_PIT_CLE,4,2026-10-01,Thursday,PIT,CLE,(12:09) (Shotgun) 8-A.Rodgers pass short right to 80-D.Washington to PIT 23 for no gain (33-R.Hickman; 98-A.Huntington).,pass,0.0,0.0
+2026_04_PIT_CLE,4,2026-10-01,Thursday,PIT,CLE,"(11:34) (No Huddle, Shotgun) 8-A.Rodgers pass short left to 88-P.Freiermuth to PIT 28 for 5 yards (9-G.Delpit).",pass,5.0,0.0
+2026_04_PIT_CLE,4,2026-10-01,Thursday,PIT,CLE,(10:50) (Shotgun) 8-A.Rodgers pass incomplete short middle to 4-D.Metcalf (28-E.McNeil-Warren).,pass,0.0,0.0
+2026_04_PIT_CLE,4,2026-10-01,Thursday,PIT,CLE,"(10:46) 19-C.Johnston punts 46 yards to CLE 26, Center-46-C.Kuntz, fair catch by 1-K.Concepcion.",punt,0.0,0.0
+2026_04_PIT_CLE,4,2026-10-01,Thursday,CLE,PIT,(10:38) (Shotgun) 4-D.Watson pass deep left to 12-D.Boston to PIT 14 for 60 yards (23-D.Everette).,pass,60.0,0.0
+2026_04_PIT_CLE,4,2026-10-01,Thursday,,,Timeout #1 by CLE at 09:50.,no_play,0.0,0.0
+2026_04_PIT_CLE,4,2026-10-01,Thursday,CLE,PIT,(9:50) 4-D.Watson pass short left to 1-K.Concepcion pushed ob at PIT 9 for 5 yards (6-P.Queen).,pass,5.0,0.0
+2026_04_PIT_CLE,4,2026-10-01,Thursday,CLE,PIT,(9:12) (Shotgun) 4-D.Watson pass short left to 10-Q.Judkins to PIT 2 for 7 yards (94-Y.Black).,pass,7.0,0.0
+2026_04_PIT_CLE,4,2026-10-01,Thursday,CLE,PIT,"(8:33) 70-Z.Zinter reported in as eligible. 10-Q.Judkins right guard for 2 yards, TOUCHDOWN.",run,2.0,1.0
+2026_04_PIT_CLE,4,2026-10-01,Thursday,CLE,PIT,"25-A.Szmyt extra point is GOOD, Center-50-R.Sunahara, Holder-13-C.Bojorquez.",extra_point,0.0,0.0
+2026_04_PIT_CLE,4,2026-10-01,Thursday,PIT,CLE,"25-A.Szmyt kicks 65 yards from CLE 35 to end zone, Touchback to the PIT 35.",kickoff,0.0,0.0
+2026_04_PIT_CLE,4,2026-10-01,Thursday,PIT,CLE,(8:28) (Shotgun) 8-A.Rodgers pass short middle to 88-P.Freiermuth to PIT 44 for 9 yards (9-G.Delpit).,pass,9.0,0.0
+2026_04_PIT_CLE,4,2026-10-01,Thursday,PIT,CLE,"(7:50) (No Huddle, Shotgun) 30-J.Warren right guard to PIT 46 for 2 yards (8-J.Verse; 96-M.Collins).",run,2.0,0.0
+2026_04_PIT_CLE,4,2026-10-01,Thursday,PIT,CLE,(7:19) (No Huddle) 30-J.Warren left end to CLE 30 for 24 yards (7-T.Campbell; 54-S.Williams).,run,24.0,0.0
+2026_04_PIT_CLE,4,2026-10-01,Thursday,PIT,CLE,"(6:46) (No Huddle, Shotgun) 8-A.Rodgers pass incomplete short left to 11-M.Pittman (7-T.Campbell).",pass,0.0,0.0
+2026_04_PIT_CLE,4,2026-10-01,Thursday,PIT,CLE,"(6:43) (No Huddle, Shotgun) 8-A.Rodgers pass short right to 11-M.Pittman pushed ob at CLE 24 for 6 yards (21-D.Ward).",pass,6.0,0.0
+2026_04_PIT_CLE,4,2026-10-01,Thursday,PIT,CLE,(6:06) (Shotgun) 8-A.Rodgers sacked at CLE 30 for -6 yards (57-I.McGuire).,pass,-6.0,0.0
+2026_04_PIT_CLE,4,2026-10-01,Thursday,PIT,CLE,"(5:26) 9-C.Boswell 48 yard field goal is No Good, Wide Left, Center-46-C.Kuntz, Holder-19-C.Johnston.",field_goal,0.0,0.0
+2026_04_PIT_CLE,4,2026-10-01,Thursday,CLE,PIT,(5:21) (Shotgun) 4-D.Watson pass short left to 1-K.Concepcion to CLE 45 for 7 yards (97-C.Heyward). PIT-35-J.Dean was injured during the play.,pass,7.0,0.0
+2026_04_PIT_CLE,4,2026-10-01,Thursday,CLE,PIT,(4:53) (Shotgun) 10-Q.Judkins left tackle to CLE 47 for 2 yards (51-N.Herbig; 97-C.Heyward).,run,2.0,0.0
+2026_04_PIT_CLE,4,2026-10-01,Thursday,CLE,PIT,"(4:22) (Shotgun) PENALTY on CLE-56-L.Wypler, False Start, 5 yards, enforced at CLE 47 - No Play.",no_play,0.0,0.0
+2026_04_PIT_CLE,4,2026-10-01,Thursday,CLE,PIT,(4:00) (Shotgun) 4-D.Watson pass short left to 12-D.Boston to PIT 49 for 9 yards (23-D.Everette).,pass,9.0,0.0
+2026_04_PIT_CLE,4,2026-10-01,Thursday,CLE,PIT,(3:22) (Shotgun) 4-D.Watson pass incomplete short middle to 1-K.Concepcion (28-R.Spears-Jennings).,pass,0.0,0.0
+2026_04_PIT_CLE,4,2026-10-01,Thursday,CLE,PIT,(3:13) (Shotgun) 4-D.Watson pass short left to 1-K.Concepcion to PIT 24 for 25 yards (23-D.Everette).,pass,25.0,0.0
+2026_04_PIT_CLE,4,2026-10-01,Thursday,CLE,PIT,(2:24) 10-Q.Judkins left end to PIT 23 for 1 yard (97-C.Heyward; 6-P.Queen).,run,1.0,0.0
+2026_04_PIT_CLE,4,2026-10-01,Thursday,CLE,PIT,(2:00) (Shotgun) 4-D.Watson pass short right to 10-Q.Judkins pushed ob at PIT 14 for 9 yards (6-P.Queen).,pass,9.0,0.0
+2026_04_PIT_CLE,4,2026-10-01,Thursday,CLE,PIT,(1:55) (Shotgun) 10-Q.Judkins right guard to PIT 10 for 4 yards (94-Y.Black).,run,4.0,0.0
+2026_04_PIT_CLE,4,2026-10-01,Thursday,,,Timeout #1 by PIT at 01:47.,no_play,0.0,0.0
+2026_04_PIT_CLE,4,2026-10-01,Thursday,CLE,PIT,"(1:47) (Shotgun) 4-D.Watson pass short right to 12-D.Boston ran ob at PIT 4 for 6 yards. Penalty on PIT-6-P.Queen, Defensive Holding, declined. The Replay Official reviewed the first down ruling, and the play was REVERSED. (Shotgun) 4-D.Watson pass short right to 12-D.Boston ran ob at PIT 5 for 5 yards. PENALTY on PIT-6-P.Queen, Defensive Holding, 5 yards, enforced at PIT 10 - No Play.",no_play,0.0,0.0
+2026_04_PIT_CLE,4,2026-10-01,Thursday,CLE,PIT,(1:39) 4-D.Watson pass short left to 10-Q.Judkins to PIT 1 for 4 yards (3-J.Brisker).,pass,4.0,0.0
+2026_04_PIT_CLE,4,2026-10-01,Thursday,,,Timeout #2 by PIT at 01:29.,no_play,0.0,0.0
+2026_04_PIT_CLE,4,2026-10-01,Thursday,CLE,PIT,"(1:29) 10-Q.Judkins right tackle to PIT 2 for -1 yards (56-A.Highsmith, 97-C.Heyward).",run,-1.0,0.0
+2026_04_PIT_CLE,4,2026-10-01,Thursday,,,Timeout #3 by PIT at 01:25.,no_play,0.0,0.0
+2026_04_PIT_CLE,4,2026-10-01,Thursday,CLE,PIT,"(1:25) (Shotgun) 4-D.Watson pass short right to 44-H.Fannin for 2 yards, TOUCHDOWN. Penalty on PIT-90-T.Watt, Defensive Offside, declined.",pass,2.0,1.0
+2026_04_PIT_CLE,4,2026-10-01,Thursday,CLE,PIT,"25-A.Szmyt extra point is GOOD, Center-50-R.Sunahara, Holder-13-C.Bojorquez.",extra_point,0.0,0.0
+2026_04_PIT_CLE,4,2026-10-01,Thursday,PIT,CLE,25-A.Szmyt kicks 64 yards from CLE 35 to PIT 1. 10-K.Wetjen to PIT 28 for 27 yards (98-A.Huntington; 28-E.McNeil-Warren).,kickoff,0.0,0.0
+2026_04_PIT_CLE,4,2026-10-01,Thursday,PIT,CLE,(1:14) (Shotgun) 8-A.Rodgers pass incomplete deep left to 88-P.Freiermuth. CLE-51-M.Hall was injured during the play.,pass,0.0,0.0
+2026_04_PIT_CLE,4,2026-10-01,Thursday,,,Timeout #2 by CLE at 01:06.,no_play,0.0,0.0
+2026_04_PIT_CLE,4,2026-10-01,Thursday,PIT,CLE,(1:06) (Shotgun) 8-A.Rodgers pass deep middle to 14-R.Wilson to CLE 23 for 49 yards (7-T.Campbell).,pass,49.0,0.0
+2026_04_PIT_CLE,4,2026-10-01,Thursday,PIT,CLE,"(:37) (No Huddle, Shotgun) 8-A.Rodgers pass incomplete short right to 14-R.Wilson [8-J.Verse]. PENALTY on CLE-26-M.Harden, Defensive Holding, 5 yards, enforced at CLE 23 - No Play.",no_play,0.0,0.0
+2026_04_PIT_CLE,4,2026-10-01,Thursday,PIT,CLE,"(:32) (Shotgun) 8-A.Rodgers sacked at CLE 24 for -6 yards (98-A.Huntington). PENALTY on CLE-54-S.Williams, Illegal Use of Hands, 5 yards, enforced at CLE 18 - No Play.",no_play,0.0,0.0
+2026_04_PIT_CLE,4,2026-10-01,Thursday,PIT,CLE,(:26) (Shotgun) 8-A.Rodgers pass incomplete short middle to 14-R.Wilson [98-A.Huntington].,pass,0.0,0.0
+2026_04_PIT_CLE,4,2026-10-01,Thursday,PIT,CLE,(:22) (Shotgun) 8-A.Rodgers pass incomplete short left to 30-J.Warren (5-Q.Williams).,pass,0.0,0.0
+2026_04_PIT_CLE,4,2026-10-01,Thursday,PIT,CLE,(:16) (Shotgun) 8-A.Rodgers pass incomplete short middle [97-D.Barnett].,pass,0.0,0.0
+2026_04_PIT_CLE,4,2026-10-01,Thursday,PIT,CLE,"(:12) 9-C.Boswell 31 yard field goal is GOOD, Center-46-C.Kuntz, Holder-19-C.Johnston.",field_goal,0.0,0.0
+2026_04_PIT_CLE,4,2026-10-01,Thursday,CLE,PIT,"9-C.Boswell kicks 63 yards from PIT 35 to CLE 2. 23-R.Sanders to CLE 31 for 29 yards (31-L.Nichols). PENALTY on CLE-59-W.Reid, Offensive Holding, 10 yards, enforced at CLE 26.",kickoff,0.0,0.0
+2026_04_PIT_CLE,4,2026-10-01,Thursday,CLE,PIT,(:03) 4-D.Watson kneels to CLE 15 for -1 yards.,qb_kneel,-1.0,0.0
+2026_04_PIT_CLE,4,2026-10-01,Thursday,,,END QUARTER 2,,,
+2026_04_PIT_CLE,4,2026-10-01,Thursday,PIT,CLE,25-A.Szmyt kicks 55 yards from CLE 35 to PIT 10. 10-K.Wetjen to PIT 35 for 25 yards (11-M.Corley).,kickoff,0.0,0.0
+2026_04_PIT_CLE,4,2026-10-01,Thursday,PIT,CLE,(14:55) 30-J.Warren left end to PIT 34 for -1 yards (8-J.Verse).,run,-1.0,0.0
+2026_04_PIT_CLE,4,2026-10-01,Thursday,PIT,CLE,(14:23) 30-J.Warren right end to PIT 35 for 1 yard (96-M.Collins; 49-C.Schwesinger).,run,1.0,0.0
+2026_04_PIT_CLE,4,2026-10-01,Thursday,PIT,CLE,(13:40) (Shotgun) 8-A.Rodgers pass incomplete short left to 30-J.Warren.,pass,0.0,0.0
+2026_04_PIT_CLE,4,2026-10-01,Thursday,PIT,CLE,"(13:34) 19-C.Johnston punts 57 yards to CLE 8, Center-46-C.Kuntz. 1-K.Concepcion to CLE 22 for 14 yards (41-P.Wilson). PENALTY on CLE-26-M.Harden, Offensive Holding, 4 yards, enforced at CLE 8.",punt,0.0,0.0
+2026_04_PIT_CLE,4,2026-10-01,Thursday,CLE,PIT,"(13:22) (Shotgun) 4-D.Watson pass short middle to 10-Q.Judkins to CLE 9 for 5 yards (6-P.Queen; 28-R.Spears-Jennings). PENALTY on PIT-90-T.Watt, Defensive Offside, 5 yards, enforced at CLE 4 - No Play.",no_play,0.0,0.0
+2026_04_PIT_CLE,4,2026-10-01,Thursday,CLE,PIT,(12:57) (Shotgun) 10-Q.Judkins right tackle to CLE 10 for 1 yard (95-K.Benton; 41-P.Wilson).,run,1.0,0.0
+2026_04_PIT_CLE,4,2026-10-01,Thursday,CLE,PIT,(12:20) (Shotgun) 4-D.Watson pass short left to 23-R.Sanders to CLE 15 for 5 yards (28-R.Spears-Jennings).,pass,5.0,0.0
+2026_04_PIT_CLE,4,2026-10-01,Thursday,CLE,PIT,(11:35) (Shotgun) 4-D.Watson pass incomplete short left to 1-K.Concepcion (23-D.Everette).,pass,0.0,0.0
+2026_04_PIT_CLE,4,2026-10-01,Thursday,CLE,PIT,(11:30) (Shotgun) 4-D.Watson pass short left to 23-R.Sanders to CLE 17 for 2 yards (41-P.Wilson; 3-J.Brisker).,pass,2.0,0.0
+2026_04_PIT_CLE,4,2026-10-01,Thursday,CLE,PIT,"(10:41) (Shotgun) PENALTY on CLE-1-K.Concepcion, False Start, 5 yards, enforced at CLE 17 - No Play.",no_play,0.0,0.0
+2026_04_PIT_CLE,4,2026-10-01,Thursday,CLE,PIT,(10:24) (Shotgun) 4-D.Watson pass incomplete short right to 10-Q.Judkins (90-T.Watt).,pass,0.0,0.0
+2026_04_PIT_CLE,4,2026-10-01,Thursday,CLE,PIT,"(10:21) 13-C.Bojorquez punts 60 yards to PIT 28, Center-50-R.Sunahara. 10-K.Wetjen to PIT 43 for 15 yards (24-D.Thomas; 31-D.McMillon).",punt,0.0,0.0
+2026_04_PIT_CLE,4,2026-10-01,Thursday,PIT,CLE,(10:10) (Shotgun) 30-J.Warren up the middle to PIT 48 for 5 yards (49-C.Schwesinger; 33-R.Hickman).,run,5.0,0.0
+2026_04_PIT_CLE,4,2026-10-01,Thursday,PIT,CLE,(9:33) 8-A.Rodgers pass incomplete short left to 4-D.Metcalf (28-E.McNeil-Warren).,pass,0.0,0.0
+2026_04_PIT_CLE,4,2026-10-01,Thursday,PIT,CLE,(9:28) (Shotgun) 8-A.Rodgers sacked at PIT 45 for -3 yards (98-A.Huntington).,pass,-3.0,0.0
+2026_04_PIT_CLE,4,2026-10-01,Thursday,PIT,CLE,"(8:50) 19-C.Johnston punts 49 yards to CLE 6, Center-46-C.Kuntz. 1-K.Concepcion pushed ob at CLE 16 for 10 yards (41-P.Wilson).",punt,0.0,0.0
+2026_04_PIT_CLE,4,2026-10-01,Thursday,CLE,PIT,(8:38) (Shotgun) 4-D.Watson right end to CLE 23 for 7 yards (41-P.Wilson).,run,7.0,0.0
+2026_04_PIT_CLE,4,2026-10-01,Thursday,CLE,PIT,(8:03) (Shotgun) 10-Q.Judkins right guard to CLE 32 for 9 yards (28-R.Spears-Jennings).,run,9.0,0.0
+2026_04_PIT_CLE,4,2026-10-01,Thursday,CLE,PIT,(7:21) (Shotgun) 23-R.Sanders left guard to CLE 38 for 6 yards (28-R.Spears-Jennings).,run,6.0,0.0
+2026_04_PIT_CLE,4,2026-10-01,Thursday,CLE,PIT,(6:46) (Shotgun) 10-Q.Judkins up the middle to CLE 47 for 9 yards (41-P.Wilson).,run,9.0,0.0
+2026_04_PIT_CLE,4,2026-10-01,Thursday,CLE,PIT,(6:09) (Shotgun) 10-Q.Judkins up the middle to 50 for 3 yards (90-T.Watt).,run,3.0,0.0
+2026_04_PIT_CLE,4,2026-10-01,Thursday,CLE,PIT,(5:30) (Shotgun) 4-D.Watson pass short middle to 3-J.Jeudy to PIT 41 for 9 yards (41-P.Wilson).,pass,9.0,0.0
+2026_04_PIT_CLE,4,2026-10-01,Thursday,CLE,PIT,(4:56) (Shotgun) 23-R.Sanders right guard to PIT 38 for 3 yards (33-J.Sawyer; 69-S.Joseph).,run,3.0,0.0
+2026_04_PIT_CLE,4,2026-10-01,Thursday,CLE,PIT,"(4:19) (Shotgun) 4-D.Watson up the middle to PIT 43 for -5 yards (90-T.Watt). FUMBLES (90-T.Watt), RECOVERED by PIT-90-T.Watt at 50.",run,-12.0,0.0
+2026_04_PIT_CLE,4,2026-10-01,Thursday,PIT,CLE,(4:13) 8-A.Rodgers pass short left to 15-B.Skowronek to CLE 43 for 7 yards (7-T.Campbell). ** Injury Update: CLE-51-M.Hall has returned to the game.,pass,7.0,0.0
+2026_04_PIT_CLE,4,2026-10-01,Thursday,PIT,CLE,(3:29) (Shotgun) 30-J.Warren left guard to CLE 30 for 13 yards (9-G.Delpit).,run,13.0,0.0
+2026_04_PIT_CLE,4,2026-10-01,Thursday,PIT,CLE,"(2:36) (Shotgun) PENALTY on PIT-71-M.Iheanachor, False Start, 5 yards, enforced at CLE 30 - No Play.",no_play,0.0,0.0
+2026_04_PIT_CLE,4,2026-10-01,Thursday,PIT,CLE,(2:16) (Shotgun) 8-A.Rodgers pass incomplete deep right to 14-R.Wilson [54-S.Williams].,pass,0.0,0.0
+2026_04_PIT_CLE,4,2026-10-01,Thursday,PIT,CLE,(2:12) (Shotgun) 8-A.Rodgers pass incomplete deep middle to 4-D.Metcalf [98-A.Huntington].,pass,0.0,0.0
+2026_04_PIT_CLE,4,2026-10-01,Thursday,PIT,CLE,(2:04) (Shotgun) 8-A.Rodgers sacked at CLE 45 for -10 yards (51-M.Hall).,pass,-10.0,0.0
+2026_04_PIT_CLE,4,2026-10-01,Thursday,PIT,CLE,"(1:21) 19-C.Johnston punts 45 yards to end zone, Center-46-C.Kuntz, Touchback.",punt,0.0,0.0
+2026_04_PIT_CLE,4,2026-10-01,Thursday,CLE,PIT,(1:13) (Shotgun) 10-Q.Judkins right guard to CLE 25 for 5 yards (94-Y.Black; 69-S.Joseph).,run,5.0,0.0
+2026_04_PIT_CLE,4,2026-10-01,Thursday,CLE,PIT,(:38) (Shotgun) 10-Q.Judkins up the middle to CLE 28 for 3 yards (97-C.Heyward).,run,3.0,0.0
+2026_04_PIT_CLE,4,2026-10-01,Thursday,CLE,PIT,END QUARTER 3,,,
+2026_04_PIT_CLE,4,2026-10-01,Thursday,CLE,PIT,(15:00) (Shotgun) 10-Q.Judkins up the middle to CLE 35 for 7 yards (6-P.Queen; 28-R.Spears-Jennings).,run,7.0,0.0
+2026_04_PIT_CLE,4,2026-10-01,Thursday,CLE,PIT,"(14:19) (Shotgun) 4-D.Watson pass deep middle intended for 12-D.Boston INTERCEPTED by 28-R.Spears-Jennings [33-J.Sawyer] at PIT 23. 28-R.Spears-Jennings to PIT 23 for no gain (12-D.Boston). PENALTY on PIT-23-D.Everette, Defensive Pass Interference, 42 yards, enforced at CLE 35 - No Play. The Replay Official reviewed the pass was not tipped ruling, and the play was REVERSED. (Shotgun) 4-D.Watson pass deep middle intended for 12-D.Boston INTERCEPTED by 28-R.Spears-Jennings (33-J.Sawyer) [33-J.Sawyer] at PIT 23. 28-R.Spears-Jennings to PIT 23 for no gain (12-D.Boston).",pass,0.0,0.0
+2026_04_PIT_CLE,4,2026-10-01,Thursday,PIT,CLE,(14:11) (Shotgun) 30-J.Warren right guard to PIT 30 for 7 yards (57-I.McGuire; 28-E.McNeil-Warren).,run,7.0,0.0
+2026_04_PIT_CLE,4,2026-10-01,Thursday,PIT,CLE,"(13:36) 30-J.Warren left tackle to PIT 33 for 3 yards (7-T.Campbell). PENALTY on PIT-11-M.Pittman, Illegal Shift, 5 yards, enforced at PIT 30 - No Play.",no_play,0.0,0.0
+2026_04_PIT_CLE,4,2026-10-01,Thursday,PIT,CLE,(13:07) 8-A.Rodgers pass deep right to 4-D.Metcalf to CLE 32 for 43 yards (26-M.Harden) [21-D.Ward].,pass,43.0,0.0
+2026_04_PIT_CLE,4,2026-10-01,Thursday,PIT,CLE,(12:27) (Shotgun) 8-A.Rodgers sacked at CLE 36 for -4 yards (54-S.Williams).,pass,-4.0,0.0
+2026_04_PIT_CLE,4,2026-10-01,Thursday,PIT,CLE,(11:42) (Shotgun) 8-A.Rodgers pass short right to 30-J.Warren to CLE 23 for 13 yards (9-G.Delpit). CLE-9-G.Delpit was injured during the play.,pass,13.0,0.0
+2026_04_PIT_CLE,4,2026-10-01,Thursday,PIT,CLE,(10:57) (Shotgun) 30-J.Warren left guard to CLE 21 for 2 yards (49-C.Schwesinger).,run,2.0,0.0
+2026_04_PIT_CLE,4,2026-10-01,Thursday,PIT,CLE,"(10:16) (Shotgun) 8-A.Rodgers pass deep middle to 80-D.Washington for 21 yards, TOUCHDOWN.",pass,21.0,1.0
+2026_04_PIT_CLE,4,2026-10-01,Thursday,PIT,CLE,TWO-POINT CONVERSION ATTEMPT. 8-A.Rodgers pass to 30-J.Warren is complete. ATTEMPT FAILS. ** Injury Update: CLE-9-G.Delpit has returned to the game.,pass,0.0,0.0
+2026_04_PIT_CLE,4,2026-10-01,Thursday,CLE,PIT,9-C.Boswell kicks 64 yards from PIT 35 to CLE 1. 11-M.Corley to CLE 34 for 33 yards (55-C.Holcomb).,kickoff,0.0,0.0
+2026_04_PIT_CLE,4,2026-10-01,Thursday,CLE,PIT,(10:04) (Shotgun) 4-D.Watson sacked at CLE 30 for -4 yards (90-T.Watt).,pass,-4.0,0.0
+2026_04_PIT_CLE,4,2026-10-01,Thursday,CLE,PIT,(9:26) (Shotgun) 4-D.Watson pass short left to 10-Q.Judkins to CLE 40 for 10 yards (95-K.Benton).,pass,10.0,0.0
+2026_04_PIT_CLE,4,2026-10-01,Thursday,CLE,PIT,"(8:45) (Shotgun) 4-D.Watson scrambles left end to PIT 39 for 21 yards (28-R.Spears-Jennings). PENALTY on PIT-22-A.Samuel, Defensive Holding, 5 yards, enforced at PIT 39.",run,21.0,0.0
+2026_04_PIT_CLE,4,2026-10-01,Thursday,CLE,PIT,(8:19) (Shotgun) 10-Q.Judkins right tackle to PIT 33 for 1 yard (95-K.Benton).,run,1.0,0.0
+2026_04_PIT_CLE,4,2026-10-01,Thursday,CLE,PIT,(7:43) (Shotgun) 4-D.Watson pass incomplete short left to 44-H.Fannin.,pass,0.0,0.0
+2026_04_PIT_CLE,4,2026-10-01,Thursday,,,Timeout #1 by CLE at 07:39.,no_play,0.0,0.0
+2026_04_PIT_CLE,4,2026-10-01,Thursday,CLE,PIT,"(7:39) (Shotgun) 4-D.Watson scrambles right end to PIT 31 for 2 yards (97-C.Heyward). FUMBLES (97-C.Heyward), and recovers at PIT 26.",run,7.0,0.0
+2026_04_PIT_CLE,4,2026-10-01,Thursday,CLE,PIT,"(6:42) 25-A.Szmyt 44 yard field goal is GOOD, Center-50-R.Sunahara, Holder-13-C.Bojorquez.",field_goal,0.0,0.0
+2026_04_PIT_CLE,4,2026-10-01,Thursday,PIT,CLE,25-A.Szmyt kicks 57 yards from CLE 35 to PIT 8. 10-K.Wetjen pushed ob at PIT 32 for 24 yards (24-D.Thomas).,kickoff,0.0,0.0
+2026_04_PIT_CLE,4,2026-10-01,Thursday,PIT,CLE,(6:33) (Shotgun) 30-J.Warren up the middle to PIT 37 for 5 yards (49-C.Schwesinger; 98-A.Huntington).,run,5.0,0.0
+2026_04_PIT_CLE,4,2026-10-01,Thursday,PIT,CLE,(5:51) 8-A.Rodgers pass incomplete short right to 30-J.Warren.,pass,0.0,0.0
+2026_04_PIT_CLE,4,2026-10-01,Thursday,PIT,CLE,(5:44) (Shotgun) 8-A.Rodgers pass incomplete short left to 88-P.Freiermuth.,pass,0.0,0.0
+2026_04_PIT_CLE,4,2026-10-01,Thursday,PIT,CLE,"(5:40) 19-C.Johnston punts 62 yards to CLE 1, Center-46-C.Kuntz, downed by PIT-26-B.Echols.",punt,0.0,0.0
+2026_04_PIT_CLE,4,2026-10-01,Thursday,CLE,PIT,"(5:31) 4-D.Watson up the middle to CLE 2 for 1 yard (94-Y.Black; 97-C.Heyward). Penalty on CLE-1-K.Concepcion, Illegal Shift, declined.",run,1.0,0.0
+2026_04_PIT_CLE,4,2026-10-01,Thursday,CLE,PIT,(5:18) (Shotgun) 4-D.Watson pass short right to 12-D.Boston to CLE 17 for 15 yards (28-R.Spears-Jennings).,pass,15.0,0.0
+2026_04_PIT_CLE,4,2026-10-01,Thursday,CLE,PIT,(4:38) 10-Q.Judkins up the middle to CLE 18 for 1 yard (3-J.Brisker; 94-Y.Black).,run,1.0,0.0
+2026_04_PIT_CLE,4,2026-10-01,Thursday,CLE,PIT,(3:54) (Shotgun) 4-D.Watson pass short right to 10-Q.Judkins to CLE 19 for 1 yard (3-J.Brisker).,pass,1.0,0.0
+2026_04_PIT_CLE,4,2026-10-01,Thursday,,,Timeout #1 by PIT at 03:47.,no_play,0.0,0.0
+2026_04_PIT_CLE,4,2026-10-01,Thursday,CLE,PIT,(3:47) (Shotgun) 4-D.Watson pass incomplete deep left to 44-H.Fannin.,pass,0.0,0.0
+2026_04_PIT_CLE,4,2026-10-01,Thursday,CLE,PIT,"(3:41) 13-C.Bojorquez punts 81 yards to end zone, Center-50-R.Sunahara, Touchback.",punt,0.0,0.0
+2026_04_PIT_CLE,4,2026-10-01,Thursday,PIT,CLE,(3:32) (Shotgun) 8-A.Rodgers pass short right to 14-R.Wilson to PIT 33 for 13 yards (26-M.Harden). PIT-14-R.Wilson was injured during the play.,pass,13.0,0.0
+2026_04_PIT_CLE,4,2026-10-01,Thursday,PIT,CLE,(2:46) (Shotgun) 8-A.Rodgers pass deep left to 4-D.Metcalf pushed ob at CLE 45 for 22 yards (7-T.Campbell).,pass,22.0,0.0
+2026_04_PIT_CLE,4,2026-10-01,Thursday,PIT,CLE,(2:39) (Shotgun) 8-A.Rodgers pass short right to 17-G.Bernard to CLE 39 for 6 yards (21-D.Ward).,pass,6.0,0.0
+2026_04_PIT_CLE,4,2026-10-01,Thursday,PIT,CLE,"(2:14) (No Huddle, Shotgun) 8-A.Rodgers pass deep left to 4-D.Metcalf pushed ob at CLE 11 for 28 yards (7-T.Campbell). CLE-7-T.Campbell was injured during the play.",pass,28.0,0.0
+2026_04_PIT_CLE,4,2026-10-01,Thursday,PIT,CLE,"(2:09) (Shotgun) PENALTY on PIT, Delay of Game, 5 yards, enforced at CLE 11 - No Play.",no_play,0.0,0.0
+2026_04_PIT_CLE,4,2026-10-01,Thursday,PIT,CLE,(2:09) (Shotgun) 8-A.Rodgers pass short middle to 17-G.Bernard to CLE 11 for 5 yards (29-M.Blackmon).,pass,5.0,0.0
+2026_04_PIT_CLE,4,2026-10-01,Thursday,PIT,CLE,(2:00) (Shotgun) 8-A.Rodgers pass incomplete short right to 80-D.Washington (33-R.Hickman). ** Injury Update: CLE-7-T.Campbell has returned to the game.,pass,0.0,0.0
+2026_04_PIT_CLE,4,2026-10-01,Thursday,PIT,CLE,(1:55) (Shotgun) 8-A.Rodgers pass incomplete short middle to 80-D.Washington.,pass,0.0,0.0
+2026_04_PIT_CLE,4,2026-10-01,Thursday,PIT,CLE,"(1:51) (Shotgun) 8-A.Rodgers pass incomplete short middle to 80-D.Washington (28-E.McNeil-Warren). PENALTY on CLE-28-E.McNeil-Warren, Defensive Pass Interference, 8 yards, enforced at CLE 11 - No Play.",no_play,0.0,0.0
+2026_04_PIT_CLE,4,2026-10-01,Thursday,PIT,CLE,"(1:46) 8-A.Rodgers pass short right to 88-P.Freiermuth for 3 yards, TOUCHDOWN.",pass,3.0,1.0
+2026_04_PIT_CLE,4,2026-10-01,Thursday,PIT,CLE,"(Pass formation) PENALTY on CLE-8-J.Verse, Defensive Offside, 1 yard, enforced at CLE 2 - No Play.",no_play,0.0,0.0
+2026_04_PIT_CLE,4,2026-10-01,Thursday,PIT,CLE,TWO-POINT CONVERSION ATTEMPT. 8-A.Rodgers rushes up the middle. ATTEMPT SUCCEEDS.,run,2.0,0.0
+2026_04_PIT_CLE,4,2026-10-01,Thursday,CLE,PIT,9-C.Boswell kicks 65 yards from PIT 35 to CLE 0. 23-R.Sanders to CLE 26 for 26 yards (31-L.Nichols).,kickoff,0.0,0.0
+2026_04_PIT_CLE,4,2026-10-01,Thursday,CLE,PIT,(1:36) (Shotgun) 4-D.Watson pass deep middle to 3-J.Jeudy to CLE 43 for 17 yards (22-A.Samuel).,pass,17.0,0.0
+2026_04_PIT_CLE,4,2026-10-01,Thursday,CLE,PIT,"(1:12) (No Huddle, Shotgun) PENALTY on CLE-77-Z.Johnson, False Start, 5 yards, enforced at CLE 43 - No Play. 10-second runoff.",no_play,0.0,0.0
+2026_04_PIT_CLE,4,2026-10-01,Thursday,CLE,PIT,(1:00) (Shotgun) 4-D.Watson pass short left to 44-H.Fannin pushed ob at 50 for 12 yards (3-J.Brisker).,pass,12.0,0.0
+2026_04_PIT_CLE,4,2026-10-01,Thursday,CLE,PIT,(:55) (Shotgun) 4-D.Watson pass short middle to 3-J.Jeudy ran ob at PIT 40 for 10 yards (41-P.Wilson).,pass,10.0,0.0
+2026_04_PIT_CLE,4,2026-10-01,Thursday,CLE,PIT,(:49) (Shotgun) 4-D.Watson pass short middle to 1-K.Concepcion to PIT 34 for 6 yards (28-R.Spears-Jennings).,pass,6.0,0.0
+2026_04_PIT_CLE,4,2026-10-01,Thursday,,,Timeout #2 by PIT at 00:38.,no_play,0.0,0.0
+2026_04_PIT_CLE,4,2026-10-01,Thursday,CLE,PIT,(:38) (Shotgun) 4-D.Watson sacked at PIT 38 for -4 yards (41-P.Wilson).,pass,-4.0,0.0
+2026_04_PIT_CLE,4,2026-10-01,Thursday,,,Timeout #2 by CLE at 00:19.,no_play,0.0,0.0
+2026_04_PIT_CLE,4,2026-10-01,Thursday,CLE,PIT,(:19) (Shotgun) 4-D.Watson pass incomplete short right to 1-K.Concepcion.,pass,0.0,0.0
+2026_04_PIT_CLE,4,2026-10-01,Thursday,CLE,PIT,"(:15) 25-A.Szmyt 56 yard field goal is GOOD, Center-50-R.Sunahara, Holder-13-C.Bojorquez.",field_goal,0.0,0.0
+2026_04_PIT_CLE,4,2026-10-01,Thursday,PIT,CLE,"25-A.Szmyt kicks 65 yards from CLE 35 to end zone, Touchback to the PIT 35.",kickoff,0.0,0.0
+2026_04_PIT_CLE,4,2026-10-01,Thursday,PIT,CLE,(:10) (Shotgun) 8-A.Rodgers pass deep right intended for 14-R.Wilson INTERCEPTED by 9-G.Delpit at CLE 18. 9-G.Delpit to CLE 18 for no gain (14-R.Wilson). ** Injury Update: PIT-14-R.Wilson has returned to the game.,pass,0.0,0.0
+2026_04_PIT_CLE,4,2026-10-01,Thursday,CLE,PIT,(:01) 4-D.Watson kneels to CLE 17 for -1 yards.,qb_kneel,-1.0,0.0
+2026_04_PIT_CLE,4,2026-10-01,Thursday,CLE,PIT,END GAME,,,
