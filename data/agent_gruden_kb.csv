@@ -8478,8 +8478,8 @@ game_id,week,game_date,day_of_week,posteam,defteam,desc,play_type,yards_gained,t
 2026_04_ARI_NYG,4,2026-10-04,Sunday,ARI,NYG,(1:54) (No Huddle) 7-J.Brissett up the middle to NYG 39 for 8 yards (49-T.Edmunds; 5-K.Thibodeaux).,run,8.0,0.0
 2026_04_ARI_NYG,4,2026-10-04,Sunday,ARI,NYG,"(1:32) (No Huddle, Shotgun) 7-J.Brissett pass short right to 85-T.McBride to NYG 34 for 5 yards (52-A.Reese).",pass,5.0,0.0
 2026_04_ARI_NYG,4,2026-10-04,Sunday,ARI,NYG,"(1:15) (No Huddle, Shotgun) 7-J.Brissett pass short right to 14-Mi.Wilson to NYG 26 for 8 yards (27-T.Nubin).",pass,8.0,0.0
-2026_04_ARI_NYG,4,2026-10-04,Sunday,ARI,NYG,"(:55) (No Huddle, Shotgun) 7-J.Brissett pass incomplete deep right to 85-T.McBride (20-G.Newsome) [3-A.Carter].",pass,0.0,0.0
-2026_04_ARI_NYG,4,2026-10-04,Sunday,ARI,NYG,(:49) (Shotgun) 7-J.Brissett pass short right to 85-T.McBride to NYG 22 for 4 yards (52-A.Reese).,pass,4.0,0.0
+2026_04_ARI_NYG,4,2026-10-04,Sunday,ARI,NYG,"(:55) (No Huddle, Shotgun) 7-J.Brissett pass incomplete deep right to 85-T.McBride [3-A.Carter].",pass,0.0,0.0
+2026_04_ARI_NYG,4,2026-10-04,Sunday,ARI,NYG,(:49) (Shotgun) 7-J.Brissett pass short right to 85-T.McBride to NYG 22 for 4 yards (52-A.Reese) [91-D.Alexander].,pass,4.0,0.0
 2026_04_ARI_NYG,4,2026-10-04,Sunday,ARI,NYG,"(:27) (No Huddle, Shotgun) 7-J.Brissett pass incomplete deep left to 18-M.Harrison. PENALTY on NYG-2-D.Banks, Defensive Pass Interference, 18 yards, enforced at NYG 22 - No Play.",no_play,0.0,0.0
 2026_04_ARI_NYG,4,2026-10-04,Sunday,ARI,NYG,(:22) 66-J.Williams reported in as eligible. 7-J.Brissett pass incomplete short left to 14-Mi.Wilson.,pass,0.0,0.0
 2026_04_ARI_NYG,4,2026-10-04,Sunday,ARI,NYG,(:18) (Shotgun) 7-J.Brissett pass incomplete short right to 14-Mi.Wilson (22-A.Phillips).,pass,0.0,0.0
@@ -9231,14 +9231,14 @@ game_id,week,game_date,day_of_week,posteam,defteam,desc,play_type,yards_gained,t
 2026_04_GB_TB,4,2026-10-04,Sunday,GB,TB,(12:28) (Shotgun) 10-J.Love pass short middle to 85-T.Kraft to GB 48 for 17 yards (31-A.Winfield).,pass,17.0,0.0
 2026_04_GB_TB,4,2026-10-04,Sunday,GB,TB,(11:45) 0-M.Golden left end pushed ob at TB 46 for 6 yards (25-J.Parrish).,run,6.0,0.0
 2026_04_GB_TB,4,2026-10-04,Sunday,GB,TB,(11:13) (Shotgun) 32-M.Lloyd left tackle to TB 44 for 2 yards (0-Y.Diaby; 23-T.Smith).,run,2.0,0.0
-2026_04_GB_TB,4,2026-10-04,Sunday,GB,TB,(10:32) (Shotgun) 10-J.Love pass incomplete deep middle to 16-B.Melton.,pass,0.0,0.0
+2026_04_GB_TB,4,2026-10-04,Sunday,GB,TB,"(10:32) (Shotgun) 10-J.Love pass deep middle to 16-B.Melton to TB 13 for 31 yards. FUMBLES, RECOVERED by TB-31-A.Winfield at TB 11. 31-A.Winfield to GB 41 for 48 yards (9-C.Watson). The Replay Official reviewed the pass completion ruling, and the play was REVERSED. (Shotgun) 10-J.Love pass incomplete deep middle to 16-B.Melton.",pass,0.0,0.0
 2026_04_GB_TB,4,2026-10-04,Sunday,GB,TB,"(10:27) 19-D.Whelan punts 30 yards to TB 14, Center-42-M.Orzech, out of bounds.",punt,0.0,0.0
 2026_04_GB_TB,4,2026-10-04,Sunday,TB,GB,(10:19) 10-J.Daniels pass short right to 88-C.Otton pushed ob at TB 27 for 13 yards (56-E.Cooper).,pass,13.0,0.0
 2026_04_GB_TB,4,2026-10-04,Sunday,TB,GB,(9:49) (Shotgun) 7-B.Irving right tackle to TB 32 for 5 yards (44-Z.Franklin; 55-C.McClellan).,run,5.0,0.0
 2026_04_GB_TB,4,2026-10-04,Sunday,TB,GB,(9:13) (Shotgun) 7-B.Irving right guard to TB 39 for 7 yards (29-X.McKinney; 25-K.Nixon).,run,7.0,0.0
 2026_04_GB_TB,4,2026-10-04,Sunday,TB,GB,(8:36) 10-J.Daniels scrambles left end to TB 40 for 1 yard (2-B.Cisse).,run,1.0,0.0
 2026_04_GB_TB,4,2026-10-04,Sunday,TB,GB,(7:56) (Shotgun) 10-J.Daniels scrambles up the middle to GB 49 for 11 yards (2-B.Cisse).,run,11.0,0.0
-2026_04_GB_TB,4,2026-10-04,Sunday,TB,GB,(7:15) (Shotgun) 10-J.Daniels pass deep left intended for 2-E.Egbuka INTERCEPTED by 33-E.Williams [57-B.Cox] at GB 32. 33-E.Williams ran ob at GB 32 for no gain.,pass,0.0,0.0
+2026_04_GB_TB,4,2026-10-04,Sunday,TB,GB,(7:15) (Shotgun) 10-J.Daniels pass deep left intended for 2-E.Egbuka INTERCEPTED by 33-E.Williams [57-B.Cox] at GB 32. 33-E.Williams ran ob at GB 32 for no gain. The interception was assisted by replay.,pass,0.0,0.0
 2026_04_GB_TB,4,2026-10-04,Sunday,GB,TB,(7:10) (Shotgun) 10-J.Love pass short right to 86-M.Redman to GB 36 for 4 yards (51-D.Walker).,pass,4.0,0.0
 2026_04_GB_TB,4,2026-10-04,Sunday,GB,TB,(6:32) (Shotgun) 30-C.Brooks left tackle to TB 37 for 27 yards (31-A.Winfield).,run,27.0,0.0
 2026_04_GB_TB,4,2026-10-04,Sunday,GB,TB,(5:44) (Shotgun) 10-J.Love right tackle to TB 33 for 4 yards (98-A.Nelson).,run,4.0,0.0
@@ -9357,7 +9357,7 @@ game_id,week,game_date,day_of_week,posteam,defteam,desc,play_type,yards_gained,t
 2026_04_GB_TB,4,2026-10-04,Sunday,TB,GB,(7:45) (Shotgun) 10-J.Daniels pass short left to 2-E.Egbuka to TB 15 for 8 yards (90-L.Van Ness).,pass,8.0,0.0
 2026_04_GB_TB,4,2026-10-04,Sunday,TB,GB,(7:17) (No Huddle) 1-K.Gainwell up the middle to TB 15 for no gain (58-I.McDuffie; 7-J.Bullard).,run,0.0,0.0
 2026_04_GB_TB,4,2026-10-04,Sunday,TB,GB,(6:35) (Shotgun) 10-J.Daniels pass short right to 14-C.Godwin to TB 12 for -3 yards (25-K.Nixon).,pass,-3.0,0.0
-2026_04_GB_TB,4,2026-10-04,Sunday,TB,GB,"(5:51) (Shotgun) 10-J.Daniels Aborted. 62-G.Barton FUMBLES at TB 6, recovered by TB-10-J.Daniels at TB 3. 10-J.Daniels to TB 1 for -2 yards (57-B.Cox).",run,0.0,0.0
+2026_04_GB_TB,4,2026-10-04,Sunday,TB,GB,"(5:51) (Shotgun) 10-J.Daniels Aborted. 62-G.Barton FUMBLES at TB 6, recovered by TB-10-J.Daniels at TB 1. 10-J.Daniels to TB 1 for no gain (57-B.Cox).",run,0.0,0.0
 2026_04_GB_TB,4,2026-10-04,Sunday,TB,GB,"(5:09) 9-R.Dixon punts 43 yards to TB 44, Center-86-E.Deckers. 23-S.Moore to TB 33 for 11 yards (38-K.Knowles; 29-M.Killebrew).",punt,0.0,0.0
 2026_04_GB_TB,4,2026-10-04,Sunday,GB,TB,(4:59) (Shotgun) 10-J.Love pass short right to 32-M.Lloyd to TB 21 for 12 yards (45-J.Trotter). TB-31-A.Winfield was injured during the play.,pass,12.0,0.0
 2026_04_GB_TB,4,2026-10-04,Sunday,GB,TB,"(4:26) PENALTY on GB-32-M.Lloyd, False Start, 5 yards, enforced at TB 21 - No Play.",no_play,0.0,0.0
