@@ -1,0 +1,21 @@
+[build-system]
+requires = ["setuptools>=77"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "the-war-room-mcp"
+version = "0.1.0"
+description = "Typed MCP facade for War Room data and agent workflows"
+requires-python = ">=3.11"
+dependencies = ["fastmcp==3.4.8", "pydantic>=2.12,<3", "httpx==0.28.1"]
+
+[project.optional-dependencies]
+nfl = ["nflreadpy==0.1.5", "polars==1.36.1"]
+test = ["pytest>=8,<10"]
+
+[tool.setuptools.packages.find]
+include = ["war_room*"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+pythonpath = ["."]

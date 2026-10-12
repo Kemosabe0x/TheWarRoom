@@ -1,0 +1,1153 @@
+{
+  "tools": [
+    {
+      "name": "query_nfl_snapshot",
+      "description": "Read a bounded legacy NFL page; pin snapshot_id when paginating.",
+      "inputSchema": {
+        "additionalProperties": false,
+        "properties": {
+          "query": {
+            "additionalProperties": false,
+            "properties": {
+              "dataset": {
+                "enum": [
+                  "analytics",
+                  "fantasy",
+                  "gm",
+                  "gruden",
+                  "scout"
+                ],
+                "type": "string"
+              },
+              "offset": {
+                "default": 0,
+                "maximum": 1000000,
+                "minimum": 0,
+                "type": "integer"
+              },
+              "limit": {
+                "default": 25,
+                "maximum": 100,
+                "minimum": 1,
+                "type": "integer"
+              },
+              "week": {
+                "anyOf": [
+                  {
+                    "maximum": 30,
+                    "minimum": 0,
+                    "type": "integer"
+                  },
+                  {
+                    "type": "null"
+                  }
+                ],
+                "default": null
+              },
+              "player_name": {
+                "anyOf": [
+                  {
+                    "maxLength": 100,
+                    "minLength": 1,
+                    "type": "string"
+                  },
+                  {
+                    "type": "null"
+                  }
+                ],
+                "default": null
+              },
+              "expected_snapshot_id": {
+                "anyOf": [
+                  {
+                    "pattern": "^[a-f0-9]{64}$",
+                    "type": "string"
+                  },
+                  {
+                    "type": "null"
+                  }
+                ],
+                "default": null
+              }
+            },
+            "required": [
+              "dataset"
+            ],
+            "type": "object"
+          }
+        },
+        "required": [
+          "query"
+        ],
+        "type": "object"
+      },
+      "outputSchema": {
+        "additionalProperties": false,
+        "properties": {
+          "schema_version": {
+            "const": "1.0",
+            "default": "1.0",
+            "type": "string"
+          },
+          "status": {
+            "enum": [
+              "legacy_unverified",
+              "unavailable",
+              "observed"
+            ],
+            "type": "string"
+          },
+          "source": {
+            "type": "string"
+          },
+          "retrieved_at": {
+            "format": "date-time",
+            "type": "string"
+          },
+          "source_updated_at": {
+            "anyOf": [
+              {
+                "format": "date-time",
+                "type": "string"
+              },
+              {
+                "type": "null"
+              }
+            ],
+            "default": null
+          },
+          "snapshot_id": {
+            "anyOf": [
+              {
+                "type": "string"
+              },
+              {
+                "type": "null"
+              }
+            ],
+            "default": null
+          },
+          "warnings": {
+            "items": {
+              "type": "string"
+            },
+            "type": "array"
+          },
+          "data": {
+            "anyOf": [
+              {
+                "additionalProperties": false,
+                "properties": {
+                  "dataset": {
+                    "enum": [
+                      "analytics",
+                      "fantasy",
+                      "gm",
+                      "gruden",
+                      "scout"
+                    ],
+                    "type": "string"
+                  },
+                  "columns": {
+                    "items": {
+                      "type": "string"
+                    },
+                    "type": "array"
+                  },
+                  "rows": {
+                    "items": {
+                      "additionalProperties": {
+                        "anyOf": [
+                          {
+                            "type": "string"
+                          },
+                          {
+                            "type": "null"
+                          }
+                        ]
+                      },
+                      "type": "object"
+                    },
+                    "type": "array"
+                  },
+                  "matching_rows": {
+                    "type": "integer"
+                  },
+                  "next_offset": {
+                    "anyOf": [
+                      {
+                        "type": "integer"
+                      },
+                      {
+                        "type": "null"
+                      }
+                    ]
+                  }
+                },
+                "required": [
+                  "dataset",
+                  "columns",
+                  "rows",
+                  "matching_rows",
+                  "next_offset"
+                ],
+                "type": "object"
+              },
+              {
+                "type": "null"
+              }
+            ],
+            "default": null
+          }
+        },
+        "required": [
+          "status",
+          "source"
+        ],
+        "type": "object"
+      },
+      "annotations": {
+        "readOnlyHint": true,
+        "destructiveHint": false,
+        "idempotentHint": true
+      },
+      "meta": {
+        "fastmcp": {
+          "tags": [
+            "fantasy"
+          ]
+        }
+      }
+    },
+    {
+      "name": "get_sleeper_league",
+      "description": "Fetch public NFL league/scoring settings, cached for 60 seconds.",
+      "inputSchema": {
+        "additionalProperties": false,
+        "properties": {
+          "league_id": {
+            "pattern": "^[0-9]{1,30}$",
+            "type": "string"
+          }
+        },
+        "required": [
+          "league_id"
+        ],
+        "type": "object"
+      },
+      "outputSchema": {
+        "additionalProperties": false,
+        "properties": {
+          "schema_version": {
+            "const": "1.0",
+            "default": "1.0",
+            "type": "string"
+          },
+          "status": {
+            "enum": [
+              "legacy_unverified",
+              "unavailable",
+              "observed"
+            ],
+            "type": "string"
+          },
+          "source": {
+            "type": "string"
+          },
+          "retrieved_at": {
+            "format": "date-time",
+            "type": "string"
+          },
+          "source_updated_at": {
+            "anyOf": [
+              {
+                "format": "date-time",
+                "type": "string"
+              },
+              {
+                "type": "null"
+              }
+            ],
+            "default": null
+          },
+          "snapshot_id": {
+            "anyOf": [
+              {
+                "type": "string"
+              },
+              {
+                "type": "null"
+              }
+            ],
+            "default": null
+          },
+          "warnings": {
+            "items": {
+              "type": "string"
+            },
+            "type": "array"
+          },
+          "data": {
+            "anyOf": [
+              {
+                "additionalProperties": false,
+                "properties": {
+                  "league_id": {
+                    "type": "string"
+                  },
+                  "name": {
+                    "type": "string"
+                  },
+                  "sport": {
+                    "type": "string"
+                  },
+                  "season": {
+                    "type": "string"
+                  },
+                  "status": {
+                    "type": "string"
+                  },
+                  "scoring_settings": {
+                    "additionalProperties": {
+                      "type": "number"
+                    },
+                    "type": "object"
+                  }
+                },
+                "required": [
+                  "league_id",
+                  "name",
+                  "sport",
+                  "season",
+                  "status"
+                ],
+                "type": "object"
+              },
+              {
+                "type": "null"
+              }
+            ],
+            "default": null
+          }
+        },
+        "required": [
+          "status",
+          "source"
+        ],
+        "type": "object"
+      },
+      "annotations": {
+        "readOnlyHint": true,
+        "destructiveHint": false,
+        "idempotentHint": true
+      },
+      "meta": {
+        "fastmcp": {
+          "tags": [
+            "fantasy"
+          ]
+        }
+      }
+    },
+    {
+      "name": "get_live_markets",
+      "description": "Live market contract; reports unavailable until venue collectors exist.",
+      "inputSchema": {
+        "additionalProperties": false,
+        "properties": {
+          "query": {
+            "additionalProperties": false,
+            "properties": {
+              "venue": {
+                "enum": [
+                  "kalshi",
+                  "polymarket"
+                ],
+                "type": "string"
+              },
+              "asset": {
+                "default": "BTC",
+                "pattern": "^[A-Z0-9]{2,12}$",
+                "type": "string"
+              },
+              "interval_minutes": {
+                "const": 15,
+                "default": 15,
+                "type": "integer"
+              },
+              "limit": {
+                "default": 25,
+                "maximum": 100,
+                "minimum": 1,
+                "type": "integer"
+              }
+            },
+            "required": [
+              "venue"
+            ],
+            "type": "object"
+          }
+        },
+        "required": [
+          "query"
+        ],
+        "type": "object"
+      },
+      "outputSchema": {
+        "additionalProperties": false,
+        "properties": {
+          "schema_version": {
+            "const": "1.0",
+            "default": "1.0",
+            "type": "string"
+          },
+          "status": {
+            "enum": [
+              "legacy_unverified",
+              "unavailable",
+              "observed"
+            ],
+            "type": "string"
+          },
+          "source": {
+            "type": "string"
+          },
+          "retrieved_at": {
+            "format": "date-time",
+            "type": "string"
+          },
+          "source_updated_at": {
+            "anyOf": [
+              {
+                "format": "date-time",
+                "type": "string"
+              },
+              {
+                "type": "null"
+              }
+            ],
+            "default": null
+          },
+          "snapshot_id": {
+            "anyOf": [
+              {
+                "type": "string"
+              },
+              {
+                "type": "null"
+              }
+            ],
+            "default": null
+          },
+          "warnings": {
+            "items": {
+              "type": "string"
+            },
+            "type": "array"
+          },
+          "data": {
+            "anyOf": [
+              {
+                "items": {
+                  "additionalProperties": false,
+                  "properties": {
+                    "venue": {
+                      "enum": [
+                        "kalshi",
+                        "polymarket"
+                      ],
+                      "type": "string"
+                    },
+                    "market_id": {
+                      "maxLength": 160,
+                      "minLength": 1,
+                      "pattern": "^[A-Za-z0-9_.:-]+$",
+                      "type": "string"
+                    },
+                    "outcome_id": {
+                      "maxLength": 160,
+                      "minLength": 1,
+                      "pattern": "^[A-Za-z0-9_.:-]+$",
+                      "type": "string"
+                    },
+                    "outcome": {
+                      "type": "string"
+                    },
+                    "currency": {
+                      "type": "string"
+                    },
+                    "bid": {
+                      "anyOf": [
+                        {
+                          "type": "string"
+                        },
+                        {
+                          "type": "null"
+                        }
+                      ]
+                    },
+                    "ask": {
+                      "anyOf": [
+                        {
+                          "type": "string"
+                        },
+                        {
+                          "type": "null"
+                        }
+                      ]
+                    },
+                    "observed_at": {
+                      "format": "date-time",
+                      "type": "string"
+                    },
+                    "received_at": {
+                      "format": "date-time",
+                      "type": "string"
+                    },
+                    "closes_at": {
+                      "format": "date-time",
+                      "type": "string"
+                    },
+                    "rules_hash": {
+                      "type": "string"
+                    },
+                    "settlement_source": {
+                      "type": "string"
+                    },
+                    "sequence": {
+                      "anyOf": [
+                        {
+                          "type": "integer"
+                        },
+                        {
+                          "type": "null"
+                        }
+                      ],
+                      "default": null
+                    }
+                  },
+                  "required": [
+                    "venue",
+                    "market_id",
+                    "outcome_id",
+                    "outcome",
+                    "currency",
+                    "bid",
+                    "ask",
+                    "observed_at",
+                    "received_at",
+                    "closes_at",
+                    "rules_hash",
+                    "settlement_source"
+                  ],
+                  "type": "object"
+                },
+                "type": "array"
+              },
+              {
+                "type": "null"
+              }
+            ],
+            "default": null
+          }
+        },
+        "required": [
+          "status",
+          "source"
+        ],
+        "type": "object"
+      },
+      "annotations": {
+        "readOnlyHint": true,
+        "destructiveHint": false,
+        "idempotentHint": true
+      },
+      "meta": {
+        "fastmcp": {
+          "tags": [
+            "betting"
+          ]
+        }
+      }
+    },
+    {
+      "name": "evaluate_combo_bet",
+      "description": "Calculate hypothetical all-legs-win EV using an explicit joint probability.",
+      "inputSchema": {
+        "additionalProperties": false,
+        "properties": {
+          "scenario": {
+            "additionalProperties": false,
+            "description": "Caller assumptions for ONE all-legs-win contract, never a basket of singles.",
+            "properties": {
+              "legs": {
+                "items": {
+                  "additionalProperties": false,
+                  "properties": {
+                    "venue": {
+                      "enum": [
+                        "kalshi",
+                        "polymarket"
+                      ],
+                      "type": "string"
+                    },
+                    "market_id": {
+                      "maxLength": 160,
+                      "minLength": 1,
+                      "pattern": "^[A-Za-z0-9_.:-]+$",
+                      "type": "string"
+                    },
+                    "outcome_id": {
+                      "maxLength": 160,
+                      "minLength": 1,
+                      "pattern": "^[A-Za-z0-9_.:-]+$",
+                      "type": "string"
+                    }
+                  },
+                  "required": [
+                    "venue",
+                    "market_id",
+                    "outcome_id"
+                  ],
+                  "type": "object"
+                },
+                "maxItems": 10,
+                "minItems": 2,
+                "type": "array"
+              },
+              "joint_probability": {
+                "anyOf": [
+                  {
+                    "maximum": 1.0,
+                    "minimum": 0.0,
+                    "type": "number"
+                  },
+                  {
+                    "type": "string"
+                  }
+                ]
+              },
+              "probability_basis": {
+                "maxLength": 1000,
+                "minLength": 10,
+                "type": "string"
+              },
+              "total_cost": {
+                "anyOf": [
+                  {
+                    "minimum": 0.0,
+                    "type": "number"
+                  },
+                  {
+                    "type": "string"
+                  }
+                ]
+              },
+              "total_payout_if_all_win": {
+                "anyOf": [
+                  {
+                    "minimum": 0.0,
+                    "type": "number"
+                  },
+                  {
+                    "type": "string"
+                  }
+                ]
+              },
+              "total_fees": {
+                "anyOf": [
+                  {
+                    "minimum": 0.0,
+                    "type": "number"
+                  },
+                  {
+                    "type": "string"
+                  }
+                ],
+                "default": "0"
+              },
+              "currency": {
+                "default": "USD",
+                "enum": [
+                  "USD",
+                  "USDC",
+                  "pUSD"
+                ],
+                "type": "string"
+              }
+            },
+            "required": [
+              "legs",
+              "joint_probability",
+              "probability_basis",
+              "total_cost",
+              "total_payout_if_all_win"
+            ],
+            "type": "object"
+          }
+        },
+        "required": [
+          "scenario"
+        ],
+        "type": "object"
+      },
+      "outputSchema": {
+        "additionalProperties": false,
+        "properties": {
+          "status": {
+            "const": "hypothetical",
+            "default": "hypothetical",
+            "type": "string"
+          },
+          "expected_profit": {
+            "type": "string"
+          },
+          "maximum_loss": {
+            "type": "string"
+          },
+          "return_on_cost": {
+            "type": "string"
+          },
+          "currency": {
+            "type": "string"
+          },
+          "probability_basis": {
+            "type": "string"
+          },
+          "warnings": {
+            "items": {
+              "type": "string"
+            },
+            "type": "array"
+          }
+        },
+        "required": [
+          "expected_profit",
+          "maximum_loss",
+          "return_on_cost",
+          "currency",
+          "probability_basis",
+          "warnings"
+        ],
+        "type": "object"
+      },
+      "annotations": {
+        "readOnlyHint": true,
+        "destructiveHint": false,
+        "idempotentHint": true
+      },
+      "meta": {
+        "fastmcp": {
+          "tags": [
+            "analysis",
+            "betting"
+          ]
+        }
+      }
+    },
+    {
+      "name": "execute_combo_bet",
+      "description": "Reserved action schema. Always fails closed; no venue orders are submitted.",
+      "inputSchema": {
+        "additionalProperties": false,
+        "properties": {
+          "request": {
+            "additionalProperties": false,
+            "description": "Reserved action contract: identifiers must resolve to server-owned records.",
+            "properties": {
+              "plan_id": {
+                "maxLength": 160,
+                "minLength": 1,
+                "pattern": "^[A-Za-z0-9_.:-]+$",
+                "type": "string"
+              },
+              "idempotency_key": {
+                "maxLength": 160,
+                "minLength": 1,
+                "pattern": "^[A-Za-z0-9_.:-]+$",
+                "type": "string"
+              },
+              "max_total_cost": {
+                "anyOf": [
+                  {
+                    "minimum": 0.0,
+                    "type": "number"
+                  },
+                  {
+                    "type": "string"
+                  }
+                ]
+              },
+              "expires_at": {
+                "format": "date-time",
+                "type": "string"
+              }
+            },
+            "required": [
+              "plan_id",
+              "idempotency_key",
+              "max_total_cost",
+              "expires_at"
+            ],
+            "type": "object"
+          }
+        },
+        "required": [
+          "request"
+        ],
+        "type": "object"
+      },
+      "outputSchema": {
+        "additionalProperties": false,
+        "properties": {
+          "plan_id": {
+            "type": "string"
+          },
+          "state": {
+            "enum": [
+              "submitted",
+              "partially_filled",
+              "filled",
+              "cancelled",
+              "unknown"
+            ],
+            "type": "string"
+          },
+          "order_ids": {
+            "items": {
+              "type": "string"
+            },
+            "type": "array"
+          }
+        },
+        "required": [
+          "plan_id",
+          "state",
+          "order_ids"
+        ],
+        "type": "object"
+      },
+      "annotations": {
+        "readOnlyHint": false,
+        "destructiveHint": true,
+        "idempotentHint": false,
+        "openWorldHint": true
+      },
+      "meta": {
+        "fastmcp": {
+          "tags": [
+            "betting",
+            "execution"
+          ]
+        }
+      }
+    },
+    {
+      "name": "prepare_content_brief",
+      "description": "Return evidence and writing constraints for an external agent; does not publish.",
+      "inputSchema": {
+        "additionalProperties": false,
+        "properties": {
+          "request": {
+            "additionalProperties": false,
+            "properties": {
+              "topic": {
+                "maxLength": 300,
+                "minLength": 1,
+                "type": "string"
+              },
+              "persona": {
+                "enum": [
+                  "analytics",
+                  "fantasy",
+                  "gm",
+                  "gruden",
+                  "scout"
+                ],
+                "type": "string",
+                "default": "analytics"
+              },
+              "format": {
+                "default": "social",
+                "enum": [
+                  "social",
+                  "blog",
+                  "strategy"
+                ],
+                "type": "string"
+              },
+              "week": {
+                "anyOf": [
+                  {
+                    "maximum": 30,
+                    "minimum": 0,
+                    "type": "integer"
+                  },
+                  {
+                    "type": "null"
+                  }
+                ],
+                "default": null
+              }
+            },
+            "required": [
+              "topic"
+            ],
+            "type": "object"
+          }
+        },
+        "required": [
+          "request"
+        ],
+        "type": "object"
+      },
+      "outputSchema": {
+        "additionalProperties": false,
+        "properties": {
+          "topic": {
+            "type": "string"
+          },
+          "format": {
+            "type": "string"
+          },
+          "evidence": {
+            "additionalProperties": false,
+            "properties": {
+              "schema_version": {
+                "const": "1.0",
+                "default": "1.0",
+                "type": "string"
+              },
+              "status": {
+                "enum": [
+                  "legacy_unverified",
+                  "unavailable",
+                  "observed"
+                ],
+                "type": "string"
+              },
+              "source": {
+                "type": "string"
+              },
+              "retrieved_at": {
+                "format": "date-time",
+                "type": "string"
+              },
+              "source_updated_at": {
+                "anyOf": [
+                  {
+                    "format": "date-time",
+                    "type": "string"
+                  },
+                  {
+                    "type": "null"
+                  }
+                ],
+                "default": null
+              },
+              "snapshot_id": {
+                "anyOf": [
+                  {
+                    "type": "string"
+                  },
+                  {
+                    "type": "null"
+                  }
+                ],
+                "default": null
+              },
+              "warnings": {
+                "items": {
+                  "type": "string"
+                },
+                "type": "array"
+              },
+              "data": {
+                "anyOf": [
+                  {
+                    "additionalProperties": false,
+                    "properties": {
+                      "dataset": {
+                        "enum": [
+                          "analytics",
+                          "fantasy",
+                          "gm",
+                          "gruden",
+                          "scout"
+                        ],
+                        "type": "string"
+                      },
+                      "columns": {
+                        "items": {
+                          "type": "string"
+                        },
+                        "type": "array"
+                      },
+                      "rows": {
+                        "items": {
+                          "additionalProperties": {
+                            "anyOf": [
+                              {
+                                "type": "string"
+                              },
+                              {
+                                "type": "null"
+                              }
+                            ]
+                          },
+                          "type": "object"
+                        },
+                        "type": "array"
+                      },
+                      "matching_rows": {
+                        "type": "integer"
+                      },
+                      "next_offset": {
+                        "anyOf": [
+                          {
+                            "type": "integer"
+                          },
+                          {
+                            "type": "null"
+                          }
+                        ]
+                      }
+                    },
+                    "required": [
+                      "dataset",
+                      "columns",
+                      "rows",
+                      "matching_rows",
+                      "next_offset"
+                    ],
+                    "type": "object"
+                  },
+                  {
+                    "type": "null"
+                  }
+                ],
+                "default": null
+              }
+            },
+            "required": [
+              "status",
+              "source"
+            ],
+            "type": "object"
+          },
+          "instructions": {
+            "items": {
+              "type": "string"
+            },
+            "type": "array"
+          },
+          "publication_allowed": {
+            "const": false,
+            "default": false,
+            "type": "boolean"
+          }
+        },
+        "required": [
+          "topic",
+          "format",
+          "evidence",
+          "instructions"
+        ],
+        "type": "object"
+      },
+      "annotations": {
+        "readOnlyHint": true,
+        "destructiveHint": false,
+        "idempotentHint": true
+      },
+      "meta": {
+        "fastmcp": {
+          "tags": [
+            "content"
+          ]
+        }
+      }
+    }
+  ],
+  "resources": [
+    {
+      "name": "status",
+      "uri": "warroom://status",
+      "description": "Implementation capabilities, not a live provider health probe.",
+      "mimeType": "application/json",
+      "meta": {
+        "fastmcp": {
+          "tags": []
+        }
+      }
+    },
+    {
+      "name": "dataset_catalog",
+      "uri": "fantasy://datasets",
+      "description": "List legacy row counts, columns, observed seasons and content digests.",
+      "mimeType": "application/json",
+      "meta": {
+        "fastmcp": {
+          "tags": []
+        }
+      }
+    },
+    {
+      "name": "news",
+      "uri": "news://latest",
+      "description": "News snapshot boundary; missing ingestion is explicit.",
+      "mimeType": "application/json",
+      "meta": {
+        "fastmcp": {
+          "tags": []
+        }
+      }
+    }
+  ],
+  "resource_templates": [
+    {
+      "name": "nfl_stats",
+      "uriTemplate": "fantasy://stats/nfl/{dataset}/{week}",
+      "description": "Read up to 25 rows of a legacy weekly snapshot; use the tool to paginate.",
+      "mimeType": "application/json",
+      "meta": {
+        "fastmcp": {
+          "tags": []
+        }
+      }
+    },
+    {
+      "name": "player_projections",
+      "uriTemplate": "fantasy://projections/{sport}/{player_id}",
+      "description": "Projection boundary: no trained, validated model is wired yet.",
+      "mimeType": "application/json",
+      "meta": {
+        "fastmcp": {
+          "tags": []
+        }
+      }
+    },
+    {
+      "name": "market_snapshot",
+      "uriTemplate": "betting://markets/{venue}/{asset}",
+      "description": "Readable market snapshot boundary, not a WebSocket stream.",
+      "mimeType": "application/json",
+      "meta": {
+        "fastmcp": {
+          "tags": []
+        }
+      }
+    },
+    {
+      "name": "oracle_snapshot",
+      "uriTemplate": "betting://oracle/{venue}/{market_id}",
+      "description": "Oracle observation boundary; arrival lag alone is not a price advantage.",
+      "mimeType": "application/json",
+      "meta": {
+        "fastmcp": {
+          "tags": []
+        }
+      }
+    }
+  ]
+}
