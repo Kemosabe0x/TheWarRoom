@@ -12069,7 +12069,7 @@ game_id,week,game_date,day_of_week,posteam,defteam,desc,play_type,yards_gained,t
 2026_05_CLE_NYJ,5,2026-10-11,Sunday,CLE,NYJ,"(1:12) (No Huddle, Shotgun) 4-D.Watson pass incomplete short right to 12-D.Boston (1-A.Thomas) [56-D.Davis].",pass,0.0,0.0
 2026_05_CLE_NYJ,5,2026-10-11,Sunday,CLE,NYJ,(1:07) (Shotgun) 4-D.Watson pass incomplete short right [31-D.Bailey].,pass,0.0,0.0
 2026_05_CLE_NYJ,5,2026-10-11,Sunday,CLE,NYJ,"(:57) (Shotgun) PENALTY on CLE, Delay of Game, 5 yards, enforced at CLE 24 - No Play.",no_play,0.0,0.0
-2026_05_CLE_NYJ,5,2026-10-11,Sunday,CLE,NYJ,"(:57) (Shotgun) 4-D.Watson sacked at CLE 19 for 0 yards (9-W.McDonald). FUMBLES (9-W.McDonald), and recovers at CLE 19. 4-D.Watson to CLE 18 for -1 yards (31-D.Bailey). FUMBLES (31-D.Bailey), RECOVERED by NYJ-9-W.McDonald at CLE 17.",pass,-2.0,0.0
+2026_05_CLE_NYJ,5,2026-10-11,Sunday,CLE,NYJ,"(:57) (Shotgun) 4-D.Watson sacked at CLE 19 for 0 yards (9-W.McDonald). FUMBLES (9-W.McDonald) [9-W.McDonald], touched at CLE 18, RECOVERED by NYJ-9-W.McDonald at CLE 17.",pass,-1.0,0.0
 2026_05_CLE_NYJ,5,2026-10-11,Sunday,NYJ,CLE,(:44) 7-G.Smith kneels to CLE 18 for -1 yards.,qb_kneel,-1.0,0.0
 2026_05_CLE_NYJ,5,2026-10-11,Sunday,NYJ,CLE,(:24) 7-G.Smith kneels to CLE 19 for -1 yards.,qb_kneel,-1.0,0.0
 2026_05_CLE_NYJ,5,2026-10-11,Sunday,NYJ,CLE,END GAME,,,
