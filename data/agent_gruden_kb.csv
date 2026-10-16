@@ -13841,3 +13841,192 @@ game_id,week,game_date,day_of_week,posteam,defteam,desc,play_type,yards_gained,t
 2026_05_TB_DAL,5,2026-10-08,Thursday,TB,DAL,(1:04) 10-J.Daniels kneels to TB 31 for -1 yards.,qb_kneel,-1.0,0.0
 2026_05_TB_DAL,5,2026-10-08,Thursday,TB,DAL,(:31) 10-J.Daniels kneels to TB 30 for -1 yards.,qb_kneel,-1.0,0.0
 2026_05_TB_DAL,5,2026-10-08,Thursday,TB,DAL,END GAME,,,
+2026_06_SEA_DEN,6,2026-10-15,Thursday,,,GAME,,,
+2026_06_SEA_DEN,6,2026-10-15,Thursday,SEA,DEN,3-W.Lutz kicks 63 yards from DEN 35 to SEA 2. 22-R.Shaheed pushed ob at SEA 29 for 27 yards (34-J.Skinner).,kickoff,0.0,0.0
+2026_06_SEA_DEN,6,2026-10-15,Thursday,SEA,DEN,(14:56) (Shotgun) 14-S.Darnold pass short left to 11-J.Smith-Njigba to SEA 34 for 5 yards (23-J.Barron).,pass,5.0,0.0
+2026_06_SEA_DEN,6,2026-10-15,Thursday,SEA,DEN,(14:19) (Shotgun) 23-E.Wilson left guard to SEA 36 for 2 yards (49-A.Singleton; 15-N.Bonitto).,run,2.0,0.0
+2026_06_SEA_DEN,6,2026-10-15,Thursday,SEA,DEN,"(13:51) (No Huddle, Shotgun) 14-S.Darnold pass short right to 10-C.Kupp pushed ob at SEA 44 for 8 yards (31-K.Abrams-Draine).",pass,8.0,0.0
+2026_06_SEA_DEN,6,2026-10-15,Thursday,SEA,DEN,(13:17) (Shotgun) 14-S.Darnold pass short right to 22-R.Shaheed to DEN 48 for 8 yards (23-J.Barron).,pass,8.0,0.0
+2026_06_SEA_DEN,6,2026-10-15,Thursday,SEA,DEN,(12:43) 23-E.Wilson left tackle to DEN 45 for 3 yards (49-A.Singleton).,run,3.0,0.0
+2026_06_SEA_DEN,6,2026-10-15,Thursday,SEA,DEN,(12:03) (Shotgun) 14-S.Darnold pass short right to 11-J.Smith-Njigba pushed ob at DEN 39 for 6 yards (29-J.McMillian).,pass,6.0,0.0
+2026_06_SEA_DEN,6,2026-10-15,Thursday,SEA,DEN,(11:31) (Shotgun) 14-S.Darnold sacked at DEN 45 for -6 yards (29-J.McMillian).,pass,-6.0,0.0
+2026_06_SEA_DEN,6,2026-10-15,Thursday,SEA,DEN,(10:49) (Shotgun) 14-S.Darnold sacked at SEA 49 for -6 yards (51-Q.Robinson).,pass,-6.0,0.0
+2026_06_SEA_DEN,6,2026-10-15,Thursday,SEA,DEN,"(10:06) 4-M.Dickson punts 41 yards to DEN 10, Center-41-C.Stoll, fair catch by 19-M.Mims.",punt,0.0,0.0
+2026_06_SEA_DEN,6,2026-10-15,Thursday,DEN,SEA,(9:59) 27-J.Dobbins right tackle to DEN 12 for 2 yards (3-N.Emmanwori).,run,2.0,0.0
+2026_06_SEA_DEN,6,2026-10-15,Thursday,DEN,SEA,(9:22) 27-J.Dobbins left guard to DEN 12 for no gain (58-D.Hall).,run,0.0,0.0
+2026_06_SEA_DEN,6,2026-10-15,Thursday,DEN,SEA,(8:39) (Shotgun) 10-B.Nix pass incomplete short right to 17-J.Waddle (20-J.Love) [99-L.Williams].,pass,0.0,0.0
+2026_06_SEA_DEN,6,2026-10-15,Thursday,DEN,SEA,"(8:36) 16-J.Crawshaw punts 43 yards to SEA 45, Center-48-M.Fraboni, out of bounds.",punt,0.0,0.0
+2026_06_SEA_DEN,6,2026-10-15,Thursday,SEA,DEN,"(8:29) PENALTY on DEN-93-D.Jones, Encroachment, 5 yards, enforced at SEA 45 - No Play.",no_play,0.0,0.0
+2026_06_SEA_DEN,6,2026-10-15,Thursday,SEA,DEN,(8:29) 23-E.Wilson up the middle to DEN 48 for 2 yards (49-A.Singleton).,run,2.0,0.0
+2026_06_SEA_DEN,6,2026-10-15,Thursday,SEA,DEN,(7:57) 23-E.Wilson right guard to DEN 42 for 6 yards (30-T.Rapp; 99-Z.Allen).,run,6.0,0.0
+2026_06_SEA_DEN,6,2026-10-15,Thursday,,,Timeout #1 by SEA at 07:19.,no_play,0.0,0.0
+2026_06_SEA_DEN,6,2026-10-15,Thursday,SEA,DEN,(7:19) 33-V.Jones left end to DEN 37 for 5 yards (21-R.Moss).,run,5.0,0.0
+2026_06_SEA_DEN,6,2026-10-15,Thursday,SEA,DEN,(6:43) 14-S.Darnold pass incomplete short right to 81-E.Saubert [93-D.Jones].,pass,0.0,0.0
+2026_06_SEA_DEN,6,2026-10-15,Thursday,SEA,DEN,(6:39) (Shotgun) 14-S.Darnold pass incomplete short middle to 11-J.Smith-Njigba (29-J.McMillian).,pass,0.0,0.0
+2026_06_SEA_DEN,6,2026-10-15,Thursday,SEA,DEN,"(6:35) 5-J.Myers 55 yard field goal is GOOD, Center-41-C.Stoll, Holder-4-M.Dickson.",field_goal,0.0,0.0
+2026_06_SEA_DEN,6,2026-10-15,Thursday,DEN,SEA,5-J.Myers kicks 63 yards from SEA 35 to DEN 2. 37-S.Fresch to DEN 26 for 24 yards (85-I.Charles).,kickoff,0.0,0.0
+2026_06_SEA_DEN,6,2026-10-15,Thursday,DEN,SEA,(6:24) (Shotgun) 10-B.Nix pass short left to 17-J.Waddle to DEN 34 for 8 yards (39-T.Okada).,pass,8.0,0.0
+2026_06_SEA_DEN,6,2026-10-15,Thursday,DEN,SEA,"(5:51) (Shotgun) 10-B.Nix pass incomplete short middle. PENALTY on DEN-77-Q.Meinerz, Ineligible Downfield Pass, 5 yards, enforced at DEN 34 - No Play.",no_play,0.0,0.0
+2026_06_SEA_DEN,6,2026-10-15,Thursday,DEN,SEA,(5:46) 10-B.Nix pass short left to 12-R.Harvey to DEN 45 for 16 yards (3-N.Emmanwori).,pass,16.0,0.0
+2026_06_SEA_DEN,6,2026-10-15,Thursday,DEN,SEA,(5:04) 27-J.Dobbins up the middle to DEN 49 for 4 yards (21-D.Witherspoon; 13-E.Jones).,run,4.0,0.0
+2026_06_SEA_DEN,6,2026-10-15,Thursday,DEN,SEA,"(4:32) (No Huddle, Shotgun) 10-B.Nix pass short right to 12-R.Harvey to SEA 48 for 3 yards (20-J.Love).",pass,3.0,0.0
+2026_06_SEA_DEN,6,2026-10-15,Thursday,DEN,SEA,(3:53) 10-B.Nix pass incomplete deep right to 19-M.Mims (21-D.Witherspoon).,pass,0.0,0.0
+2026_06_SEA_DEN,6,2026-10-15,Thursday,DEN,SEA,(3:46) (Shotgun) 28-T.Badie up the middle to SEA 42 for 6 yards (13-E.Jones).,run,6.0,0.0
+2026_06_SEA_DEN,6,2026-10-15,Thursday,DEN,SEA,(3:11) (Shotgun) 27-J.Dobbins left guard to SEA 40 for 2 yards (91-B.Murphy; 58-D.Hall).,run,2.0,0.0
+2026_06_SEA_DEN,6,2026-10-15,Thursday,DEN,SEA,(2:36) (Shotgun) 10-B.Nix pass incomplete short left to 17-J.Waddle.,pass,0.0,0.0
+2026_06_SEA_DEN,6,2026-10-15,Thursday,DEN,SEA,(2:32) (Shotgun) 10-B.Nix pass short right to 1-E.Engram to SEA 31 for 9 yards (13-E.Jones).,pass,9.0,0.0
+2026_06_SEA_DEN,6,2026-10-15,Thursday,DEN,SEA,(1:48) 27-J.Dobbins right tackle to SEA 28 for 3 yards (99-L.Williams).,run,3.0,0.0
+2026_06_SEA_DEN,6,2026-10-15,Thursday,DEN,SEA,(1:06) 27-J.Dobbins right tackle to SEA 27 for 1 yard (48-T.Knight; 3-N.Emmanwori).,run,1.0,0.0
+2026_06_SEA_DEN,6,2026-10-15,Thursday,DEN,SEA,(:24) (Shotgun) 10-B.Nix pass short middle to 14-C.Sutton to SEA 18 for 9 yards (28-N.Pritchett) [0-D.Lawrence].,pass,9.0,0.0
+2026_06_SEA_DEN,6,2026-10-15,Thursday,DEN,SEA,END QUARTER 1,,,
+2026_06_SEA_DEN,6,2026-10-15,Thursday,DEN,SEA,(15:00) 10-B.Nix pass short right to 11-T.Franklin to SEA 16 for 2 yards (3-N.Emmanwori; 94-M.Morris).,pass,2.0,0.0
+2026_06_SEA_DEN,6,2026-10-15,Thursday,DEN,SEA,(14:17) (Shotgun) 10-B.Nix pass short right to 12-R.Harvey to SEA 4 for 12 yards (39-T.Okada).,pass,12.0,0.0
+2026_06_SEA_DEN,6,2026-10-15,Thursday,DEN,SEA,(13:31) (Shotgun) 10-B.Nix right end ran ob at SEA 4 for no gain (48-T.Knight).,run,0.0,0.0
+2026_06_SEA_DEN,6,2026-10-15,Thursday,DEN,SEA,"(12:56) 27-J.Dobbins right tackle for 4 yards, TOUCHDOWN.",run,4.0,1.0
+2026_06_SEA_DEN,6,2026-10-15,Thursday,DEN,SEA,"3-W.Lutz extra point is GOOD, Center-48-M.Fraboni, Holder-16-J.Crawshaw.",extra_point,0.0,0.0
+2026_06_SEA_DEN,6,2026-10-15,Thursday,SEA,DEN,"3-W.Lutz kicks 60 yards from DEN 35 to SEA 5. 22-R.Shaheed to SEA 44 for 39 yards (31-K.Abrams-Draine; 51-Q.Robinson). FUMBLES (31-K.Abrams-Draine), ball out of bounds at SEA 44.",kickoff,0.0,0.0
+2026_06_SEA_DEN,6,2026-10-15,Thursday,SEA,DEN,(12:44) (Shotgun) 14-S.Darnold pass short left to 10-C.Kupp to SEA 49 for 5 yards (26-D.Key) [95-S.Jones].,pass,5.0,0.0
+2026_06_SEA_DEN,6,2026-10-15,Thursday,SEA,DEN,(12:06) (Shotgun) 23-E.Wilson left tackle to DEN 49 for 2 yards (51-Q.Robinson; 49-A.Singleton).,run,2.0,0.0
+2026_06_SEA_DEN,6,2026-10-15,Thursday,SEA,DEN,(11:27) (Shotgun) 23-E.Wilson right guard to DEN 45 for 4 yards (99-Z.Allen).,run,4.0,0.0
+2026_06_SEA_DEN,6,2026-10-15,Thursday,SEA,DEN,(10:49) 23-E.Wilson left end to DEN 45 for no gain (96-E.Uwazurike).,run,0.0,0.0
+2026_06_SEA_DEN,6,2026-10-15,Thursday,SEA,DEN,(10:08) 14-S.Darnold pass incomplete short right.,pass,0.0,0.0
+2026_06_SEA_DEN,6,2026-10-15,Thursday,SEA,DEN,(9:59) (Shotgun) 14-S.Darnold pass incomplete deep middle to 11-J.Smith-Njigba.,pass,0.0,0.0
+2026_06_SEA_DEN,6,2026-10-15,Thursday,SEA,DEN,"(9:55) 4-M.Dickson punts 24 yards to DEN 21, Center-41-C.Stoll, out of bounds.",punt,0.0,0.0
+2026_06_SEA_DEN,6,2026-10-15,Thursday,DEN,SEA,(9:47) 27-J.Dobbins left guard to DEN 21 for no gain (48-T.Knight).,run,0.0,0.0
+2026_06_SEA_DEN,6,2026-10-15,Thursday,DEN,SEA,(9:11) (Shotgun) 10-B.Nix pass incomplete deep right to 17-J.Waddle (21-D.Witherspoon).,pass,0.0,0.0
+2026_06_SEA_DEN,6,2026-10-15,Thursday,DEN,SEA,"(9:07) (Shotgun) 10-B.Nix pass short right to 19-M.Mims to DEN 29 for 8 yards (91-B.Murphy). PENALTY on SEA-91-B.Murphy, Face Mask, 15 yards, enforced at DEN 29.",pass,8.0,0.0
+2026_06_SEA_DEN,6,2026-10-15,Thursday,DEN,SEA,(8:43) (Shotgun) 27-J.Dobbins left guard to SEA 40 for 16 yards (13-E.Jones; 39-T.Okada).,run,16.0,0.0
+2026_06_SEA_DEN,6,2026-10-15,Thursday,DEN,SEA,(8:01) (Shotgun) 10-B.Nix pass short right to 17-J.Waddle to SEA 33 for 7 yards (21-D.Witherspoon).,pass,7.0,0.0
+2026_06_SEA_DEN,6,2026-10-15,Thursday,DEN,SEA,(7:28) (Shotgun) 12-R.Harvey left guard to SEA 31 for 2 yards (99-L.Williams; 13-E.Jones).,run,2.0,0.0
+2026_06_SEA_DEN,6,2026-10-15,Thursday,DEN,SEA,(6:48) (Shotgun) 12-R.Harvey right tackle to SEA 24 for 7 yards (29-J.Jobe).,run,7.0,0.0
+2026_06_SEA_DEN,6,2026-10-15,Thursday,DEN,SEA,(6:08) 27-J.Dobbins right end to SEA 21 for 3 yards (99-L.Williams).,run,3.0,0.0
+2026_06_SEA_DEN,6,2026-10-15,Thursday,DEN,SEA,"(5:23) (Shotgun) 10-B.Nix pass incomplete deep left to 14-C.Sutton. PENALTY on SEA-21-D.Witherspoon, Defensive Pass Interference, 20 yards, enforced at SEA 21 - No Play.",no_play,0.0,0.0
+2026_06_SEA_DEN,6,2026-10-15,Thursday,DEN,SEA,"(5:19) (Shotgun) 63-A.Palczewski reported in as eligible. Direct snap to 12-R.Harvey. 12-R.Harvey right guard for 1 yard, TOUCHDOWN.",run,1.0,1.0
+2026_06_SEA_DEN,6,2026-10-15,Thursday,DEN,SEA,"3-W.Lutz extra point is GOOD, Center-48-M.Fraboni, Holder-16-J.Crawshaw.",extra_point,0.0,0.0
+2026_06_SEA_DEN,6,2026-10-15,Thursday,SEA,DEN,"3-W.Lutz kicks 62 yards from DEN 35 to SEA 3, out of bounds. PENALTY on DEN-3-W.Lutz, Kickoff Out of Bounds, placed at SEA 40.",kickoff,0.0,0.0
+2026_06_SEA_DEN,6,2026-10-15,Thursday,SEA,DEN,(5:15) 14-S.Darnold pass incomplete short left.,pass,0.0,0.0
+2026_06_SEA_DEN,6,2026-10-15,Thursday,SEA,DEN,(5:10) (Shotgun) 23-E.Wilson left end to DEN 49 for 11 yards (40-J.Strnad).,run,11.0,0.0
+2026_06_SEA_DEN,6,2026-10-15,Thursday,SEA,DEN,(4:32) 33-V.Jones right end to DEN 44 for 5 yards (52-J.Elliss).,run,5.0,0.0
+2026_06_SEA_DEN,6,2026-10-15,Thursday,SEA,DEN,(3:55) 33-V.Jones right end to DEN 35 for 9 yards (26-D.Key).,run,9.0,0.0
+2026_06_SEA_DEN,6,2026-10-15,Thursday,SEA,DEN,(3:15) 23-E.Wilson right end to DEN 35 for no gain (49-A.Singleton; 51-Q.Robinson).,run,0.0,0.0
+2026_06_SEA_DEN,6,2026-10-15,Thursday,SEA,DEN,"(2:34) 22-R.Shaheed left end to DEN 30 for 5 yards (15-N.Bonitto). FUMBLES (15-N.Bonitto), touched at DEN 33, RECOVERED by DEN-40-J.Strnad at DEN 34. SEA-18-E.Arroyo was injured during the play.",run,2.0,0.0
+2026_06_SEA_DEN,6,2026-10-15,Thursday,DEN,SEA,(2:24) 27-J.Dobbins left end to DEN 34 for no gain (48-T.Knight).,run,0.0,0.0
+2026_06_SEA_DEN,6,2026-10-15,Thursday,DEN,SEA,(2:00) (Shotgun) 10-B.Nix pass short right to 1-E.Engram to DEN 38 for 4 yards (21-D.Witherspoon; 13-E.Jones).,pass,4.0,0.0
+2026_06_SEA_DEN,6,2026-10-15,Thursday,,,Timeout #2 by SEA at 01:54.,no_play,0.0,0.0
+2026_06_SEA_DEN,6,2026-10-15,Thursday,DEN,SEA,(1:54) (Shotgun) 10-B.Nix pass incomplete short right.,pass,0.0,0.0
+2026_06_SEA_DEN,6,2026-10-15,Thursday,DEN,SEA,"(1:49) 16-J.Crawshaw punts 49 yards to SEA 13, Center-48-M.Fraboni, out of bounds.",punt,0.0,0.0
+2026_06_SEA_DEN,6,2026-10-15,Thursday,SEA,DEN,(1:43) (Shotgun) 14-S.Darnold pass incomplete short right to 10-C.Kupp [97-M.Roach].,pass,0.0,0.0
+2026_06_SEA_DEN,6,2026-10-15,Thursday,SEA,DEN,(1:35) (Shotgun) 14-S.Darnold pass short middle to 10-C.Kupp to SEA 25 for 12 yards (30-T.Rapp; 22-B.Jones).,pass,12.0,0.0
+2026_06_SEA_DEN,6,2026-10-15,Thursday,SEA,DEN,"(1:12) (No Huddle, Shotgun) 14-S.Darnold pass deep right to 22-R.Shaheed to DEN 42 for 33 yards (31-K.Abrams-Draine). The Replay Official reviewed the pass completion ruling, and the play was REVERSED. (No Huddle, Shotgun) 14-S.Darnold pass incomplete deep right to 22-R.Shaheed.",pass,0.0,0.0
+2026_06_SEA_DEN,6,2026-10-15,Thursday,SEA,DEN,(1:07) (Shotgun) 14-S.Darnold pass incomplete deep right to 11-J.Smith-Njigba (31-K.Abrams-Draine).,pass,0.0,0.0
+2026_06_SEA_DEN,6,2026-10-15,Thursday,SEA,DEN,(1:02) (Shotgun) 14-S.Darnold pass short right to 10-C.Kupp to SEA 33 for 8 yards (29-J.McMillian).,pass,8.0,0.0
+2026_06_SEA_DEN,6,2026-10-15,Thursday,,,Timeout #1 by DEN at 00:54.,no_play,0.0,0.0
+2026_06_SEA_DEN,6,2026-10-15,Thursday,SEA,DEN,"(:54) 4-M.Dickson punts 55 yards to DEN 12, Center-41-C.Stoll, out of bounds.",punt,0.0,0.0
+2026_06_SEA_DEN,6,2026-10-15,Thursday,DEN,SEA,"(:47) (Shotgun) 10-B.Nix pass incomplete short left to 12-R.Harvey. PENALTY on DEN-72-G.Bolles, Offensive Holding, 6 yards, enforced at DEN 12 - No Play.",no_play,0.0,0.0
+2026_06_SEA_DEN,6,2026-10-15,Thursday,DEN,SEA,(:42) 12-R.Harvey right tackle to DEN 7 for 1 yard (3-N.Emmanwori).,run,1.0,0.0
+2026_06_SEA_DEN,6,2026-10-15,Thursday,,,END QUARTER 2,,,
+2026_06_SEA_DEN,6,2026-10-15,Thursday,DEN,SEA,"5-J.Myers kicks 65 yards from SEA 35 to end zone, Touchback to the DEN 35.",kickoff,0.0,0.0
+2026_06_SEA_DEN,6,2026-10-15,Thursday,DEN,SEA,(15:00) (Shotgun) 10-B.Nix pass short right to 14-C.Sutton to DEN 45 for 10 yards (39-T.Okada).,pass,10.0,0.0
+2026_06_SEA_DEN,6,2026-10-15,Thursday,DEN,SEA,(14:20) 27-J.Dobbins left tackle to DEN 44 for -1 yards (99-L.Williams).,run,-1.0,0.0
+2026_06_SEA_DEN,6,2026-10-15,Thursday,DEN,SEA,(13:44) 27-J.Dobbins left guard to DEN 44 for no gain (0-D.Lawrence).,run,0.0,0.0
+2026_06_SEA_DEN,6,2026-10-15,Thursday,DEN,SEA,(13:00) (Shotgun) 10-B.Nix pass incomplete short left [3-N.Emmanwori].,pass,0.0,0.0
+2026_06_SEA_DEN,6,2026-10-15,Thursday,DEN,SEA,"(12:51) 16-J.Crawshaw punts 40 yards to SEA 16, Center-48-M.Fraboni, fair catch by 22-R.Shaheed.",punt,0.0,0.0
+2026_06_SEA_DEN,6,2026-10-15,Thursday,SEA,DEN,(12:45) (Shotgun) 14-S.Darnold pass short right to 33-V.Jones to SEA 15 for -1 yards (49-A.Singleton).,pass,-1.0,0.0
+2026_06_SEA_DEN,6,2026-10-15,Thursday,SEA,DEN,(12:07) 14-S.Darnold pass incomplete short middle to 10-C.Kupp. The incomplete pass was assisted by replay.,pass,0.0,0.0
+2026_06_SEA_DEN,6,2026-10-15,Thursday,SEA,DEN,(12:04) (Shotgun) 14-S.Darnold pass short left to 11-J.Smith-Njigba pushed ob at SEA 30 for 15 yards (15-N.Bonitto).,pass,15.0,0.0
+2026_06_SEA_DEN,6,2026-10-15,Thursday,SEA,DEN,(11:33) 33-V.Jones right guard to SEA 31 for 1 yard (99-Z.Allen).,run,1.0,0.0
+2026_06_SEA_DEN,6,2026-10-15,Thursday,SEA,DEN,(10:52) (Shotgun) 14-S.Darnold pass deep right to 22-R.Shaheed to DEN 27 for 42 yards (23-J.Barron).,pass,42.0,0.0
+2026_06_SEA_DEN,6,2026-10-15,Thursday,SEA,DEN,(10:07) 23-E.Wilson right tackle to DEN 24 for 3 yards (92-D.Tillman; 95-S.Jones).,run,3.0,0.0
+2026_06_SEA_DEN,6,2026-10-15,Thursday,SEA,DEN,(9:25) (Shotgun) 14-S.Darnold pass incomplete short left.,pass,0.0,0.0
+2026_06_SEA_DEN,6,2026-10-15,Thursday,SEA,DEN,(9:17) (Shotgun) 14-S.Darnold sacked at DEN 29 for -5 yards (52-J.Elliss).,pass,-5.0,0.0
+2026_06_SEA_DEN,6,2026-10-15,Thursday,SEA,DEN,"(8:34) 5-J.Myers 47 yard field goal is No Good, Hit Right Upright, Center-41-C.Stoll, Holder-4-M.Dickson.",field_goal,0.0,0.0
+2026_06_SEA_DEN,6,2026-10-15,Thursday,DEN,SEA,(8:30) 10-B.Nix pass short left to 27-J.Dobbins ran ob at DEN 41 for 4 yards (29-J.Jobe). ** Injury Update: DEN-17-J.Waddle has returned to the game.,pass,4.0,0.0
+2026_06_SEA_DEN,6,2026-10-15,Thursday,DEN,SEA,"(8:04) (No Huddle, Shotgun) 60-L.Wattenberg to DEN 36 for -5 yards. FUMBLES, recovered by DEN-10-B.Nix at DEN 35. 10-B.Nix pass incomplete short right to 19-M.Mims.",pass,0.0,0.0
+2026_06_SEA_DEN,6,2026-10-15,Thursday,DEN,SEA,(7:59) (Shotgun) 10-B.Nix pass incomplete short middle.,pass,0.0,0.0
+2026_06_SEA_DEN,6,2026-10-15,Thursday,DEN,SEA,"(7:55) 16-J.Crawshaw punts 52 yards to SEA 7, Center-48-M.Fraboni. 15-T.Horton ran ob at SEA 20 for 13 yards (26-D.Key).",punt,0.0,0.0
+2026_06_SEA_DEN,6,2026-10-15,Thursday,SEA,DEN,"(7:46) PENALTY on SEA-76-G.Zabel, False Start, 5 yards, enforced at SEA 20 - No Play.",no_play,0.0,0.0
+2026_06_SEA_DEN,6,2026-10-15,Thursday,SEA,DEN,(7:46) (Shotgun) 14-S.Darnold pass short right to 22-R.Shaheed to SEA 17 for 2 yards (49-A.Singleton).,pass,2.0,0.0
+2026_06_SEA_DEN,6,2026-10-15,Thursday,SEA,DEN,(7:05) (Shotgun) 14-S.Darnold pass short middle to 11-J.Smith-Njigba to SEA 31 for 14 yards (22-B.Jones; 30-T.Rapp).,pass,14.0,0.0
+2026_06_SEA_DEN,6,2026-10-15,Thursday,SEA,DEN,"(6:19) PENALTY on DEN-99-Z.Allen, Encroachment, 5 yards, enforced at SEA 31 - No Play.",no_play,0.0,0.0
+2026_06_SEA_DEN,6,2026-10-15,Thursday,SEA,DEN,(6:09) 14-S.Darnold pass incomplete short right to 15-T.Horton (51-Q.Robinson).,pass,0.0,0.0
+2026_06_SEA_DEN,6,2026-10-15,Thursday,SEA,DEN,(6:06) (Shotgun) 14-S.Darnold pass short right to 11-J.Smith-Njigba to SEA 42 for 6 yards (31-K.Abrams-Draine).,pass,6.0,0.0
+2026_06_SEA_DEN,6,2026-10-15,Thursday,SEA,DEN,(5:29) 14-S.Darnold pass short right to 88-A.Barner to SEA 43 for 1 yard (22-B.Jones; 52-J.Elliss).,pass,1.0,0.0
+2026_06_SEA_DEN,6,2026-10-15,Thursday,SEA,DEN,(4:45) (Shotgun) 14-S.Darnold pass short left to 22-R.Shaheed to SEA 47 for 4 yards (49-A.Singleton; 31-K.Abrams-Draine).,pass,4.0,0.0
+2026_06_SEA_DEN,6,2026-10-15,Thursday,SEA,DEN,(4:05) (Shotgun) 14-S.Darnold sacked at SEA 33 for -14 yards (sack split by 99-Z.Allen and 15-N.Bonitto).,pass,-14.0,0.0
+2026_06_SEA_DEN,6,2026-10-15,Thursday,SEA,DEN,"(3:32) 4-M.Dickson punts 58 yards to DEN 9, Center-41-C.Stoll. 19-M.Mims to DEN 26 for 17 yards (46-J.Ciarlo; 81-E.Saubert). PENALTY on DEN-37-S.Fresch, Illegal Block Above the Waist, 10 yards, enforced at DEN 20.",punt,0.0,0.0
+2026_06_SEA_DEN,6,2026-10-15,Thursday,DEN,SEA,(3:21) 27-J.Dobbins right guard to DEN 12 for 2 yards (29-J.Jobe).,run,2.0,0.0
+2026_06_SEA_DEN,6,2026-10-15,Thursday,DEN,SEA,(2:42) (Shotgun) 10-B.Nix pass short left to 27-J.Dobbins to DEN 13 for 1 yard (57-C.O'Toole; 91-B.Murphy).,pass,1.0,0.0
+2026_06_SEA_DEN,6,2026-10-15,Thursday,DEN,SEA,(2:00) (Shotgun) 10-B.Nix pass incomplete deep right to 14-C.Sutton.,pass,0.0,0.0
+2026_06_SEA_DEN,6,2026-10-15,Thursday,DEN,SEA,"(1:54) 16-J.Crawshaw punts 53 yards to SEA 34, Center-48-M.Fraboni. 22-R.Shaheed to SEA 30 for -4 yards (46-A.Prentice). PENALTY on SEA-52-P.O'Connell, Offensive Holding, 10 yards, enforced at SEA 34.",punt,0.0,0.0
+2026_06_SEA_DEN,6,2026-10-15,Thursday,SEA,DEN,(1:40) (Shotgun) 14-S.Darnold pass short middle to 11-J.Smith-Njigba to SEA 37 for 13 yards (31-K.Abrams-Draine) [51-Q.Robinson].,pass,13.0,0.0
+2026_06_SEA_DEN,6,2026-10-15,Thursday,SEA,DEN,(:58) 23-E.Wilson left guard to SEA 48 for 11 yards (22-B.Jones; 49-A.Singleton).,run,11.0,0.0
+2026_06_SEA_DEN,6,2026-10-15,Thursday,SEA,DEN,(:24) (Shotgun) 23-E.Wilson left tackle to SEA 49 for 1 yard (93-D.Jones; 49-A.Singleton).,run,1.0,0.0
+2026_06_SEA_DEN,6,2026-10-15,Thursday,SEA,DEN,END QUARTER 3,,,
+2026_06_SEA_DEN,6,2026-10-15,Thursday,SEA,DEN,(15:00) (Shotgun) 14-S.Darnold pass incomplete short right to 23-E.Wilson (99-Z.Allen).,pass,0.0,0.0
+2026_06_SEA_DEN,6,2026-10-15,Thursday,SEA,DEN,(14:57) (Shotgun) 14-S.Darnold pass short right to 15-T.Horton to DEN 38 for 13 yards (22-B.Jones).,pass,13.0,0.0
+2026_06_SEA_DEN,6,2026-10-15,Thursday,SEA,DEN,(14:25) 36-G.Holani left end to DEN 39 for -1 yards (93-D.Jones).,run,-1.0,0.0
+2026_06_SEA_DEN,6,2026-10-15,Thursday,SEA,DEN,(13:42) (Shotgun) 14-S.Darnold pass incomplete deep right to 22-R.Shaheed [49-A.Singleton].,pass,0.0,0.0
+2026_06_SEA_DEN,6,2026-10-15,Thursday,SEA,DEN,(13:37) (Shotgun) 14-S.Darnold sacked at DEN 46 for -7 yards (sack split by 40-J.Strnad and 97-M.Roach).,pass,-7.0,0.0
+2026_06_SEA_DEN,6,2026-10-15,Thursday,SEA,DEN,"(12:58) 4-M.Dickson punts 39 yards to DEN 7, Center-41-C.Stoll, out of bounds.",punt,0.0,0.0
+2026_06_SEA_DEN,6,2026-10-15,Thursday,DEN,SEA,(12:52) (Shotgun) 10-B.Nix pass short left to 19-M.Mims to DEN 12 for 5 yards (21-D.Witherspoon).,pass,5.0,0.0
+2026_06_SEA_DEN,6,2026-10-15,Thursday,DEN,SEA,(12:14) (Shotgun) 12-R.Harvey up the middle to DEN 21 for 9 yards (39-T.Okada; 20-J.Love).,run,9.0,0.0
+2026_06_SEA_DEN,6,2026-10-15,Thursday,DEN,SEA,(11:29) (Shotgun) 10-B.Nix pass short left to 17-J.Waddle ran ob at DEN 24 for 3 yards (29-J.Jobe; 48-T.Knight).,pass,3.0,0.0
+2026_06_SEA_DEN,6,2026-10-15,Thursday,DEN,SEA,(10:55) (Shotgun) 10-B.Nix pass short left to 27-J.Dobbins to DEN 24 for no gain (48-T.Knight).,pass,0.0,0.0
+2026_06_SEA_DEN,6,2026-10-15,Thursday,DEN,SEA,(10:14) (Shotgun) 10-B.Nix pass short right to 17-J.Waddle to DEN 30 for 6 yards (16-T.Diggs). (Virtual Measurement).,pass,6.0,0.0
+2026_06_SEA_DEN,6,2026-10-15,Thursday,DEN,SEA,"(9:28) (Run formation) 63-A.Palczewski reported in as eligible. PENALTY on DEN, Delay of Game, 5 yards, enforced at DEN 30 - No Play.",no_play,0.0,0.0
+2026_06_SEA_DEN,6,2026-10-15,Thursday,DEN,SEA,"(9:28) 16-J.Crawshaw punts 50 yards to SEA 25, Center-48-M.Fraboni. 22-R.Shaheed to SEA 33 for 8 yards (34-J.Skinner).",punt,0.0,0.0
+2026_06_SEA_DEN,6,2026-10-15,Thursday,SEA,DEN,(9:18) (Shotgun) 14-S.Darnold pass short left to 11-J.Smith-Njigba to SEA 49 for 16 yards (22-B.Jones).,pass,16.0,0.0
+2026_06_SEA_DEN,6,2026-10-15,Thursday,SEA,DEN,"(8:44) (Shotgun) 14-S.Darnold pass incomplete short left to 10-C.Kupp. PENALTY on DEN-23-J.Barron, Defensive Pass Interference, 6 yards, enforced at SEA 49 - No Play.",no_play,0.0,0.0
+2026_06_SEA_DEN,6,2026-10-15,Thursday,SEA,DEN,(8:40) (Shotgun) 14-S.Darnold pass incomplete short middle to 15-T.Horton [92-D.Tillman].,pass,0.0,0.0
+2026_06_SEA_DEN,6,2026-10-15,Thursday,SEA,DEN,(8:36) (Shotgun) 14-S.Darnold pass incomplete deep middle to 10-C.Kupp [97-M.Roach].,pass,0.0,0.0
+2026_06_SEA_DEN,6,2026-10-15,Thursday,SEA,DEN,"(8:29) (Shotgun) PENALTY on SEA, Delay of Game, 5 yards, enforced at DEN 45 - No Play.",no_play,0.0,0.0
+2026_06_SEA_DEN,6,2026-10-15,Thursday,SEA,DEN,(8:29) (Shotgun) 14-S.Darnold pass short middle to 88-A.Barner to DEN 39 for 11 yards (30-T.Rapp; 49-A.Singleton).,pass,11.0,0.0
+2026_06_SEA_DEN,6,2026-10-15,Thursday,SEA,DEN,(7:50) (Shotgun) 14-S.Darnold pass short left to 11-J.Smith-Njigba to DEN 32 for 7 yards (23-J.Barron).,pass,7.0,0.0
+2026_06_SEA_DEN,6,2026-10-15,Thursday,SEA,DEN,"(7:16) (Shotgun) 14-S.Darnold pass short right intended for 15-T.Horton INTERCEPTED by 22-B.Jones (31-K.Abrams-Draine) at DEN 19. 22-B.Jones pushed ob at DEN 27 for 8 yards (10-C.Kupp). The Replay Official reviewed the interception ruling, and the play was REVERSED. (Shotgun) 14-S.Darnold pass incomplete short right to 15-T.Horton (31-K.Abrams-Draine).",pass,0.0,0.0
+2026_06_SEA_DEN,6,2026-10-15,Thursday,SEA,DEN,(7:11) (Shotgun) 14-S.Darnold pass incomplete deep left to 11-J.Smith-Njigba [96-E.Uwazurike].,pass,0.0,0.0
+2026_06_SEA_DEN,6,2026-10-15,Thursday,SEA,DEN,(7:06) (Shotgun) 14-S.Darnold scrambles left end pushed ob at DEN 14 for 18 yards (23-J.Barron).,run,18.0,0.0
+2026_06_SEA_DEN,6,2026-10-15,Thursday,SEA,DEN,(6:27) (Shotgun) 14-S.Darnold pass incomplete short left to 88-A.Barner (99-Z.Allen) [97-M.Roach].,pass,0.0,0.0
+2026_06_SEA_DEN,6,2026-10-15,Thursday,SEA,DEN,(6:23) 36-G.Holani left guard to DEN 1 for 13 yards (30-T.Rapp; 22-B.Jones).,run,13.0,0.0
+2026_06_SEA_DEN,6,2026-10-15,Thursday,SEA,DEN,"(5:47) (No Huddle) 36-G.Holani right end for 1 yard, TOUCHDOWN.",run,1.0,1.0
+2026_06_SEA_DEN,6,2026-10-15,Thursday,SEA,DEN,TWO-POINT CONVERSION ATTEMPT. 14-S.Darnold pass to 22-R.Shaheed is complete. ATTEMPT SUCCEEDS.,pass,2.0,0.0
+2026_06_SEA_DEN,6,2026-10-15,Thursday,DEN,SEA,5-J.Myers kicks 61 yards from SEA 35 to DEN 4. 19-M.Mims to DEN 28 for 24 yards (38-B.Russell; 48-T.Knight).,kickoff,0.0,0.0
+2026_06_SEA_DEN,6,2026-10-15,Thursday,DEN,SEA,(5:35) (Shotgun) 10-B.Nix sacked ob at DEN 25 for -3 yards (13-E.Jones).,pass,-3.0,0.0
+2026_06_SEA_DEN,6,2026-10-15,Thursday,DEN,SEA,(4:58) (Shotgun) 27-J.Dobbins right guard to DEN 28 for 3 yards (99-L.Williams).,run,3.0,0.0
+2026_06_SEA_DEN,6,2026-10-15,Thursday,DEN,SEA,(4:15) (Shotgun) 10-B.Nix sacked at DEN 18 for -10 yards (3-N.Emmanwori).,pass,-10.0,0.0
+2026_06_SEA_DEN,6,2026-10-15,Thursday,DEN,SEA,"(3:31) 16-J.Crawshaw punts 56 yards to SEA 26, Center-48-M.Fraboni, out of bounds.",punt,0.0,0.0
+2026_06_SEA_DEN,6,2026-10-15,Thursday,SEA,DEN,"(3:24) (Shotgun) 36-G.Holani up the middle to SEA 33 for 7 yards (40-J.Strnad; 23-J.Barron). PENALTY on SEA-76-G.Zabel, Offensive Holding, 10 yards, enforced at SEA 26 - No Play.",no_play,0.0,0.0
+2026_06_SEA_DEN,6,2026-10-15,Thursday,SEA,DEN,(3:19) (Shotgun) 36-G.Holani up the middle to SEA 20 for 4 yards (49-A.Singleton; 99-Z.Allen).,run,4.0,0.0
+2026_06_SEA_DEN,6,2026-10-15,Thursday,SEA,DEN,(2:42) (Shotgun) 14-S.Darnold pass deep middle to 11-J.Smith-Njigba to DEN 48 for 32 yards (22-B.Jones).,pass,32.0,0.0
+2026_06_SEA_DEN,6,2026-10-15,Thursday,SEA,DEN,"(2:05) (No Huddle, Shotgun) 14-S.Darnold scrambles right end to DEN 47 for 1 yard (29-J.McMillian).",run,1.0,0.0
+2026_06_SEA_DEN,6,2026-10-15,Thursday,SEA,DEN,(1:59) (Shotgun) 14-S.Darnold pass short left to 11-J.Smith-Njigba to DEN 39 for 8 yards (30-T.Rapp).,pass,8.0,0.0
+2026_06_SEA_DEN,6,2026-10-15,Thursday,SEA,DEN,(1:31) (No Huddle) 14-S.Darnold pass short left intended for 15-T.Horton INTERCEPTED by 31-K.Abrams-Draine at DEN 31. 31-K.Abrams-Draine to DEN 31 for no gain (15-T.Horton).,pass,0.0,0.0
+2026_06_SEA_DEN,6,2026-10-15,Thursday,DEN,SEA,(1:25) (Shotgun) 27-J.Dobbins left end to DEN 33 for 2 yards (20-J.Love).,run,2.0,0.0
+2026_06_SEA_DEN,6,2026-10-15,Thursday,,,Timeout #1 by SEA at 01:21.,no_play,0.0,0.0
+2026_06_SEA_DEN,6,2026-10-15,Thursday,DEN,SEA,(1:21) 27-J.Dobbins up the middle to DEN 33 for no gain (13-E.Jones).,run,0.0,0.0
+2026_06_SEA_DEN,6,2026-10-15,Thursday,,,Timeout #2 by SEA at 01:16.,no_play,0.0,0.0
+2026_06_SEA_DEN,6,2026-10-15,Thursday,DEN,SEA,(1:16) (Shotgun) 10-B.Nix pass incomplete short right to 12-R.Harvey (7-U.Nwosu).,pass,0.0,0.0
+2026_06_SEA_DEN,6,2026-10-15,Thursday,DEN,SEA,"(1:10) 16-J.Crawshaw punts 52 yards to SEA 15, Center-48-M.Fraboni. 22-R.Shaheed pushed ob at SEA 46 for 31 yards (16-J.Crawshaw).",punt,0.0,0.0
+2026_06_SEA_DEN,6,2026-10-15,Thursday,SEA,DEN,(:57) (Shotgun) 14-S.Darnold pass incomplete short left to 10-C.Kupp.,pass,0.0,0.0
+2026_06_SEA_DEN,6,2026-10-15,Thursday,SEA,DEN,(:52) (Shotgun) 14-S.Darnold pass short left to 88-A.Barner to 50 for 4 yards (26-D.Key) [49-A.Singleton].,pass,4.0,0.0
+2026_06_SEA_DEN,6,2026-10-15,Thursday,,,Timeout #3 by SEA at 00:41.,no_play,0.0,0.0
+2026_06_SEA_DEN,6,2026-10-15,Thursday,SEA,DEN,(:41) (Shotgun) 14-S.Darnold pass short right to 22-R.Shaheed to DEN 40 for 10 yards (31-K.Abrams-Draine).,pass,10.0,0.0
+2026_06_SEA_DEN,6,2026-10-15,Thursday,SEA,DEN,(:26) (No Huddle) 14-S.Darnold spiked the ball to stop the clock.,qb_spike,0.0,0.0
+2026_06_SEA_DEN,6,2026-10-15,Thursday,SEA,DEN,(:25) (Shotgun) 14-S.Darnold pass short middle to 10-C.Kupp to DEN 23 for 17 yards (29-J.McMillian).,pass,17.0,0.0
+2026_06_SEA_DEN,6,2026-10-15,Thursday,SEA,DEN,(:11) (No Huddle) 14-S.Darnold spiked the ball to stop the clock.,qb_spike,0.0,0.0
+2026_06_SEA_DEN,6,2026-10-15,Thursday,SEA,DEN,(:10) (Shotgun) 14-S.Darnold pass short right to 11-J.Smith-Njigba ran ob at DEN 16 for 7 yards.,pass,7.0,0.0
+2026_06_SEA_DEN,6,2026-10-15,Thursday,SEA,DEN,"(:07) 5-J.Myers 34 yard field goal is GOOD, Center-41-C.Stoll, Holder-4-M.Dickson.",field_goal,0.0,0.0
+2026_06_SEA_DEN,6,2026-10-15,Thursday,DEN,SEA,"5-J.Myers kicks 65 yards from SEA 35 to end zone, Touchback to the DEN 35.",kickoff,0.0,0.0
+2026_06_SEA_DEN,6,2026-10-15,Thursday,DEN,SEA,(:03) 10-B.Nix kneels to DEN 34 for -1 yards.,qb_kneel,-1.0,0.0
+2026_06_SEA_DEN,6,2026-10-15,Thursday,,,END QUARTER 4,,,
+2026_06_SEA_DEN,6,2026-10-15,Thursday,SEA,DEN,"3-W.Lutz kicks 57 yards from DEN 35 to SEA 8. 22-R.Shaheed MUFFS catch, and recovers at SEA 12. 22-R.Shaheed to SEA 23 for 11 yards (26-D.Key). PENALTY on SEA-48-T.Knight, Offensive Holding, 10 yards, enforced at SEA 23.",kickoff,0.0,0.0
+2026_06_SEA_DEN,6,2026-10-15,Thursday,SEA,DEN,(9:55) 23-E.Wilson right tackle to SEA 18 for 5 yards (93-D.Jones; 49-A.Singleton).,run,5.0,0.0
+2026_06_SEA_DEN,6,2026-10-15,Thursday,SEA,DEN,(9:17) (Shotgun) 23-E.Wilson up the middle to SEA 20 for 2 yards (40-J.Strnad).,run,2.0,0.0
+2026_06_SEA_DEN,6,2026-10-15,Thursday,SEA,DEN,(8:34) (Shotgun) 14-S.Darnold pass short right to 11-J.Smith-Njigba to SEA 25 for 5 yards (23-J.Barron).,pass,5.0,0.0
+2026_06_SEA_DEN,6,2026-10-15,Thursday,SEA,DEN,(7:58) (Shotgun) 36-G.Holani right guard to SEA 28 for 3 yards (40-J.Strnad; 23-J.Barron).,run,3.0,0.0
+2026_06_SEA_DEN,6,2026-10-15,Thursday,SEA,DEN,(7:20) (Shotgun) 14-S.Darnold pass incomplete short middle to 10-C.Kupp (95-S.Jones).,pass,0.0,0.0
+2026_06_SEA_DEN,6,2026-10-15,Thursday,SEA,DEN,(7:17) (Shotgun) 14-S.Darnold pass short left intended for 22-R.Shaheed INTERCEPTED by 29-J.McMillian at SEA 43. 29-J.McMillian ran ob at SEA 43 for no gain.,pass,0.0,0.0
+2026_06_SEA_DEN,6,2026-10-15,Thursday,DEN,SEA,(7:11) (Shotgun) 12-R.Harvey left end to SEA 38 for 5 yards (3-N.Emmanwori; 21-D.Witherspoon).,run,5.0,0.0
+2026_06_SEA_DEN,6,2026-10-15,Thursday,DEN,SEA,(6:26) (Shotgun) 10-B.Nix scrambles up the middle to SEA 35 for 3 yards (13-E.Jones).,run,3.0,0.0
+2026_06_SEA_DEN,6,2026-10-15,Thursday,DEN,SEA,(5:40) (Shotgun) 10-B.Nix right end to SEA 35 for no gain (48-T.Knight).,run,0.0,0.0
+2026_06_SEA_DEN,6,2026-10-15,Thursday,DEN,SEA,"(4:57) 3-W.Lutz 53 yard field goal is GOOD, Center-48-M.Fraboni, Holder-16-J.Crawshaw. Penalty on SEA-13-E.Jones, Leverage, declined.",field_goal,0.0,0.0
+2026_06_SEA_DEN,6,2026-10-15,Thursday,DEN,SEA,END GAME,,,
