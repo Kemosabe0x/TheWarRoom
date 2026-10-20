@@ -16211,3 +16211,171 @@ game_id,week,game_date,day_of_week,posteam,defteam,desc,play_type,yards_gained,t
 2026_06_TEN_IND,6,2026-10-18,Sunday,IND,TEN,(:13) (Shotgun) 17-D.Jones pass incomplete deep right.,pass,0.0,0.0
 2026_06_TEN_IND,6,2026-10-18,Sunday,IND,TEN,(:04) (Shotgun) 17-D.Jones pass incomplete deep right (26-M.Harris).,pass,0.0,0.0
 2026_06_TEN_IND,6,2026-10-18,Sunday,IND,TEN,END GAME,,,
+2026_06_WAS_SF,6,2026-10-19,Monday,,,GAME,,,
+2026_06_WAS_SF,6,2026-10-19,Monday,SF,WAS,19-D.Stevens kicks 61 yards from WAS 35 to SF 4. 29-J.James to SF 36 for 32 yards (80-C.Yankoff).,kickoff,0.0,0.0
+2026_06_WAS_SF,6,2026-10-19,Monday,SF,WAS,(14:55) 13-B.Purdy pass short left to 23-C.McCaffrey to SF 42 for 6 yards (2-A.Robertson).,pass,6.0,0.0
+2026_06_WAS_SF,6,2026-10-19,Monday,SF,WAS,"(14:33) (No Huddle, Shotgun) 13-B.Purdy pass incomplete deep middle to 44-K.Juszczyk.",pass,0.0,0.0
+2026_06_WAS_SF,6,2026-10-19,Monday,SF,WAS,(14:29) (Shotgun) 13-B.Purdy pass deep middle to 5-M.Evans to WAS 34 for 24 yards (2-A.Robertson).,pass,24.0,0.0
+2026_06_WAS_SF,6,2026-10-19,Monday,SF,WAS,"(13:58) (No Huddle, Shotgun) 13-B.Purdy pass short right to 23-C.McCaffrey to WAS 30 for 4 yards (52-S.Styles).",pass,4.0,0.0
+2026_06_WAS_SF,6,2026-10-19,Monday,SF,WAS,(13:22) (Shotgun) 23-C.McCaffrey left tackle to WAS 22 for 8 yards (0-M.Sainristil).,run,8.0,0.0
+2026_06_WAS_SF,6,2026-10-19,Monday,SF,WAS,"(12:57) (No Huddle, Shotgun) 23-C.McCaffrey up the middle to WAS 19 for 3 yards (99-J.Kinlaw).",run,3.0,0.0
+2026_06_WAS_SF,6,2026-10-19,Monday,SF,WAS,(12:19) (Shotgun) 13-B.Purdy pass short middle to 23-C.McCaffrey to WAS 13 for 6 yards (52-S.Styles).,pass,6.0,0.0
+2026_06_WAS_SF,6,2026-10-19,Monday,SF,WAS,(11:40) 26-K.Black up the middle to WAS 11 for 2 yards (39-J.Reaves).,run,2.0,0.0
+2026_06_WAS_SF,6,2026-10-19,Monday,SF,WAS,"(10:58) (Shotgun) 13-B.Purdy pass short left to 85-G.Kittle for 11 yards, TOUCHDOWN.",pass,11.0,1.0
+2026_06_WAS_SF,6,2026-10-19,Monday,SF,WAS,"18-E.Pineiro extra point is GOOD, Center-46-J.Weeks, Holder-15-C.Waitman.",extra_point,0.0,0.0
+2026_06_WAS_SF,6,2026-10-19,Monday,WAS,SF,"18-E.Pineiro kicks 65 yards from SF 35 to end zone, Touchback to the WAS 35.",kickoff,0.0,0.0
+2026_06_WAS_SF,6,2026-10-19,Monday,WAS,SF,(10:53) (Shotgun) 5-J.Daniels pass deep right to 17-T.McLaurin ran ob at SF 38 for 27 yards (27-J.Brown).,pass,27.0,0.0
+2026_06_WAS_SF,6,2026-10-19,Monday,WAS,SF,(10:19) 1-R.White up the middle to SF 36 for 2 yards (53-J.Dugger; 92-O.Odighizuwa).,run,2.0,0.0
+2026_06_WAS_SF,6,2026-10-19,Monday,WAS,SF,(9:40) (Shotgun) 5-J.Daniels scrambles right tackle to SF 33 for 3 yards (51-L.Gifford; 56-K.White).,run,3.0,0.0
+2026_06_WAS_SF,6,2026-10-19,Monday,WAS,SF,(8:57) (Shotgun) 5-J.Daniels pass incomplete short left to 3-S.Diggs.,pass,0.0,0.0
+2026_06_WAS_SF,6,2026-10-19,Monday,WAS,SF,"(8:53) 19-D.Stevens 51 yard field goal is GOOD, Center-69-T.Ott, Holder-10-T.Way.",field_goal,0.0,0.0
+2026_06_WAS_SF,6,2026-10-19,Monday,SF,WAS,19-D.Stevens kicks 61 yards from WAS 35 to SF 4. 4-J.Cowing to SF 28 for 24 yards (56-K.Medrano).,kickoff,0.0,0.0
+2026_06_WAS_SF,6,2026-10-19,Monday,SF,WAS,(8:43) (Shotgun) 13-B.Purdy pass deep right to 5-M.Evans pushed ob at WAS 18 for 54 yards (25-N.Cross).,pass,54.0,0.0
+2026_06_WAS_SF,6,2026-10-19,Monday,SF,WAS,(8:06) 23-C.McCaffrey left guard to WAS 15 for 3 yards (4-F.Luvu; 94-D.Payne).,run,3.0,0.0
+2026_06_WAS_SF,6,2026-10-19,Monday,SF,WAS,(7:29) 13-B.Purdy pass short right to 23-C.McCaffrey to WAS 18 for -3 yards (56-K.Medrano).,pass,-3.0,0.0
+2026_06_WAS_SF,6,2026-10-19,Monday,SF,WAS,"(6:46) (Shotgun) PENALTY on SF-75-C.Colby, False Start, 5 yards, enforced at WAS 18 - No Play.",no_play,0.0,0.0
+2026_06_WAS_SF,6,2026-10-19,Monday,SF,WAS,(6:30) (Shotgun) 13-B.Purdy pass short right to 85-G.Kittle to WAS 11 for 12 yards (52-S.Styles).,pass,12.0,0.0
+2026_06_WAS_SF,6,2026-10-19,Monday,,,Timeout #1 by SF at 05:42.,no_play,0.0,0.0
+2026_06_WAS_SF,6,2026-10-19,Monday,SF,WAS,(5:42) (Shotgun) 13-B.Purdy scrambles left tackle to WAS 4 for 7 yards (56-K.Medrano; 39-J.Reaves).,run,7.0,0.0
+2026_06_WAS_SF,6,2026-10-19,Monday,SF,WAS,(4:55) 13-B.Purdy pass incomplete short left to 85-G.Kittle.,pass,0.0,0.0
+2026_06_WAS_SF,6,2026-10-19,Monday,SF,WAS,(4:50) 23-C.McCaffrey up the middle to WAS 1 for 3 yards (99-J.Kinlaw).,run,3.0,0.0
+2026_06_WAS_SF,6,2026-10-19,Monday,SF,WAS,"(4:11) 23-C.McCaffrey left guard for 1 yard, TOUCHDOWN.",run,1.0,1.0
+2026_06_WAS_SF,6,2026-10-19,Monday,SF,WAS,"18-E.Pineiro extra point is No Good, Wide Right, Center-46-J.Weeks, Holder-15-C.Waitman.",extra_point,0.0,0.0
+2026_06_WAS_SF,6,2026-10-19,Monday,WAS,SF,"18-E.Pineiro kicks 62 yards from SF 35 to WAS 3. 11-L.McCaffrey to WAS 28 for 25 yards (33-S.Neal). PENALTY on SF-89-L.Farrell, Face Mask, 15 yards, enforced at WAS 28.",kickoff,0.0,0.0
+2026_06_WAS_SF,6,2026-10-19,Monday,WAS,SF,(4:03) (Shotgun) 30-A.Ekeler right end to WAS 46 for 3 yards (27-J.Brown).,run,3.0,0.0
+2026_06_WAS_SF,6,2026-10-19,Monday,WAS,SF,"(3:27) (No Huddle, Shotgun) 5-J.Daniels scrambles right end ran ob at SF 49 for 5 yards (54-F.Warner). PENALTY on WAS-72-J.Conerly, Offensive Holding, 10 yards, enforced at WAS 46 - No Play.",no_play,0.0,0.0
+2026_06_WAS_SF,6,2026-10-19,Monday,WAS,SF,(2:59) (Shotgun) 5-J.Daniels pass short left to 3-S.Diggs to WAS 44 for 8 yards (20-U.Stout) [55-S.Valdez].,pass,8.0,0.0
+2026_06_WAS_SF,6,2026-10-19,Monday,WAS,SF,(2:16) (Shotgun) 5-J.Daniels sacked at WAS 38 for -6 yards (92-O.Odighizuwa). WAS-17-T.McLaurin was injured during the play.,pass,-6.0,0.0
+2026_06_WAS_SF,6,2026-10-19,Monday,WAS,SF,"(1:39) 10-T.Way punts 56 yards to SF 6, Center-69-T.Ott. 4-J.Cowing MUFFS catch, and recovers at SF 2. 4-J.Cowing to SF 4 for 2 yards (18-T.Owens).",punt,0.0,0.0
+2026_06_WAS_SF,6,2026-10-19,Monday,SF,WAS,(1:29) 13-B.Purdy pass incomplete deep left to 5-M.Evans.,pass,0.0,0.0
+2026_06_WAS_SF,6,2026-10-19,Monday,SF,WAS,(1:24) (Shotgun) 13-B.Purdy pass short left to 85-G.Kittle to SF 11 for 7 yards (52-S.Styles).,pass,7.0,0.0
+2026_06_WAS_SF,6,2026-10-19,Monday,SF,WAS,(:51) (Shotgun) 13-B.Purdy pass incomplete deep middle to 5-M.Evans (52-S.Styles).,pass,0.0,0.0
+2026_06_WAS_SF,6,2026-10-19,Monday,SF,WAS,"(:45) 15-C.Waitman punts 48 yards to WAS 41, Center-46-J.Weeks, fair catch by 11-L.McCaffrey.",punt,0.0,0.0
+2026_06_WAS_SF,6,2026-10-19,Monday,WAS,SF,(:37) (Shotgun) 5-J.Daniels pass short middle to 3-S.Diggs to 50 for 9 yards (6-M.Mustapha).,pass,9.0,0.0
+2026_06_WAS_SF,6,2026-10-19,Monday,WAS,SF,END QUARTER 1,,,
+2026_06_WAS_SF,6,2026-10-19,Monday,WAS,SF,(15:00) (Shotgun) 5-J.Daniels pass deep right to 85-C.Okonkwo ran ob at SF 21 for 29 yards (6-M.Mustapha).,pass,29.0,0.0
+2026_06_WAS_SF,6,2026-10-19,Monday,WAS,SF,(14:25) (Shotgun) 5-J.Daniels pass incomplete short left to 1-R.White.,pass,0.0,0.0
+2026_06_WAS_SF,6,2026-10-19,Monday,WAS,SF,(14:22) (Shotgun) 5-J.Daniels pass short right to 87-J.Bates ran ob at SF 17 for 4 yards (27-J.Brown).,pass,4.0,0.0
+2026_06_WAS_SF,6,2026-10-19,Monday,WAS,SF,(13:43) (Shotgun) 5-J.Daniels scrambles up the middle to SF 13 for 4 yards (98-M.Williams).,run,4.0,0.0
+2026_06_WAS_SF,6,2026-10-19,Monday,WAS,SF,"(13:08) (Shotgun) 5-J.Daniels pass incomplete short right. Penalty on WAS-1-R.White, Illegal Shift, declined.",pass,0.0,0.0
+2026_06_WAS_SF,6,2026-10-19,Monday,SF,WAS,(13:02) (Shotgun) 26-K.Black up the middle to SF 18 for 5 yards (52-S.Styles).,run,5.0,0.0
+2026_06_WAS_SF,6,2026-10-19,Monday,SF,WAS,(12:29) (Shotgun) 13-B.Purdy pass short left to 26-K.Black to SF 21 for 3 yards (92-D.Armstrong).,pass,3.0,0.0
+2026_06_WAS_SF,6,2026-10-19,Monday,SF,WAS,(11:49) (Shotgun) 13-B.Purdy pass deep left to 17-J.Watkins to SF 43 for 22 yards (23-T.Amos) [94-D.Payne].,pass,22.0,0.0
+2026_06_WAS_SF,6,2026-10-19,Monday,SF,WAS,(11:04) 13-B.Purdy pass short left to 84-B.Cooks to WAS 44 for 13 yards (20-Q.Martin; 29-R.Douglas).,pass,13.0,0.0
+2026_06_WAS_SF,6,2026-10-19,Monday,SF,WAS,(10:28) (Shotgun) 23-C.McCaffrey up the middle to WAS 38 for 6 yards (39-J.Reaves; 4-F.Luvu).,run,6.0,0.0
+2026_06_WAS_SF,6,2026-10-19,Monday,SF,WAS,(9:50) 23-C.McCaffrey left tackle to WAS 33 for 5 yards (52-S.Styles; 45-K.Chaisson).,run,5.0,0.0
+2026_06_WAS_SF,6,2026-10-19,Monday,SF,WAS,"(9:11) 13-B.Purdy pass short right to 23-C.McCaffrey to WAS 21 for 12 yards (45-K.Chaisson; 52-S.Styles). FUMBLES (45-K.Chaisson), RECOVERED by WAS-4-F.Luvu at WAS 19.",pass,12.0,0.0
+2026_06_WAS_SF,6,2026-10-19,Monday,WAS,SF,"(9:01) 1-R.White right end to WAS 21 for 2 yards (54-F.Warner; 20-U.Stout). PENALTY on WAS-63-L.Patrick, Offensive Holding, 9 yards, enforced at WAS 19 - No Play.",no_play,0.0,0.0
+2026_06_WAS_SF,6,2026-10-19,Monday,WAS,SF,(8:42) (Shotgun) 5-J.Daniels sacked at WAS 7 for -3 yards (93-G.Halton).,pass,-3.0,0.0
+2026_06_WAS_SF,6,2026-10-19,Monday,WAS,SF,(7:57) (Shotgun) 5-J.Daniels pass short left to 85-C.Okonkwo pushed ob at WAS 13 for 6 yards (53-J.Dugger).,pass,6.0,0.0
+2026_06_WAS_SF,6,2026-10-19,Monday,WAS,SF,(7:21) (Shotgun) 5-J.Daniels pass short left to 1-R.White to WAS 18 for 5 yards (54-F.Warner; 92-O.Odighizuwa) [94-R.Height].,pass,5.0,0.0
+2026_06_WAS_SF,6,2026-10-19,Monday,WAS,SF,"(6:34) 10-T.Way punts 51 yards to SF 31, Center-69-T.Ott, fair catch by 4-J.Cowing.",punt,0.0,0.0
+2026_06_WAS_SF,6,2026-10-19,Monday,SF,WAS,(6:26) 13-B.Purdy pass short left to 23-C.McCaffrey to SF 44 for 13 yards (2-A.Robertson).,pass,13.0,0.0
+2026_06_WAS_SF,6,2026-10-19,Monday,SF,WAS,(5:42) 23-C.McCaffrey right tackle to WAS 47 for 9 yards (39-J.Reaves). The ball spot was assisted by replay.,run,9.0,0.0
+2026_06_WAS_SF,6,2026-10-19,Monday,SF,WAS,(5:02) 26-K.Black up the middle to WAS 43 for 4 yards (52-S.Styles).,run,4.0,0.0
+2026_06_WAS_SF,6,2026-10-19,Monday,SF,WAS,(4:28) (No Huddle) 13-B.Purdy pass short left to 44-K.Juszczyk to WAS 33 for 10 yards (2-A.Robertson; 52-S.Styles).,pass,10.0,0.0
+2026_06_WAS_SF,6,2026-10-19,Monday,SF,WAS,(3:59) (No Huddle) 26-K.Black right guard to WAS 27 for 6 yards (91-D.Wise).,run,6.0,0.0
+2026_06_WAS_SF,6,2026-10-19,Monday,SF,WAS,(3:21) 26-K.Black left guard to WAS 24 for 3 yards (98-O.Oweh; 52-S.Styles).,run,3.0,0.0
+2026_06_WAS_SF,6,2026-10-19,Monday,SF,WAS,"(2:35) 23-C.McCaffrey up the middle to WAS 7 for 17 yards (39-J.Reaves). PENALTY on SF-89-L.Farrell, Offensive Holding, 10 yards, enforced at WAS 24 - No Play.",no_play,0.0,0.0
+2026_06_WAS_SF,6,2026-10-19,Monday,SF,WAS,(2:12) (Shotgun) 13-B.Purdy scrambles up the middle to WAS 23 for 11 yards (23-T.Amos).,run,11.0,0.0
+2026_06_WAS_SF,6,2026-10-19,Monday,SF,WAS,(2:00) 23-C.McCaffrey up the middle to WAS 18 for 5 yards (98-O.Oweh).,run,5.0,0.0
+2026_06_WAS_SF,6,2026-10-19,Monday,SF,WAS,"(1:18) 13-B.Purdy pass short left to 23-C.McCaffrey to WAS 20 for -2 yards (52-S.Styles). PENALTY on SF-71-T.Williams, Offensive Holding, 10 yards, enforced at WAS 18 - No Play.",no_play,0.0,0.0
+2026_06_WAS_SF,6,2026-10-19,Monday,SF,WAS,(1:10) (Shotgun) 13-B.Purdy pass short middle to 5-M.Evans to WAS 12 for 16 yards (39-J.Reaves). SF-5-M.Evans was injured during the play.,pass,16.0,0.0
+2026_06_WAS_SF,6,2026-10-19,Monday,,,Timeout #2 by SF at 01:03.,no_play,0.0,0.0
+2026_06_WAS_SF,6,2026-10-19,Monday,SF,WAS,(1:03) (Shotgun) 26-K.Black up the middle to WAS 7 for 5 yards (52-S.Styles; 96-S.Tuttle).,run,5.0,0.0
+2026_06_WAS_SF,6,2026-10-19,Monday,,,Timeout #1 by WAS at 00:58.,no_play,0.0,0.0
+2026_06_WAS_SF,6,2026-10-19,Monday,SF,WAS,(:58) (Shotgun) 13-B.Purdy pass incomplete short left to 85-G.Kittle (29-R.Douglas).,pass,0.0,0.0
+2026_06_WAS_SF,6,2026-10-19,Monday,SF,WAS,(:54) (Shotgun) 13-B.Purdy pass short middle to 85-G.Kittle to WAS 3 for 4 yards (52-S.Styles).,pass,4.0,0.0
+2026_06_WAS_SF,6,2026-10-19,Monday,,,Timeout #2 by WAS at 00:49.,no_play,0.0,0.0
+2026_06_WAS_SF,6,2026-10-19,Monday,SF,WAS,(:49) 13-B.Purdy up the middle to WAS 1 for 2 yards (96-S.Tuttle).,run,2.0,0.0
+2026_06_WAS_SF,6,2026-10-19,Monday,SF,WAS,"(:18) 23-C.McCaffrey left guard for 1 yard, TOUCHDOWN. WAS-99-J.Kinlaw was injured during the play.",run,1.0,1.0
+2026_06_WAS_SF,6,2026-10-19,Monday,SF,WAS,"18-E.Pineiro extra point is GOOD, Center-46-J.Weeks, Holder-15-C.Waitman.",extra_point,0.0,0.0
+2026_06_WAS_SF,6,2026-10-19,Monday,WAS,SF,18-E.Pineiro kicks 62 yards from SF 35 to WAS 3. 11-L.McCaffrey to WAS 23 for 20 yards (41-J.Graham; 24-A.Davis).,kickoff,0.0,0.0
+2026_06_WAS_SF,6,2026-10-19,Monday,WAS,SF,(:06) 5-J.Daniels kneels to WAS 22 for -1 yards.,qb_kneel,-1.0,0.0
+2026_06_WAS_SF,6,2026-10-19,Monday,,,END QUARTER 2,,,
+2026_06_WAS_SF,6,2026-10-19,Monday,WAS,SF,18-E.Pineiro kicks 61 yards from SF 35 to WAS 4. 11-L.McCaffrey to WAS 31 for 27 yards (27-J.Brown; 47-K.Kareem).,kickoff,0.0,0.0
+2026_06_WAS_SF,6,2026-10-19,Monday,WAS,SF,(14:54) (Shotgun) 5-J.Daniels pass deep left to 13-T.Burks ran ob at WAS 49 for 18 yards.,pass,18.0,0.0
+2026_06_WAS_SF,6,2026-10-19,Monday,WAS,SF,(14:21) (Shotgun) 1-R.White right guard to SF 45 for 6 yards (53-J.Dugger; 94-R.Height).,run,6.0,0.0
+2026_06_WAS_SF,6,2026-10-19,Monday,WAS,SF,"(13:41) (Shotgun) 5-J.Daniels pass incomplete short left to 82-B.Sinnott. PENALTY on WAS-74-B.Coleman, Offensive Holding, 10 yards, enforced at SF 45 - No Play.",no_play,0.0,0.0
+2026_06_WAS_SF,6,2026-10-19,Monday,WAS,SF,"(13:35) (Shotgun) PENALTY on WAS-72-J.Conerly, False Start, 5 yards, enforced at WAS 45 - No Play.",no_play,0.0,0.0
+2026_06_WAS_SF,6,2026-10-19,Monday,WAS,SF,(13:35) (Shotgun) 5-J.Daniels pass short left to 13-T.Burks to SF 49 for 11 yards (2-D.Lenoir).,pass,11.0,0.0
+2026_06_WAS_SF,6,2026-10-19,Monday,WAS,SF,(12:55) (Shotgun) 5-J.Daniels sacked at WAS 39 for -12 yards (98-M.Williams).,pass,-12.0,0.0
+2026_06_WAS_SF,6,2026-10-19,Monday,WAS,SF,"(12:09) 10-T.Way punts 45 yards to SF 16, Center-69-T.Ott, fair catch by 4-J.Cowing. PENALTY on WAS-18-T.Owens, Player Out of Bounds on Kick, 5 yards, enforced at SF 16.",punt,0.0,0.0
+2026_06_WAS_SF,6,2026-10-19,Monday,SF,WAS,(12:01) 23-C.McCaffrey left end pushed ob at SF 27 for 6 yards (4-F.Luvu).,run,6.0,0.0
+2026_06_WAS_SF,6,2026-10-19,Monday,SF,WAS,(11:26) (Shotgun) 23-C.McCaffrey right tackle to SF 28 for 1 yard (45-K.Chaisson).,run,1.0,0.0
+2026_06_WAS_SF,6,2026-10-19,Monday,SF,WAS,(10:47) (Shotgun) 23-C.McCaffrey up the middle to SF 33 for 5 yards (94-D.Payne; 4-F.Luvu).,run,5.0,0.0
+2026_06_WAS_SF,6,2026-10-19,Monday,SF,WAS,(10:03) 13-B.Purdy pass deep right to 85-G.Kittle to WAS 32 for 35 yards (20-Q.Martin; 29-R.Douglas).,pass,35.0,0.0
+2026_06_WAS_SF,6,2026-10-19,Monday,SF,WAS,(9:19) 26-K.Black left end to WAS 23 for 9 yards (2-A.Robertson; 4-F.Luvu).,run,9.0,0.0
+2026_06_WAS_SF,6,2026-10-19,Monday,SF,WAS,(8:42) 26-K.Black up the middle to WAS 23 for no gain (4-F.Luvu).,run,0.0,0.0
+2026_06_WAS_SF,6,2026-10-19,Monday,SF,WAS,(8:01) 13-B.Purdy up the middle to WAS 21 for 2 yards (25-N.Cross).,run,2.0,0.0
+2026_06_WAS_SF,6,2026-10-19,Monday,SF,WAS,(7:26) (Shotgun) 13-B.Purdy pass short left to 23-C.McCaffrey to WAS 17 for 4 yards (29-R.Douglas).,pass,4.0,0.0
+2026_06_WAS_SF,6,2026-10-19,Monday,SF,WAS,(6:47) 23-C.McCaffrey right guard to WAS 14 for 3 yards (4-F.Luvu; 92-D.Armstrong).,run,3.0,0.0
+2026_06_WAS_SF,6,2026-10-19,Monday,SF,WAS,(6:04) (Shotgun) 13-B.Purdy pass incomplete short middle to 84-B.Cooks (4-F.Luvu).,pass,0.0,0.0
+2026_06_WAS_SF,6,2026-10-19,Monday,SF,WAS,"(6:01) 18-E.Pineiro 33 yard field goal is GOOD, Center-46-J.Weeks, Holder-15-C.Waitman.",field_goal,0.0,0.0
+2026_06_WAS_SF,6,2026-10-19,Monday,WAS,SF,"18-E.Pineiro kicks 65 yards from SF 35 to end zone, Touchback to the WAS 35.",kickoff,0.0,0.0
+2026_06_WAS_SF,6,2026-10-19,Monday,WAS,SF,(5:56) 1-R.White right guard to WAS 43 for 8 yards (54-F.Warner).,run,8.0,0.0
+2026_06_WAS_SF,6,2026-10-19,Monday,WAS,SF,(5:19) (Shotgun) 1-R.White right guard to WAS 48 for 5 yards (56-K.White).,run,5.0,0.0
+2026_06_WAS_SF,6,2026-10-19,Monday,WAS,SF,(4:45) (Shotgun) 5-J.Daniels pass short right to 85-C.Okonkwo pushed ob at SF 36 for 16 yards (53-J.Dugger).,pass,16.0,0.0
+2026_06_WAS_SF,6,2026-10-19,Monday,WAS,SF,"(4:10) (Shotgun) 1-R.White up the middle to SF 38 for -2 yards (55-S.Valdez, 53-J.Dugger).",run,-2.0,0.0
+2026_06_WAS_SF,6,2026-10-19,Monday,WAS,SF,(3:35) (Shotgun) 5-J.Daniels pass short right to 85-C.Okonkwo to SF 31 for 7 yards (53-J.Dugger).,pass,7.0,0.0
+2026_06_WAS_SF,6,2026-10-19,Monday,WAS,SF,(2:54) (Shotgun) 5-J.Daniels pass incomplete short middle to 13-T.Burks [94-R.Height].,pass,0.0,0.0
+2026_06_WAS_SF,6,2026-10-19,Monday,WAS,SF,(2:50) (Shotgun) 5-J.Daniels pass short right to 3-S.Diggs pushed ob at SF 18 for 13 yards (20-U.Stout).,pass,13.0,0.0
+2026_06_WAS_SF,6,2026-10-19,Monday,WAS,SF,"(2:16) 26-J.McNichols left guard to SF 12 for 6 yards (53-J.Dugger). PENALTY on SF-98-M.Williams, Defensive Offside, 5 yards, enforced at SF 18 - No Play.",no_play,0.0,0.0
+2026_06_WAS_SF,6,2026-10-19,Monday,WAS,SF,(2:01) (Shotgun) 5-J.Daniels pass short middle to 30-A.Ekeler pushed ob at SF 11 for 2 yards (53-J.Dugger).,pass,2.0,0.0
+2026_06_WAS_SF,6,2026-10-19,Monday,WAS,SF,"(1:29) (Shotgun) 26-J.McNichols right end to SF 7 for 4 yards (94-R.Height; 98-M.Williams). WAS-76-S.Cosmi was injured during the play. PENALTY on SF-93-G.Halton, Low Block, 4 yards, enforced at SF 7.",run,4.0,0.0
+2026_06_WAS_SF,6,2026-10-19,Monday,WAS,SF,(:59) (Shotgun) 26-J.McNichols up the middle to SF 1 for 2 yards (96-J.Thompson).,run,2.0,0.0
+2026_06_WAS_SF,6,2026-10-19,Monday,WAS,SF,"(:18) (Shotgun) 5-J.Daniels pass short left to 3-S.Diggs for 1 yard, TOUCHDOWN [6-M.Mustapha].",pass,1.0,1.0
+2026_06_WAS_SF,6,2026-10-19,Monday,WAS,SF,"19-D.Stevens extra point is GOOD, Center-69-T.Ott, Holder-10-T.Way.",extra_point,0.0,0.0
+2026_06_WAS_SF,6,2026-10-19,Monday,SF,WAS,"19-D.Stevens kicks 65 yards from WAS 35 to end zone, Touchback to the SF 35.",kickoff,0.0,0.0
+2026_06_WAS_SF,6,2026-10-19,Monday,SF,WAS,(:14) 13-B.Purdy sacked at SF 26 for -9 yards (96-S.Tuttle).,pass,-9.0,0.0
+2026_06_WAS_SF,6,2026-10-19,Monday,SF,WAS,END QUARTER 3,,,
+2026_06_WAS_SF,6,2026-10-19,Monday,SF,WAS,(15:00) (Shotgun) 13-B.Purdy pass short right to 23-C.McCaffrey to SF 34 for 8 yards (2-A.Robertson; 52-S.Styles).,pass,8.0,0.0
+2026_06_WAS_SF,6,2026-10-19,Monday,SF,WAS,(14:20) (Shotgun) 13-B.Purdy pass incomplete short left to 85-G.Kittle (39-J.Reaves).,pass,0.0,0.0
+2026_06_WAS_SF,6,2026-10-19,Monday,SF,WAS,"(14:14) 15-C.Waitman punts 46 yards to WAS 20, Center-46-J.Weeks. 11-L.McCaffrey MUFFS catch, RECOVERED by SF-41-J.Graham at WAS 20. The Replay Official reviewed the kick touched ruling, and the play was REVERSED. 15-C.Waitman punts 46 yards to WAS 20, Center-46-J.Weeks, downed by SF-41-J.Graham.",punt,0.0,0.0
+2026_06_WAS_SF,6,2026-10-19,Monday,WAS,SF,(14:05) (Shotgun) 5-J.Daniels pass short left to 85-C.Okonkwo to WAS 22 for 2 yards (54-F.Warner). ** Injury Update: WAS-76-S.Cosmi has returned to the game.,pass,2.0,0.0
+2026_06_WAS_SF,6,2026-10-19,Monday,WAS,SF,(13:39) (Shotgun) 5-J.Daniels pass short left to 3-S.Diggs to WAS 26 for 4 yards (53-J.Dugger).,pass,4.0,0.0
+2026_06_WAS_SF,6,2026-10-19,Monday,WAS,SF,"(13:00) (Shotgun) 5-J.Daniels pass incomplete short middle to 3-S.Diggs (98-M.Williams). PENALTY on SF-0-R.Green, Illegal Contact, 5 yards, enforced at WAS 26 - No Play.",no_play,0.0,0.0
+2026_06_WAS_SF,6,2026-10-19,Monday,WAS,SF,(12:55) (Shotgun) 5-J.Daniels pass short right to 6-D.Brown to WAS 37 for 6 yards (54-F.Warner).,pass,6.0,0.0
+2026_06_WAS_SF,6,2026-10-19,Monday,WAS,SF,"(12:28) (No Huddle, Shotgun) 5-J.Daniels pass short right to 85-C.Okonkwo to WAS 43 for 6 yards (53-J.Dugger).",pass,6.0,0.0
+2026_06_WAS_SF,6,2026-10-19,Monday,WAS,SF,(11:46) 1-R.White left tackle to WAS 48 for 5 yards (41-J.Graham).,run,5.0,0.0
+2026_06_WAS_SF,6,2026-10-19,Monday,WAS,SF,"(11:15) (No Huddle, Shotgun) 5-J.Daniels pass short left to 3-S.Diggs pushed ob at SF 43 for 9 yards (41-J.Graham).",pass,9.0,0.0
+2026_06_WAS_SF,6,2026-10-19,Monday,WAS,SF,(10:39) (Shotgun) 5-J.Daniels pass incomplete deep left to 11-L.McCaffrey.,pass,0.0,0.0
+2026_06_WAS_SF,6,2026-10-19,Monday,WAS,SF,(10:34) (Shotgun) 5-J.Daniels pass short right to 30-A.Ekeler to SF 41 for 2 yards (47-K.Kareem).,pass,2.0,0.0
+2026_06_WAS_SF,6,2026-10-19,Monday,WAS,SF,"(9:53) (Shotgun) 5-J.Daniels pass short left to 14-A.Williams pushed ob at SF 18 for 23 yards (6-M.Mustapha). PENALTY on SF-92-O.Odighizuwa, Roughing the Passer, 9 yards, enforced at SF 18.",pass,23.0,0.0
+2026_06_WAS_SF,6,2026-10-19,Monday,WAS,SF,"(9:26) (Shotgun) 5-J.Daniels pass short left to 1-R.White for 9 yards, TOUCHDOWN.",pass,9.0,1.0
+2026_06_WAS_SF,6,2026-10-19,Monday,WAS,SF,"19-D.Stevens extra point is GOOD, Center-69-T.Ott, Holder-10-T.Way.",extra_point,0.0,0.0
+2026_06_WAS_SF,6,2026-10-19,Monday,SF,WAS,19-D.Stevens kicks 61 yards from WAS 35 to SF 4. 29-J.James pushed ob at SF 30 for 26 yards (6-D.Brown; 20-Q.Martin).,kickoff,0.0,0.0
+2026_06_WAS_SF,6,2026-10-19,Monday,SF,WAS,(9:14) 13-B.Purdy scrambles left guard to SF 36 for 6 yards (45-K.Chaisson).,run,6.0,0.0
+2026_06_WAS_SF,6,2026-10-19,Monday,SF,WAS,(8:36) (Shotgun) 13-B.Purdy sacked at SF 30 for -6 yards (98-O.Oweh).,pass,-6.0,0.0
+2026_06_WAS_SF,6,2026-10-19,Monday,SF,WAS,(7:56) (Shotgun) 13-B.Purdy pass incomplete short middle to 23-C.McCaffrey.,pass,0.0,0.0
+2026_06_WAS_SF,6,2026-10-19,Monday,SF,WAS,"(7:53) 15-C.Waitman punts 48 yards to WAS 22, Center-46-J.Weeks, fair catch by 11-L.McCaffrey.",punt,0.0,0.0
+2026_06_WAS_SF,6,2026-10-19,Monday,WAS,SF,(7:46) 1-R.White right guard to WAS 25 for 3 yards (2-D.Lenoir).,run,3.0,0.0
+2026_06_WAS_SF,6,2026-10-19,Monday,WAS,SF,(7:08) (Shotgun) 5-J.Daniels pass short right to 85-C.Okonkwo to WAS 28 for 3 yards (54-F.Warner).,pass,3.0,0.0
+2026_06_WAS_SF,6,2026-10-19,Monday,WAS,SF,(6:25) (Shotgun) 5-J.Daniels pass short middle to 14-A.Williams to WAS 38 for 10 yards (53-J.Dugger).,pass,10.0,0.0
+2026_06_WAS_SF,6,2026-10-19,Monday,WAS,SF,(5:44) 26-J.McNichols up the middle to WAS 39 for 1 yard (54-F.Warner; 56-K.White).,run,1.0,0.0
+2026_06_WAS_SF,6,2026-10-19,Monday,WAS,SF,(5:03) (Shotgun) 5-J.Daniels pass deep left to 13-T.Burks to SF 31 for 30 yards (24-A.Davis).,pass,30.0,0.0
+2026_06_WAS_SF,6,2026-10-19,Monday,WAS,SF,"(4:19) (Shotgun) 26-J.McNichols left guard for 31 yards, TOUCHDOWN NULLIFIED by Penalty. PENALTY on WAS-75-C.Paul, Face Mask, 15 yards, enforced at SF 25.",run,6.0,0.0
+2026_06_WAS_SF,6,2026-10-19,Monday,WAS,SF,(4:11) (Shotgun) 5-J.Daniels scrambles up the middle to SF 36 for 4 yards (53-J.Dugger).,run,4.0,0.0
+2026_06_WAS_SF,6,2026-10-19,Monday,WAS,SF,"(3:43) (No Huddle, Shotgun) 5-J.Daniels pass short middle to 1-R.White to SF 29 for 7 yards (54-F.Warner).",pass,7.0,0.0
+2026_06_WAS_SF,6,2026-10-19,Monday,WAS,SF,(3:06) (Shotgun) 5-J.Daniels pass incomplete deep middle to 14-A.Williams.,pass,0.0,0.0
+2026_06_WAS_SF,6,2026-10-19,Monday,,,Timeout #1 by WAS at 03:01.,no_play,0.0,0.0
+2026_06_WAS_SF,6,2026-10-19,Monday,WAS,SF,"(3:01) (Shotgun) 5-J.Daniels sacked at SF 40 for -11 yards (sack split by 94-R.Height and 53-J.Dugger). PENALTY on SF-24-A.Davis, Illegal Contact, 5 yards, enforced at SF 29 - No Play.",no_play,0.0,0.0
+2026_06_WAS_SF,6,2026-10-19,Monday,WAS,SF,(2:56) (Shotgun) 5-J.Daniels pass short right to 13-T.Burks to SF 17 for 7 yards (2-D.Lenoir).,pass,7.0,0.0
+2026_06_WAS_SF,6,2026-10-19,Monday,WAS,SF,(2:26) (Shotgun) 5-J.Daniels pass incomplete deep right.,pass,0.0,0.0
+2026_06_WAS_SF,6,2026-10-19,Monday,WAS,SF,(2:19) (Shotgun) 26-J.McNichols left guard to SF 17 for no gain (6-M.Mustapha).,run,0.0,0.0
+2026_06_WAS_SF,6,2026-10-19,Monday,WAS,SF,(2:00) (Shotgun) 5-J.Daniels pass incomplete deep right to 13-T.Burks (6-M.Mustapha).,pass,0.0,0.0
+2026_06_WAS_SF,6,2026-10-19,Monday,SF,WAS,(1:54) 23-C.McCaffrey up the middle to SF 16 for -1 yards (94-D.Payne).,run,-1.0,0.0
+2026_06_WAS_SF,6,2026-10-19,Monday,,,Timeout #2 by WAS at 01:50.,no_play,0.0,0.0
+2026_06_WAS_SF,6,2026-10-19,Monday,SF,WAS,(1:50) (Shotgun) 13-B.Purdy pass short right to 23-C.McCaffrey to SF 19 for 3 yards (92-D.Armstrong; 4-F.Luvu).,pass,3.0,0.0
+2026_06_WAS_SF,6,2026-10-19,Monday,,,Timeout #3 by WAS at 01:46.,no_play,0.0,0.0
+2026_06_WAS_SF,6,2026-10-19,Monday,SF,WAS,(1:46) (Shotgun) 23-C.McCaffrey left end to SF 25 for 6 yards (39-J.Reaves; 2-A.Robertson).,run,6.0,0.0
+2026_06_WAS_SF,6,2026-10-19,Monday,SF,WAS,"(1:00) (Punt formation) PENALTY on SF, Delay of Game, 5 yards, enforced at SF 25 - No Play.",no_play,0.0,0.0
+2026_06_WAS_SF,6,2026-10-19,Monday,SF,WAS,"(1:00) 15-C.Waitman punts 49 yards to WAS 31, Center-46-J.Weeks, fair catch by 11-L.McCaffrey. PENALTY on SF-33-S.Neal, Fair Catch Interference, 15 yards, enforced at WAS 31.",punt,0.0,0.0
+2026_06_WAS_SF,6,2026-10-19,Monday,WAS,SF,(:52) (Shotgun) 5-J.Daniels pass short middle to 1-R.White to SF 45 for 9 yards (54-F.Warner).,pass,9.0,0.0
+2026_06_WAS_SF,6,2026-10-19,Monday,WAS,SF,(:38) (No Huddle) 5-J.Daniels spiked the ball to stop the clock.,qb_spike,0.0,0.0
+2026_06_WAS_SF,6,2026-10-19,Monday,WAS,SF,(:37) (Shotgun) 5-J.Daniels pass deep middle to 14-A.Williams to SF 28 for 17 yards (27-J.Brown).,pass,17.0,0.0
+2026_06_WAS_SF,6,2026-10-19,Monday,WAS,SF,(:22) (No Huddle) 5-J.Daniels spiked the ball to stop the clock.,qb_spike,0.0,0.0
+2026_06_WAS_SF,6,2026-10-19,Monday,WAS,SF,"(:21) (Shotgun) 5-J.Daniels pass incomplete short right [94-R.Height]. PENALTY on WAS-5-J.Daniels, Intentional Grounding, 12 yards, enforced at SF 28. 10-second runoff.",pass,0.0,0.0
+2026_06_WAS_SF,6,2026-10-19,Monday,,,Timeout #1 by SF at 00:06.,no_play,0.0,0.0
+2026_06_WAS_SF,6,2026-10-19,Monday,WAS,SF,(:06) (Shotgun) 5-J.Daniels sacked at WAS 42 for -18 yards (sack split by 56-K.White and 94-R.Height).,pass,-18.0,0.0
+2026_06_WAS_SF,6,2026-10-19,Monday,WAS,SF,END GAME,,,
