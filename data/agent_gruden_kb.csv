@@ -16713,6 +16713,183 @@ game_id,week,game_date,day_of_week,posteam,defteam,desc,play_type,yards_gained,t
 2026_07_CLE_TEN,7,2026-10-25,Sunday,CLE,TEN,"(:03) (Field Goal formation) PENALTY on TEN-25-Jo.Williams, Defensive Offside, 5 yards, enforced at TEN 19 - No Play.",no_play,0.0,0.0
 2026_07_CLE_TEN,7,2026-10-25,Sunday,CLE,TEN,"(:03) 25-A.Szmyt 32 yard field goal is GOOD, Center-50-R.Sunahara, Holder-13-C.Bojorquez.",field_goal,0.0,0.0
 2026_07_CLE_TEN,7,2026-10-25,Sunday,TEN,CLE,END GAME,,,
+2026_07_DAL_PHI,7,2026-10-26,Monday,,,GAME,,,
+2026_07_DAL_PHI,7,2026-10-26,Monday,DAL,PHI,4-J.Elliott kicks 55 yards from PHI 35 to DAL 10. 18-J.Mingo to DAL 35 for 25 yards (23-K.Moore).,kickoff,0.0,0.0
+2026_07_DAL_PHI,7,2026-10-26,Monday,DAL,PHI,(14:55) 33-J.Williams right tackle to DAL 41 for 6 yards (24-A.Mukuba).,run,6.0,0.0
+2026_07_DAL_PHI,7,2026-10-26,Monday,DAL,PHI,(14:22) 4-D.Prescott pass short right to 89-B.Spann-Ford to DAL 46 for 5 yards (53-Z.Baun; 11-J.Campbell).,pass,5.0,0.0
+2026_07_DAL_PHI,7,2026-10-26,Monday,DAL,PHI,(13:44) 77-B.Jones reported in as eligible. 33-J.Williams left guard to PHI 39 for 15 yards (33-C.DeJean).,run,15.0,0.0
+2026_07_DAL_PHI,7,2026-10-26,Monday,DAL,PHI,(13:24) 4-D.Prescott pass incomplete deep left to 88-C.Lamb.,pass,0.0,0.0
+2026_07_DAL_PHI,7,2026-10-26,Monday,DAL,PHI,(13:19) 33-J.Williams left end to PHI 37 for 2 yards (97-M.Ojomo; 11-J.Campbell).,run,2.0,0.0
+2026_07_DAL_PHI,7,2026-10-26,Monday,DAL,PHI,(12:38) (Shotgun) 4-D.Prescott pass incomplete deep middle to 88-C.Lamb.,pass,0.0,0.0
+2026_07_DAL_PHI,7,2026-10-26,Monday,DAL,PHI,"(12:35) 17-B.Aubrey 55 yard field goal is GOOD, Center-44-T.Sieg, Holder-5-B.Anger. Penalty on PHI, Illegal Formation, declined.",field_goal,0.0,0.0
+2026_07_DAL_PHI,7,2026-10-26,Monday,PHI,DAL,17-B.Aubrey kicks 58 yards from DAL 35 to PHI 7. 85-B.Covey to PHI 25 for 18 yards (30-H.Luepke; 41-J.Houston).,kickoff,0.0,0.0
+2026_07_DAL_PHI,7,2026-10-26,Monday,PHI,DAL,(12:24) 16-T.McKee pass short right to 26-S.Barkley pushed ob at PHI 37 for 12 yards (13-C.Downs; 55-J.Barham).,pass,12.0,0.0
+2026_07_DAL_PHI,7,2026-10-26,Monday,PHI,DAL,(11:55) (Shotgun) 26-S.Barkley left tackle ran ob at DAL 34 for 29 yards (50-S.James).,run,29.0,0.0
+2026_07_DAL_PHI,7,2026-10-26,Monday,PHI,DAL,(11:19) (Shotgun) 16-T.McKee pass short left to 9-M.Lemon pushed ob at DAL 13 for 21 yards (14-M.Bell; 25-J.Porter).,pass,21.0,0.0
+2026_07_DAL_PHI,7,2026-10-26,Monday,PHI,DAL,"(10:44) PENALTY on DAL-92-Q.Williams, Neutral Zone Infraction, 5 yards, enforced at DAL 13 - No Play.",no_play,0.0,0.0
+2026_07_DAL_PHI,7,2026-10-26,Monday,PHI,DAL,"(10:32) 26-S.Barkley right end for 8 yards, TOUCHDOWN.",run,8.0,1.0
+2026_07_DAL_PHI,7,2026-10-26,Monday,PHI,DAL,"4-J.Elliott extra point is GOOD, Center-41-R.Underwood, Holder-10-B.Mann.",extra_point,0.0,0.0
+2026_07_DAL_PHI,7,2026-10-26,Monday,DAL,PHI,"4-J.Elliott kicks 59 yards from PHI 35 to DAL 6. 32-T.Goodson to DAL 32 for 26 yards (42-S.Mondon). PENALTY on DAL-45-J.Barron, Offensive Holding, 10 yards, enforced at DAL 28.",kickoff,0.0,0.0
+2026_07_DAL_PHI,7,2026-10-26,Monday,DAL,PHI,(10:21) 77-B.Jones reported in as eligible. 32-T.Goodson left tackle to DAL 29 for 11 yards (24-A.Mukuba).,run,11.0,0.0
+2026_07_DAL_PHI,7,2026-10-26,Monday,DAL,PHI,(9:49) 32-T.Goodson left guard to DAL 31 for 2 yards (57-A.Epenesa; 98-J.Carter).,run,2.0,0.0
+2026_07_DAL_PHI,7,2026-10-26,Monday,DAL,PHI,(9:10) (Shotgun) 4-D.Prescott pass incomplete short right to 3-G.Pickens (2-T.Woolen).,pass,0.0,0.0
+2026_07_DAL_PHI,7,2026-10-26,Monday,DAL,PHI,(9:05) (Shotgun) 4-D.Prescott pass deep right to 19-R.Flournoy pushed ob at PHI 34 for 35 yards (24-A.Mukuba).,pass,35.0,0.0
+2026_07_DAL_PHI,7,2026-10-26,Monday,DAL,PHI,(8:27) 77-B.Jones reported in as eligible. 33-J.Williams left tackle to PHI 29 for 5 yards (23-K.Moore).,run,5.0,0.0
+2026_07_DAL_PHI,7,2026-10-26,Monday,DAL,PHI,(7:49) (Shotgun) 33-J.Williams left tackle to PHI 17 for 12 yards (24-A.Mukuba; 33-C.DeJean).,run,12.0,0.0
+2026_07_DAL_PHI,7,2026-10-26,Monday,DAL,PHI,(7:02) 32-T.Goodson left tackle to PHI 14 for 3 yards (50-K.James-Newby).,run,3.0,0.0
+2026_07_DAL_PHI,7,2026-10-26,Monday,DAL,PHI,(6:18) 32-T.Goodson left end to PHI 9 for 5 yards (27-Q.Mitchell).,run,5.0,0.0
+2026_07_DAL_PHI,7,2026-10-26,Monday,DAL,PHI,"(5:37) (Shotgun) 4-D.Prescott pass short right to 88-C.Lamb for 9 yards, TOUCHDOWN.",pass,9.0,1.0
+2026_07_DAL_PHI,7,2026-10-26,Monday,DAL,PHI,"17-B.Aubrey extra point is GOOD, Center-44-T.Sieg, Holder-5-B.Anger.",extra_point,0.0,0.0
+2026_07_DAL_PHI,7,2026-10-26,Monday,PHI,DAL,17-B.Aubrey kicks 57 yards from DAL 35 to PHI 8. 49-E.Mitchell to PHI 24 for 16 yards (11-A.Clark; 28-S.Revel).,kickoff,0.0,0.0
+2026_07_DAL_PHI,7,2026-10-26,Monday,PHI,DAL,(5:27) 26-S.Barkley right guard to PHI 30 for 6 yards (13-C.Downs; 91-O.Ogbonnia).,run,6.0,0.0
+2026_07_DAL_PHI,7,2026-10-26,Monday,PHI,DAL,"(4:49) PENALTY on DAL-93-E.Garcia, Encroachment, 5 yards, enforced at PHI 30 - No Play.",no_play,0.0,0.0
+2026_07_DAL_PHI,7,2026-10-26,Monday,PHI,DAL,(4:32) 26-S.Barkley up the middle to PHI 39 for 4 yards (91-O.Ogbonnia).,run,4.0,0.0
+2026_07_DAL_PHI,7,2026-10-26,Monday,PHI,DAL,(3:53) 16-T.McKee pass incomplete deep left to 0-M.Brown.,pass,0.0,0.0
+2026_07_DAL_PHI,7,2026-10-26,Monday,PHI,DAL,(3:46) (Shotgun) 16-T.McKee pass short right to 88-D.Goedert to PHI 44 for 5 yards (25-J.Porter).,pass,5.0,0.0
+2026_07_DAL_PHI,7,2026-10-26,Monday,PHI,DAL,"(3:18) 16-T.McKee FUMBLES (Aborted) at PHI 44, RECOVERED by DAL-92-Q.Williams at PHI 43. PENALTY on DAL-92-Q.Williams, Defensive Offside, 5 yards, enforced at PHI 44 - No Play.",no_play,0.0,0.0
+2026_07_DAL_PHI,7,2026-10-26,Monday,PHI,DAL,(2:58) 39-D.Pierce left end to DAL 42 for 9 yards (26-D.Bland).,run,9.0,0.0
+2026_07_DAL_PHI,7,2026-10-26,Monday,PHI,DAL,(2:14) 39-D.Pierce right tackle to DAL 40 for 2 yards (92-Q.Williams).,run,2.0,0.0
+2026_07_DAL_PHI,7,2026-10-26,Monday,PHI,DAL,(1:30) (Shotgun) 16-T.McKee pass short right to 0-M.Brown pushed ob at DAL 29 for 11 yards (14-M.Bell).,pass,11.0,0.0
+2026_07_DAL_PHI,7,2026-10-26,Monday,PHI,DAL,(:50) (Shotgun) 39-D.Pierce left guard to DAL 29 for no gain (91-O.Ogbonnia).,run,0.0,0.0
+2026_07_DAL_PHI,7,2026-10-26,Monday,PHI,DAL,(:09) (Shotgun) 16-T.McKee pass incomplete short left to 80-D.Cooper.,pass,0.0,0.0
+2026_07_DAL_PHI,7,2026-10-26,Monday,PHI,DAL,(:04) (Shotgun) 16-T.McKee pass short right to 80-D.Cooper to DAL 12 for 17 yards (13-C.Downs).,pass,17.0,0.0
+2026_07_DAL_PHI,7,2026-10-26,Monday,PHI,DAL,END QUARTER 1,,,
+2026_07_DAL_PHI,7,2026-10-26,Monday,PHI,DAL,(15:00) (Shotgun) 26-S.Barkley right guard to DAL 10 for 2 yards (93-E.Garcia).,run,2.0,0.0
+2026_07_DAL_PHI,7,2026-10-26,Monday,PHI,DAL,(14:17) 26-S.Barkley right guard to DAL 9 for 1 yard (13-C.Downs).,run,1.0,0.0
+2026_07_DAL_PHI,7,2026-10-26,Monday,PHI,DAL,"(13:34) (Shotgun) 16-T.McKee pass incomplete short left to 0-M.Brown (99-L.Overton). PENALTY on DAL-99-L.Overton, Roughing the Passer, 4 yards, enforced at DAL 9 - No Play.",no_play,0.0,0.0
+2026_07_DAL_PHI,7,2026-10-26,Monday,PHI,DAL,"(13:29) 39-D.Pierce left tackle for 5 yards, TOUCHDOWN.",run,5.0,1.0
+2026_07_DAL_PHI,7,2026-10-26,Monday,PHI,DAL,"4-J.Elliott extra point is GOOD, Center-41-R.Underwood, Holder-10-B.Mann.",extra_point,0.0,0.0
+2026_07_DAL_PHI,7,2026-10-26,Monday,DAL,PHI,"4-J.Elliott kicks 56 yards from PHI 35 to DAL 9. 32-T.Goodson for 91 yards, TOUCHDOWN NULLIFIED by Penalty. PENALTY on DAL-45-J.Barron, Offensive Holding, 10 yards, enforced at DAL 29.",kickoff,0.0,0.0
+2026_07_DAL_PHI,7,2026-10-26,Monday,DAL,PHI,(13:12) 33-J.Williams right end to DAL 26 for 7 yards (27-Q.Mitchell).,run,7.0,0.0
+2026_07_DAL_PHI,7,2026-10-26,Monday,DAL,PHI,(12:29) (Shotgun) 4-D.Prescott pass incomplete deep left to 88-C.Lamb.,pass,0.0,0.0
+2026_07_DAL_PHI,7,2026-10-26,Monday,DAL,PHI,(12:23) (Shotgun) 4-D.Prescott pass short right to 88-C.Lamb pushed ob at DAL 31 for 5 yards (27-Q.Mitchell).,pass,5.0,0.0
+2026_07_DAL_PHI,7,2026-10-26,Monday,DAL,PHI,(11:58) 32-T.Goodson right end to DAL 36 for 5 yards (54-J.Trotter).,run,5.0,0.0
+2026_07_DAL_PHI,7,2026-10-26,Monday,DAL,PHI,(11:15) 33-J.Williams right guard to DAL 47 for 11 yards (54-J.Trotter).,run,11.0,0.0
+2026_07_DAL_PHI,7,2026-10-26,Monday,DAL,PHI,(10:32) (Shotgun) 4-D.Prescott pass incomplete deep right to 18-J.Mingo.,pass,0.0,0.0
+2026_07_DAL_PHI,7,2026-10-26,Monday,DAL,PHI,(10:25) (Shotgun) 32-T.Goodson right tackle to DAL 47 for no gain (98-J.Carter; 54-J.Trotter).,run,0.0,0.0
+2026_07_DAL_PHI,7,2026-10-26,Monday,DAL,PHI,(9:42) (Shotgun) 4-D.Prescott pass short left to 3-G.Pickens to PHI 44 for 9 yards (33-C.DeJean).,pass,9.0,0.0
+2026_07_DAL_PHI,7,2026-10-26,Monday,,,Timeout #1 by PHI at 09:10.,no_play,0.0,0.0
+2026_07_DAL_PHI,7,2026-10-26,Monday,DAL,PHI,(9:10) 77-B.Jones reported in as eligible. 33-J.Williams left tackle to PHI 40 for 4 yards (27-Q.Mitchell; 54-J.Trotter).,run,4.0,0.0
+2026_07_DAL_PHI,7,2026-10-26,Monday,DAL,PHI,(8:35) (Shotgun) 4-D.Prescott pass short right to 89-B.Spann-Ford to PHI 34 for 6 yards (53-Z.Baun; 17-A.Ebiketie).,pass,6.0,0.0
+2026_07_DAL_PHI,7,2026-10-26,Monday,DAL,PHI,(7:49) 4-D.Prescott scrambles right tackle to PHI 28 for 6 yards (58-J.Hunt).,run,6.0,0.0
+2026_07_DAL_PHI,7,2026-10-26,Monday,DAL,PHI,(7:04) 33-J.Williams up the middle to PHI 27 for 1 yard (90-J.Davis; 53-Z.Baun).,run,1.0,0.0
+2026_07_DAL_PHI,7,2026-10-26,Monday,DAL,PHI,(6:20) (Shotgun) 4-D.Prescott pass short right to 19-R.Flournoy pushed ob at PHI 21 for 6 yards (2-T.Woolen; 33-C.DeJean).,pass,6.0,0.0
+2026_07_DAL_PHI,7,2026-10-26,Monday,DAL,PHI,"(5:44) (Shotgun) 4-D.Prescott pass deep right to 3-G.Pickens for 21 yards, TOUCHDOWN.",pass,21.0,1.0
+2026_07_DAL_PHI,7,2026-10-26,Monday,DAL,PHI,"17-B.Aubrey extra point is GOOD, Center-44-T.Sieg, Holder-5-B.Anger.",extra_point,0.0,0.0
+2026_07_DAL_PHI,7,2026-10-26,Monday,PHI,DAL,"17-B.Aubrey kicks 65 yards from DAL 35 to end zone, Touchback to the PHI 35.",kickoff,0.0,0.0
+2026_07_DAL_PHI,7,2026-10-26,Monday,PHI,DAL,(5:37) 39-D.Pierce left end to PHI 43 for 8 yards (13-C.Downs).,run,8.0,0.0
+2026_07_DAL_PHI,7,2026-10-26,Monday,PHI,DAL,(4:57) 16-T.McKee pass short right to 26-S.Barkley to PHI 40 for -3 yards (92-Q.Williams).,pass,-3.0,0.0
+2026_07_DAL_PHI,7,2026-10-26,Monday,PHI,DAL,"(4:14) (Shotgun) 16-T.McKee pass incomplete short middle to 9-M.Lemon (13-C.Downs). PENALTY on DAL-13-C.Downs, Defensive Pass Interference, 3 yards, enforced at PHI 40 - No Play.",no_play,0.0,0.0
+2026_07_DAL_PHI,7,2026-10-26,Monday,PHI,DAL,(4:09) 39-D.Pierce left end to DAL 45 for 12 yards (11-A.Clark; 24-M.Hooker).,run,12.0,0.0
+2026_07_DAL_PHI,7,2026-10-26,Monday,PHI,DAL,(3:25) 39-D.Pierce left tackle to DAL 45 for no gain (93-E.Garcia).,run,0.0,0.0
+2026_07_DAL_PHI,7,2026-10-26,Monday,PHI,DAL,(2:46) (Shotgun) 16-T.McKee pass incomplete short right to 88-D.Goedert (0-D.Overshown).,pass,0.0,0.0
+2026_07_DAL_PHI,7,2026-10-26,Monday,PHI,DAL,(2:42) (Shotgun) 16-T.McKee pass incomplete short left to 0-M.Brown (25-J.Porter).,pass,0.0,0.0
+2026_07_DAL_PHI,7,2026-10-26,Monday,PHI,DAL,"(2:37) (Shotgun) PENALTY on PHI, Delay of Game, 5 yards, enforced at DAL 45 - No Play.",no_play,0.0,0.0
+2026_07_DAL_PHI,7,2026-10-26,Monday,PHI,DAL,"(2:37) 10-B.Mann punts 48 yards to DAL 2, Center-41-R.Underwood, downed by PHI-80-D.Cooper.",punt,0.0,0.0
+2026_07_DAL_PHI,7,2026-10-26,Monday,DAL,PHI,(2:28) 4-D.Prescott up the middle to DAL 4 for 2 yards (97-M.Ojomo; 53-Z.Baun).,run,2.0,0.0
+2026_07_DAL_PHI,7,2026-10-26,Monday,DAL,PHI,(2:00) 4-D.Prescott pass incomplete short right to 3-G.Pickens (27-Q.Mitchell).,pass,0.0,0.0
+2026_07_DAL_PHI,7,2026-10-26,Monday,DAL,PHI,(1:57) (Shotgun) 33-J.Williams right end to DAL 8 for 4 yards (58-J.Hunt; 94-B.Young).,run,4.0,0.0
+2026_07_DAL_PHI,7,2026-10-26,Monday,,,Timeout #2 by PHI at 01:52.,no_play,0.0,0.0
+2026_07_DAL_PHI,7,2026-10-26,Monday,DAL,PHI,"(1:52) 5-B.Anger punts 41 yards to DAL 49, Center-44-T.Sieg, downed by DAL-43-J.Thomas. PENALTY on PHI-49-E.Mitchell, Offensive Holding, 10 yards, enforced at DAL 49.",punt,0.0,0.0
+2026_07_DAL_PHI,7,2026-10-26,Monday,PHI,DAL,(1:39) (Shotgun) 16-T.McKee pass incomplete short middle to 80-D.Cooper.,pass,0.0,0.0
+2026_07_DAL_PHI,7,2026-10-26,Monday,PHI,DAL,(1:36) (Shotgun) 16-T.McKee pass incomplete short middle to 9-M.Lemon.,pass,0.0,0.0
+2026_07_DAL_PHI,7,2026-10-26,Monday,,,Timeout #3 by PHI at 01:31.,no_play,0.0,0.0
+2026_07_DAL_PHI,7,2026-10-26,Monday,PHI,DAL,(1:31) (Shotgun) 16-T.McKee pass short left to 9-M.Lemon to PHI 46 for 5 yards (2-C.Durant; 0-D.Overshown).,pass,5.0,0.0
+2026_07_DAL_PHI,7,2026-10-26,Monday,,,Timeout #1 by DAL at 01:24.,no_play,0.0,0.0
+2026_07_DAL_PHI,7,2026-10-26,Monday,PHI,DAL,"(1:24) 10-B.Mann punts 41 yards to DAL 13, Center-41-R.Underwood, downed by PHI-50-K.James-Newby.",punt,0.0,0.0
+2026_07_DAL_PHI,7,2026-10-26,Monday,DAL,PHI,(1:14) (Shotgun) 4-D.Prescott pass short middle to 19-R.Flournoy to DAL 26 for 13 yards (27-Q.Mitchell). PHI-27-Q.Mitchell was injured during the play.,pass,13.0,0.0
+2026_07_DAL_PHI,7,2026-10-26,Monday,,,Timeout #4 by PHI at 00:59.,no_play,0.0,0.0
+2026_07_DAL_PHI,7,2026-10-26,Monday,DAL,PHI,(:59) (Shotgun) 4-D.Prescott pass incomplete deep right to 88-C.Lamb (2-T.Woolen).,pass,0.0,0.0
+2026_07_DAL_PHI,7,2026-10-26,Monday,DAL,PHI,(:52) (Shotgun) 4-D.Prescott pass short left to 3-G.Pickens pushed ob at DAL 47 for 21 yards (31-J.Jones).,pass,21.0,0.0
+2026_07_DAL_PHI,7,2026-10-26,Monday,DAL,PHI,"(:44) (No Huddle, Shotgun) 4-D.Prescott pass short right to 88-C.Lamb to PHI 39 for 14 yards (2-T.Woolen).",pass,14.0,0.0
+2026_07_DAL_PHI,7,2026-10-26,Monday,DAL,PHI,"(:19) (No Huddle, Shotgun) 4-D.Prescott pass deep right to 88-C.Lamb ran ob at PHI 9 for 30 yards.",pass,30.0,0.0
+2026_07_DAL_PHI,7,2026-10-26,Monday,,,Timeout #2 by DAL at 00:12.,no_play,0.0,0.0
+2026_07_DAL_PHI,7,2026-10-26,Monday,DAL,PHI,(:12) (Shotgun) 4-D.Prescott pass incomplete short right. ** Injury Update: PHI-27-Q.Mitchell has returned to the game.,pass,0.0,0.0
+2026_07_DAL_PHI,7,2026-10-26,Monday,DAL,PHI,(:08) (Shotgun) 4-D.Prescott pass incomplete short right to 88-C.Lamb.,pass,0.0,0.0
+2026_07_DAL_PHI,7,2026-10-26,Monday,DAL,PHI,"(:03) 17-B.Aubrey 27 yard field goal is GOOD, Center-44-T.Sieg, Holder-5-B.Anger.",field_goal,0.0,0.0
+2026_07_DAL_PHI,7,2026-10-26,Monday,,,END QUARTER 2,,,
+2026_07_DAL_PHI,7,2026-10-26,Monday,PHI,DAL,17-B.Aubrey kicks 64 yards from DAL 35 to PHI 1. 39-D.Pierce to PHI 16 for 15 yards (30-H.Luepke; 41-J.Houston).,kickoff,0.0,0.0
+2026_07_DAL_PHI,7,2026-10-26,Monday,PHI,DAL,(14:54) (Shotgun) 26-S.Barkley left guard to PHI 28 for 12 yards (14-M.Bell; 24-M.Hooker).,run,12.0,0.0
+2026_07_DAL_PHI,7,2026-10-26,Monday,PHI,DAL,(14:13) 16-T.McKee pass incomplete short right.,pass,0.0,0.0
+2026_07_DAL_PHI,7,2026-10-26,Monday,PHI,DAL,(14:06) (Shotgun) 16-T.McKee pass short right to 88-D.Goedert to PHI 33 for 5 yards (50-S.James).,pass,5.0,0.0
+2026_07_DAL_PHI,7,2026-10-26,Monday,PHI,DAL,(13:25) (Shotgun) 16-T.McKee pass short right to 0-M.Brown to DAL 48 for 19 yards (24-M.Hooker).,pass,19.0,0.0
+2026_07_DAL_PHI,7,2026-10-26,Monday,PHI,DAL,"(12:42) 39-D.Pierce left end to 50 for -2 yards (0-D.Overshown, 14-M.Bell).",run,-2.0,0.0
+2026_07_DAL_PHI,7,2026-10-26,Monday,PHI,DAL,(12:00) (Shotgun) 16-T.McKee pass short right to 19-E.Moore to DAL 48 for 2 yards (50-S.James).,pass,2.0,0.0
+2026_07_DAL_PHI,7,2026-10-26,Monday,PHI,DAL,(11:14) (Shotgun) 16-T.McKee pass short left to 9-M.Lemon to DAL 39 for 9 yards (0-D.Overshown).,pass,9.0,0.0
+2026_07_DAL_PHI,7,2026-10-26,Monday,PHI,DAL,(10:34) 16-T.McKee pass short left to 9-M.Lemon pushed ob at DAL 24 for 15 yards (14-M.Bell).,pass,15.0,0.0
+2026_07_DAL_PHI,7,2026-10-26,Monday,PHI,DAL,(10:11) (No Huddle) 39-D.Pierce left guard to DAL 21 for 3 yards (0-D.Overshown).,run,3.0,0.0
+2026_07_DAL_PHI,7,2026-10-26,Monday,PHI,DAL,(9:42) (No Huddle) 39-D.Pierce right tackle to DAL 19 for 2 yards (11-A.Clark; 57-M.Lawrence).,run,2.0,0.0
+2026_07_DAL_PHI,7,2026-10-26,Monday,PHI,DAL,(8:57) (Shotgun) 16-T.McKee pass short left to 88-D.Goedert to DAL 12 for 7 yards (45-J.Barron).,pass,7.0,0.0
+2026_07_DAL_PHI,7,2026-10-26,Monday,PHI,DAL,(8:29) (No Huddle) 39-D.Pierce left tackle to DAL 6 for 6 yards (25-J.Porter; 11-A.Clark).,run,6.0,0.0
+2026_07_DAL_PHI,7,2026-10-26,Monday,PHI,DAL,(8:00) (No Huddle) 39-D.Pierce right tackle to DAL 6 for no gain (11-A.Clark; 97-K.Clark).,run,0.0,0.0
+2026_07_DAL_PHI,7,2026-10-26,Monday,PHI,DAL,(7:17) (Shotgun) 39-D.Pierce right guard to DAL 1 for 5 yards (55-J.Barham).,run,5.0,0.0
+2026_07_DAL_PHI,7,2026-10-26,Monday,PHI,DAL,(6:33) 74-F.Johnson reported in as eligible. 39-D.Pierce left guard to DAL 4 for -3 yards (92-Q.Williams).,run,-3.0,0.0
+2026_07_DAL_PHI,7,2026-10-26,Monday,PHI,DAL,(5:55) (Shotgun) 16-T.McKee pass incomplete short right.,pass,0.0,0.0
+2026_07_DAL_PHI,7,2026-10-26,Monday,PHI,DAL,"(5:49) (Shotgun) 16-T.McKee pass short right to 9-M.Lemon for 4 yards, TOUCHDOWN.",pass,4.0,1.0
+2026_07_DAL_PHI,7,2026-10-26,Monday,PHI,DAL,"4-J.Elliott extra point is GOOD, Center-41-R.Underwood, Holder-10-B.Mann.",extra_point,0.0,0.0
+2026_07_DAL_PHI,7,2026-10-26,Monday,DAL,PHI,4-J.Elliott kicks 51 yards from PHI 35 to DAL 14. 18-J.Mingo to DAL 39 for 25 yards (42-S.Mondon).,kickoff,0.0,0.0
+2026_07_DAL_PHI,7,2026-10-26,Monday,DAL,PHI,(5:38) 77-B.Jones reported in as eligible. 33-J.Williams left tackle to DAL 40 for 1 yard (53-Z.Baun; 97-M.Ojomo).,run,1.0,0.0
+2026_07_DAL_PHI,7,2026-10-26,Monday,DAL,PHI,(5:01) (Shotgun) 4-D.Prescott pass incomplete short left to 88-C.Lamb.,pass,0.0,0.0
+2026_07_DAL_PHI,7,2026-10-26,Monday,DAL,PHI,"(4:53) (Shotgun) 4-D.Prescott pass incomplete short right to 88-C.Lamb. PENALTY on PHI-2-T.Woolen, Defensive Holding, 6 yards, enforced at DAL 40 - No Play.",no_play,0.0,0.0
+2026_07_DAL_PHI,7,2026-10-26,Monday,DAL,PHI,(4:47) 77-B.Jones reported in as eligible. 33-J.Williams up the middle to 50 for 4 yards (90-J.Davis; 53-Z.Baun).,run,4.0,0.0
+2026_07_DAL_PHI,7,2026-10-26,Monday,DAL,PHI,(4:10) 33-J.Williams left tackle to PHI 43 for 7 yards (24-A.Mukuba; 53-Z.Baun).,run,7.0,0.0
+2026_07_DAL_PHI,7,2026-10-26,Monday,DAL,PHI,(3:28) (Shotgun) 4-D.Prescott pass deep right to 19-R.Flournoy pushed ob at PHI 27 for 16 yards (2-T.Woolen).,pass,16.0,0.0
+2026_07_DAL_PHI,7,2026-10-26,Monday,DAL,PHI,(2:56) (Shotgun) 33-J.Williams right guard to PHI 18 for 9 yards (24-A.Mukuba; 27-Q.Mitchell).,run,9.0,0.0
+2026_07_DAL_PHI,7,2026-10-26,Monday,DAL,PHI,"(2:17) (Shotgun) 4-D.Prescott FUMBLES (Aborted) at PHI 23, RECOVERED by PHI-2-T.Woolen at PHI 27. 2-T.Woolen for 73 yards, TOUCHDOWN. The Replay Official reviewed the backward pass ruling, and the play was REVERSED. (Shotgun) 4-D.Prescott pass incomplete short left to 88-C.Lamb.",pass,0.0,0.0
+2026_07_DAL_PHI,7,2026-10-26,Monday,DAL,PHI,(2:14) (Shotgun) 32-T.Goodson right guard to PHI 16 for 2 yards (97-M.Ojomo; 90-J.Davis).,run,2.0,0.0
+2026_07_DAL_PHI,7,2026-10-26,Monday,DAL,PHI,"(1:36) (Shotgun) 4-D.Prescott pass deep left to 88-C.Lamb for 16 yards, TOUCHDOWN.",pass,16.0,1.0
+2026_07_DAL_PHI,7,2026-10-26,Monday,DAL,PHI,TWO-POINT CONVERSION ATTEMPT. 4-D.Prescott rushes left guard. ATTEMPT SUCCEEDS.,run,2.0,0.0
+2026_07_DAL_PHI,7,2026-10-26,Monday,PHI,DAL,"17-B.Aubrey kicks 54 yards from DAL 35 to PHI 11. 49-E.Mitchell MUFFS catch, and recovers at PHI 9. 49-E.Mitchell to PHI 15 for 6 yards (28-S.Revel; 45-J.Barron).",kickoff,0.0,0.0
+2026_07_DAL_PHI,7,2026-10-26,Monday,PHI,DAL,"(1:23) (Shotgun) 26-S.Barkley right end ran ob at PHI 20 for 5 yards (92-Q.Williams). PENALTY on PHI-56-T.Steen, Offensive Holding, 7 yards, enforced at PHI 15 - No Play.",no_play,0.0,0.0
+2026_07_DAL_PHI,7,2026-10-26,Monday,PHI,DAL,(1:01) (Shotgun) 16-T.McKee sacked at PHI 5 for -3 yards (6-D.Ezeiruaku).,pass,-3.0,0.0
+2026_07_DAL_PHI,7,2026-10-26,Monday,PHI,DAL,(:19) (Shotgun) 16-T.McKee pass short right to 9-M.Lemon pushed ob at PHI 10 for 5 yards (25-J.Porter).,pass,5.0,0.0
+2026_07_DAL_PHI,7,2026-10-26,Monday,PHI,DAL,END QUARTER 3,,,
+2026_07_DAL_PHI,7,2026-10-26,Monday,PHI,DAL,(15:00) (Shotgun) 16-T.McKee pass short right to 88-D.Goedert to PHI 23 for 13 yards (0-D.Overshown).,pass,13.0,0.0
+2026_07_DAL_PHI,7,2026-10-26,Monday,PHI,DAL,"(14:27) 10-B.Mann punts 61 yards to DAL 16, Center-41-R.Underwood. 18-J.Mingo to DAL 16 for no gain (7-K.Ringo).",punt,0.0,0.0
+2026_07_DAL_PHI,7,2026-10-26,Monday,DAL,PHI,"(14:17) (Shotgun) 4-D.Prescott pass incomplete deep left to 87-J.Ferguson (33-C.DeJean). PENALTY on PHI-33-C.DeJean, Defensive Pass Interference, 17 yards, enforced at DAL 16 - No Play.",no_play,0.0,0.0
+2026_07_DAL_PHI,7,2026-10-26,Monday,DAL,PHI,(14:11) 33-J.Williams left tackle to DAL 41 for 8 yards (17-A.Ebiketie).,run,8.0,0.0
+2026_07_DAL_PHI,7,2026-10-26,Monday,DAL,PHI,(13:28) 77-B.Jones reported in as eligible. 33-J.Williams left tackle to PHI 25 for 34 yards (24-A.Mukuba).,run,34.0,0.0
+2026_07_DAL_PHI,7,2026-10-26,Monday,DAL,PHI,(12:41) (Shotgun) 32-T.Goodson left end to PHI 19 for 6 yards (53-Z.Baun).,run,6.0,0.0
+2026_07_DAL_PHI,7,2026-10-26,Monday,DAL,PHI,(11:59) 32-T.Goodson up the middle to PHI 17 for 2 yards (17-A.Ebiketie).,run,2.0,0.0
+2026_07_DAL_PHI,7,2026-10-26,Monday,DAL,PHI,(11:21) (Shotgun) 4-D.Prescott pass short left to 3-G.Pickens ran ob at PHI 11 for 6 yards.,pass,6.0,0.0
+2026_07_DAL_PHI,7,2026-10-26,Monday,DAL,PHI,(10:49) 33-J.Williams left guard to PHI 9 for 2 yards (57-A.Epenesa).,run,2.0,0.0
+2026_07_DAL_PHI,7,2026-10-26,Monday,DAL,PHI,(10:05) (Shotgun) 4-D.Prescott pass incomplete short left to 87-J.Ferguson (53-Z.Baun).,pass,0.0,0.0
+2026_07_DAL_PHI,7,2026-10-26,Monday,DAL,PHI,(9:55) (Shotgun) 30-H.Luepke up the middle to PHI 6 for 3 yards (53-Z.Baun).,run,3.0,0.0
+2026_07_DAL_PHI,7,2026-10-26,Monday,DAL,PHI,"(9:14) 17-B.Aubrey 24 yard field goal is GOOD, Center-44-T.Sieg, Holder-5-B.Anger.",field_goal,0.0,0.0
+2026_07_DAL_PHI,7,2026-10-26,Monday,PHI,DAL,17-B.Aubrey kicks 53 yards from DAL 35 to PHI 12. 39-D.Pierce to PHI 34 for 22 yards (30-H.Luepke; 89-B.Spann-Ford).,kickoff,0.0,0.0
+2026_07_DAL_PHI,7,2026-10-26,Monday,PHI,DAL,(8:59) (Shotgun) 16-T.McKee pass short middle to 88-D.Goedert to DAL 48 for 18 yards (50-S.James; 24-M.Hooker).,pass,18.0,0.0
+2026_07_DAL_PHI,7,2026-10-26,Monday,PHI,DAL,"(8:38) (No Huddle, Shotgun) 16-T.McKee pass short left to 39-D.Pierce pushed ob at DAL 47 for 1 yard (26-D.Bland). PHI-39-D.Pierce was injured during the play.",pass,1.0,0.0
+2026_07_DAL_PHI,7,2026-10-26,Monday,PHI,DAL,(8:21) (Shotgun) 16-T.McKee pass short left to 49-E.Mitchell to DAL 32 for 15 yards (50-S.James).,pass,15.0,0.0
+2026_07_DAL_PHI,7,2026-10-26,Monday,PHI,DAL,"(7:55) (No Huddle, Shotgun) 16-T.McKee pass short right intended for 88-D.Goedert INTERCEPTED by 0-D.Overshown at DAL 30. 0-D.Overshown pushed ob at DAL 34 for 4 yards (88-D.Goedert).",pass,0.0,0.0
+2026_07_DAL_PHI,7,2026-10-26,Monday,DAL,PHI,(7:47) 33-J.Williams up the middle to DAL 36 for 2 yards (54-J.Trotter).,run,2.0,0.0
+2026_07_DAL_PHI,7,2026-10-26,Monday,DAL,PHI,(7:04) 33-J.Williams left tackle to DAL 41 for 5 yards (97-M.Ojomo; 33-C.DeJean). PHI-97-M.Ojomo was injured during the play.,run,5.0,0.0
+2026_07_DAL_PHI,7,2026-10-26,Monday,DAL,PHI,(6:25) 32-T.Goodson left tackle to DAL 43 for 2 yards (90-J.Davis; 94-B.Young).,run,2.0,0.0
+2026_07_DAL_PHI,7,2026-10-26,Monday,,,Timeout #1 by PHI at 06:18.,no_play,0.0,0.0
+2026_07_DAL_PHI,7,2026-10-26,Monday,DAL,PHI,"(6:18) (Run formation) PENALTY on DAL, Delay of Game, 5 yards, enforced at DAL 43 - No Play.",no_play,0.0,0.0
+2026_07_DAL_PHI,7,2026-10-26,Monday,DAL,PHI,"(6:18) 5-B.Anger punts 46 yards to PHI 16, Center-44-T.Sieg, out of bounds.",punt,0.0,0.0
+2026_07_DAL_PHI,7,2026-10-26,Monday,PHI,DAL,(6:10) (Shotgun) 16-T.McKee scrambles up the middle to PHI 17 for 1 yard (40-V.Miller).,run,1.0,0.0
+2026_07_DAL_PHI,7,2026-10-26,Monday,PHI,DAL,"(5:48) (No Huddle, Shotgun) 16-T.McKee sacked at PHI 9 for -8 yards (92-Q.Williams).",pass,-8.0,0.0
+2026_07_DAL_PHI,7,2026-10-26,Monday,PHI,DAL,"(5:21) (No Huddle, Shotgun) 16-T.McKee pass short left to 49-E.Mitchell to PHI 17 for 8 yards (0-D.Overshown).",pass,8.0,0.0
+2026_07_DAL_PHI,7,2026-10-26,Monday,PHI,DAL,"(4:54) (No Huddle, Shotgun) 16-T.McKee pass incomplete deep left to 0-M.Brown.",pass,0.0,0.0
+2026_07_DAL_PHI,7,2026-10-26,Monday,DAL,PHI,(4:48) 77-B.Jones reported in as eligible. 33-J.Williams right tackle to PHI 16 for no gain (17-A.Ebiketie).,run,0.0,0.0
+2026_07_DAL_PHI,7,2026-10-26,Monday,DAL,PHI,(4:05) 33-J.Williams left tackle to PHI 15 for 1 yard (33-C.DeJean; 95-T.Robinson).,run,1.0,0.0
+2026_07_DAL_PHI,7,2026-10-26,Monday,,,Timeout #2 by PHI at 03:59.,no_play,0.0,0.0
+2026_07_DAL_PHI,7,2026-10-26,Monday,DAL,PHI,(3:59) 33-J.Williams left guard to PHI 6 for 9 yards (33-C.DeJean).,run,9.0,0.0
+2026_07_DAL_PHI,7,2026-10-26,Monday,,,Timeout #3 by PHI at 03:51.,no_play,0.0,0.0
+2026_07_DAL_PHI,7,2026-10-26,Monday,DAL,PHI,(3:51) 33-J.Williams up the middle to PHI 5 for 1 yard (94-B.Young).,run,1.0,0.0
+2026_07_DAL_PHI,7,2026-10-26,Monday,DAL,PHI,(3:08) 33-J.Williams left guard to PHI 2 for 3 yards (94-B.Young; 57-A.Epenesa).,run,3.0,0.0
+2026_07_DAL_PHI,7,2026-10-26,Monday,DAL,PHI,"(2:26) 33-J.Williams up the middle for 2 yards, TOUCHDOWN.",run,2.0,1.0
+2026_07_DAL_PHI,7,2026-10-26,Monday,DAL,PHI,"17-B.Aubrey extra point is GOOD, Center-44-T.Sieg, Holder-5-B.Anger.",extra_point,0.0,0.0
+2026_07_DAL_PHI,7,2026-10-26,Monday,PHI,DAL,"17-B.Aubrey kicks 62 yards from DAL 35 to PHI 3. 49-E.Mitchell MUFFS catch, and recovers at PHI 12. 49-E.Mitchell to PHI 17 for 5 yards (43-J.Thomas).",kickoff,0.0,0.0
+2026_07_DAL_PHI,7,2026-10-26,Monday,PHI,DAL,(2:15) (Shotgun) 49-E.Mitchell right guard to PHI 23 for 6 yards (50-S.James).,run,6.0,0.0
+2026_07_DAL_PHI,7,2026-10-26,Monday,PHI,DAL,(2:00) (Shotgun) 16-T.McKee pass incomplete short left to 49-E.Mitchell [6-D.Ezeiruaku].,pass,0.0,0.0
+2026_07_DAL_PHI,7,2026-10-26,Monday,PHI,DAL,(1:55) (Shotgun) 16-T.McKee pass incomplete short left to 87-E.Stowers (11-A.Clark).,pass,0.0,0.0
+2026_07_DAL_PHI,7,2026-10-26,Monday,PHI,DAL,(1:51) (Shotgun) 16-T.McKee pass short right to 9-M.Lemon to PHI 31 for 8 yards (28-S.Revel).,pass,8.0,0.0
+2026_07_DAL_PHI,7,2026-10-26,Monday,PHI,DAL,"(1:26) (No Huddle, Shotgun) 49-E.Mitchell up the middle to PHI 36 for 5 yards (6-D.Ezeiruaku).",run,5.0,0.0
+2026_07_DAL_PHI,7,2026-10-26,Monday,PHI,DAL,"(:55) (No Huddle, Shotgun) 16-T.McKee pass short right to 19-E.Moore to 50 for 14 yards (23-A.Speed).",pass,14.0,0.0
+2026_07_DAL_PHI,7,2026-10-26,Monday,PHI,DAL,"(:32) (No Huddle, Shotgun) 49-E.Mitchell right guard to 50 for no gain (7-R.Gary; 99-L.Overton).",run,0.0,0.0
+2026_07_DAL_PHI,7,2026-10-26,Monday,PHI,DAL,"(:07) (No Huddle, Shotgun) 16-T.McKee pass short right to 49-E.Mitchell to 50 for no gain (45-J.Barron; 43-J.Thomas).",pass,0.0,0.0
+2026_07_DAL_PHI,7,2026-10-26,Monday,PHI,DAL,END GAME,,,
 2026_07_DEN_ARI,7,2026-10-25,Sunday,,,GAME,,,
 2026_07_DEN_ARI,7,2026-10-25,Sunday,DEN,ARI,38-C.Ryland kicks 63 yards from ARI 35 to DEN 2. 19-M.Mims pushed ob at DEN 41 for 39 yards (43-K.Sharar).,kickoff,0.0,0.0
 2026_07_DEN_ARI,7,2026-10-25,Sunday,DEN,ARI,(14:53) (Shotgun) 10-B.Nix pass deep middle to 14-C.Sutton to ARI 39 for 20 yards (3-B.Baker).,pass,20.0,0.0
