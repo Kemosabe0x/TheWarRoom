@@ -16813,7 +16813,7 @@ game_id,week,game_date,day_of_week,posteam,defteam,desc,play_type,yards_gained,t
 2026_07_DAL_PHI,7,2026-10-26,Monday,PHI,DAL,(14:13) 16-T.McKee pass incomplete short right.,pass,0.0,0.0
 2026_07_DAL_PHI,7,2026-10-26,Monday,PHI,DAL,(14:06) (Shotgun) 16-T.McKee pass short right to 88-D.Goedert to PHI 33 for 5 yards (50-S.James).,pass,5.0,0.0
 2026_07_DAL_PHI,7,2026-10-26,Monday,PHI,DAL,(13:25) (Shotgun) 16-T.McKee pass short right to 0-M.Brown to DAL 48 for 19 yards (24-M.Hooker).,pass,19.0,0.0
-2026_07_DAL_PHI,7,2026-10-26,Monday,PHI,DAL,"(12:42) 39-D.Pierce left end to 50 for -2 yards (0-D.Overshown, 14-M.Bell).",run,-2.0,0.0
+2026_07_DAL_PHI,7,2026-10-26,Monday,PHI,DAL,"(12:42) 39-D.Pierce left end to 50 for -2 yards (14-M.Bell, 7-R.Gary).",run,-2.0,0.0
 2026_07_DAL_PHI,7,2026-10-26,Monday,PHI,DAL,(12:00) (Shotgun) 16-T.McKee pass short right to 19-E.Moore to DAL 48 for 2 yards (50-S.James).,pass,2.0,0.0
 2026_07_DAL_PHI,7,2026-10-26,Monday,PHI,DAL,(11:14) (Shotgun) 16-T.McKee pass short left to 9-M.Lemon to DAL 39 for 9 yards (0-D.Overshown).,pass,9.0,0.0
 2026_07_DAL_PHI,7,2026-10-26,Monday,PHI,DAL,(10:34) 16-T.McKee pass short left to 9-M.Lemon pushed ob at DAL 24 for 15 yards (14-M.Bell).,pass,15.0,0.0
@@ -17462,7 +17462,7 @@ game_id,week,game_date,day_of_week,posteam,defteam,desc,play_type,yards_gained,t
 2026_07_KC_SEA,7,2026-10-25,Sunday,SEA,KC,(6:00) 23-E.Wilson right guard to SEA 40 for 6 yards (23-D.Tranquill; 32-N.Bolton).,run,6.0,0.0
 2026_07_KC_SEA,7,2026-10-25,Sunday,SEA,KC,(5:23) (Shotgun) 11-J.Smith-Njigba left end pushed ob at SEA 48 for 8 yards (21-J.Hicks).,run,8.0,0.0
 2026_07_KC_SEA,7,2026-10-25,Sunday,SEA,KC,(4:50) 23-E.Wilson up the middle to SEA 45 for -3 yards (92-K.Tonga).,run,-3.0,0.0
-2026_07_KC_SEA,7,2026-10-25,Sunday,SEA,KC,(4:08) (Shotgun) 14-S.Darnold pass short left to 23-E.Wilson ran ob at KC 40 for 15 yards (27-C.Conner).,pass,15.0,0.0
+2026_07_KC_SEA,7,2026-10-25,Sunday,SEA,KC,(4:08) (Shotgun) 14-S.Darnold pass short left to 23-E.Wilson pushed ob at KC 40 for 15 yards (27-C.Conner).,pass,15.0,0.0
 2026_07_KC_SEA,7,2026-10-25,Sunday,SEA,KC,"(3:31) 23-E.Wilson up the middle to KC 41 for -1 yards (56-G.Karlaftis, 30-C.Roland-Wallace).",run,-1.0,0.0
 2026_07_KC_SEA,7,2026-10-25,Sunday,SEA,KC,(2:50) (Shotgun) 36-G.Holani right end to KC 36 for 5 yards (23-D.Tranquill; 20-N.Williams).,run,5.0,0.0
 2026_07_KC_SEA,7,2026-10-25,Sunday,SEA,KC,"(2:23) (No Huddle, Shotgun) 14-S.Darnold scrambles left end to KC 29 for 7 yards (5-M.Delane).",run,7.0,0.0
