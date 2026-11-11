@@ -21707,7 +21707,7 @@ game_id,week,game_date,day_of_week,posteam,defteam,desc,play_type,yards_gained,t
 2026_09_CLE_NO,9,2026-11-08,Sunday,CLE,NO,"39-C.Smyth kicks 56 yards from NO 35 to CLE 9. 11-M.Corley to CLE 35 for 26 yards (25-D.Richardson; 58-C.Rumph). PENALTY on CLE-28-E.McNeil-Warren, Illegal Formation, 5 yards, enforced at NO 35 - No Play.",kickoff,0.0,0.0
 2026_09_CLE_NO,9,2026-11-08,Sunday,CLE,NO,39-C.Smyth kicks 58 yards from NO 40 to CLE 2. 0-I.Bond to CLE 27 for 25 yards (58-C.Rumph; 98-T.Wilson).,kickoff,0.0,0.0
 2026_09_CLE_NO,9,2026-11-08,Sunday,CLE,NO,(7:08) 10-Q.Judkins left guard to CLE 31 for 4 yards (99-C.Young; 96-C.Granderson).,run,4.0,0.0
-2026_09_CLE_NO,9,2026-11-08,Sunday,CLE,NO,(6:30) (Shotgun) 2-S.Sanders pass short right to 1-K.Concepcion to CLE 37 for 6 yards (23-J.Blackmon).,pass,6.0,0.0
+2026_09_CLE_NO,9,2026-11-08,Sunday,CLE,NO,(6:30) (Shotgun) 2-S.Sanders pass short right to 1-K.Concepcion to CLE 37 for 6 yards (23-J.Blackmon). The first down was assisted by replay.,pass,6.0,0.0
 2026_09_CLE_NO,9,2026-11-08,Sunday,CLE,NO,(5:51) (Shotgun) 2-S.Sanders scrambles up the middle to CLE 38 for 1 yard (96-C.Granderson).,run,1.0,0.0
 2026_09_CLE_NO,9,2026-11-08,Sunday,CLE,NO,(5:11) (Shotgun) 2-S.Sanders pass incomplete short middle to 86-B.Whiteheart (7-J.Sanker) [55-K.Elliss].,pass,0.0,0.0
 2026_09_CLE_NO,9,2026-11-08,Sunday,CLE,NO,(5:06) (Shotgun) 2-S.Sanders pass short middle to 12-D.Boston to CLE 45 for 7 yards (1-K.McKinstry).,pass,7.0,0.0
@@ -21735,7 +21735,7 @@ game_id,week,game_date,day_of_week,posteam,defteam,desc,play_type,yards_gained,t
 2026_09_CLE_NO,9,2026-11-08,Sunday,CLE,NO,"(10:34) 25-A.Szmyt 41 yard field goal is GOOD, Center-50-R.Sunahara, Holder-13-C.Bojorquez.",field_goal,0.0,0.0
 2026_09_CLE_NO,9,2026-11-08,Sunday,NO,CLE,"25-A.Szmyt kicks 61 yards from CLE 35 to NO 4. 26-Z.White to NO 28 for 24 yards (16-T.Wallace; 54-S.Williams). PENALTY on CLE-42-E.Mascarenas-Arnold, Illegal Formation, 5 yards, enforced at NO 28.",kickoff,0.0,0.0
 2026_09_CLE_NO,9,2026-11-08,Sunday,NO,CLE,(10:25) 30-A.Estime up the middle to NO 37 for 4 yards (5-Q.Williams).,run,4.0,0.0
-2026_09_CLE_NO,9,2026-11-08,Sunday,NO,CLE,(9:41) (Shotgun) 6-T.Shough pass deep middle to 19-B.Brown to CLE 11 for 52 yards (33-R.Hickman).,pass,52.0,0.0
+2026_09_CLE_NO,9,2026-11-08,Sunday,NO,CLE,(9:41) (Shotgun) 6-T.Shough pass deep middle to 19-B.Brown to CLE 11 for 52 yards (33-R.Hickman). The ball spot was assisted by replay.,pass,52.0,0.0
 2026_09_CLE_NO,9,2026-11-08,Sunday,NO,CLE,(8:54) 30-A.Estime right guard to CLE 11 for no gain (49-C.Schwesinger).,run,0.0,0.0
 2026_09_CLE_NO,9,2026-11-08,Sunday,NO,CLE,"(8:11) (Shotgun) 6-T.Shough pass short left to 0-J.Tyson to CLE 2 for 9 yards (49-C.Schwesinger; 5-Q.Williams). FUMBLES (49-C.Schwesinger), RECOVERED by CLE-7-T.Campbell at CLE 1.",pass,9.0,0.0
 2026_09_CLE_NO,9,2026-11-08,Sunday,CLE,NO,(8:00) 2-S.Sanders up the middle to CLE 5 for 4 yards (91-V.Broughton).,run,4.0,0.0
@@ -21794,7 +21794,7 @@ game_id,week,game_date,day_of_week,posteam,defteam,desc,play_type,yards_gained,t
 2026_09_CLE_NO,9,2026-11-08,Sunday,NO,CLE,(3:13) (Shotgun) 6-T.Shough sacked at CLE 9 for -2 yards (49-C.Schwesinger).,pass,-2.0,0.0
 2026_09_CLE_NO,9,2026-11-08,Sunday,NO,CLE,"(2:29) 39-C.Smyth 27 yard field goal is GOOD, Center-49-Z.Wood, Holder-17-R.Wright.",field_goal,0.0,0.0
 2026_09_CLE_NO,9,2026-11-08,Sunday,CLE,NO,39-C.Smyth kicks 61 yards from NO 35 to CLE 4. 0-I.Bond to CLE 31 for 27 yards (58-C.Rumph).,kickoff,0.0,0.0
-2026_09_CLE_NO,9,2026-11-08,Sunday,CLE,NO,(2:20) 2-S.Sanders pass incomplete short right to 22-D.Sampson (97-K.Boyd).,pass,0.0,0.0
+2026_09_CLE_NO,9,2026-11-08,Sunday,CLE,NO,(2:20) 2-S.Sanders pass incomplete short right to 22-D.Sampson (97-K.Boyd). The penalty was assisted by replay.,pass,0.0,0.0
 2026_09_CLE_NO,9,2026-11-08,Sunday,CLE,NO,(2:16) (Shotgun) 2-S.Sanders pass short left to 10-Q.Judkins pushed ob at CLE 33 for 2 yards (21-J.Reid).,pass,2.0,0.0
 2026_09_CLE_NO,9,2026-11-08,Sunday,CLE,NO,"(1:41) (Shotgun) 2-S.Sanders sacked at CLE 24 for -9 yards (96-C.Granderson). CLE-1-K.Concepcion was injured during the play. Penalty on CLE-55-S.Fano, Offensive Holding, declined.",pass,-9.0,0.0
 2026_09_CLE_NO,9,2026-11-08,Sunday,CLE,NO,"(1:20) 13-C.Bojorquez punts 57 yards to NO 19, Center-50-R.Sunahara. 19-B.Brown ran ob at NO 37 for 18 yards (31-D.McMillon).",punt,0.0,0.0
@@ -22625,7 +22625,7 @@ game_id,week,game_date,day_of_week,posteam,defteam,desc,play_type,yards_gained,t
 2026_09_HOU_LAC,9,2026-11-08,Sunday,HOU,LAC,(6:09) 57-B.Fisher reported in as eligible. 7-C.Stroud pass incomplete deep right to 1-T.Dell.,pass,0.0,0.0
 2026_09_HOU_LAC,9,2026-11-08,Sunday,HOU,LAC,"(6:04) (Shotgun) 7-C.Stroud pass incomplete deep left to 87-F.Moreau. PENALTY on LAC-52-K.Mack, Defensive Offside, 5 yards, enforced at HOU 36 - No Play.",no_play,0.0,0.0
 2026_09_HOU_LAC,9,2026-11-08,Sunday,HOU,LAC,(6:00) (Shotgun) 4-W.Marks left end to HOU 40 for -1 yards (90-A.Mesidor).,run,-1.0,0.0
-2026_09_HOU_LAC,9,2026-11-08,Sunday,HOU,LAC,(5:14) (Shotgun) 7-C.Stroud pass short right to 19-X.Hutchinson to HOU 46 for 6 yards (4-T.Still).,pass,6.0,0.0
+2026_09_HOU_LAC,9,2026-11-08,Sunday,HOU,LAC,(5:14) (Shotgun) 7-C.Stroud pass short right to 19-X.Hutchinson to HOU 46 for 6 yards (4-T.Still). The first down was assisted by replay.,pass,6.0,0.0
 2026_09_HOU_LAC,9,2026-11-08,Sunday,HOU,LAC,(4:38) (Shotgun) 7-C.Stroud scrambles left end ran ob at LAC 42 for 12 yards (20-C.Hart).,run,12.0,0.0
 2026_09_HOU_LAC,9,2026-11-08,Sunday,HOU,LAC,(4:04) (Shotgun) 4-W.Marks left end to LAC 38 for 4 yards (0-D.Henley; 92-J.Eboigbe).,run,4.0,0.0
 2026_09_HOU_LAC,9,2026-11-08,Sunday,HOU,LAC,(3:24) (Shotgun) 7-C.Stroud pass incomplete deep right to 1-T.Dell.,pass,0.0,0.0
@@ -23122,12 +23122,12 @@ game_id,week,game_date,day_of_week,posteam,defteam,desc,play_type,yards_gained,t
 2026_09_LA_WAS,9,2026-11-08,Sunday,WAS,LA,"(:31) (No Huddle) 5-J.Daniels spiked the ball to stop the clock. PENALTY on LA-10-J.Stewart, Defensive Offside, 5 yards, enforced at LA 49 - No Play.",no_play,0.0,0.0
 2026_09_LA_WAS,9,2026-11-08,Sunday,WAS,LA,(:30) (Shotgun) 5-J.Daniels pass incomplete short left to 14-A.Williams.,pass,0.0,0.0
 2026_09_LA_WAS,9,2026-11-08,Sunday,WAS,LA,"(:26) (No Huddle, Shotgun) 5-J.Daniels scrambles right tackle pushed ob at LA 43 for 1 yard (2-J.McCollough).",run,1.0,0.0
-2026_09_LA_WAS,9,2026-11-08,Sunday,WAS,LA,"(:20) (No Huddle, Shotgun) 5-J.Daniels pass short middle to 86-J.Bradley to LA 31 for 12 yards (3-K.Curl).",pass,12.0,0.0
+2026_09_LA_WAS,9,2026-11-08,Sunday,WAS,LA,(:20) (Shotgun) 5-J.Daniels pass short middle to 86-J.Bradley to LA 31 for 12 yards (3-K.Curl).,pass,12.0,0.0
 2026_09_LA_WAS,9,2026-11-08,Sunday,WAS,LA,(:09) (No Huddle) 5-J.Daniels spiked the ball to stop the clock.,qb_spike,0.0,0.0
 2026_09_LA_WAS,9,2026-11-08,Sunday,,,Timeout #2 by LA at 00:08.,no_play,0.0,0.0
 2026_09_LA_WAS,9,2026-11-08,Sunday,WAS,LA,(:08) (Shotgun) 5-J.Daniels pass incomplete deep middle to 3-S.Diggs.,pass,0.0,0.0
 2026_09_LA_WAS,9,2026-11-08,Sunday,,,Timeout #3 by LA at 00:03.,no_play,0.0,0.0
-2026_09_LA_WAS,9,2026-11-08,Sunday,WAS,LA,"(:03) (Shotgun) 5-J.Daniels pass short right to 85-C.Okonkwo to LA 11 for 20 yards (2-J.McCollough). FUMBLES (2-J.McCollough), recovered by WAS-1-R.White at LA 16. 1-R.White to LA 17 for -1 yards (37-Q.Lake). FUMBLES (37-Q.Lake), RECOVERED by LA-0-B.Young at LA 20.",pass,15.0,0.0
+2026_09_LA_WAS,9,2026-11-08,Sunday,WAS,LA,"(:03) (Shotgun) 5-J.Daniels pass short middle to 85-C.Okonkwo to LA 11 for 20 yards (2-J.McCollough). FUMBLES (2-J.McCollough), recovered by WAS-1-R.White at LA 15. 1-R.White to LA 17 for -2 yards (37-Q.Lake). FUMBLES (37-Q.Lake), RECOVERED by LA-0-B.Young at LA 21.",pass,16.0,0.0
 2026_09_LA_WAS,9,2026-11-08,Sunday,WAS,LA,END GAME,,,
 2026_09_LV_SF,9,2026-11-08,Sunday,,,GAME,,,
 2026_09_LV_SF,9,2026-11-08,Sunday,SF,LV,14-M.Gay kicks 65 yards from LV 35 to SF 0. 26-K.Black to SF 31 for 31 yards (81-D.Young).,kickoff,0.0,0.0
