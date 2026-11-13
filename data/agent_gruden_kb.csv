@@ -23821,3 +23821,183 @@ game_id,week,game_date,day_of_week,posteam,defteam,desc,play_type,yards_gained,t
 2026_09_TB_CHI,9,2026-11-08,Sunday,,,Timeout #1 by CHI at 00:03.,no_play,0.0,0.0
 2026_09_TB_CHI,9,2026-11-08,Sunday,CHI,TB,"(:03) 8-C.Santos 38 yard field goal is GOOD, Center-46-S.Daly, Holder-19-T.Taylor. Penalty on TB-91-A.Robinson, Unnecessary Roughness, declined.",field_goal,0.0,0.0
 2026_09_TB_CHI,9,2026-11-08,Sunday,CHI,TB,END GAME,,,
+2026_10_WAS_NYG,10,2026-11-12,Thursday,,,GAME,,,
+2026_10_WAS_NYG,10,2026-11-12,Thursday,NYG,WAS,19-D.Stevens kicks 64 yards from WAS 35 to NYG 1. 30-G.Desrosiers to NYG 25 for 24 yards (56-K.Medrano; 51-A.Kaho).,kickoff,0.0,0.0
+2026_10_WAS_NYG,10,2026-11-12,Thursday,NYG,WAS,(14:52) (Shotgun) 18-J.McCarthy pass short left to 44-C.Skattebo to NYG 28 for 3 yards (2-A.Robertson).,pass,3.0,0.0
+2026_10_WAS_NYG,10,2026-11-12,Thursday,NYG,WAS,(14:13) (Shotgun) 44-C.Skattebo right guard to NYG 37 for 9 yards (52-S.Styles; 4-F.Luvu).,run,9.0,0.0
+2026_10_WAS_NYG,10,2026-11-12,Thursday,NYG,WAS,(13:34) (Shotgun) 18-J.McCarthy pass short middle to 9-I.Likely to NYG 46 for 9 yards (52-S.Styles; 39-J.Reaves).,pass,9.0,0.0
+2026_10_WAS_NYG,10,2026-11-12,Thursday,NYG,WAS,(12:55) (Shotgun) 44-C.Skattebo left guard to WAS 40 for 14 yards (25-N.Cross).,run,14.0,0.0
+2026_10_WAS_NYG,10,2026-11-12,Thursday,NYG,WAS,(12:15) (Shotgun) 26-D.Singletary left tackle to WAS 37 for 3 yards (45-K.Chaisson; 90-C.Omenihu).,run,3.0,0.0
+2026_10_WAS_NYG,10,2026-11-12,Thursday,NYG,WAS,(11:38) (Shotgun) 18-J.McCarthy pass incomplete short left [90-C.Omenihu].,pass,0.0,0.0
+2026_10_WAS_NYG,10,2026-11-12,Thursday,NYG,WAS,(11:33) (Shotgun) 18-J.McCarthy pass incomplete short right to 9-I.Likely.,pass,0.0,0.0
+2026_10_WAS_NYG,10,2026-11-12,Thursday,NYG,WAS,"(11:28) (Shotgun) PENALTY on NYG, Delay of Game, 5 yards, enforced at WAS 37 - No Play.",no_play,0.0,0.0
+2026_10_WAS_NYG,10,2026-11-12,Thursday,NYG,WAS,"(11:28) 15-J.Stout punts 34 yards to WAS 8, Center-58-B.Mann, downed by NYG-28-E.Campbell.",punt,0.0,0.0
+2026_10_WAS_NYG,10,2026-11-12,Thursday,WAS,NYG,(11:18) (Shotgun) 1-R.White left tackle to WAS 10 for 2 yards (52-A.Reese).,run,2.0,0.0
+2026_10_WAS_NYG,10,2026-11-12,Thursday,WAS,NYG,(10:36) (Shotgun) 5-J.Daniels pass short left to 13-T.Burks ran ob at WAS 17 for 7 yards (2-D.Banks).,pass,7.0,0.0
+2026_10_WAS_NYG,10,2026-11-12,Thursday,WAS,NYG,(10:07) (Shotgun) 1-R.White left tackle to WAS 18 for 1 yard (97-B.Jamison-Travis).,run,1.0,0.0
+2026_10_WAS_NYG,10,2026-11-12,Thursday,WAS,NYG,(9:33) 1-R.White right tackle to WAS 21 for 3 yards (93-S.Harris).,run,3.0,0.0
+2026_10_WAS_NYG,10,2026-11-12,Thursday,WAS,NYG,"(8:50) (Shotgun) PENALTY on WAS-74-B.Coleman, False Start, 5 yards, enforced at WAS 21 - No Play.",no_play,0.0,0.0
+2026_10_WAS_NYG,10,2026-11-12,Thursday,WAS,NYG,(8:28) (Shotgun) 5-J.Daniels pass short right to 3-S.Diggs to WAS 20 for 4 yards (24-A.Washington).,pass,4.0,0.0
+2026_10_WAS_NYG,10,2026-11-12,Thursday,WAS,NYG,(7:45) (Shotgun) 5-J.Daniels pass incomplete short left to 1-R.White.,pass,0.0,0.0
+2026_10_WAS_NYG,10,2026-11-12,Thursday,WAS,NYG,"(7:41) 10-T.Way punts 40 yards to NYG 40, Center-69-T.Ott. 89-C.Jones to NYG 42 for 2 yards (18-T.Owens).",punt,0.0,0.0
+2026_10_WAS_NYG,10,2026-11-12,Thursday,NYG,WAS,(7:33) (Shotgun) 18-J.McCarthy pass short left to 1-M.Nabers to NYG 39 for -3 yards (2-A.Robertson).,pass,-3.0,0.0
+2026_10_WAS_NYG,10,2026-11-12,Thursday,NYG,WAS,(6:53) (Shotgun) 18-J.McCarthy pass short left to 9-I.Likely to NYG 45 for 6 yards (52-S.Styles; 23-T.Amos).,pass,6.0,0.0
+2026_10_WAS_NYG,10,2026-11-12,Thursday,NYG,WAS,(6:15) (Shotgun) 18-J.McCarthy pass short left to 44-C.Skattebo pushed ob at WAS 21 for 34 yards (20-Q.Martin) [92-D.Armstrong].,pass,34.0,0.0
+2026_10_WAS_NYG,10,2026-11-12,Thursday,NYG,WAS,(5:34) (Shotgun) 18-J.McCarthy pass short right to 1-M.Nabers to WAS 15 for 6 yards (25-N.Cross; 52-S.Styles).,pass,6.0,0.0
+2026_10_WAS_NYG,10,2026-11-12,Thursday,NYG,WAS,(4:54) 44-C.Skattebo up the middle to WAS 15 for no gain (25-N.Cross; 96-S.Tuttle).,run,0.0,0.0
+2026_10_WAS_NYG,10,2026-11-12,Thursday,NYG,WAS,(4:12) (Shotgun) 18-J.McCarthy pass incomplete short right to 44-C.Skattebo.,pass,0.0,0.0
+2026_10_WAS_NYG,10,2026-11-12,Thursday,NYG,WAS,"(4:08) 34-D.Zvada 33 yard field goal is No Good, Wide Left, Center-58-B.Mann, Holder-15-J.Stout.",field_goal,0.0,0.0
+2026_10_WAS_NYG,10,2026-11-12,Thursday,WAS,NYG,(4:04) (Shotgun) 5-J.Daniels pass short middle to 30-A.Ekeler to WAS 31 for 8 yards (41-M.McFadden).,pass,8.0,0.0
+2026_10_WAS_NYG,10,2026-11-12,Thursday,WAS,NYG,(3:28) (Shotgun) 30-A.Ekeler left tackle to WAS 34 for 3 yards (93-S.Harris).,run,3.0,0.0
+2026_10_WAS_NYG,10,2026-11-12,Thursday,WAS,NYG,"(3:09) (No Huddle, Shotgun) 5-J.Daniels pass short right to 85-C.Okonkwo to WAS 40 for 6 yards (8-J.Holland).",pass,6.0,0.0
+2026_10_WAS_NYG,10,2026-11-12,Thursday,WAS,NYG,"(2:43) (No Huddle, Shotgun) 5-J.Daniels scrambles right end to WAS 43 for 3 yards (5-K.Thibodeaux; 52-A.Reese).",run,3.0,0.0
+2026_10_WAS_NYG,10,2026-11-12,Thursday,WAS,NYG,"(2:14) (No Huddle, Shotgun) 30-A.Ekeler right guard to WAS 45 for 2 yards (20-G.Newsome; 52-A.Reese).",run,2.0,0.0
+2026_10_WAS_NYG,10,2026-11-12,Thursday,WAS,NYG,"(1:50) (No Huddle, Shotgun) 30-A.Ekeler left tackle to WAS 47 for 2 yards (52-A.Reese; 22-A.Phillips).",run,2.0,0.0
+2026_10_WAS_NYG,10,2026-11-12,Thursday,WAS,NYG,"(1:25) (No Huddle, Shotgun) 5-J.Daniels pass deep right to 13-T.Burks ran ob at NYG 33 for 20 yards.",pass,20.0,0.0
+2026_10_WAS_NYG,10,2026-11-12,Thursday,WAS,NYG,"(:44) PENALTY on WAS-87-J.Bates, False Start, 5 yards, enforced at NYG 33 - No Play.",no_play,0.0,0.0
+2026_10_WAS_NYG,10,2026-11-12,Thursday,WAS,NYG,(:22) (Shotgun) 5-J.Daniels pass short right to 85-C.Okonkwo pushed ob at NYG 27 for 11 yards (20-G.Newsome).,pass,11.0,0.0
+2026_10_WAS_NYG,10,2026-11-12,Thursday,WAS,NYG,END QUARTER 1,,,
+2026_10_WAS_NYG,10,2026-11-12,Thursday,WAS,NYG,(15:00) 30-A.Ekeler right end to NYG 28 for -1 yards (41-M.McFadden).,run,-1.0,0.0
+2026_10_WAS_NYG,10,2026-11-12,Thursday,WAS,NYG,"(14:18) (Shotgun) 5-J.Daniels pass short left to 13-T.Burks to NYG 14 for 14 yards (96-D.Smoot). New York Giants challenged the pass completion ruling, and the play was REVERSED. (Shotgun) 5-J.Daniels pass incomplete short left to 3-S.Diggs (2-D.Banks). ** Injury Update: NYG-5-K.Thibodeaux has returned to the game.",pass,0.0,0.0
+2026_10_WAS_NYG,10,2026-11-12,Thursday,WAS,NYG,"(14:12) 19-D.Stevens 46 yard field goal is GOOD, Center-69-T.Ott, Holder-10-T.Way.",field_goal,0.0,0.0
+2026_10_WAS_NYG,10,2026-11-12,Thursday,NYG,WAS,19-D.Stevens kicks 65 yards from WAS 35 to NYG 0. 26-D.Singletary to NYG 22 for 22 yards (35-P.Butler).,kickoff,0.0,0.0
+2026_10_WAS_NYG,10,2026-11-12,Thursday,NYG,WAS,(14:02) (Shotgun) 18-J.McCarthy scrambles up the middle to NYG 34 for 12 yards (39-J.Reaves).,run,12.0,0.0
+2026_10_WAS_NYG,10,2026-11-12,Thursday,NYG,WAS,(13:22) (Shotgun) 44-C.Skattebo up the middle to NYG 35 for 1 yard (98-O.Oweh).,run,1.0,0.0
+2026_10_WAS_NYG,10,2026-11-12,Thursday,NYG,WAS,(12:44) (Shotgun) 18-J.McCarthy pass incomplete short left to 17-D.Mooney (2-A.Robertson).,pass,0.0,0.0
+2026_10_WAS_NYG,10,2026-11-12,Thursday,NYG,WAS,(12:39) (Shotgun) 18-J.McCarthy sacked at NYG 25 for -10 yards (98-O.Oweh).,pass,-10.0,0.0
+2026_10_WAS_NYG,10,2026-11-12,Thursday,NYG,WAS,"(12:04) 15-J.Stout punts 64 yards to WAS 11, Center-58-B.Mann. 11-L.McCaffrey to WAS 12 for 1 yard (28-E.Campbell).",punt,0.0,0.0
+2026_10_WAS_NYG,10,2026-11-12,Thursday,WAS,NYG,(11:53) (Shotgun) 5-J.Daniels pass short right to 82-B.Sinnott pushed ob at WAS 17 for 5 yards (25-J.Pinnock).,pass,5.0,0.0
+2026_10_WAS_NYG,10,2026-11-12,Thursday,WAS,NYG,(11:22) 1-R.White left tackle to WAS 17 for no gain (41-M.McFadden; 96-D.Smoot).,run,0.0,0.0
+2026_10_WAS_NYG,10,2026-11-12,Thursday,WAS,NYG,(10:40) (Shotgun) 5-J.Daniels pass incomplete short right to 3-S.Diggs.,pass,0.0,0.0
+2026_10_WAS_NYG,10,2026-11-12,Thursday,WAS,NYG,"(10:36) 10-T.Way punts 55 yards to NYG 28, Center-69-T.Ott, downed by WAS-51-A.Kaho.",punt,0.0,0.0
+2026_10_WAS_NYG,10,2026-11-12,Thursday,NYG,WAS,(10:23) 18-J.McCarthy pass incomplete short right [25-N.Cross].,pass,0.0,0.0
+2026_10_WAS_NYG,10,2026-11-12,Thursday,NYG,WAS,(10:17) (Shotgun) 18-J.McCarthy pass short middle to 9-I.Likely to NYG 33 for 5 yards (39-J.Reaves).,pass,5.0,0.0
+2026_10_WAS_NYG,10,2026-11-12,Thursday,NYG,WAS,(9:38) (Shotgun) 18-J.McCarthy pass short middle to 17-D.Mooney to NYG 39 for 6 yards (25-N.Cross; 2-A.Robertson) [90-C.Omenihu].,pass,6.0,0.0
+2026_10_WAS_NYG,10,2026-11-12,Thursday,NYG,WAS,(8:51) 18-J.McCarthy pass short middle to 9-I.Likely to 50 for 11 yards (4-F.Luvu; 20-Q.Martin).,pass,11.0,0.0
+2026_10_WAS_NYG,10,2026-11-12,Thursday,NYG,WAS,(8:13) (Shotgun) 18-J.McCarthy pass incomplete short left to 9-I.Likely.,pass,0.0,0.0
+2026_10_WAS_NYG,10,2026-11-12,Thursday,NYG,WAS,(8:10) (Shotgun) 18-J.McCarthy scrambles left end pushed ob at WAS 39 for 11 yards (96-S.Tuttle).,run,11.0,0.0
+2026_10_WAS_NYG,10,2026-11-12,Thursday,NYG,WAS,"(7:43) (No Huddle, Shotgun) 44-C.Skattebo up the middle to WAS 37 for 2 yards (52-S.Styles).",run,2.0,0.0
+2026_10_WAS_NYG,10,2026-11-12,Thursday,NYG,WAS,"(7:18) (No Huddle, Shotgun) 18-J.McCarthy pass short left to 17-D.Mooney ran ob at WAS 35 for 2 yards (23-T.Amos).",pass,2.0,0.0
+2026_10_WAS_NYG,10,2026-11-12,Thursday,NYG,WAS,(6:43) (Shotgun) 18-J.McCarthy pass short middle to 1-M.Nabers to WAS 30 for 5 yards (39-J.Reaves).,pass,5.0,0.0
+2026_10_WAS_NYG,10,2026-11-12,Thursday,NYG,WAS,(5:57) 19-J.Winston left guard to WAS 29 for 1 yard (45-K.Chaisson).,run,1.0,0.0
+2026_10_WAS_NYG,10,2026-11-12,Thursday,NYG,WAS,(5:18) (Shotgun) 18-J.McCarthy left end to WAS 21 for 8 yards (39-J.Reaves).,run,8.0,0.0
+2026_10_WAS_NYG,10,2026-11-12,Thursday,NYG,WAS,"(4:47) (No Huddle, Shotgun) 18-J.McCarthy pass incomplete short right to 17-D.Mooney.",pass,0.0,0.0
+2026_10_WAS_NYG,10,2026-11-12,Thursday,NYG,WAS,(4:43) (Shotgun) 44-C.Skattebo right tackle to WAS 18 for 3 yards (98-O.Oweh).,run,3.0,0.0
+2026_10_WAS_NYG,10,2026-11-12,Thursday,NYG,WAS,(4:00) (Shotgun) 18-J.McCarthy pass short middle to 9-I.Likely to WAS 10 for 8 yards (20-Q.Martin; 4-F.Luvu).,pass,8.0,0.0
+2026_10_WAS_NYG,10,2026-11-12,Thursday,NYG,WAS,(3:20) 44-C.Skattebo up the middle to WAS 5 for 5 yards (23-T.Amos; 25-N.Cross).,run,5.0,0.0
+2026_10_WAS_NYG,10,2026-11-12,Thursday,,,Timeout #1 by NYG at 02:44.,no_play,0.0,0.0
+2026_10_WAS_NYG,10,2026-11-12,Thursday,NYG,WAS,"(2:44) 18-J.McCarthy pass incomplete short left to 9-I.Likely (39-J.Reaves). PENALTY on WAS-39-J.Reaves, Defensive Pass Interference, 4 yards, enforced at WAS 5 - No Play.",no_play,0.0,0.0
+2026_10_WAS_NYG,10,2026-11-12,Thursday,NYG,WAS,"(2:40) 64-A.Stinnie reported in as eligible. 44-C.Skattebo right guard for 1 yard, TOUCHDOWN.",run,1.0,1.0
+2026_10_WAS_NYG,10,2026-11-12,Thursday,NYG,WAS,"34-D.Zvada extra point is GOOD, Center-58-B.Mann, Holder-15-J.Stout.",extra_point,0.0,0.0
+2026_10_WAS_NYG,10,2026-11-12,Thursday,WAS,NYG,34-D.Zvada kicks 57 yards from NYG 35 to WAS 8. 11-L.McCaffrey to WAS 33 for 25 yards (24-A.Washington).,kickoff,0.0,0.0
+2026_10_WAS_NYG,10,2026-11-12,Thursday,WAS,NYG,(2:28) 5-J.Daniels pass short left to 30-A.Ekeler to WAS 41 for 8 yards (52-A.Reese; 41-M.McFadden).,pass,8.0,0.0
+2026_10_WAS_NYG,10,2026-11-12,Thursday,WAS,NYG,(2:00) (Shotgun) 5-J.Daniels pass deep right to 3-S.Diggs pushed ob at NYG 29 for 30 yards (5-K.Thibodeaux).,pass,30.0,0.0
+2026_10_WAS_NYG,10,2026-11-12,Thursday,WAS,NYG,(1:49) (Shotgun) 30-A.Ekeler left tackle to NYG 27 for 2 yards (5-K.Thibodeaux).,run,2.0,0.0
+2026_10_WAS_NYG,10,2026-11-12,Thursday,WAS,NYG,"(1:16) (Shotgun) 5-J.Daniels pass short middle to 82-B.Sinnott pushed ob at NYG 15 for 12 yards (41-M.McFadden). The Replay Official reviewed the runner was out of bounds ruling, and the play was REVERSED. (Shotgun) 5-J.Daniels pass short middle to 82-B.Sinnott to NYG 15 for 12 yards (41-M.McFadden).",pass,12.0,0.0
+2026_10_WAS_NYG,10,2026-11-12,Thursday,,,Timeout #2 by NYG at 01:11. 10-second runoff avoided.,no_play,0.0,0.0
+2026_10_WAS_NYG,10,2026-11-12,Thursday,WAS,NYG,(1:11) 1-R.White left guard to NYG 8 for 7 yards (52-A.Reese).,run,7.0,0.0
+2026_10_WAS_NYG,10,2026-11-12,Thursday,,,Timeout #3 by NYG at 01:06.,no_play,0.0,0.0
+2026_10_WAS_NYG,10,2026-11-12,Thursday,WAS,NYG,(1:06) 1-R.White right tackle to NYG 1 for 7 yards (5-K.Thibodeaux).,run,7.0,0.0
+2026_10_WAS_NYG,10,2026-11-12,Thursday,,,Timeout #1 by WAS at 00:19.,no_play,0.0,0.0
+2026_10_WAS_NYG,10,2026-11-12,Thursday,WAS,NYG,"(:19) (Shotgun) 5-J.Daniels right end to NYG 1 for no gain (98-D.Reader, 5-K.Thibodeaux).",run,0.0,0.0
+2026_10_WAS_NYG,10,2026-11-12,Thursday,,,Timeout #2 by WAS at 00:12.,no_play,0.0,0.0
+2026_10_WAS_NYG,10,2026-11-12,Thursday,WAS,NYG,(:12) (Shotgun) 5-J.Daniels pass incomplete short left to 3-S.Diggs.,pass,0.0,0.0
+2026_10_WAS_NYG,10,2026-11-12,Thursday,WAS,NYG,"(:09) (Shotgun) 5-J.Daniels pass short middle to 82-B.Sinnott for 1 yard, TOUCHDOWN [3-A.Carter].",pass,1.0,1.0
+2026_10_WAS_NYG,10,2026-11-12,Thursday,WAS,NYG,"19-D.Stevens extra point is GOOD, Center-69-T.Ott, Holder-10-T.Way.",extra_point,0.0,0.0
+2026_10_WAS_NYG,10,2026-11-12,Thursday,NYG,WAS,"19-D.Stevens kicks 65 yards from WAS 35 to end zone, Touchback to the NYG 35.",kickoff,0.0,0.0
+2026_10_WAS_NYG,10,2026-11-12,Thursday,NYG,WAS,(:05) 18-J.McCarthy kneels to NYG 34 for -1 yards.,qb_kneel,-1.0,0.0
+2026_10_WAS_NYG,10,2026-11-12,Thursday,,,END QUARTER 2,,,
+2026_10_WAS_NYG,10,2026-11-12,Thursday,WAS,NYG,34-D.Zvada kicks 63 yards from NYG 35 to WAS 2. 11-L.McCaffrey to WAS 21 for 19 yards (48-T.Ford).,kickoff,0.0,0.0
+2026_10_WAS_NYG,10,2026-11-12,Thursday,WAS,NYG,"(14:54) 1-R.White right tackle to WAS 20 for -1 yards (3-A.Carter, 52-A.Reese).",run,-1.0,0.0
+2026_10_WAS_NYG,10,2026-11-12,Thursday,WAS,NYG,(14:14) (Shotgun) 5-J.Daniels sacked at WAS 6 for -14 yards (93-S.Harris). ** Injury Update: WAS-85-C.Okonkwo has returned to the game.,pass,-14.0,0.0
+2026_10_WAS_NYG,10,2026-11-12,Thursday,WAS,NYG,"(13:24) (Shotgun) PENALTY on WAS, Delay of Game, 3 yards, enforced at WAS 6 - No Play.",no_play,0.0,0.0
+2026_10_WAS_NYG,10,2026-11-12,Thursday,WAS,NYG,(13:10) (Shotgun) 30-A.Ekeler right guard to WAS 6 for 3 yards (91-D.Alexander; 52-A.Reese).,run,3.0,0.0
+2026_10_WAS_NYG,10,2026-11-12,Thursday,WAS,NYG,"(12:32) 10-T.Way punts 49 yards to NYG 45, Center-69-T.Ott, fair catch by 89-C.Jones.",punt,0.0,0.0
+2026_10_WAS_NYG,10,2026-11-12,Thursday,NYG,WAS,(12:24) (Shotgun) 18-J.McCarthy pass deep left to 88-M.Fields pushed ob at WAS 30 for 25 yards (35-P.Butler).,pass,25.0,0.0
+2026_10_WAS_NYG,10,2026-11-12,Thursday,NYG,WAS,(11:52) (Shotgun) 18-J.McCarthy pass incomplete short right to 84-T.Johnson.,pass,0.0,0.0
+2026_10_WAS_NYG,10,2026-11-12,Thursday,NYG,WAS,(11:48) (Shotgun) 18-J.McCarthy pass short middle to 9-I.Likely to WAS 20 for 10 yards (20-Q.Martin; 35-P.Butler).,pass,10.0,0.0
+2026_10_WAS_NYG,10,2026-11-12,Thursday,NYG,WAS,(11:05) (Shotgun) 44-C.Skattebo right tackle to WAS 13 for 7 yards (52-S.Styles; 35-P.Butler).,run,7.0,0.0
+2026_10_WAS_NYG,10,2026-11-12,Thursday,NYG,WAS,"(10:28) (Shotgun) 44-C.Skattebo right end for 13 yards, TOUCHDOWN.",run,13.0,1.0
+2026_10_WAS_NYG,10,2026-11-12,Thursday,NYG,WAS,"34-D.Zvada extra point is GOOD, Center-58-B.Mann, Holder-15-J.Stout.",extra_point,0.0,0.0
+2026_10_WAS_NYG,10,2026-11-12,Thursday,WAS,NYG,34-D.Zvada kicks 56 yards from NYG 35 to WAS 9. 11-L.McCaffrey to WAS 23 for 14 yards (27-T.Nubin; 84-T.Johnson).,kickoff,0.0,0.0
+2026_10_WAS_NYG,10,2026-11-12,Thursday,WAS,NYG,(10:17) (Shotgun) 5-J.Daniels pass deep right to 82-B.Sinnott to WAS 47 for 24 yards (22-A.Phillips).,pass,24.0,0.0
+2026_10_WAS_NYG,10,2026-11-12,Thursday,WAS,NYG,(9:37) 5-J.Daniels scrambles right end ran ob at NYG 45 for 8 yards (5-K.Thibodeaux).,run,8.0,0.0
+2026_10_WAS_NYG,10,2026-11-12,Thursday,WAS,NYG,(9:02) 5-J.Daniels pass short middle to 30-A.Ekeler to NYG 40 for 5 yards (24-A.Washington; 52-A.Reese).,pass,5.0,0.0
+2026_10_WAS_NYG,10,2026-11-12,Thursday,WAS,NYG,(8:23) 34-R.Henry up the middle to NYG 36 for 4 yards (41-M.McFadden).,run,4.0,0.0
+2026_10_WAS_NYG,10,2026-11-12,Thursday,WAS,NYG,(7:46) (Shotgun) 5-J.Daniels pass short right to 3-S.Diggs to NYG 31 for 5 yards (24-A.Washington).,pass,5.0,0.0
+2026_10_WAS_NYG,10,2026-11-12,Thursday,WAS,NYG,"(7:05) 5-J.Daniels pass short right to 14-A.Williams for 31 yards, TOUCHDOWN.",pass,31.0,1.0
+2026_10_WAS_NYG,10,2026-11-12,Thursday,WAS,NYG,"19-D.Stevens extra point is GOOD, Center-69-T.Ott, Holder-10-T.Way.",extra_point,0.0,0.0
+2026_10_WAS_NYG,10,2026-11-12,Thursday,NYG,WAS,19-D.Stevens kicks 62 yards from WAS 35 to NYG 3. 30-G.Desrosiers to NYG 27 for 24 yards (18-T.Owens; 48-J.Josephs).,kickoff,0.0,0.0
+2026_10_WAS_NYG,10,2026-11-12,Thursday,NYG,WAS,(6:49) (Shotgun) 18-J.McCarthy pass deep left to 1-M.Nabers pushed ob at WAS 36 for 37 yards (2-A.Robertson).,pass,37.0,0.0
+2026_10_WAS_NYG,10,2026-11-12,Thursday,NYG,WAS,(6:12) (Shotgun) 44-C.Skattebo left guard to WAS 33 for 3 yards (97-T.Settle; 91-D.Wise).,run,3.0,0.0
+2026_10_WAS_NYG,10,2026-11-12,Thursday,NYG,WAS,(5:35) (Shotgun) 18-J.McCarthy pass short middle to 88-M.Fields to WAS 17 for 16 yards (20-Q.Martin; 25-N.Cross).,pass,16.0,0.0
+2026_10_WAS_NYG,10,2026-11-12,Thursday,NYG,WAS,(4:53) (Shotgun) 44-C.Skattebo right end to WAS 19 for -2 yards (2-A.Robertson).,run,-2.0,0.0
+2026_10_WAS_NYG,10,2026-11-12,Thursday,NYG,WAS,"(4:14) (Shotgun) 18-J.McCarthy pass short right to 1-M.Nabers to WAS 16 for 3 yards (4-F.Luvu). FUMBLES (4-F.Luvu), RECOVERED by WAS-39-J.Reaves at WAS 20.",pass,-1.0,0.0
+2026_10_WAS_NYG,10,2026-11-12,Thursday,WAS,NYG,(4:06) 34-R.Henry right end to WAS 20 for no gain (22-A.Phillips).,run,0.0,0.0
+2026_10_WAS_NYG,10,2026-11-12,Thursday,WAS,NYG,(3:26) (Shotgun) 5-J.Daniels pass incomplete deep middle to 13-T.Burks.,pass,0.0,0.0
+2026_10_WAS_NYG,10,2026-11-12,Thursday,WAS,NYG,(3:22) (Shotgun) 5-J.Daniels pass short left to 3-S.Diggs to WAS 23 for 3 yards (52-A.Reese).,pass,3.0,0.0
+2026_10_WAS_NYG,10,2026-11-12,Thursday,WAS,NYG,"(2:39) 10-T.Way punts 54 yards to NYG 23, Center-69-T.Ott, fair catch by 89-C.Jones.",punt,0.0,0.0
+2026_10_WAS_NYG,10,2026-11-12,Thursday,NYG,WAS,"(2:32) (Shotgun) 18-J.McCarthy pass short middle to 9-I.Likely to NYG 29 for 6 yards (39-J.Reaves, 35-P.Butler). FUMBLES (35-P.Butler), and recovers at NYG 29. ** Injury Update: NYG-60-B.Hudson has returned to the game.",pass,6.0,0.0
+2026_10_WAS_NYG,10,2026-11-12,Thursday,NYG,WAS,"(2:13) (No Huddle, Shotgun) 18-J.McCarthy pass short middle to 44-C.Skattebo to NYG 36 for 7 yards (52-S.Styles).",pass,7.0,0.0
+2026_10_WAS_NYG,10,2026-11-12,Thursday,NYG,WAS,(1:37) (Shotgun) 44-C.Skattebo up the middle to NYG 39 for 3 yards (52-S.Styles; 95-J.Newton).,run,3.0,0.0
+2026_10_WAS_NYG,10,2026-11-12,Thursday,NYG,WAS,(:59) (Shotgun) 18-J.McCarthy pass short middle to 84-T.Johnson to NYG 47 for 8 yards (4-F.Luvu).,pass,8.0,0.0
+2026_10_WAS_NYG,10,2026-11-12,Thursday,NYG,WAS,(:26) (Shotgun) 18-J.McCarthy pass short right to 9-I.Likely to WAS 47 for 6 yards (52-S.Styles).,pass,6.0,0.0
+2026_10_WAS_NYG,10,2026-11-12,Thursday,NYG,WAS,END QUARTER 3,,,
+2026_10_WAS_NYG,10,2026-11-12,Thursday,NYG,WAS,"(15:00) (Shotgun) PENALTY on NYG-85-C.Manhertz, False Start, 5 yards, enforced at WAS 47 - No Play.",no_play,0.0,0.0
+2026_10_WAS_NYG,10,2026-11-12,Thursday,NYG,WAS,(15:00) (Shotgun) 18-J.McCarthy scrambles right end pushed ob at WAS 46 for 6 yards (52-S.Styles).,run,6.0,0.0
+2026_10_WAS_NYG,10,2026-11-12,Thursday,NYG,WAS,(14:23) (Shotgun) 18-J.McCarthy pass incomplete short left to 84-T.Johnson (35-P.Butler).,pass,0.0,0.0
+2026_10_WAS_NYG,10,2026-11-12,Thursday,NYG,WAS,"(14:15) 15-J.Stout punts 46 yards to end zone, Center-58-B.Mann, Touchback.",punt,0.0,0.0
+2026_10_WAS_NYG,10,2026-11-12,Thursday,WAS,NYG,(14:07) (Shotgun) 5-J.Daniels scrambles right end to WAS 25 for 5 yards (93-S.Harris; 52-A.Reese).,run,5.0,0.0
+2026_10_WAS_NYG,10,2026-11-12,Thursday,WAS,NYG,"(13:39) (No Huddle, Shotgun) 30-A.Ekeler right guard to WAS 32 for 7 yards (22-A.Phillips).",run,7.0,0.0
+2026_10_WAS_NYG,10,2026-11-12,Thursday,WAS,NYG,(12:55) 5-J.Daniels scrambles right end to WAS 37 for 5 yards (52-A.Reese).,run,5.0,0.0
+2026_10_WAS_NYG,10,2026-11-12,Thursday,WAS,NYG,(12:13) 30-A.Ekeler left guard to WAS 41 for 4 yards (41-M.McFadden; 52-A.Reese).,run,4.0,0.0
+2026_10_WAS_NYG,10,2026-11-12,Thursday,WAS,NYG,(11:33) (Shotgun) 5-J.Daniels left tackle to WAS 43 for 2 yards (5-K.Thibodeaux; 97-B.Jamison-Travis).,run,2.0,0.0
+2026_10_WAS_NYG,10,2026-11-12,Thursday,WAS,NYG,(10:56) 1-R.White right end pushed ob at NYG 39 for 18 yards (20-G.Newsome).,run,18.0,0.0
+2026_10_WAS_NYG,10,2026-11-12,Thursday,WAS,NYG,(10:25) 1-R.White up the middle to NYG 33 for 6 yards (41-M.McFadden; 8-J.Holland).,run,6.0,0.0
+2026_10_WAS_NYG,10,2026-11-12,Thursday,WAS,NYG,(9:50) (Shotgun) 5-J.Daniels pass incomplete short left to 85-C.Okonkwo.,pass,0.0,0.0
+2026_10_WAS_NYG,10,2026-11-12,Thursday,WAS,NYG,(9:46) (Shotgun) 5-J.Daniels pass short right to 85-C.Okonkwo to NYG 31 for 2 yards (24-A.Washington).,pass,2.0,0.0
+2026_10_WAS_NYG,10,2026-11-12,Thursday,WAS,NYG,(9:09) (Shotgun) 5-J.Daniels pass incomplete short middle to 3-S.Diggs (24-A.Washington).,pass,0.0,0.0
+2026_10_WAS_NYG,10,2026-11-12,Thursday,NYG,WAS,(9:04) 44-C.Skattebo up the middle to NYG 34 for 3 yards (39-J.Reaves).,run,3.0,0.0
+2026_10_WAS_NYG,10,2026-11-12,Thursday,NYG,WAS,(8:28) (Shotgun) 18-J.McCarthy pass incomplete short right to 1-M.Nabers.,pass,0.0,0.0
+2026_10_WAS_NYG,10,2026-11-12,Thursday,NYG,WAS,"(8:24) (Shotgun) 18-J.McCarthy pass deep middle to 9-I.Likely for 66 yards, TOUCHDOWN.",pass,66.0,1.0
+2026_10_WAS_NYG,10,2026-11-12,Thursday,NYG,WAS,"34-D.Zvada extra point is GOOD, Center-58-B.Mann, Holder-15-J.Stout.",extra_point,0.0,0.0
+2026_10_WAS_NYG,10,2026-11-12,Thursday,WAS,NYG,"34-D.Zvada kicks 62 yards from NYG 35 to WAS 3, out of bounds. PENALTY on NYG-34-D.Zvada, Kickoff Out of Bounds, placed at WAS 40.",kickoff,0.0,0.0
+2026_10_WAS_NYG,10,2026-11-12,Thursday,WAS,NYG,(8:13) (Shotgun) 5-J.Daniels pass short right to 14-A.Williams to NYG 49 for 11 yards (20-G.Newsome).,pass,11.0,0.0
+2026_10_WAS_NYG,10,2026-11-12,Thursday,WAS,NYG,"(7:51) (No Huddle, Shotgun) 5-J.Daniels pass short right to 85-C.Okonkwo ran ob at NYG 44 for 5 yards.",pass,5.0,0.0
+2026_10_WAS_NYG,10,2026-11-12,Thursday,WAS,NYG,(7:23) 30-A.Ekeler up the middle to NYG 40 for 4 yards (3-A.Carter; 22-A.Phillips).,run,4.0,0.0
+2026_10_WAS_NYG,10,2026-11-12,Thursday,WAS,NYG,"(7:04) (No Huddle, Shotgun) 5-J.Daniels scrambles left end ran ob at NYG 28 for 12 yards (41-M.McFadden). Penalty on WAS-74-B.Coleman, Offensive Holding, offsetting, enforced at NYG 40 - No Play. Penalty on NYG-41-M.McFadden, Defensive Holding, offsetting.",no_play,,
+2026_10_WAS_NYG,10,2026-11-12,Thursday,WAS,NYG,(6:45) 1-R.White right guard to NYG 35 for 5 yards (8-J.Holland; 24-A.Washington).,run,5.0,0.0
+2026_10_WAS_NYG,10,2026-11-12,Thursday,WAS,NYG,"(6:21) (No Huddle, Shotgun) 5-J.Daniels pass short middle to 1-R.White to NYG 30 for 5 yards (5-K.Thibodeaux). NYG-5-K.Thibodeaux was injured during the play. WAS-1-R.White was injured during the play.",pass,5.0,0.0
+2026_10_WAS_NYG,10,2026-11-12,Thursday,WAS,NYG,(6:01) (Shotgun) 5-J.Daniels right end pushed ob at NYG 24 for 6 yards (41-M.McFadden).,run,6.0,0.0
+2026_10_WAS_NYG,10,2026-11-12,Thursday,WAS,NYG,"(5:31) (Shotgun) 5-J.Daniels pass deep left intended for 85-C.Okonkwo INTERCEPTED by 8-J.Holland at NYG 0. Touchback. The Replay Official reviewed the touchback ruling, and the play was REVERSED. (Shotgun) 5-J.Daniels pass deep left intended for 85-C.Okonkwo INTERCEPTED by 8-J.Holland at NYG 2. 8-J.Holland to NYG 2 for no gain (85-C.Okonkwo). ** Injury Update: NYG-5-K.Thibodeaux has returned to the game. ** Injury Update: WAS-1-R.White has returned to the game.",pass,0.0,0.0
+2026_10_WAS_NYG,10,2026-11-12,Thursday,NYG,WAS,(5:27) 44-C.Skattebo left guard to NYG 7 for 5 yards (96-S.Tuttle; 97-T.Settle).,run,5.0,0.0
+2026_10_WAS_NYG,10,2026-11-12,Thursday,NYG,WAS,(4:40) (Shotgun) 44-C.Skattebo right tackle to NYG 11 for 4 yards (52-S.Styles; 98-O.Oweh).,run,4.0,0.0
+2026_10_WAS_NYG,10,2026-11-12,Thursday,NYG,WAS,"(3:56) 19-J.Winston up the middle to NYG 12 for 1 yard (52-S.Styles; 91-D.Wise). Washington challenged the first down ruling, and the play was REVERSED. 19-J.Winston up the middle to NYG 11 for no gain (52-S.Styles; 91-D.Wise).",run,0.0,0.0
+2026_10_WAS_NYG,10,2026-11-12,Thursday,NYG,WAS,"(3:27) (Run formation) PENALTY on NYG, Delay of Game, 4 yards, enforced at NYG 11 - No Play.",no_play,0.0,0.0
+2026_10_WAS_NYG,10,2026-11-12,Thursday,NYG,WAS,"(3:27) 15-J.Stout punts 68 yards to WAS 25, Center-58-B.Mann. 11-L.McCaffrey ran ob at WAS 37 for 12 yards (46-Z.Barnes).",punt,0.0,0.0
+2026_10_WAS_NYG,10,2026-11-12,Thursday,WAS,NYG,(3:16) (Shotgun) 5-J.Daniels pass incomplete short left to 85-C.Okonkwo.,pass,0.0,0.0
+2026_10_WAS_NYG,10,2026-11-12,Thursday,WAS,NYG,(3:12) (Shotgun) 5-J.Daniels pass short left to 3-S.Diggs to WAS 46 for 9 yards (24-A.Washington).,pass,9.0,0.0
+2026_10_WAS_NYG,10,2026-11-12,Thursday,WAS,NYG,"(2:48) (No Huddle, Shotgun) 1-R.White up the middle to WAS 45 for -1 yards (2-D.Banks, 3-A.Carter).",run,-1.0,0.0
+2026_10_WAS_NYG,10,2026-11-12,Thursday,WAS,NYG,"(2:19) (No Huddle, Shotgun) 5-J.Daniels pass short left intended for 85-C.Okonkwo INTERCEPTED by 24-A.Washington at WAS 46. 24-A.Washington to WAS 46 for no gain.",pass,0.0,0.0
+2026_10_WAS_NYG,10,2026-11-12,Thursday,NYG,WAS,(2:15) (Shotgun) 44-C.Skattebo up the middle to WAS 41 for 5 yards (39-J.Reaves).,run,5.0,0.0
+2026_10_WAS_NYG,10,2026-11-12,Thursday,,,Timeout #1 by WAS at 02:10.,no_play,0.0,0.0
+2026_10_WAS_NYG,10,2026-11-12,Thursday,NYG,WAS,(2:10) 44-C.Skattebo left guard to WAS 39 for 2 yards (4-F.Luvu; 39-J.Reaves).,run,2.0,0.0
+2026_10_WAS_NYG,10,2026-11-12,Thursday,NYG,WAS,(2:00) (Shotgun) 18-J.McCarthy left end to WAS 41 for -2 yards (52-S.Styles).,run,-2.0,0.0
+2026_10_WAS_NYG,10,2026-11-12,Thursday,,,Timeout #2 by WAS at 01:54.,no_play,0.0,0.0
+2026_10_WAS_NYG,10,2026-11-12,Thursday,NYG,WAS,"(1:54) 15-J.Stout punts 12 yards to WAS 29, Center-58-B.Mann, out of bounds.",punt,0.0,0.0
+2026_10_WAS_NYG,10,2026-11-12,Thursday,WAS,NYG,"(1:46) (Shotgun) 5-J.Daniels pass incomplete deep left to 13-T.Burks (2-D.Banks). PENALTY on NYG-2-D.Banks, Defensive Pass Interference, 33 yards, enforced at WAS 29 - No Play.",no_play,0.0,0.0
+2026_10_WAS_NYG,10,2026-11-12,Thursday,WAS,NYG,(1:40) (Shotgun) 5-J.Daniels scrambles right end pushed ob at NYG 37 for 1 yard (22-A.Phillips).,run,1.0,0.0
+2026_10_WAS_NYG,10,2026-11-12,Thursday,WAS,NYG,(1:33) (Shotgun) 5-J.Daniels pass short left to 30-A.Ekeler to NYG 32 for 5 yards (41-M.McFadden; 2-D.Banks).,pass,5.0,0.0
+2026_10_WAS_NYG,10,2026-11-12,Thursday,WAS,NYG,"(1:05) (No Huddle, Shotgun) 5-J.Daniels pass short middle to 3-S.Diggs for 32 yards, TOUCHDOWN.",pass,32.0,1.0
+2026_10_WAS_NYG,10,2026-11-12,Thursday,WAS,NYG,"19-D.Stevens extra point is GOOD, Center-69-T.Ott, Holder-10-T.Way.",extra_point,0.0,0.0
+2026_10_WAS_NYG,10,2026-11-12,Thursday,NYG,WAS,"19-D.Stevens kicks 64 yards from WAS 35 to NYG 1. 30-G.Desrosiers to NYG 27 for 26 yards (56-K.Medrano). FUMBLES (56-K.Medrano), recovered by NYG-55-C.Martin at NYG 31.",kickoff,0.0,0.0
+2026_10_WAS_NYG,10,2026-11-12,Thursday,NYG,WAS,(:48) (Shotgun) 18-J.McCarthy pass deep left to 88-M.Fields pushed ob at WAS 48 for 21 yards (23-T.Amos).,pass,21.0,0.0
+2026_10_WAS_NYG,10,2026-11-12,Thursday,,,Timeout #1 by NYG at 00:42.,no_play,0.0,0.0
+2026_10_WAS_NYG,10,2026-11-12,Thursday,NYG,WAS,(:42) (Shotgun) 18-J.McCarthy pass incomplete short left to 88-M.Fields.,pass,0.0,0.0
+2026_10_WAS_NYG,10,2026-11-12,Thursday,NYG,WAS,(:39) (Shotgun) 18-J.McCarthy pass incomplete deep right to 17-D.Mooney (39-J.Reaves) [39-J.Reaves].,pass,0.0,0.0
+2026_10_WAS_NYG,10,2026-11-12,Thursday,NYG,WAS,(:34) (Shotgun) 18-J.McCarthy pass deep right intended for 1-M.Nabers INTERCEPTED by 29-R.Douglas at WAS 11. 29-R.Douglas to WAS 11 for no gain (1-M.Nabers).,pass,0.0,0.0
+2026_10_WAS_NYG,10,2026-11-12,Thursday,WAS,NYG,(:25) 5-J.Daniels kneels to WAS 10 for -1 yards.,qb_kneel,-1.0,0.0
+2026_10_WAS_NYG,10,2026-11-12,Thursday,,,Timeout #2 by NYG at 00:23.,no_play,0.0,0.0
+2026_10_WAS_NYG,10,2026-11-12,Thursday,WAS,NYG,"(:23) 5-J.Daniels kneels to WAS 10 for no gain. PENALTY on NYG-91-D.Alexander, Unnecessary Roughness, 15 yards, enforced at WAS 10.",qb_kneel,0.0,0.0
+2026_10_WAS_NYG,10,2026-11-12,Thursday,WAS,NYG,(:21) 5-J.Daniels kneels to WAS 24 for -1 yards.,qb_kneel,-1.0,0.0
+2026_10_WAS_NYG,10,2026-11-12,Thursday,WAS,NYG,END GAME,,,
