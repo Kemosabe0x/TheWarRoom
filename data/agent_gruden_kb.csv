@@ -24718,6 +24718,181 @@ game_id,week,game_date,day_of_week,posteam,defteam,desc,play_type,yards_gained,t
 2026_10_KC_ATL,10,2026-11-15,Sunday,ATL,KC,"(:15) (No Huddle, Shotgun) 9-M.Penix pass short left to 19-C.Blair pushed ob at KC 6 for 26 yards (22-J.Canady; 30-C.Roland-Wallace).",pass,26.0,0.0
 2026_10_KC_ATL,10,2026-11-15,Sunday,ATL,KC,"(:04) (No Huddle, Shotgun) 9-M.Penix pass incomplete short left to 19-C.Blair (8-K.Fulton).",pass,0.0,0.0
 2026_10_KC_ATL,10,2026-11-15,Sunday,ATL,KC,END GAME,,,
+2026_10_LAC_BAL,10,2026-11-16,Monday,,,GAME,,,
+2026_10_LAC_BAL,10,2026-11-16,Monday,BAL,LAC,"11-C.Dicker kicks 60 yards from LAC 35 to BAL 5. 17-C.Moore MUFFS catch, and recovers at BAL 10. 17-C.Moore to BAL 23 for 13 yards (50-C.Murphy; 53-D.Phillips).",kickoff,0.0,0.0
+2026_10_LAC_BAL,10,2026-11-16,Monday,BAL,LAC,"(14:53) 22-D.Henry right end to BAL 21 for -2 yards (52-K.Mack, 0-D.Henley).",run,-2.0,0.0
+2026_10_LAC_BAL,10,2026-11-16,Monday,BAL,LAC,(14:16) (Shotgun) 11-J.Brissett pass incomplete short right to 6-J.Lane (93-T.Tart).,pass,0.0,0.0
+2026_10_LAC_BAL,10,2026-11-16,Monday,BAL,LAC,(14:10) (Shotgun) 11-J.Brissett pass short middle to 89-M.Andrews to BAL 28 for 7 yards (2-E.Molden) [90-A.Mesidor].,pass,7.0,0.0
+2026_10_LAC_BAL,10,2026-11-16,Monday,BAL,LAC,"(13:34) 30-R.Eckley punts 35 yards to LAC 37, Center-46-N.Moore, out of bounds.",punt,0.0,0.0
+2026_10_LAC_BAL,10,2026-11-16,Monday,LAC,BAL,(13:28) 8-O.Hampton left tackle to LAC 48 for 11 yards (24-M.Starks; 32-T.Simpson).,run,11.0,0.0
+2026_10_LAC_BAL,10,2026-11-16,Monday,LAC,BAL,"(12:50) (Shotgun) Direct snap to 8-O.Hampton. 8-O.Hampton left end to BAL 47 for 5 yards (44-M.Humphrey; 32-T.Simpson). FUMBLES (44-M.Humphrey), and recovers at BAL 48.",run,4.0,0.0
+2026_10_LAC_BAL,10,2026-11-16,Monday,LAC,BAL,(12:06) (Shotgun) 10-J.Herbert pass deep right to 9-T.Harris pushed ob at BAL 26 for 22 yards (14-K.Hamilton).,pass,22.0,0.0
+2026_10_LAC_BAL,10,2026-11-16,Monday,LAC,BAL,(11:31) (Shotgun) 8-O.Hampton right end to BAL 22 for 4 yards (14-K.Hamilton).,run,4.0,0.0
+2026_10_LAC_BAL,10,2026-11-16,Monday,LAC,BAL,(10:49) (Shotgun) 10-J.Herbert pass incomplete short middle.,pass,0.0,0.0
+2026_10_LAC_BAL,10,2026-11-16,Monday,LAC,BAL,"(10:46) (Shotgun) 10-J.Herbert scrambles up the middle for 22 yards, TOUCHDOWN.",run,22.0,1.0
+2026_10_LAC_BAL,10,2026-11-16,Monday,LAC,BAL,"11-C.Dicker extra point is GOOD, Center-47-J.Harris, Holder-16-J.Scott.",extra_point,0.0,0.0
+2026_10_LAC_BAL,10,2026-11-16,Monday,BAL,LAC,11-C.Dicker kicks 64 yards from LAC 35 to BAL 1. 17-C.Moore to BAL 23 for 22 yards (24-R.Shelley).,kickoff,0.0,0.0
+2026_10_LAC_BAL,10,2026-11-16,Monday,BAL,LAC,(10:35) 76-C.Vinson reported in as eligible. 22-D.Henry right tackle to BAL 25 for 2 yards (90-A.Mesidor; 53-D.Phillips).,run,2.0,0.0
+2026_10_LAC_BAL,10,2026-11-16,Monday,BAL,LAC,(9:56) (Shotgun) 11-J.Brissett pass short left to 22-D.Henry to BAL 27 for 2 yards (53-D.Phillips).,pass,2.0,0.0
+2026_10_LAC_BAL,10,2026-11-16,Monday,BAL,LAC,(9:15) (Shotgun) 11-J.Brissett pass incomplete short middle to 7-R.Bateman (26-D.Jackson) [45-T.Tuipulotu].,pass,0.0,0.0
+2026_10_LAC_BAL,10,2026-11-16,Monday,BAL,LAC,"(9:11) 30-R.Eckley punts 48 yards to LAC 25, Center-46-N.Moore. 12-D.Davis to LAC 49 for 24 yards (24-M.Starks).",punt,0.0,0.0
+2026_10_LAC_BAL,10,2026-11-16,Monday,LAC,BAL,(8:57) (Shotgun) 10-J.Herbert pass short left to 88-C.Kolar to BAL 46 for 5 yards (32-T.Simpson; 44-M.Humphrey).,pass,5.0,0.0
+2026_10_LAC_BAL,10,2026-11-16,Monday,LAC,BAL,"(8:12) (Shotgun) 28-K.Vidal left tackle to BAL 47 for -1 yards (94-J.Jenkins, 91-T.Hendrickson).",run,-1.0,0.0
+2026_10_LAC_BAL,10,2026-11-16,Monday,LAC,BAL,(7:30) (Shotgun) 10-J.Herbert pass incomplete short right to 88-C.Kolar [32-T.Simpson].,pass,0.0,0.0
+2026_10_LAC_BAL,10,2026-11-16,Monday,LAC,BAL,"(7:22) 16-J.Scott punts 37 yards to BAL 10, Center-47-J.Harris, fair catch by 10-L.Wester.",punt,0.0,0.0
+2026_10_LAC_BAL,10,2026-11-16,Monday,BAL,LAC,"(7:15) 43-J.Hill left guard to BAL 24 for 14 yards (53-D.Phillips; 27-R.Mickens). PENALTY on BAL-74-J.Simpson, Offensive Holding, 5 yards, enforced at BAL 10 - No Play.",no_play,0.0,0.0
+2026_10_LAC_BAL,10,2026-11-16,Monday,BAL,LAC,(6:55) (Shotgun) 11-J.Brissett pass short middle to 43-J.Hill to BAL 9 for 4 yards (53-D.Phillips).,pass,4.0,0.0
+2026_10_LAC_BAL,10,2026-11-16,Monday,BAL,LAC,(6:15) (Shotgun) 11-J.Brissett sacked at BAL 7 for -2 yards (94-D.Tomlinson).,pass,-2.0,0.0
+2026_10_LAC_BAL,10,2026-11-16,Monday,BAL,LAC,(5:31) (Shotgun) 11-J.Brissett pass short right to 43-J.Hill to BAL 8 for 1 yard (4-T.Still).,pass,1.0,0.0
+2026_10_LAC_BAL,10,2026-11-16,Monday,BAL,LAC,"(4:50) 30-R.Eckley punts 51 yards to LAC 41, Center-46-N.Moore. 12-D.Davis to LAC 40 for -1 yards (39-K.Jackson).",punt,0.0,0.0
+2026_10_LAC_BAL,10,2026-11-16,Monday,LAC,BAL,(4:39) (Shotgun) 10-J.Herbert scrambles right end to LAC 43 for 3 yards (39-K.Jackson).,run,3.0,0.0
+2026_10_LAC_BAL,10,2026-11-16,Monday,LAC,BAL,"(3:53) (Shotgun) 10-J.Herbert pass incomplete deep right to 9-T.Harris [32-T.Simpson]. Los Angeles Chargers challenged the incomplete pass ruling, and the play was REVERSED. (Shotgun) 10-J.Herbert pass deep right to 9-T.Harris to BAL 26 for 31 yards (14-K.Hamilton) [32-T.Simpson].",pass,31.0,0.0
+2026_10_LAC_BAL,10,2026-11-16,Monday,LAC,BAL,"(3:39) (Shotgun) 10-J.Herbert pass short right to 83-D.Njoku to BAL 25 for 1 yard (0-R.Smith). PENALTY on LAC-77-T.Burke, Ineligible Downfield Pass, 5 yards, enforced at BAL 26 - No Play.",no_play,0.0,0.0
+2026_10_LAC_BAL,10,2026-11-16,Monday,LAC,BAL,(3:14) (Shotgun) 10-J.Herbert pass incomplete deep right to 34-K.Mitchell.,pass,0.0,0.0
+2026_10_LAC_BAL,10,2026-11-16,Monday,LAC,BAL,(3:07) 8-O.Hampton left end to BAL 24 for 7 yards (0-R.Smith).,run,7.0,0.0
+2026_10_LAC_BAL,10,2026-11-16,Monday,LAC,BAL,"(2:28) (Shotgun) 10-J.Herbert scrambles left end pushed ob at BAL 20 for 4 yards (92-N.Madubuike). Penalty on LAC, Illegal Formation, declined.",run,4.0,0.0
+2026_10_LAC_BAL,10,2026-11-16,Monday,LAC,BAL,"(2:08) 11-C.Dicker 38 yard field goal is GOOD, Center-47-J.Harris, Holder-16-J.Scott.",field_goal,0.0,0.0
+2026_10_LAC_BAL,10,2026-11-16,Monday,BAL,LAC,"11-C.Dicker kicks 65 yards from LAC 35 to end zone, Touchback to the BAL 35.",kickoff,0.0,0.0
+2026_10_LAC_BAL,10,2026-11-16,Monday,BAL,LAC,(2:03) (Shotgun) 11-J.Brissett pass incomplete deep left to 6-J.Lane (20-C.Hart).,pass,0.0,0.0
+2026_10_LAC_BAL,10,2026-11-16,Monday,BAL,LAC,"(1:59) (Shotgun) 11-J.Brissett pass incomplete short right to 7-R.Bateman (4-T.Still, 2-E.Molden).",pass,0.0,0.0
+2026_10_LAC_BAL,10,2026-11-16,Monday,BAL,LAC,(1:51) (Shotgun) 11-J.Brissett pass short middle to 89-M.Andrews to BAL 45 for 10 yards (0-D.Henley; 52-K.Mack).,pass,10.0,0.0
+2026_10_LAC_BAL,10,2026-11-16,Monday,BAL,LAC,(1:08) (Shotgun) 43-J.Hill left guard to BAL 46 for 1 yard (94-D.Tomlinson).,run,1.0,0.0
+2026_10_LAC_BAL,10,2026-11-16,Monday,BAL,LAC,(:32) 11-J.Brissett pass deep right to 4-Z.Flowers to LAC 37 for 17 yards (4-T.Still).,pass,17.0,0.0
+2026_10_LAC_BAL,10,2026-11-16,Monday,BAL,LAC,END QUARTER 1,,,
+2026_10_LAC_BAL,10,2026-11-16,Monday,BAL,LAC,(15:00) 22-D.Henry right guard to LAC 37 for no gain (23-T.Jefferson).,run,0.0,0.0
+2026_10_LAC_BAL,10,2026-11-16,Monday,BAL,LAC,(14:22) (Shotgun) 11-J.Brissett pass deep middle to 89-M.Andrews to LAC 21 for 16 yards (23-T.Jefferson) [93-T.Tart].,pass,16.0,0.0
+2026_10_LAC_BAL,10,2026-11-16,Monday,BAL,LAC,"(13:40) (Shotgun) PENALTY on BAL-71-O.Ioane, False Start, 5 yards, enforced at LAC 21 - No Play.",no_play,0.0,0.0
+2026_10_LAC_BAL,10,2026-11-16,Monday,BAL,LAC,(13:25) (Shotgun) 11-J.Brissett pass incomplete short right to 43-J.Hill.,pass,0.0,0.0
+2026_10_LAC_BAL,10,2026-11-16,Monday,BAL,LAC,(13:21) (Shotgun) 11-J.Brissett pass deep middle to 7-R.Bateman to LAC 2 for 24 yards (20-C.Hart).,pass,24.0,0.0
+2026_10_LAC_BAL,10,2026-11-16,Monday,BAL,LAC,"(12:37) 76-C.Vinson reported in as eligible. 22-D.Henry right tackle for 2 yards, TOUCHDOWN.",run,2.0,1.0
+2026_10_LAC_BAL,10,2026-11-16,Monday,BAL,LAC,"35-R.Patterson extra point is GOOD, Center-46-N.Moore, Holder-30-R.Eckley.",extra_point,0.0,0.0
+2026_10_LAC_BAL,10,2026-11-16,Monday,LAC,BAL,"35-R.Patterson kicks 62 yards from BAL 35 to LAC 3. 34-K.Mitchell to LAC 18 for 15 yards (97-E.Burke). FUMBLES (97-E.Burke), recovered by LAC-88-C.Kolar at LAC 12. ** Injury Update: LAC-86-O.Gadsden has returned to the game.",kickoff,0.0,0.0
+2026_10_LAC_BAL,10,2026-11-16,Monday,LAC,BAL,(12:24) (Shotgun) 10-J.Herbert scrambles up the middle to LAC 13 for 1 yard (98-T.Jones).,run,1.0,0.0
+2026_10_LAC_BAL,10,2026-11-16,Monday,LAC,BAL,"(11:59) (No Huddle, Shotgun) 34-K.Mitchell right end to LAC 8 for -5 yards (15-M.Green).",run,-5.0,0.0
+2026_10_LAC_BAL,10,2026-11-16,Monday,LAC,BAL,(11:14) (Shotgun) 10-J.Herbert pass short left to 9-T.Harris to LAC 17 for 9 yards (27-T.Tampa).,pass,9.0,0.0
+2026_10_LAC_BAL,10,2026-11-16,Monday,LAC,BAL,"(10:29) 16-J.Scott punts 57 yards to BAL 26, Center-47-J.Harris. 10-L.Wester to BAL 46 for 20 yards (53-D.Phillips; 50-C.Murphy).",punt,0.0,0.0
+2026_10_LAC_BAL,10,2026-11-16,Monday,BAL,LAC,(10:16) 22-D.Henry right tackle to BAL 43 for -3 yards (93-T.Tart).,run,-3.0,0.0
+2026_10_LAC_BAL,10,2026-11-16,Monday,BAL,LAC,(9:39) (Shotgun) 11-J.Brissett pass short middle intended for 6-J.Lane INTERCEPTED by 53-D.Phillips (20-C.Hart) at LAC 43. 53-D.Phillips to BAL 48 for 9 yards (74-J.Simpson).,pass,0.0,0.0
+2026_10_LAC_BAL,10,2026-11-16,Monday,LAC,BAL,(9:31) 8-O.Hampton left tackle to BAL 43 for 5 yards (0-R.Smith).,run,5.0,0.0
+2026_10_LAC_BAL,10,2026-11-16,Monday,LAC,BAL,(8:54) (Shotgun) 8-O.Hampton right guard to BAL 47 for -4 yards (32-T.Simpson).,run,-4.0,0.0
+2026_10_LAC_BAL,10,2026-11-16,Monday,LAC,BAL,(8:10) (Shotgun) 10-J.Herbert pass short left to 9-T.Harris to BAL 39 for 8 yards (44-M.Humphrey).,pass,8.0,0.0
+2026_10_LAC_BAL,10,2026-11-16,Monday,LAC,BAL,"(7:30) 8-O.Hampton left tackle to BAL 37 for 2 yards (93-C.Campbell; 44-M.Humphrey). PENALTY on LAC-69-C.Strange, Unnecessary Roughness, 15 yards, enforced at BAL 37.",run,2.0,0.0
+2026_10_LAC_BAL,10,2026-11-16,Monday,LAC,BAL,(7:12) (Shotgun) 34-K.Mitchell left end pushed ob at BAL 41 for 11 yards (44-M.Humphrey).,run,11.0,0.0
+2026_10_LAC_BAL,10,2026-11-16,Monday,LAC,BAL,(6:42) (Shotgun) 10-J.Herbert scrambles left end to BAL 33 for 8 yards (44-M.Humphrey; 14-K.Hamilton).,run,8.0,0.0
+2026_10_LAC_BAL,10,2026-11-16,Monday,LAC,BAL,(6:00) 34-K.Mitchell right end to BAL 35 for -2 yards (2-N.Wiggins).,run,-2.0,0.0
+2026_10_LAC_BAL,10,2026-11-16,Monday,LAC,BAL,(5:16) (Shotgun) 10-J.Herbert pass short middle to 9-T.Harris to BAL 19 for 16 yards (14-K.Hamilton).,pass,16.0,0.0
+2026_10_LAC_BAL,10,2026-11-16,Monday,LAC,BAL,"(4:38) 8-O.Hampton right guard to BAL 12 for 7 yards (0-R.Smith; 2-N.Wiggins). PENALTY on BAL-9-Z.Young, Defensive Offside, 5 yards, enforced at BAL 19 - No Play.",no_play,0.0,0.0
+2026_10_LAC_BAL,10,2026-11-16,Monday,LAC,BAL,(4:14) (Shotgun) 8-O.Hampton left end to BAL 8 for 6 yards (44-M.Humphrey). The first down was assisted by replay.,run,6.0,0.0
+2026_10_LAC_BAL,10,2026-11-16,Monday,LAC,BAL,(3:36) (Shotgun) 8-O.Hampton left tackle to BAL 8 for no gain (32-T.Simpson; 44-M.Humphrey).,run,0.0,0.0
+2026_10_LAC_BAL,10,2026-11-16,Monday,LAC,BAL,(2:55) (Shotgun) 10-J.Herbert sacked at BAL 8 for 0 yards (15-M.Green).,pass,0.0,0.0
+2026_10_LAC_BAL,10,2026-11-16,Monday,,,Timeout #1 by LAC at 02:15.,no_play,0.0,0.0
+2026_10_LAC_BAL,10,2026-11-16,Monday,LAC,BAL,(2:15) (Shotgun) 10-J.Herbert scrambles left end to BAL 1 for 7 yards (32-T.Simpson).,run,7.0,0.0
+2026_10_LAC_BAL,10,2026-11-16,Monday,LAC,BAL,"(2:00) 8-O.Hampton left guard for 1 yard, TOUCHDOWN.",run,1.0,1.0
+2026_10_LAC_BAL,10,2026-11-16,Monday,LAC,BAL,"11-C.Dicker extra point is GOOD, Center-47-J.Harris, Holder-16-J.Scott.",extra_point,0.0,0.0
+2026_10_LAC_BAL,10,2026-11-16,Monday,BAL,LAC,"11-C.Dicker kicks 65 yards from LAC 35 to landing zone to end zone, Touchback to the BAL 20.",kickoff,0.0,0.0
+2026_10_LAC_BAL,10,2026-11-16,Monday,BAL,LAC,(1:52) (Shotgun) 11-J.Brissett pass deep middle to 6-J.Lane to LAC 49 for 31 yards (27-R.Mickens).,pass,31.0,0.0
+2026_10_LAC_BAL,10,2026-11-16,Monday,BAL,LAC,(1:13) (Shotgun) 11-J.Brissett pass incomplete deep right to 6-J.Lane (24-R.Shelley).,pass,0.0,0.0
+2026_10_LAC_BAL,10,2026-11-16,Monday,BAL,LAC,"(1:05) (Shotgun) PENALTY on BAL, Delay of Game, 5 yards, enforced at LAC 49 - No Play.",no_play,0.0,0.0
+2026_10_LAC_BAL,10,2026-11-16,Monday,BAL,LAC,"(1:05) (Shotgun) 11-J.Brissett pass short left to 4-Z.Flowers to LAC 42 for 12 yards (53-D.Phillips). PENALTY on LAC-27-R.Mickens, Defensive Holding, 5 yards, enforced at BAL 46 - No Play.",no_play,0.0,0.0
+2026_10_LAC_BAL,10,2026-11-16,Monday,BAL,LAC,"(:57) (Shotgun) 11-J.Brissett scrambles left tackle to LAC 40 for 9 yards (4-T.Still). PENALTY on BAL-79-R.Stanley, Offensive Holding, 10 yards, enforced at LAC 49 - No Play.",no_play,0.0,0.0
+2026_10_LAC_BAL,10,2026-11-16,Monday,BAL,LAC,(:50) (Shotgun) 11-J.Brissett pass short middle to 89-M.Andrews to BAL 49 for 8 yards (2-E.Molden).,pass,8.0,0.0
+2026_10_LAC_BAL,10,2026-11-16,Monday,,,Timeout #1 by BAL at 00:43.,no_play,0.0,0.0
+2026_10_LAC_BAL,10,2026-11-16,Monday,BAL,LAC,(:43) (Shotgun) 11-J.Brissett pass incomplete deep left to 6-J.Lane.,pass,0.0,0.0
+2026_10_LAC_BAL,10,2026-11-16,Monday,BAL,LAC,(:38) (Shotgun) 11-J.Brissett pass short middle to 85-J.Cuevas to LAC 39 for 12 yards (4-T.Still; 0-D.Henley).,pass,12.0,0.0
+2026_10_LAC_BAL,10,2026-11-16,Monday,,,Timeout #2 by BAL at 00:31.,no_play,0.0,0.0
+2026_10_LAC_BAL,10,2026-11-16,Monday,BAL,LAC,(:31) (Shotgun) 11-J.Brissett pass short right to 43-J.Hill pushed ob at LAC 33 for 6 yards (22-G.Smith).,pass,6.0,0.0
+2026_10_LAC_BAL,10,2026-11-16,Monday,BAL,LAC,(:24) (Shotgun) 11-J.Brissett pass short left to 85-J.Cuevas to LAC 26 for 7 yards (0-D.Henley).,pass,7.0,0.0
+2026_10_LAC_BAL,10,2026-11-16,Monday,BAL,LAC,(:09) (No Huddle) 11-J.Brissett spiked the ball to stop the clock.,qb_spike,0.0,0.0
+2026_10_LAC_BAL,10,2026-11-16,Monday,,,Timeout #2 by LAC at 00:08.,no_play,0.0,0.0
+2026_10_LAC_BAL,10,2026-11-16,Monday,BAL,LAC,(:08) (Shotgun) 11-J.Brissett pass short middle to 85-J.Cuevas to LAC 8 for 18 yards (33-D.Leonard).,pass,18.0,0.0
+2026_10_LAC_BAL,10,2026-11-16,Monday,,,Timeout #3 by BAL at 00:03.,no_play,0.0,0.0
+2026_10_LAC_BAL,10,2026-11-16,Monday,BAL,LAC,"(:03) 35-R.Patterson 26 yard field goal is GOOD, Center-46-N.Moore, Holder-30-R.Eckley.",field_goal,0.0,0.0
+2026_10_LAC_BAL,10,2026-11-16,Monday,,,END QUARTER 2,,,
+2026_10_LAC_BAL,10,2026-11-16,Monday,LAC,BAL,35-R.Patterson kicks 61 yards from BAL 35 to LAC 4. 34-K.Mitchell to LAC 25 for 21 yards (39-K.Jackson).,kickoff,0.0,0.0
+2026_10_LAC_BAL,10,2026-11-16,Monday,LAC,BAL,(14:55) (Shotgun) 8-O.Hampton right guard to LAC 44 for 19 yards (2-N.Wiggins; 14-K.Hamilton).,run,19.0,0.0
+2026_10_LAC_BAL,10,2026-11-16,Monday,LAC,BAL,(14:14) 10-J.Herbert pass incomplete short right [15-M.Green].,pass,0.0,0.0
+2026_10_LAC_BAL,10,2026-11-16,Monday,LAC,BAL,(14:04) (Shotgun) 8-O.Hampton left end to BAL 47 for 9 yards (0-R.Smith).,run,9.0,0.0
+2026_10_LAC_BAL,10,2026-11-16,Monday,LAC,BAL,(13:25) 8-O.Hampton left end to BAL 49 for -2 yards (0-R.Smith).,run,-2.0,0.0
+2026_10_LAC_BAL,10,2026-11-16,Monday,LAC,BAL,"(12:44) 16-J.Scott punts 43 yards to BAL 6, Center-47-J.Harris, fair catch by 10-L.Wester.",punt,0.0,0.0
+2026_10_LAC_BAL,10,2026-11-16,Monday,BAL,LAC,(12:37) 76-C.Vinson reported in as eligible. 22-D.Henry left guard to BAL 7 for 1 yard (93-T.Tart; 20-C.Hart).,run,1.0,0.0
+2026_10_LAC_BAL,10,2026-11-16,Monday,BAL,LAC,(11:56) (Shotgun) 11-J.Brissett pass short right to 7-R.Bateman to BAL 13 for 6 yards (2-E.Molden; 53-D.Phillips).,pass,6.0,0.0
+2026_10_LAC_BAL,10,2026-11-16,Monday,BAL,LAC,"(11:17) (Shotgun) 11-J.Brissett sacked at BAL 6 for -7 yards (94-D.Tomlinson). Penalty on BAL-70-R.Rosengarten, Tripping, declined.",pass,-7.0,0.0
+2026_10_LAC_BAL,10,2026-11-16,Monday,BAL,LAC,"(11:02) 30-R.Eckley punts 55 yards to LAC 39, Center-46-N.Moore. 12-D.Davis ran ob at BAL 37 for 24 yards (30-R.Eckley).",punt,0.0,0.0
+2026_10_LAC_BAL,10,2026-11-16,Monday,LAC,BAL,"(10:49) 10-J.Herbert pass short left to 28-K.Vidal to BAL 22 for 15 yards (25-K.Wallace; 15-M.Green). Penalty on BAL-93-C.Campbell, Defensive Offside, declined.",pass,15.0,0.0
+2026_10_LAC_BAL,10,2026-11-16,Monday,LAC,BAL,(10:30) 8-O.Hampton left end to BAL 22 for no gain (93-C.Campbell; 0-R.Smith).,run,0.0,0.0
+2026_10_LAC_BAL,10,2026-11-16,Monday,LAC,BAL,(9:55) (Shotgun) 10-J.Herbert pass short left to 1-Q.Johnston to BAL 16 for 6 yards (32-T.Simpson; 0-R.Smith).,pass,6.0,0.0
+2026_10_LAC_BAL,10,2026-11-16,Monday,LAC,BAL,(9:09) (Shotgun) 10-J.Herbert pass incomplete short left to 82-T.Wease (24-M.Starks).,pass,0.0,0.0
+2026_10_LAC_BAL,10,2026-11-16,Monday,LAC,BAL,"(9:06) 11-C.Dicker 34 yard field goal is GOOD, Center-47-J.Harris, Holder-16-J.Scott.",field_goal,0.0,0.0
+2026_10_LAC_BAL,10,2026-11-16,Monday,BAL,LAC,11-C.Dicker kicks 59 yards from LAC 35 to BAL 6. 17-C.Moore to BAL 29 for 23 yards (58-M.Wax; 28-K.Vidal).,kickoff,0.0,0.0
+2026_10_LAC_BAL,10,2026-11-16,Monday,BAL,LAC,(8:57) (Shotgun) 11-J.Brissett pass short middle to 89-M.Andrews to BAL 33 for 4 yards (53-D.Phillips; 0-D.Henley).,pass,4.0,0.0
+2026_10_LAC_BAL,10,2026-11-16,Monday,BAL,LAC,(8:16) 11-J.Brissett pass short left to 22-D.Henry to BAL 38 for 5 yards (91-N.Barrett).,pass,5.0,0.0
+2026_10_LAC_BAL,10,2026-11-16,Monday,BAL,LAC,(7:47) (No Huddle) 11-J.Brissett up the middle to BAL 40 for 2 yards (53-D.Phillips).,run,2.0,0.0
+2026_10_LAC_BAL,10,2026-11-16,Monday,BAL,LAC,(7:07) (Shotgun) 22-D.Henry left guard to BAL 46 for 6 yards (23-T.Jefferson).,run,6.0,0.0
+2026_10_LAC_BAL,10,2026-11-16,Monday,BAL,LAC,(6:33) 76-C.Vinson reported in as eligible. 11-J.Brissett pass short right to 89-M.Andrews to LAC 44 for 10 yards (20-C.Hart) [94-D.Tomlinson].,pass,10.0,0.0
+2026_10_LAC_BAL,10,2026-11-16,Monday,,,Timeout #1 by BAL at 05:49.,no_play,0.0,0.0
+2026_10_LAC_BAL,10,2026-11-16,Monday,BAL,LAC,(5:49) 11-J.Brissett pass short right to 4-Z.Flowers to LAC 42 for 2 yards (26-D.Jackson; 0-D.Henley).,pass,2.0,0.0
+2026_10_LAC_BAL,10,2026-11-16,Monday,BAL,LAC,(5:13) 11-J.Brissett pass incomplete short middle to 4-Z.Flowers [45-T.Tuipulotu].,pass,0.0,0.0
+2026_10_LAC_BAL,10,2026-11-16,Monday,BAL,LAC,(5:08) (Shotgun) 11-J.Brissett pass short left to 43-J.Hill pushed ob at LAC 17 for 25 yards (22-G.Smith).,pass,25.0,0.0
+2026_10_LAC_BAL,10,2026-11-16,Monday,BAL,LAC,(4:29) 22-D.Henry right end to LAC 17 for no gain (53-D.Phillips).,run,0.0,0.0
+2026_10_LAC_BAL,10,2026-11-16,Monday,BAL,LAC,(3:50) (Shotgun) 11-J.Brissett pass incomplete short right to 43-J.Hill [45-T.Tuipulotu].,pass,0.0,0.0
+2026_10_LAC_BAL,10,2026-11-16,Monday,BAL,LAC,(3:46) (Shotgun) 11-J.Brissett pass incomplete deep middle to 6-J.Lane.,pass,0.0,0.0
+2026_10_LAC_BAL,10,2026-11-16,Monday,BAL,LAC,"(3:40) 35-R.Patterson 36 yard field goal is GOOD, Center-46-N.Moore, Holder-30-R.Eckley.",field_goal,0.0,0.0
+2026_10_LAC_BAL,10,2026-11-16,Monday,LAC,BAL,35-R.Patterson kicks 63 yards from BAL 35 to LAC 2. 12-D.Davis to LAC 30 for 28 yards (39-K.Jackson).,kickoff,0.0,0.0
+2026_10_LAC_BAL,10,2026-11-16,Monday,LAC,BAL,"(3:28) (Shotgun) 10-J.Herbert pass incomplete short middle to 83-D.Njoku (40-T.Buchanan). PENALTY on BAL-15-M.Green, Roughing the Passer, 15 yards, enforced at LAC 30 - No Play.",no_play,0.0,0.0
+2026_10_LAC_BAL,10,2026-11-16,Monday,LAC,BAL,(3:25) (Shotgun) 8-O.Hampton right guard to BAL 39 for 16 yards (2-N.Wiggins).,run,16.0,0.0
+2026_10_LAC_BAL,10,2026-11-16,Monday,LAC,BAL,(2:40) (Shotgun) 8-O.Hampton right guard to BAL 26 for 13 yards (14-K.Hamilton).,run,13.0,0.0
+2026_10_LAC_BAL,10,2026-11-16,Monday,LAC,BAL,(1:56) (Shotgun) 8-O.Hampton right end to BAL 22 for 4 yards (14-K.Hamilton).,run,4.0,0.0
+2026_10_LAC_BAL,10,2026-11-16,Monday,LAC,BAL,(1:12) (Shotgun) 10-J.Herbert pass short middle to 28-K.Vidal to BAL 23 for -1 yards (38-K.Martin) [93-C.Campbell].,pass,-1.0,0.0
+2026_10_LAC_BAL,10,2026-11-16,Monday,LAC,BAL,(:29) (Shotgun) 10-J.Herbert scrambles left end to BAL 17 for 6 yards (14-K.Hamilton).,run,6.0,0.0
+2026_10_LAC_BAL,10,2026-11-16,Monday,LAC,BAL,END QUARTER 3,,,
+2026_10_LAC_BAL,10,2026-11-16,Monday,LAC,BAL,"(15:00) 11-C.Dicker 35 yard field goal is GOOD, Center-47-J.Harris, Holder-16-J.Scott.",field_goal,0.0,0.0
+2026_10_LAC_BAL,10,2026-11-16,Monday,BAL,LAC,11-C.Dicker kicks 60 yards from LAC 35 to BAL 5. 17-C.Moore to BAL 29 for 24 yards (23-T.Jefferson; 50-C.Murphy).,kickoff,0.0,0.0
+2026_10_LAC_BAL,10,2026-11-16,Monday,BAL,LAC,(14:51) 11-J.Brissett pass short right to 4-Z.Flowers to BAL 44 for 15 yards (27-R.Mickens; 6-D.Perryman).,pass,15.0,0.0
+2026_10_LAC_BAL,10,2026-11-16,Monday,BAL,LAC,(14:12) 11-J.Brissett pass incomplete short right.,pass,0.0,0.0
+2026_10_LAC_BAL,10,2026-11-16,Monday,BAL,LAC,(14:03) (Shotgun) 11-J.Brissett pass short middle to 7-R.Bateman to LAC 44 for 12 yards (0-D.Henley).,pass,12.0,0.0
+2026_10_LAC_BAL,10,2026-11-16,Monday,BAL,LAC,(13:24) (Shotgun) Direct snap to 22-D.Henry. 11-J.Brissett pass short middle to 4-Z.Flowers pushed ob at LAC 28 for 16 yards (26-D.Jackson). LAC-26-D.Jackson was injured during the play.,pass,16.0,0.0
+2026_10_LAC_BAL,10,2026-11-16,Monday,BAL,LAC,(12:59) (Shotgun) 11-J.Brissett pass short right to 4-Z.Flowers pushed ob at LAC 19 for 9 yards (0-D.Henley).,pass,9.0,0.0
+2026_10_LAC_BAL,10,2026-11-16,Monday,BAL,LAC,(12:22) 76-C.Vinson reported in as eligible. 43-J.Hill right guard to LAC 17 for 2 yards (94-D.Tomlinson; 6-D.Perryman).,run,2.0,0.0
+2026_10_LAC_BAL,10,2026-11-16,Monday,BAL,LAC,(11:45) (Shotgun) 11-J.Brissett pass short middle to 89-M.Andrews to LAC 4 for 13 yards (2-E.Molden).,pass,13.0,0.0
+2026_10_LAC_BAL,10,2026-11-16,Monday,BAL,LAC,(11:08) 11-J.Brissett pass incomplete short middle to 17-C.Moore.,pass,0.0,0.0
+2026_10_LAC_BAL,10,2026-11-16,Monday,BAL,LAC,(11:04) 76-C.Vinson reported in as eligible. Direct snap to 22-D.Henry. 22-D.Henry right end to LAC 1 for 3 yards (99-J.Caldwell). LAC-93-T.Tart was injured during the play.,run,3.0,0.0
+2026_10_LAC_BAL,10,2026-11-16,Monday,BAL,LAC,"(10:27) 76-C.Vinson reported in as eligible. 22-D.Henry left end for 1 yard, TOUCHDOWN.",run,1.0,1.0
+2026_10_LAC_BAL,10,2026-11-16,Monday,BAL,LAC,"35-R.Patterson extra point is GOOD, Center-46-N.Moore, Holder-30-R.Eckley.",extra_point,0.0,0.0
+2026_10_LAC_BAL,10,2026-11-16,Monday,LAC,BAL,35-R.Patterson kicks 63 yards from BAL 35 to LAC 2. 28-K.Vidal to LAC 34 for 32 yards (49-J.Higgins; 24-M.Starks).,kickoff,0.0,0.0
+2026_10_LAC_BAL,10,2026-11-16,Monday,LAC,BAL,(10:16) (Shotgun) 8-O.Hampton left guard to LAC 36 for 2 yards (14-K.Hamilton; 96-B.Washington).,run,2.0,0.0
+2026_10_LAC_BAL,10,2026-11-16,Monday,LAC,BAL,(9:52) Direct snap to 8-O.Hampton. 10-J.Herbert sacked at LAC 34 for -2 yards (15-M.Green).,pass,-2.0,0.0
+2026_10_LAC_BAL,10,2026-11-16,Monday,LAC,BAL,(9:34) (Shotgun) 10-J.Herbert pass short right to 86-O.Gadsden to LAC 41 for 7 yards (0-R.Smith) [93-C.Campbell].,pass,7.0,0.0
+2026_10_LAC_BAL,10,2026-11-16,Monday,LAC,BAL,"(8:51) 16-J.Scott punts 28 yards to BAL 31, Center-47-J.Harris, downed by LAC-43-T.Dye.",punt,0.0,0.0
+2026_10_LAC_BAL,10,2026-11-16,Monday,BAL,LAC,(8:39) (Shotgun) 11-J.Brissett pass short left to 22-D.Henry to BAL 31 for no gain (0-D.Henley). ** Injury Update: LAC-26-D.Jackson has returned to the game. ** Injury Update: LAC-93-T.Tart has returned to the game.,pass,0.0,0.0
+2026_10_LAC_BAL,10,2026-11-16,Monday,BAL,LAC,"(8:02) (Shotgun) 11-J.Brissett pass short middle to 6-J.Lane to BAL 40 for 9 yards (20-C.Hart, 2-E.Molden).",pass,9.0,0.0
+2026_10_LAC_BAL,10,2026-11-16,Monday,BAL,LAC,(7:39) 11-J.Brissett up the middle to BAL 40 for no gain (0-D.Henley; 94-D.Tomlinson).,run,0.0,0.0
+2026_10_LAC_BAL,10,2026-11-16,Monday,BAL,LAC,(6:48) 76-C.Vinson reported in as eligible. 43-J.Hill right tackle to BAL 41 for 1 yard (23-T.Jefferson; 45-T.Tuipulotu).,run,1.0,0.0
+2026_10_LAC_BAL,10,2026-11-16,Monday,BAL,LAC,(6:07) 76-C.Vinson reported in as eligible. 11-J.Brissett pass short left to 22-D.Henry to BAL 42 for 1 yard (6-D.Perryman).,pass,1.0,0.0
+2026_10_LAC_BAL,10,2026-11-16,Monday,BAL,LAC,(5:27) 11-J.Brissett pass short middle to 22-D.Henry to BAL 44 for 2 yards (90-A.Mesidor).,pass,2.0,0.0
+2026_10_LAC_BAL,10,2026-11-16,Monday,BAL,LAC,(4:44) (Shotgun) 11-J.Brissett pass short right to 43-J.Hill to BAL 42 for -2 yards (0-D.Henley) [45-T.Tuipulotu].,pass,-2.0,0.0
+2026_10_LAC_BAL,10,2026-11-16,Monday,BAL,LAC,"(4:11) 30-R.Eckley punts 58 yards to end zone, Center-46-N.Moore, Touchback.",punt,0.0,0.0
+2026_10_LAC_BAL,10,2026-11-16,Monday,LAC,BAL,(4:02) 8-O.Hampton left guard to LAC 20 for no gain (98-T.Jones). ** Injury Update: BAL-14-K.Hamilton has returned to the game.,run,0.0,0.0
+2026_10_LAC_BAL,10,2026-11-16,Monday,LAC,BAL,(3:20) (Shotgun) 10-J.Herbert pass short right to 8-O.Hampton to LAC 20 for no gain (15-M.Green).,pass,0.0,0.0
+2026_10_LAC_BAL,10,2026-11-16,Monday,LAC,BAL,(2:35) (Shotgun) 10-J.Herbert pass incomplete short right to 8-O.Hampton.,pass,0.0,0.0
+2026_10_LAC_BAL,10,2026-11-16,Monday,LAC,BAL,"(2:31) 16-J.Scott punts 55 yards to BAL 25, Center-47-J.Harris, fair catch by 10-L.Wester.",punt,0.0,0.0
+2026_10_LAC_BAL,10,2026-11-16,Monday,BAL,LAC,(2:24) (Shotgun) 11-J.Brissett pass short right to 89-M.Andrews ran ob at BAL 39 for 14 yards.,pass,14.0,0.0
+2026_10_LAC_BAL,10,2026-11-16,Monday,BAL,LAC,(2:15) (Shotgun) 11-J.Brissett pass incomplete short right to 6-J.Lane (0-D.Henley).,pass,0.0,0.0
+2026_10_LAC_BAL,10,2026-11-16,Monday,BAL,LAC,"(2:11) 11-J.Brissett pass short left to 4-Z.Flowers to LAC 46 for 15 yards (4-T.Still). FUMBLES (4-T.Still), RECOVERED by LAC-2-E.Molden at LAC 46.",pass,15.0,0.0
+2026_10_LAC_BAL,10,2026-11-16,Monday,LAC,BAL,(2:03) 28-K.Vidal left end to LAC 47 for 1 yard (32-T.Simpson).,run,1.0,0.0
+2026_10_LAC_BAL,10,2026-11-16,Monday,LAC,BAL,(2:00) 10-J.Herbert pass short right to 88-C.Kolar to BAL 42 for 11 yards (0-R.Smith).,pass,11.0,0.0
+2026_10_LAC_BAL,10,2026-11-16,Monday,,,Timeout #2 by BAL at 01:52.,no_play,0.0,0.0
+2026_10_LAC_BAL,10,2026-11-16,Monday,,,Timeout #1 by LAC at 01:52.,no_play,0.0,0.0
+2026_10_LAC_BAL,10,2026-11-16,Monday,LAC,BAL,(1:52) (Shotgun) 8-O.Hampton right guard to BAL 39 for 3 yards (15-M.Green; 93-C.Campbell).,run,3.0,0.0
+2026_10_LAC_BAL,10,2026-11-16,Monday,,,Timeout #3 by BAL at 01:48.,no_play,0.0,0.0
+2026_10_LAC_BAL,10,2026-11-16,Monday,LAC,BAL,(1:48) 8-O.Hampton left tackle to BAL 36 for 3 yards (98-T.Jones).,run,3.0,0.0
+2026_10_LAC_BAL,10,2026-11-16,Monday,LAC,BAL,(1:03) 8-O.Hampton right guard to BAL 34 for 2 yards (93-C.Campbell; 24-M.Starks).,run,2.0,0.0
+2026_10_LAC_BAL,10,2026-11-16,Monday,,,Timeout #2 by LAC at 00:18.,no_play,0.0,0.0
+2026_10_LAC_BAL,10,2026-11-16,Monday,LAC,BAL,"(:18) (Run formation) PENALTY on LAC, Delay of Game, 5 yards, enforced at BAL 34 - No Play.",no_play,0.0,0.0
+2026_10_LAC_BAL,10,2026-11-16,Monday,LAC,BAL,"(:18) 16-J.Scott punts 39 yards to end zone, Center-47-J.Harris, Touchback.",punt,0.0,0.0
+2026_10_LAC_BAL,10,2026-11-16,Monday,BAL,LAC,(:11) (Shotgun) 11-J.Brissett pass deep right to 6-J.Lane ran ob at BAL 41 for 21 yards (20-C.Hart).,pass,21.0,0.0
+2026_10_LAC_BAL,10,2026-11-16,Monday,,,Timeout #3 by LAC at 00:06.,no_play,0.0,0.0
+2026_10_LAC_BAL,10,2026-11-16,Monday,BAL,LAC,(:06) (Shotgun) 11-J.Brissett pass incomplete deep right to 6-J.Lane (27-R.Mickens).,pass,0.0,0.0
+2026_10_LAC_BAL,10,2026-11-16,Monday,BAL,LAC,END GAME,,,
 2026_10_LA_ARI,10,2026-11-15,Sunday,,,GAME,,,
 2026_10_LA_ARI,10,2026-11-15,Sunday,ARI,LA,16-J.Karty kicks 51 yards from LA 35 to ARI 14. 83-H.Wallace to ARI 33 for 19 yards (26-D.Williams).,kickoff,0.0,0.0
 2026_10_LA_ARI,10,2026-11-15,Sunday,ARI,LA,(14:56) (Shotgun) 22-T.Allgeier left end to ARI 34 for 1 yard (55-B.Fiske).,run,1.0,0.0
