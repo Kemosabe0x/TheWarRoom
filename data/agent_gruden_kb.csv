@@ -21355,9 +21355,9 @@ game_id,week,game_date,day_of_week,posteam,defteam,desc,play_type,yards_gained,t
 2026_09_BUF_MIN,9,2026-11-09,Monday,BUF,MIN,"(13:11) 39-T.Doman punts 47 yards to end zone, Center-69-R.Ferguson, Touchback.",punt,0.0,0.0
 2026_09_BUF_MIN,9,2026-11-09,Monday,MIN,BUF,(13:03) 33-A.Jones left tackle to MIN 23 for 3 yards (98-T.Sanders; 91-E.Oliver).,run,3.0,0.0
 2026_09_BUF_MIN,9,2026-11-09,Monday,MIN,BUF,(12:26) (Shotgun) 11-C.Wentz pass incomplete short right to 87-T.Hockenson.,pass,0.0,0.0
-2026_09_BUF_MIN,9,2026-11-09,Monday,MIN,BUF,(12:20) (Shotgun) 11-C.Wentz pass short right to 87-T.Hockenson to MIN 26 for 3 yards (8-T.Bernard; 23-D.Alford).,pass,3.0,0.0
+2026_09_BUF_MIN,9,2026-11-09,Monday,MIN,BUF,(12:23) (Shotgun) 11-C.Wentz pass short right to 87-T.Hockenson to MIN 26 for 3 yards (8-T.Bernard; 23-D.Alford).,pass,3.0,0.0
 2026_09_BUF_MIN,9,2026-11-09,Monday,MIN,BUF,"(11:42) 19-B.Thorson punts 46 yards to BUF 28, Center-42-A.DePaola. 19-G.Dortch to BUF 33 for 5 yards (31-D.Dallas).",punt,0.0,0.0
-2026_09_BUF_MIN,9,2026-11-09,Monday,BUF,MIN,(11:33) 4-J.Cook right tackle to BUF 36 for 3 yards (43-A.Van Ginkel; 23-J.Pierre).,run,3.0,0.0
+2026_09_BUF_MIN,9,2026-11-09,Monday,BUF,MIN,(11:33) 4-J.Cook right tackle to BUF 36 for 3 yards (43-A.Van Ginkel; 29-Jac.Thomas).,run,3.0,0.0
 2026_09_BUF_MIN,9,2026-11-09,Monday,BUF,MIN,(10:52) 17-J.Allen pass incomplete short middle to 0-K.Coleman (51-B.Cashman).,pass,0.0,0.0
 2026_09_BUF_MIN,9,2026-11-09,Monday,BUF,MIN,(10:48) (Shotgun) 17-J.Allen pass short right to 2-D.Moore pushed ob at MIN 49 for 15 yards (7-B.Murphy) [43-A.Van Ginkel].,pass,15.0,0.0
 2026_09_BUF_MIN,9,2026-11-09,Monday,BUF,MIN,(10:15) 4-J.Cook left tackle to MIN 47 for 2 yards (41-J.Golday).,run,2.0,0.0
@@ -21379,7 +21379,7 @@ game_id,week,game_date,day_of_week,posteam,defteam,desc,play_type,yards_gained,t
 2026_09_BUF_MIN,9,2026-11-09,Monday,BUF,MIN,"(2:00) 16-T.Bass 39 yard field goal is GOOD, Center-69-R.Ferguson, Holder-39-T.Doman.",field_goal,0.0,0.0
 2026_09_BUF_MIN,9,2026-11-09,Monday,MIN,BUF,"39-T.Doman kicks 63 yards from BUF 35 to MIN 2. 4-M.Price to MIN 39 for 37 yards (39-T.Doman). FUMBLES (39-T.Doman), recovered by MIN-85-B.Yurosek at MIN 37. 85-B.Yurosek to MIN 45 for 8 yards (99-T.Parker).",kickoff,0.0,0.0
 2026_09_BUF_MIN,9,2026-11-09,Monday,MIN,BUF,(1:48) (Shotgun) 27-J.Mason right guard to 50 for 5 yards (42-D.Williams; 9-B.Chubb).,run,5.0,0.0
-2026_09_BUF_MIN,9,2026-11-09,Monday,MIN,BUF,(1:17) (Shotgun) 11-C.Wentz pass incomplete short right to 27-J.Mason.,pass,0.0,0.0
+2026_09_BUF_MIN,9,2026-11-09,Monday,MIN,BUF,"(1:17) (No Huddle, Shotgun) 11-C.Wentz pass incomplete short right to 27-J.Mason.",pass,0.0,0.0
 2026_09_BUF_MIN,9,2026-11-09,Monday,MIN,BUF,(1:13) (Shotgun) 11-C.Wentz pass incomplete short right to 18-J.Jefferson (47-C.Benford) [15-G.Rousseau]. MIN-18-J.Jefferson was injured during the play.,pass,0.0,0.0
 2026_09_BUF_MIN,9,2026-11-09,Monday,MIN,BUF,"(1:08) 19-B.Thorson punts 37 yards to BUF 13, impetus ends at BUF 11, Center-42-A.DePaola, downed by MIN-29-Jac.Thomas.",punt,0.0,0.0
 2026_09_BUF_MIN,9,2026-11-09,Monday,BUF,MIN,(:57) 17-J.Allen pass incomplete short right to 7-R.Davis (15-D.Turner).,pass,0.0,0.0
@@ -21483,7 +21483,7 @@ game_id,week,game_date,day_of_week,posteam,defteam,desc,play_type,yards_gained,t
 2026_09_BUF_MIN,9,2026-11-09,Monday,BUF,MIN,(14:49) 4-J.Cook up the middle to BUF 18 for 2 yards (50-L.Rodriguez; 61-J.Redmond).,run,2.0,0.0
 2026_09_BUF_MIN,9,2026-11-09,Monday,BUF,MIN,(14:12) 2-D.Moore right end pushed ob at BUF 29 for 11 yards (23-J.Pierre).,run,11.0,0.0
 2026_09_BUF_MIN,9,2026-11-09,Monday,BUF,MIN,(13:34) (Shotgun) 17-J.Allen pass short middle to 0-K.Coleman to BUF 40 for 11 yards (29-Jac.Thomas).,pass,11.0,0.0
-2026_09_BUF_MIN,9,2026-11-09,Monday,BUF,MIN,(12:53) 4-J.Cook right tackle to BUF 44 for 4 yards (29-Jac.Thomas).,run,4.0,0.0
+2026_09_BUF_MIN,9,2026-11-09,Monday,BUF,MIN,(12:53) 4-J.Cook right tackle to BUF 44 for 4 yards (29-Jac.Thomas; 99-E.Williams).,run,4.0,0.0
 2026_09_BUF_MIN,9,2026-11-09,Monday,BUF,MIN,(12:13) 4-J.Cook left guard to MIN 47 for 9 yards (0-I.Pace; 50-L.Rodriguez).,run,9.0,0.0
 2026_09_BUF_MIN,9,2026-11-09,Monday,BUF,MIN,(11:34) 4-J.Cook up the middle to MIN 44 for 3 yards (17-K.Van Noy; 99-E.Williams).,run,3.0,0.0
 2026_09_BUF_MIN,9,2026-11-09,Monday,BUF,MIN,(10:55) 4-J.Cook up the middle to MIN 38 for 6 yards (44-J.Metellus).,run,6.0,0.0
@@ -21519,7 +21519,7 @@ game_id,week,game_date,day_of_week,posteam,defteam,desc,play_type,yards_gained,t
 2026_09_BUF_MIN,9,2026-11-09,Monday,MIN,BUF,(2:00) (Shotgun) 12-M.Brosmer pass short middle to 87-T.Hockenson to BUF 13 for 8 yards (8-T.Bernard; 21-D.Igbinosun).,pass,8.0,0.0
 2026_09_BUF_MIN,9,2026-11-09,Monday,BUF,MIN,(1:54) 11-K.Allen kneels to BUF 13 for no gain.,qb_kneel,0.0,0.0
 2026_09_BUF_MIN,9,2026-11-09,Monday,BUF,MIN,(1:15) 11-K.Allen kneels to BUF 12 for -1 yards.,qb_kneel,-1.0,0.0
-2026_09_BUF_MIN,9,2026-11-09,Monday,BUF,MIN,(:33) 11-K.Allen kneels to BUF 11 for -1 yards.,qb_kneel,-1.0,0.0
+2026_09_BUF_MIN,9,2026-11-09,Monday,BUF,MIN,(:40) 11-K.Allen kneels to BUF 11 for -1 yards.,qb_kneel,-1.0,0.0
 2026_09_BUF_MIN,9,2026-11-09,Monday,BUF,MIN,END GAME,,,
 2026_09_CIN_ATL,9,2026-11-08,Sunday,,,GAME,,,
 2026_09_CIN_ATL,9,2026-11-08,Sunday,ATL,CIN,"2-E.McPherson kicks 59 yards from CIN 35 to ATL 6. 25-K.Herbert to ATL 30 for 24 yards (45-J.Kiser; 20-T.Davis). PENALTY on ATL-28-M.Ford, Offensive Holding, 10 yards, enforced at ATL 30.",kickoff,0.0,0.0
@@ -23722,7 +23722,7 @@ game_id,week,game_date,day_of_week,posteam,defteam,desc,play_type,yards_gained,t
 2026_09_TB_CHI,9,2026-11-08,Sunday,TB,CHI,(1:09) (Shotgun) 6-B.Mayfield pass short left to 88-C.Otton to CHI 34 for 6 yards (29-T.Stevenson).,pass,6.0,0.0
 2026_09_TB_CHI,9,2026-11-08,Sunday,TB,CHI,"(:48) (No Huddle, Shotgun) 6-B.Mayfield pass short left intended for 15-T.Johnson INTERCEPTED by 21-C.Lewis at CHI 26. 21-C.Lewis to CHI 26 for no gain (15-T.Johnson).",pass,0.0,0.0
 2026_09_TB_CHI,9,2026-11-08,Sunday,CHI,TB,"(:43) (Shotgun) 18-C.Williams pass incomplete deep right to 14-K.Raymond. The Replay Official reviewed the incomplete pass ruling, and the play was REVERSED. (Shotgun) 18-C.Williams pass deep right intended for 14-K.Raymond INTERCEPTED by 27-Z.McCollum at CHI 43. 27-Z.McCollum to CHI 43 for no gain.",pass,0.0,0.0
-2026_09_TB_CHI,9,2026-11-08,Sunday,TB,CHI,(:38) (Shotgun) 6-B.Mayfield pass short right to 2-E.Egbuka to CHI 22 for 21 yards (99-J.Simmons). The ball spot was assisted by replay.,pass,21.0,0.0
+2026_09_TB_CHI,9,2026-11-08,Sunday,TB,CHI,(:38) (Shotgun) 6-B.Mayfield pass short right to 2-E.Egbuka to CHI 22 for 21 yards (99-J.Simmons).,pass,21.0,0.0
 2026_09_TB_CHI,9,2026-11-08,Sunday,,,Timeout #1 by TB at 00:30.,no_play,0.0,0.0
 2026_09_TB_CHI,9,2026-11-08,Sunday,TB,CHI,(:30) (Shotgun) 6-B.Mayfield pass incomplete deep right to 2-E.Egbuka [94-A.Booker].,pass,0.0,0.0
 2026_09_TB_CHI,9,2026-11-08,Sunday,TB,CHI,"(:25) (Shotgun) PENALTY on TB-69-C.Mauch, False Start, 5 yards, enforced at CHI 22 - No Play.",no_play,0.0,0.0
@@ -23773,7 +23773,7 @@ game_id,week,game_date,day_of_week,posteam,defteam,desc,play_type,yards_gained,t
 2026_09_TB_CHI,9,2026-11-08,Sunday,TB,CHI,"(2:02) 9-R.Dixon punts 50 yards to CHI 16, Center-86-E.Deckers. 14-K.Raymond MUFFS catch, and recovers at CHI 13.",punt,0.0,0.0
 2026_09_TB_CHI,9,2026-11-08,Sunday,CHI,TB,(1:52) 4-D.Swift left end to CHI 10 for -3 yards (97-A.Muhammad).,run,-3.0,0.0
 2026_09_TB_CHI,9,2026-11-08,Sunday,CHI,TB,(1:09) (Shotgun) 18-C.Williams scrambles left end pushed ob at CHI 19 for 9 yards (34-A.Anzalone).,run,9.0,0.0
-2026_09_TB_CHI,9,2026-11-08,Sunday,CHI,TB,(:40) (Shotgun) 18-C.Williams pass incomplete short right.,pass,0.0,0.0
+2026_09_TB_CHI,9,2026-11-08,Sunday,CHI,TB,(:40) (Shotgun) 18-C.Williams pass incomplete short right to 10-L.Burden.,pass,0.0,0.0
 2026_09_TB_CHI,9,2026-11-08,Sunday,CHI,TB,"(:33) (Punt formation) PENALTY on CHI-57-J.Sanborn, False Start, 5 yards, enforced at CHI 19 - No Play.",no_play,0.0,0.0
 2026_09_TB_CHI,9,2026-11-08,Sunday,CHI,TB,"(:33) 19-T.Taylor punts 51 yards to TB 35, Center-46-S.Daly, out of bounds.",punt,0.0,0.0
 2026_09_TB_CHI,9,2026-11-08,Sunday,TB,CHI,(:24) 7-B.Irving up the middle to TB 42 for 7 yards (31-D.Thieneman).,run,7.0,0.0
@@ -24715,8 +24715,8 @@ game_id,week,game_date,day_of_week,posteam,defteam,desc,play_type,yards_gained,t
 2026_10_KC_ATL,10,2026-11-15,Sunday,ATL,KC,(1:04) (Shotgun) 9-M.Penix pass short middle to 81-A.Hooper to KC 42 for 8 yards (29-X.Nwankpa).,pass,8.0,0.0
 2026_10_KC_ATL,10,2026-11-15,Sunday,ATL,KC,"(:36) (No Huddle, Shotgun) 9-M.Penix pass incomplete deep middle to 14-O.Zaccheaus.",pass,0.0,0.0
 2026_10_KC_ATL,10,2026-11-15,Sunday,ATL,KC,"(:32) (No Huddle, Shotgun) 9-M.Penix pass short middle to 14-O.Zaccheaus to KC 32 for 10 yards (30-C.Roland-Wallace).",pass,10.0,0.0
-2026_10_KC_ATL,10,2026-11-15,Sunday,ATL,KC,"(:15) (No Huddle, Shotgun) 9-M.Penix pass short left to 19-C.Blair pushed ob at KC 6 for 26 yards (22-J.Canady; 30-C.Roland-Wallace).",pass,26.0,0.0
-2026_10_KC_ATL,10,2026-11-15,Sunday,ATL,KC,"(:04) (No Huddle, Shotgun) 9-M.Penix pass incomplete short left to 19-C.Blair (8-K.Fulton).",pass,0.0,0.0
+2026_10_KC_ATL,10,2026-11-15,Sunday,ATL,KC,"(:15) (No Huddle, Shotgun) 9-M.Penix pass short left to 19-C.Blair pushed ob at KC 6 for 26 yards (22-J.Canady).",pass,26.0,0.0
+2026_10_KC_ATL,10,2026-11-15,Sunday,ATL,KC,"(:05) (No Huddle, Shotgun) 9-M.Penix pass incomplete short left to 19-C.Blair (8-K.Fulton).",pass,0.0,0.0
 2026_10_KC_ATL,10,2026-11-15,Sunday,ATL,KC,END GAME,,,
 2026_10_LAC_BAL,10,2026-11-16,Monday,,,GAME,,,
 2026_10_LAC_BAL,10,2026-11-16,Monday,BAL,LAC,"11-C.Dicker kicks 60 yards from LAC 35 to BAL 5. 17-C.Moore MUFFS catch, and recovers at BAL 10. 17-C.Moore to BAL 23 for 13 yards (50-C.Murphy; 53-D.Phillips).",kickoff,0.0,0.0
