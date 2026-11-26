@@ -28466,3 +28466,170 @@ game_id,week,game_date,day_of_week,posteam,defteam,desc,play_type,yards_gained,t
 2026_11_TEN_DAL,11,2026-11-22,Sunday,DAL,TEN,"6-J.Slye kicks 65 yards from TEN 35 to end zone, Touchback to the DAL 35.",kickoff,0.0,0.0
 2026_11_TEN_DAL,11,2026-11-22,Sunday,DAL,TEN,(:31) 4-D.Prescott kneels to DAL 34 for -1 yards.,qb_kneel,-1.0,0.0
 2026_11_TEN_DAL,11,2026-11-22,Sunday,DAL,TEN,END GAME,,,
+2026_12_GB_LA,12,2026-11-25,Wednesday,,,GAME,,,
+2026_12_GB_LA,12,2026-11-25,Wednesday,GB,LA,16-J.Karty kicks 54 yards from LA 35 to GB 11. 16-B.Melton to GB 23 for 12 yards (44-G.Stuard).,kickoff,0.0,0.0
+2026_12_GB_LA,12,2026-11-25,Wednesday,GB,LA,(14:53) (Shotgun) 10-J.Love pass short left to 9-C.Watson to GB 29 for 6 yards (30-J.Wallace).,pass,6.0,0.0
+2026_12_GB_LA,12,2026-11-25,Wednesday,GB,LA,(14:14) 10-J.Love pass incomplete short left to 83-S.Williams.,pass,0.0,0.0
+2026_12_GB_LA,12,2026-11-25,Wednesday,GB,LA,(14:11) (Shotgun) 10-J.Love pass incomplete short middle to 87-J.Sturdivant (5-K.Kinchens).,pass,0.0,0.0
+2026_12_GB_LA,12,2026-11-25,Wednesday,GB,LA,"(14:07) 19-D.Whelan punts 53 yards to LA 18, Center-42-M.Orzech, fair catch by 14-X.Smith.",punt,0.0,0.0
+2026_12_GB_LA,12,2026-11-25,Wednesday,LA,GB,(13:59) 24-B.Corum right guard to LA 20 for 2 yards (59-T.Hopper).,run,2.0,0.0
+2026_12_GB_LA,12,2026-11-25,Wednesday,LA,GB,(13:22) 24-B.Corum left tackle to LA 26 for 6 yards (90-L.Van Ness; 94-K.Brooks).,run,6.0,0.0
+2026_12_GB_LA,12,2026-11-25,Wednesday,LA,GB,(12:36) 14-X.Smith left end pushed ob at LA 31 for 5 yards (2-B.Cisse).,run,5.0,0.0
+2026_12_GB_LA,12,2026-11-25,Wednesday,LA,GB,"(11:59) 9-M.Stafford pass incomplete deep middle to 14-X.Smith. PENALTY on GB-2-B.Cisse, Defensive Pass Interference, 37 yards, enforced at LA 31 - No Play.",no_play,0.0,0.0
+2026_12_GB_LA,12,2026-11-25,Wednesday,LA,GB,(11:53) (Shotgun) 9-M.Stafford pass short left to 23-K.Williams to GB 27 for 5 yards (59-T.Hopper).,pass,5.0,0.0
+2026_12_GB_LA,12,2026-11-25,Wednesday,LA,GB,(11:11) (Shotgun) 9-M.Stafford pass short left to 84-C.Parkinson to GB 26 for 1 yard (95-D.Wyatt; 59-T.Hopper).,pass,1.0,0.0
+2026_12_GB_LA,12,2026-11-25,Wednesday,LA,GB,(10:29) (Shotgun) 9-M.Stafford pass short left to 23-K.Williams pushed ob at GB 25 for 1 yard (29-X.McKinney).,pass,1.0,0.0
+2026_12_GB_LA,12,2026-11-25,Wednesday,LA,GB,"(9:59) 19-B.McManus 43 yard field goal is GOOD, Center-49-J.Cardona, Holder-42-E.Evans.",field_goal,0.0,0.0
+2026_12_GB_LA,12,2026-11-25,Wednesday,GB,LA,16-J.Karty kicks 55 yards from LA 35 to GB 10. 23-S.Moore to GB 26 for 16 yards (44-G.Stuard).,kickoff,0.0,0.0
+2026_12_GB_LA,12,2026-11-25,Wednesday,GB,LA,(9:49) (Shotgun) 26-K.Johnson left guard to GB 24 for -2 yards (0-B.Young). ** Injury Update: GB-9-C.Watson has returned to the game.,run,-2.0,0.0
+2026_12_GB_LA,12,2026-11-25,Wednesday,GB,LA,(9:28) (No Huddle) 10-J.Love pass short middle to 26-K.Johnson to GB 43 for 19 yards (22-T.McDuffie).,pass,19.0,0.0
+2026_12_GB_LA,12,2026-11-25,Wednesday,GB,LA,(8:49) 26-K.Johnson up the middle to GB 39 for -4 yards (95-M.Garrett).,run,-4.0,0.0
+2026_12_GB_LA,12,2026-11-25,Wednesday,GB,LA,(8:06) (Shotgun) 10-J.Love pass short left to 30-C.Brooks to GB 39 for no gain (10-J.Stewart).,pass,0.0,0.0
+2026_12_GB_LA,12,2026-11-25,Wednesday,GB,LA,"(7:28) (Shotgun) 10-J.Love pass deep left intended for 9-C.Watson INTERCEPTED by 3-K.Curl at LA 13. 3-K.Curl ran ob at LA 38 for 25 yards (85-T.Kraft). PENALTY on LA-1-E.Forbes, Illegal Contact, 5 yards, enforced at GB 39 - No Play.",no_play,0.0,0.0
+2026_12_GB_LA,12,2026-11-25,Wednesday,GB,LA,"(7:15) (Shotgun) 10-J.Love pass short left to 85-T.Kraft to LA 46 for 10 yards (53-N.Landman). FUMBLES (53-N.Landman), RECOVERED by LA-37-Q.Lake at LA 45. 37-Q.Lake to LA 43 for -2 yards (16-B.Melton).",pass,10.0,0.0
+2026_12_GB_LA,12,2026-11-25,Wednesday,LA,GB,(7:06) 24-B.Corum right guard to LA 46 for 3 yards (95-D.Wyatt).,run,3.0,0.0
+2026_12_GB_LA,12,2026-11-25,Wednesday,LA,GB,"(6:23) (Shotgun) 9-M.Stafford pass short right to 23-K.Williams pushed ob at 50 for 4 yards (25-K.Nixon). PENALTY on GB-95-D.Wyatt, Roughing the Passer, 15 yards, enforced at 50.",pass,4.0,0.0
+2026_12_GB_LA,12,2026-11-25,Wednesday,LA,GB,(5:56) 24-B.Corum left tackle to GB 35 for no gain (93-A.Campbell; 58-I.McDuffie).,run,0.0,0.0
+2026_12_GB_LA,12,2026-11-25,Wednesday,LA,GB,"(5:28) (No Huddle, Shotgun) 9-M.Stafford pass short left to 4-K.Mumpfield to GB 20 for 15 yards (33-E.Williams).",pass,15.0,0.0
+2026_12_GB_LA,12,2026-11-25,Wednesday,LA,GB,(4:42) (Shotgun) 9-M.Stafford pass incomplete short left to 23-K.Williams.,pass,0.0,0.0
+2026_12_GB_LA,12,2026-11-25,Wednesday,LA,GB,"(4:38) (Shotgun) 9-M.Stafford FUMBLES (Aborted) at GB 26, recovered by LA-24-B.Corum at GB 26.",run,0.0,0.0
+2026_12_GB_LA,12,2026-11-25,Wednesday,LA,GB,(3:54) (Shotgun) 24-B.Corum left tackle to GB 23 for 3 yards (2-B.Cisse; 58-I.McDuffie).,run,3.0,0.0
+2026_12_GB_LA,12,2026-11-25,Wednesday,LA,GB,"(3:15) 19-B.McManus 41 yard field goal is GOOD, Center-49-J.Cardona, Holder-42-E.Evans.",field_goal,0.0,0.0
+2026_12_GB_LA,12,2026-11-25,Wednesday,GB,LA,16-J.Karty kicks 52 yards from LA 35 to GB 13. 23-S.Moore to GB 31 for 18 yards (10-J.Stewart).,kickoff,0.0,0.0
+2026_12_GB_LA,12,2026-11-25,Wednesday,GB,LA,"(3:06) (Shotgun) 26-K.Johnson left tackle to GB 29 for -2 yards (99-A.Donald, 91-K.Turner).",run,-2.0,0.0
+2026_12_GB_LA,12,2026-11-25,Wednesday,GB,LA,"(2:43) (No Huddle, Shotgun) 10-J.Love pass short left to 9-C.Watson pushed ob at LA 39 for 32 yards (3-K.Curl).",pass,32.0,0.0
+2026_12_GB_LA,12,2026-11-25,Wednesday,GB,LA,(2:06) (Shotgun) 10-J.Love pass short right to 83-S.Williams pushed ob at LA 36 for 3 yards (1-E.Forbes).,pass,3.0,0.0
+2026_12_GB_LA,12,2026-11-25,Wednesday,GB,LA,"(1:44) (No Huddle, Shotgun) 10-J.Love pass incomplete short middle to 85-T.Kraft (5-K.Kinchens).",pass,0.0,0.0
+2026_12_GB_LA,12,2026-11-25,Wednesday,GB,LA,(1:38) (Shotgun) 10-J.Love pass incomplete short right to 30-C.Brooks [95-M.Garrett].,pass,0.0,0.0
+2026_12_GB_LA,12,2026-11-25,Wednesday,GB,LA,"(1:33) 28-T.Smack 54 yard field goal is GOOD, Center-42-M.Orzech, Holder-19-D.Whelan.",field_goal,0.0,0.0
+2026_12_GB_LA,12,2026-11-25,Wednesday,LA,GB,28-T.Smack kicks 64 yards from GB 35 to LA 1. 20-R.Rivers to LA 21 for 20 yards (33-E.Williams).,kickoff,0.0,0.0
+2026_12_GB_LA,12,2026-11-25,Wednesday,LA,GB,(1:23) 9-M.Stafford pass short right to 87-D.Allen to LA 29 for 8 yards (25-K.Nixon).,pass,8.0,0.0
+2026_12_GB_LA,12,2026-11-25,Wednesday,LA,GB,(:44) 9-M.Stafford pass short right to 87-D.Allen to LA 35 for 6 yards (25-K.Nixon).,pass,6.0,0.0
+2026_12_GB_LA,12,2026-11-25,Wednesday,LA,GB,END QUARTER 1,,,
+2026_12_GB_LA,12,2026-11-25,Wednesday,LA,GB,(15:00) 23-K.Williams up the middle to LA 40 for 5 yards (93-A.Campbell).,run,5.0,0.0
+2026_12_GB_LA,12,2026-11-25,Wednesday,LA,GB,(14:20) 9-M.Stafford pass incomplete short middle [58-I.McDuffie].,pass,0.0,0.0
+2026_12_GB_LA,12,2026-11-25,Wednesday,LA,GB,(14:15) (Shotgun) 9-M.Stafford pass short right to 23-K.Williams to LA 49 for 9 yards (58-I.McDuffie) [1-M.Parsons].,pass,9.0,0.0
+2026_12_GB_LA,12,2026-11-25,Wednesday,LA,GB,(13:29) 9-M.Stafford pass deep right to 4-K.Mumpfield to GB 27 for 24 yards (29-X.McKinney).,pass,24.0,0.0
+2026_12_GB_LA,12,2026-11-25,Wednesday,LA,GB,"(12:56) (No Huddle, Shotgun) 9-M.Stafford pass short right to 89-T.Higbee to GB 13 for 14 yards (33-E.Williams).",pass,14.0,0.0
+2026_12_GB_LA,12,2026-11-25,Wednesday,LA,GB,(12:13) 14-X.Smith right end to GB 7 for 6 yards (33-E.Williams).,run,6.0,0.0
+2026_12_GB_LA,12,2026-11-25,Wednesday,LA,GB,"(11:33) 23-K.Williams up the middle for 7 yards, TOUCHDOWN.",run,7.0,1.0
+2026_12_GB_LA,12,2026-11-25,Wednesday,LA,GB,"19-B.McManus extra point is GOOD, Center-49-J.Cardona, Holder-42-E.Evans.",extra_point,0.0,0.0
+2026_12_GB_LA,12,2026-11-25,Wednesday,GB,LA,"16-J.Karty kicks 65 yards from LA 35 to landing zone to end zone, Touchback to the GB 20.",kickoff,0.0,0.0
+2026_12_GB_LA,12,2026-11-25,Wednesday,GB,LA,(11:29) (Shotgun) 10-J.Love pass deep left to 9-C.Watson ran ob at GB 41 for 21 yards.,pass,21.0,0.0
+2026_12_GB_LA,12,2026-11-25,Wednesday,GB,LA,(11:07) (No Huddle) 10-J.Love pass deep right to 0-M.Golden to LA 20 for 39 yards (3-K.Curl).,pass,39.0,0.0
+2026_12_GB_LA,12,2026-11-25,Wednesday,GB,LA,(10:19) (Shotgun) 30-C.Brooks right tackle to LA 16 for 4 yards (53-N.Landman; 5-K.Kinchens).,run,4.0,0.0
+2026_12_GB_LA,12,2026-11-25,Wednesday,GB,LA,(9:39) (Shotgun) 10-J.Love scrambles right end to LA 9 for 7 yards (53-N.Landman).,run,7.0,0.0
+2026_12_GB_LA,12,2026-11-25,Wednesday,GB,LA,(8:54) (Shotgun) 10-J.Love pass incomplete short right to 0-M.Golden (22-T.McDuffie).,pass,0.0,0.0
+2026_12_GB_LA,12,2026-11-25,Wednesday,GB,LA,(8:50) (Shotgun) 26-K.Johnson left guard to LA 6 for 3 yards (95-M.Garrett).,run,3.0,0.0
+2026_12_GB_LA,12,2026-11-25,Wednesday,GB,LA,"(8:10) (Shotgun) 10-J.Love pass short right to 9-C.Watson for 6 yards, TOUCHDOWN.",pass,6.0,1.0
+2026_12_GB_LA,12,2026-11-25,Wednesday,GB,LA,"28-T.Smack extra point is GOOD, Center-42-M.Orzech, Holder-19-D.Whelan.",extra_point,0.0,0.0
+2026_12_GB_LA,12,2026-11-25,Wednesday,LA,GB,28-T.Smack kicks 57 yards from GB 35 to LA 8. 20-R.Rivers to LA 35 for 27 yards (31-N.Niemann).,kickoff,0.0,0.0
+2026_12_GB_LA,12,2026-11-25,Wednesday,LA,GB,(8:00) 24-B.Corum up the middle to LA 40 for 5 yards (99-B.Sorrell).,run,5.0,0.0
+2026_12_GB_LA,12,2026-11-25,Wednesday,LA,GB,(7:21) 9-M.Stafford pass short right to 14-X.Smith to LA 44 for 4 yards (25-K.Nixon).,pass,4.0,0.0
+2026_12_GB_LA,12,2026-11-25,Wednesday,LA,GB,"(6:41) 24-B.Corum up the middle to LA 44 for no gain (95-D.Wyatt). PENALTY on LA-66-B.Murray, Offensive Holding, 10 yards, enforced at LA 44 - No Play.",no_play,0.0,0.0
+2026_12_GB_LA,12,2026-11-25,Wednesday,LA,GB,(6:15) (Shotgun) 9-M.Stafford pass incomplete short left to 24-B.Corum.,pass,0.0,0.0
+2026_12_GB_LA,12,2026-11-25,Wednesday,LA,GB,"(6:11) 42-E.Evans punts 54 yards to GB 12, Center-49-J.Cardona. 23-S.Moore to GB 23 for 11 yards (2-J.McCollough).",punt,0.0,0.0
+2026_12_GB_LA,12,2026-11-25,Wednesday,GB,LA,(5:58) (Shotgun) 10-J.Love pass short right to 85-T.Kraft pushed ob at GB 29 for 6 yards (48-O.Speights).,pass,6.0,0.0
+2026_12_GB_LA,12,2026-11-25,Wednesday,GB,LA,(5:29) (Shotgun) 26-K.Johnson up the middle to GB 32 for 3 yards (90-T.Davis; 99-A.Donald).,run,3.0,0.0
+2026_12_GB_LA,12,2026-11-25,Wednesday,GB,LA,(4:45) 83-S.Williams left tackle to GB 45 for 13 yards (90-T.Davis). GB-70-K.Zeitler was injured during the play.,run,13.0,0.0
+2026_12_GB_LA,12,2026-11-25,Wednesday,GB,LA,(4:18) (Shotgun) 10-J.Love pass short right to 32-M.Lloyd pushed ob at LA 49 for 6 yards (48-O.Speights).,pass,6.0,0.0
+2026_12_GB_LA,12,2026-11-25,Wednesday,GB,LA,"(4:00) (No Huddle, Shotgun) 32-M.Lloyd right guard to LA 39 for 10 yards (48-O.Speights).",run,10.0,0.0
+2026_12_GB_LA,12,2026-11-25,Wednesday,GB,LA,(3:17) (Shotgun) 10-J.Love pass incomplete deep middle to 0-M.Golden (37-Q.Lake).,pass,0.0,0.0
+2026_12_GB_LA,12,2026-11-25,Wednesday,GB,LA,(3:10) (Shotgun) 16-B.Melton right end to LA 36 for 3 yards (30-J.Wallace).,run,3.0,0.0
+2026_12_GB_LA,12,2026-11-25,Wednesday,,,Timeout #1 by GB at 02:33.,no_play,0.0,0.0
+2026_12_GB_LA,12,2026-11-25,Wednesday,GB,LA,(2:33) (Shotgun) 10-J.Love pass short middle to 30-C.Brooks to LA 30 for 6 yards (10-J.Stewart; 55-B.Fiske).,pass,6.0,0.0
+2026_12_GB_LA,12,2026-11-25,Wednesday,GB,LA,"(2:00) (Shotgun) 10-J.Love pass incomplete short right to 9-C.Watson (5-K.Kinchens). GB-9-C.Watson was injured during the play. Penalty on LA-5-K.Kinchens, Disqualification, offsetting, enforced at LA 30 - No Play. Penalty on GB-0-M.Golden, Offensive Pass Interference, offsetting.",no_play,,
+2026_12_GB_LA,12,2026-11-25,Wednesday,,,Timeout #2 by GB at 01:54.,no_play,0.0,0.0
+2026_12_GB_LA,12,2026-11-25,Wednesday,GB,LA,"(1:54) 28-T.Smack 48 yard field goal is GOOD, Center-42-M.Orzech, Holder-19-D.Whelan.",field_goal,0.0,0.0
+2026_12_GB_LA,12,2026-11-25,Wednesday,LA,GB,28-T.Smack kicks 59 yards from GB 35 to LA 6. 20-R.Rivers to LA 30 for 24 yards (51-D.Dennis-Sutton).,kickoff,0.0,0.0
+2026_12_GB_LA,12,2026-11-25,Wednesday,LA,GB,(1:44) (Shotgun) 9-M.Stafford sacked at LA 22 for -8 yards (1-M.Parsons).,pass,-8.0,0.0
+2026_12_GB_LA,12,2026-11-25,Wednesday,LA,GB,(1:02) (Shotgun) 24-B.Corum up the middle to LA 26 for 4 yards (59-T.Hopper).,run,4.0,0.0
+2026_12_GB_LA,12,2026-11-25,Wednesday,,,Timeout #3 by GB at 00:58.,no_play,0.0,0.0
+2026_12_GB_LA,12,2026-11-25,Wednesday,LA,GB,(:58) (Shotgun) 9-M.Stafford pass short left to 24-B.Corum to LA 33 for 7 yards (58-I.McDuffie; 7-J.Bullard).,pass,7.0,0.0
+2026_12_GB_LA,12,2026-11-25,Wednesday,LA,GB,"(:12) (Punt formation) PENALTY on GB-99-B.Sorrell, Neutral Zone Infraction, 5 yards, enforced at LA 33 - No Play.",no_play,0.0,0.0
+2026_12_GB_LA,12,2026-11-25,Wednesday,,,END QUARTER 2,,,
+2026_12_GB_LA,12,2026-11-25,Wednesday,LA,GB,28-T.Smack kicks 60 yards from GB 35 to LA 5. 20-R.Rivers to LA 36 for 31 yards (21-B.St-Juste).,kickoff,0.0,0.0
+2026_12_GB_LA,12,2026-11-25,Wednesday,LA,GB,(14:53) 24-B.Corum up the middle to LA 40 for 4 yards (59-T.Hopper; 94-K.Brooks).,run,4.0,0.0
+2026_12_GB_LA,12,2026-11-25,Wednesday,LA,GB,(14:09) 9-M.Stafford pass incomplete short right.,pass,0.0,0.0
+2026_12_GB_LA,12,2026-11-25,Wednesday,LA,GB,(14:03) (Shotgun) 9-M.Stafford pass short right to 4-K.Mumpfield to 50 for 10 yards (25-K.Nixon).,pass,10.0,0.0
+2026_12_GB_LA,12,2026-11-25,Wednesday,LA,GB,(13:19) 9-M.Stafford pass incomplete deep right to 89-T.Higbee.,pass,0.0,0.0
+2026_12_GB_LA,12,2026-11-25,Wednesday,LA,GB,(13:13) 24-B.Corum left guard to GB 42 for 8 yards (29-X.McKinney).,run,8.0,0.0
+2026_12_GB_LA,12,2026-11-25,Wednesday,LA,GB,(12:42) (No Huddle) 24-B.Corum up the middle to GB 39 for 3 yards (58-I.McDuffie).,run,3.0,0.0
+2026_12_GB_LA,12,2026-11-25,Wednesday,LA,GB,(12:07) 24-B.Corum up the middle to GB 35 for 4 yards (95-D.Wyatt; 99-B.Sorrell).,run,4.0,0.0
+2026_12_GB_LA,12,2026-11-25,Wednesday,LA,GB,(11:22) 9-M.Stafford pass short middle to 84-C.Parkinson to GB 37 for -2 yards (58-I.McDuffie).,pass,-2.0,0.0
+2026_12_GB_LA,12,2026-11-25,Wednesday,LA,GB,(10:39) (Shotgun) 9-M.Stafford pass deep right to 4-K.Mumpfield pushed ob at GB 17 for 20 yards (25-K.Nixon).,pass,20.0,0.0
+2026_12_GB_LA,12,2026-11-25,Wednesday,LA,GB,(10:00) 24-B.Corum right tackle to GB 5 for 12 yards (99-B.Sorrell).,run,12.0,0.0
+2026_12_GB_LA,12,2026-11-25,Wednesday,LA,GB,(9:18) 24-B.Corum up the middle to GB 2 for 3 yards (58-I.McDuffie; 99-B.Sorrell).,run,3.0,0.0
+2026_12_GB_LA,12,2026-11-25,Wednesday,LA,GB,(8:34) 24-B.Corum left tackle to GB 2 for no gain (97-J.Riley).,run,0.0,0.0
+2026_12_GB_LA,12,2026-11-25,Wednesday,LA,GB,"(7:53) (Shotgun) 9-M.Stafford pass short right to 4-K.Mumpfield for 2 yards, TOUCHDOWN [2-B.Cisse]. Penalty on GB-7-J.Bullard, Defensive Holding, declined. The Replay Official reviewed the pass completion ruling, and the play was REVERSED. (Shotgun) 9-M.Stafford pass incomplete short right to 4-K.Mumpfield (25-K.Nixon) [2-B.Cisse]. PENALTY on GB-7-J.Bullard, Defensive Holding, 1 yard, enforced at GB 2 - No Play.",no_play,0.0,0.0
+2026_12_GB_LA,12,2026-11-25,Wednesday,LA,GB,(7:46) 24-B.Corum up the middle to GB 1 for no gain (55-C.McClellan).,run,0.0,0.0
+2026_12_GB_LA,12,2026-11-25,Wednesday,LA,GB,"(7:01) 24-B.Corum up the middle for 1 yard, TOUCHDOWN. The touchdown was assisted by replay.",run,1.0,1.0
+2026_12_GB_LA,12,2026-11-25,Wednesday,LA,GB,"19-B.McManus extra point is GOOD, Center-49-J.Cardona, Holder-42-E.Evans.",extra_point,0.0,0.0
+2026_12_GB_LA,12,2026-11-25,Wednesday,GB,LA,16-J.Karty kicks 61 yards from LA 35 to GB 4. 16-B.Melton to GB 23 for 19 yards (14-X.Smith; 48-O.Speights).,kickoff,0.0,0.0
+2026_12_GB_LA,12,2026-11-25,Wednesday,GB,LA,(6:50) (Shotgun) 26-K.Johnson left guard to GB 28 for 5 yards (95-M.Garrett).,run,5.0,0.0
+2026_12_GB_LA,12,2026-11-25,Wednesday,GB,LA,(6:28) (No Huddle) 10-J.Love pass incomplete short middle to 26-K.Johnson (99-A.Donald).,pass,0.0,0.0
+2026_12_GB_LA,12,2026-11-25,Wednesday,GB,LA,(6:22) (Shotgun) 10-J.Love pass incomplete short right to 83-S.Williams (37-Q.Lake).,pass,0.0,0.0
+2026_12_GB_LA,12,2026-11-25,Wednesday,GB,LA,"(6:18) 19-D.Whelan punts 49 yards to LA 23, Center-42-M.Orzech. 14-X.Smith pushed ob at LA 38 for 15 yards (30-C.Brooks).",punt,0.0,0.0
+2026_12_GB_LA,12,2026-11-25,Wednesday,LA,GB,(6:05) 23-K.Williams right guard to LA 42 for 4 yards (55-C.McClellan; 95-D.Wyatt).,run,4.0,0.0
+2026_12_GB_LA,12,2026-11-25,Wednesday,LA,GB,(5:22) 23-K.Williams up the middle to GB 48 for 10 yards (33-E.Williams).,run,10.0,0.0
+2026_12_GB_LA,12,2026-11-25,Wednesday,LA,GB,(4:43) 9-M.Stafford pass short left intended for 89-T.Higbee INTERCEPTED by 59-T.Hopper at GB 36. 59-T.Hopper pushed ob at LA 43 for 21 yards (71-W.McClendon).,pass,0.0,0.0
+2026_12_GB_LA,12,2026-11-25,Wednesday,GB,LA,(4:34) (Shotgun) 83-S.Williams right end to LA 38 for 5 yards (53-N.Landman; 91-K.Turner).,run,5.0,0.0
+2026_12_GB_LA,12,2026-11-25,Wednesday,GB,LA,"(3:59) (No Huddle, Shotgun) 10-J.Love pass deep middle intended for 0-M.Golden INTERCEPTED by 2-J.McCollough at LA 3. 2-J.McCollough to LA 17 for 14 yards (16-B.Melton; 85-T.Kraft).",pass,0.0,0.0
+2026_12_GB_LA,12,2026-11-25,Wednesday,LA,GB,(3:47) 24-B.Corum up the middle to LA 21 for 4 yards (97-J.Riley).,run,4.0,0.0
+2026_12_GB_LA,12,2026-11-25,Wednesday,LA,GB,(3:06) 24-B.Corum left tackle to LA 20 for -1 yards (55-C.McClellan).,run,-1.0,0.0
+2026_12_GB_LA,12,2026-11-25,Wednesday,LA,GB,"(2:41) (No Huddle, Shotgun) PENALTY on GB, Defensive Too Many Men on Field, 5 yards, enforced at LA 20 - No Play.",no_play,0.0,0.0
+2026_12_GB_LA,12,2026-11-25,Wednesday,LA,GB,(2:21) 24-B.Corum right guard to LA 29 for 4 yards (51-D.Dennis-Sutton).,run,4.0,0.0
+2026_12_GB_LA,12,2026-11-25,Wednesday,LA,GB,(1:42) 24-B.Corum up the middle to LA 30 for 1 yard (94-K.Brooks).,run,1.0,0.0
+2026_12_GB_LA,12,2026-11-25,Wednesday,LA,GB,(:57) 24-B.Corum up the middle to LA 42 for 12 yards (33-E.Williams).,run,12.0,0.0
+2026_12_GB_LA,12,2026-11-25,Wednesday,LA,GB,(:15) 24-B.Corum up the middle to LA 46 for 4 yards (59-T.Hopper; 97-J.Riley).,run,4.0,0.0
+2026_12_GB_LA,12,2026-11-25,Wednesday,LA,GB,END QUARTER 3,,,
+2026_12_GB_LA,12,2026-11-25,Wednesday,LA,GB,(15:00) 68-D.Quessenberry reported in as eligible. 24-B.Corum left guard to 50 for 4 yards (7-J.Bullard; 58-I.McDuffie). LA-71-W.McClendon was injured during the play.,run,4.0,0.0
+2026_12_GB_LA,12,2026-11-25,Wednesday,LA,GB,(14:39) (Shotgun) 24-B.Corum up the middle to GB 44 for 6 yards (95-D.Wyatt). LA-66-B.Murray was injured during the play. GB-95-D.Wyatt was injured during the play.,run,6.0,0.0
+2026_12_GB_LA,12,2026-11-25,Wednesday,LA,GB,(14:10) 68-D.Quessenberry reported in as eligible. 24-B.Corum left guard to GB 42 for 2 yards (90-L.Van Ness; 55-C.McClellan).,run,2.0,0.0
+2026_12_GB_LA,12,2026-11-25,Wednesday,LA,GB,(13:28) 68-D.Quessenberry reported in as eligible. 24-B.Corum left tackle to GB 40 for 2 yards (55-C.McClellan).,run,2.0,0.0
+2026_12_GB_LA,12,2026-11-25,Wednesday,,,Timeout #1 by LA at 12:46.,no_play,0.0,0.0
+2026_12_GB_LA,12,2026-11-25,Wednesday,LA,GB,(12:46) (Shotgun) 9-M.Stafford pass incomplete short left to 4-K.Mumpfield. ** Injury Update: GB-95-D.Wyatt has returned to the game.,pass,0.0,0.0
+2026_12_GB_LA,12,2026-11-25,Wednesday,LA,GB,"(12:42) 42-E.Evans punts 29 yards to GB 11, Center-49-J.Cardona, fair catch by 23-S.Moore.",punt,0.0,0.0
+2026_12_GB_LA,12,2026-11-25,Wednesday,GB,LA,(12:35) (Shotgun) 26-K.Johnson up the middle to GB 17 for 6 yards (53-N.Landman; 37-Q.Lake).,run,6.0,0.0
+2026_12_GB_LA,12,2026-11-25,Wednesday,GB,LA,"(11:57) (Shotgun) PENALTY on GB-26-K.Johnson, False Start, 5 yards, enforced at GB 17 - No Play.",no_play,0.0,0.0
+2026_12_GB_LA,12,2026-11-25,Wednesday,GB,LA,"(11:57) (Shotgun) 10-J.Love pass short left intended for 0-M.Golden INTERCEPTED by 22-T.McDuffie at GB 23. 22-T.McDuffie pushed ob at GB 13 for 10 yards (87-J.Sturdivant). The Replay Official reviewed the interception ruling, and the play was REVERSED. (Shotgun) 10-J.Love pass incomplete short left to 0-M.Golden.",pass,0.0,0.0
+2026_12_GB_LA,12,2026-11-25,Wednesday,GB,LA,(11:52) (Shotgun) 10-J.Love pass short right to 85-T.Kraft to GB 20 for 8 yards (37-Q.Lake; 0-B.Young) [95-M.Garrett].,pass,8.0,0.0
+2026_12_GB_LA,12,2026-11-25,Wednesday,GB,LA,"(11:09) 19-D.Whelan punts 53 yards to LA 27, Center-42-M.Orzech, fair catch by 14-X.Smith.",punt,0.0,0.0
+2026_12_GB_LA,12,2026-11-25,Wednesday,LA,GB,(11:01) 68-D.Quessenberry reported in as eligible. 23-K.Williams up the middle to LA 22 for -5 yards (25-K.Nixon). ** Injury Update: LA-71-W.McClendon has returned to the game.,run,-5.0,0.0
+2026_12_GB_LA,12,2026-11-25,Wednesday,LA,GB,(10:16) (Shotgun) 9-M.Stafford pass short left to 24-B.Corum pushed ob at LA 36 for 14 yards (59-T.Hopper).,pass,14.0,0.0
+2026_12_GB_LA,12,2026-11-25,Wednesday,LA,GB,(9:41) (Shotgun) 24-B.Corum up the middle to GB 29 for 35 yards (29-X.McKinney).,run,35.0,0.0
+2026_12_GB_LA,12,2026-11-25,Wednesday,LA,GB,(8:54) 68-D.Quessenberry reported in as eligible. 23-K.Williams up the middle to GB 22 for 7 yards (58-I.McDuffie).,run,7.0,0.0
+2026_12_GB_LA,12,2026-11-25,Wednesday,LA,GB,"(8:14) 23-K.Williams up the middle to GB 11 for 11 yards (33-E.Williams). PENALTY on LA-50-B.Limmer, Offensive Holding, 10 yards, enforced at GB 18.",run,4.0,0.0
+2026_12_GB_LA,12,2026-11-25,Wednesday,LA,GB,(7:48) 23-K.Williams up the middle to GB 23 for 5 yards (55-C.McClellan; 59-T.Hopper).,run,5.0,0.0
+2026_12_GB_LA,12,2026-11-25,Wednesday,LA,GB,(7:02) 23-K.Williams up the middle to GB 22 for 1 yard (93-A.Campbell; 97-J.Riley).,run,1.0,0.0
+2026_12_GB_LA,12,2026-11-25,Wednesday,LA,GB,"(6:16) 19-B.McManus 40 yard field goal is GOOD, Center-49-J.Cardona, Holder-42-E.Evans. ** Injury Update: GB-99-B.Sorrell has returned to the game.",field_goal,0.0,0.0
+2026_12_GB_LA,12,2026-11-25,Wednesday,GB,LA,16-J.Karty kicks 56 yards from LA 35 to GB 9. 23-S.Moore to GB 23 for 14 yards (48-O.Speights).,kickoff,0.0,0.0
+2026_12_GB_LA,12,2026-11-25,Wednesday,GB,LA,(6:08) (Shotgun) 10-J.Love pass short right to 30-C.Brooks to GB 28 for 5 yards (37-Q.Lake).,pass,5.0,0.0
+2026_12_GB_LA,12,2026-11-25,Wednesday,GB,LA,"(5:43) (No Huddle, Shotgun) 10-J.Love pass short left to 16-B.Melton to GB 36 for 8 yards (1-E.Forbes).",pass,8.0,0.0
+2026_12_GB_LA,12,2026-11-25,Wednesday,GB,LA,"(5:21) (No Huddle, Shotgun) 10-J.Love pass incomplete short middle to 85-T.Kraft.",pass,0.0,0.0
+2026_12_GB_LA,12,2026-11-25,Wednesday,GB,LA,(5:17) (Shotgun) 10-J.Love sacked at GB 27 for -9 yards (0-B.Young).,pass,-9.0,0.0
+2026_12_GB_LA,12,2026-11-25,Wednesday,GB,LA,"(4:46) (No Huddle, Shotgun) 10-J.Love pass short left to 30-C.Brooks to GB 38 for 11 yards (1-E.Forbes; 37-Q.Lake).",pass,11.0,0.0
+2026_12_GB_LA,12,2026-11-25,Wednesday,,,Timeout #2 by LA at 04:18.,no_play,0.0,0.0
+2026_12_GB_LA,12,2026-11-25,Wednesday,GB,LA,(4:18) (Shotgun) 10-J.Love pass short middle to 16-B.Melton to 50 for 12 yards (22-T.McDuffie).,pass,12.0,0.0
+2026_12_GB_LA,12,2026-11-25,Wednesday,GB,LA,"(3:46) (No Huddle, Shotgun) 10-J.Love pass deep right intended for 16-B.Melton INTERCEPTED by 1-E.Forbes at LA 27. 1-E.Forbes ran ob at LA 27 for no gain.",pass,0.0,0.0
+2026_12_GB_LA,12,2026-11-25,Wednesday,LA,GB,(3:39) 68-D.Quessenberry reported in as eligible. 24-B.Corum up the middle to LA 34 for 7 yards (90-L.Van Ness; 59-T.Hopper).,run,7.0,0.0
+2026_12_GB_LA,12,2026-11-25,Wednesday,,,Timeout #1 by GB at 03:35.,no_play,0.0,0.0
+2026_12_GB_LA,12,2026-11-25,Wednesday,LA,GB,"(3:35) PENALTY on GB, Defensive Too Many Men on Field, 5 yards, enforced at LA 34 - No Play.",no_play,0.0,0.0
+2026_12_GB_LA,12,2026-11-25,Wednesday,,,Timeout #3 by LA at 03:35.,no_play,0.0,0.0
+2026_12_GB_LA,12,2026-11-25,Wednesday,LA,GB,(3:35) 24-B.Corum up the middle to LA 48 for 9 yards (33-E.Williams; 29-X.McKinney).,run,9.0,0.0
+2026_12_GB_LA,12,2026-11-25,Wednesday,,,Timeout #2 by GB at 03:26.,no_play,0.0,0.0
+2026_12_GB_LA,12,2026-11-25,Wednesday,LA,GB,"(3:26) 68-D.Quessenberry reported in as eligible. Penalty on GB, Defensive Too Many Men on Field, declined.",no_play,,
+2026_12_GB_LA,12,2026-11-25,Wednesday,LA,GB,(3:26) 24-B.Corum up the middle to GB 49 for 3 yards (55-C.McClellan).,run,3.0,0.0
+2026_12_GB_LA,12,2026-11-25,Wednesday,,,Timeout #3 by GB at 03:20.,no_play,0.0,0.0
+2026_12_GB_LA,12,2026-11-25,Wednesday,LA,GB,(3:20) 68-D.Quessenberry reported in as eligible. 24-B.Corum left tackle to GB 44 for 5 yards (33-E.Williams).,run,5.0,0.0
+2026_12_GB_LA,12,2026-11-25,Wednesday,LA,GB,(2:35) 68-D.Quessenberry reported in as eligible. 24-B.Corum right end pushed ob at GB 15 for 29 yards (29-X.McKinney).,run,29.0,0.0
+2026_12_GB_LA,12,2026-11-25,Wednesday,LA,GB,"(2:27) PENALTY on LA, Delay of Game, 5 yards, enforced at GB 15 - No Play.",no_play,0.0,0.0
+2026_12_GB_LA,12,2026-11-25,Wednesday,LA,GB,"(2:27) 68-D.Quessenberry reported in as eligible. 23-K.Williams up the middle to GB 11 for 9 yards (58-I.McDuffie; 25-K.Nixon). PENALTY on GB-51-D.Dennis-Sutton, Defensive Offside, 5 yards, enforced at GB 20 - No Play.",no_play,0.0,0.0
+2026_12_GB_LA,12,2026-11-25,Wednesday,LA,GB,(2:21) 23-K.Williams right tackle to GB 6 for 9 yards (25-K.Nixon).,run,9.0,0.0
+2026_12_GB_LA,12,2026-11-25,Wednesday,LA,GB,(2:00) 68-D.Quessenberry reported in as eligible. 23-K.Williams up the middle to GB 7 for -1 yards (57-B.Cox).,run,-1.0,0.0
+2026_12_GB_LA,12,2026-11-25,Wednesday,LA,GB,(1:17) 68-D.Quessenberry reported in as eligible. 23-K.Williams left end to GB 7 for no gain (55-C.McClellan; 25-K.Nixon).,run,0.0,0.0
+2026_12_GB_LA,12,2026-11-25,Wednesday,LA,GB,"(:30) (Run formation) PENALTY on LA, Delay of Game, 5 yards, enforced at GB 7 - No Play.",no_play,0.0,0.0
+2026_12_GB_LA,12,2026-11-25,Wednesday,LA,GB,"(:30) 19-B.McManus 30 yard field goal is GOOD, Center-49-J.Cardona, Holder-42-E.Evans.",field_goal,0.0,0.0
+2026_12_GB_LA,12,2026-11-25,Wednesday,GB,LA,"16-J.Karty kicks 65 yards from LA 35 to landing zone to end zone, Touchback to the GB 20.",kickoff,0.0,0.0
+2026_12_GB_LA,12,2026-11-25,Wednesday,GB,LA,(:20) (Shotgun) 26-K.Johnson up the middle to GB 24 for 4 yards (91-K.Turner).,run,4.0,0.0
+2026_12_GB_LA,12,2026-11-25,Wednesday,GB,LA,END GAME,,,
