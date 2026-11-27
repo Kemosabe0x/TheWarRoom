@@ -28466,6 +28466,201 @@ game_id,week,game_date,day_of_week,posteam,defteam,desc,play_type,yards_gained,t
 2026_11_TEN_DAL,11,2026-11-22,Sunday,DAL,TEN,"6-J.Slye kicks 65 yards from TEN 35 to end zone, Touchback to the DAL 35.",kickoff,0.0,0.0
 2026_11_TEN_DAL,11,2026-11-22,Sunday,DAL,TEN,(:31) 4-D.Prescott kneels to DAL 34 for -1 yards.,qb_kneel,-1.0,0.0
 2026_11_TEN_DAL,11,2026-11-22,Sunday,DAL,TEN,END GAME,,,
+2026_12_CHI_DET,12,2026-11-26,Thursday,,,GAME,,,
+2026_12_CHI_DET,12,2026-11-26,Thursday,DET,CHI,8-C.Santos kicks 62 yards from CHI 35 to DET 3. 86-D.Carter to DET 26 for 23 yards (92-D.Hardy).,kickoff,0.0,0.0
+2026_12_CHI_DET,12,2026-11-26,Thursday,DET,CHI,(14:55) 0-J.Gibbs up the middle to DET 32 for 6 yards (97-J.Lynch; 21-C.Lewis).,run,6.0,0.0
+2026_12_CHI_DET,12,2026-11-26,Thursday,DET,CHI,(14:16) (Shotgun) 16-J.Goff pass incomplete short left to 14-A.St. Brown.,pass,0.0,0.0
+2026_12_CHI_DET,12,2026-11-26,Thursday,DET,CHI,"(14:11) (Shotgun) 16-J.Goff pass deep middle to 14-A.St. Brown to CHI 49 for 19 yards (21-C.Lewis). Penalty on CHI-24-M.Muhammad, Defensive Holding, declined.",pass,19.0,0.0
+2026_12_CHI_DET,12,2026-11-26,Thursday,DET,CHI,(13:48) 0-J.Gibbs right guard to CHI 42 for 7 yards (24-M.Muhammad; 12-D.Bush). DET-69-T.Ratledge was injured during the play.,run,7.0,0.0
+2026_12_CHI_DET,12,2026-11-26,Thursday,DET,CHI,(13:18) 0-J.Gibbs up the middle to CHI 36 for 6 yards (98-M.Sweat).,run,6.0,0.0
+2026_12_CHI_DET,12,2026-11-26,Thursday,DET,CHI,(12:49) 16-J.Goff pass deep left to 14-A.St. Brown pushed ob at CHI 9 for 27 yards (20-C.Phillips).,pass,27.0,0.0
+2026_12_CHI_DET,12,2026-11-26,Thursday,DET,CHI,(12:15) (No Huddle) 0-J.Gibbs up the middle to CHI 6 for 3 yards (24-M.Muhammad; 50-G.Jarrett).,run,3.0,0.0
+2026_12_CHI_DET,12,2026-11-26,Thursday,DET,CHI,(11:40) 16-J.Goff pass incomplete short left to 1-J.Williams.,pass,0.0,0.0
+2026_12_CHI_DET,12,2026-11-26,Thursday,DET,CHI,(11:35) (Shotgun) 16-J.Goff pass incomplete short right to 18-I.TeSlaa (20-C.Phillips) [94-A.Booker].,pass,0.0,0.0
+2026_12_CHI_DET,12,2026-11-26,Thursday,DET,CHI,"(11:30) 39-J.Bates 24 yard field goal is GOOD, Center-49-H.Hatten, Holder-3-J.Fox.",field_goal,0.0,0.0
+2026_12_CHI_DET,12,2026-11-26,Thursday,CHI,DET,39-J.Bates kicks 65 yards from DET 35 to CHI 0. 13-Z.Thomas to CHI 30 for 30 yards (35-J.Bachie; 5-C.Izien).,kickoff,0.0,0.0
+2026_12_CHI_DET,12,2026-11-26,Thursday,CHI,DET,(11:22) 18-C.Williams pass short right to 15-R.Odunze to CHI 39 for 9 yards (44-M.Rodriguez).,pass,9.0,0.0
+2026_12_CHI_DET,12,2026-11-26,Thursday,CHI,DET,(10:53) (Shotgun) 18-C.Williams pass short right to 4-D.Swift to DET 47 for 14 yards (28-A.Cisco).,pass,14.0,0.0
+2026_12_CHI_DET,12,2026-11-26,Thursday,CHI,DET,(10:09) 4-D.Swift right tackle to DET 38 for 9 yards (28-A.Cisco).,run,9.0,0.0
+2026_12_CHI_DET,12,2026-11-26,Thursday,CHI,DET,(9:39) 4-D.Swift up the middle to DET 36 for 2 yards (91-T.Williams; 8-D.Moore).,run,2.0,0.0
+2026_12_CHI_DET,12,2026-11-26,Thursday,CHI,DET,(9:02) 18-C.Williams pass short left to 14-K.Raymond pushed ob at DET 24 for 12 yards (53-T.Nowaske).,pass,12.0,0.0
+2026_12_CHI_DET,12,2026-11-26,Thursday,CHI,DET,(8:31) 25-K.Monangai right guard to DET 22 for 2 yards (91-T.Williams).,run,2.0,0.0
+2026_12_CHI_DET,12,2026-11-26,Thursday,CHI,DET,"(7:52) 18-C.Williams pass short right to 84-C.Loveland to DET 17 for 5 yards (32-B.Branch, 8-D.Moore). FUMBLES (8-D.Moore), RECOVERED by DET-44-M.Rodriguez at DET 16.",pass,5.0,0.0
+2026_12_CHI_DET,12,2026-11-26,Thursday,DET,CHI,(7:43) 0-J.Gibbs up the middle to DET 23 for 7 yards (21-C.Lewis; 53-T.Edwards).,run,7.0,0.0
+2026_12_CHI_DET,12,2026-11-26,Thursday,DET,CHI,(7:13) 0-J.Gibbs right end to DET 20 for -3 yards (20-C.Phillips).,run,-3.0,0.0
+2026_12_CHI_DET,12,2026-11-26,Thursday,DET,CHI,(6:29) (Shotgun) 16-J.Goff pass incomplete short left to 14-A.St. Brown.,pass,0.0,0.0
+2026_12_CHI_DET,12,2026-11-26,Thursday,DET,CHI,"(6:23) 3-J.Fox punts 42 yards to CHI 38, Center-49-H.Hatten, downed by DET-30-K.Dorsey.",punt,0.0,0.0
+2026_12_CHI_DET,12,2026-11-26,Thursday,CHI,DET,(6:15) (Shotgun) 4-D.Swift up the middle to CHI 40 for 2 yards (91-T.Williams).,run,2.0,0.0
+2026_12_CHI_DET,12,2026-11-26,Thursday,CHI,DET,(5:34) (Shotgun) 18-C.Williams pass incomplete short left to 10-L.Burden [61-A.Lucas].,pass,0.0,0.0
+2026_12_CHI_DET,12,2026-11-26,Thursday,CHI,DET,(5:29) (Shotgun) 18-C.Williams pass short middle to 10-L.Burden to CHI 44 for 4 yards (28-A.Cisco). CHI-67-G.Bradbury was injured during the play.,pass,4.0,0.0
+2026_12_CHI_DET,12,2026-11-26,Thursday,CHI,DET,"(5:10) 19-T.Taylor punts 46 yards to DET 10, Center-46-S.Daly, fair catch by 86-D.Carter.",punt,0.0,0.0
+2026_12_CHI_DET,12,2026-11-26,Thursday,DET,CHI,(5:03) 16-J.Goff pass short left to 83-T.Conklin pushed ob at DET 19 for 9 yards (24-M.Muhammad). ** Injury Update: DET-69-T.Ratledge has returned to the game.,pass,9.0,0.0
+2026_12_CHI_DET,12,2026-11-26,Thursday,DET,CHI,(4:30) 33-S.Vaki right guard to DET 22 for 3 yards (31-D.Thieneman; 44-N.Sewell).,run,3.0,0.0
+2026_12_CHI_DET,12,2026-11-26,Thursday,DET,CHI,(3:47) 16-J.Goff pass short middle to 33-S.Vaki to DET 17 for -5 yards (97-J.Lynch).,pass,-5.0,0.0
+2026_12_CHI_DET,12,2026-11-26,Thursday,DET,CHI,(3:12) (Shotgun) 16-J.Goff pass deep middle to 14-A.St. Brown to DET 40 for 23 yards (21-C.Lewis).,pass,23.0,0.0
+2026_12_CHI_DET,12,2026-11-26,Thursday,DET,CHI,(2:31) 33-S.Vaki left tackle to DET 43 for 3 yards (94-A.Booker).,run,3.0,0.0
+2026_12_CHI_DET,12,2026-11-26,Thursday,DET,CHI,"(1:55) (Shotgun) 16-J.Goff pass incomplete short right [90-N.Gallimore]. PENALTY on CHI-24-M.Muhammad, Face Mask, 15 yards, enforced at DET 43 - No Play.",no_play,0.0,0.0
+2026_12_CHI_DET,12,2026-11-26,Thursday,DET,CHI,(1:47) 0-J.Gibbs left tackle to CHI 43 for -1 yards (99-J.Simmons).,run,-1.0,0.0
+2026_12_CHI_DET,12,2026-11-26,Thursday,DET,CHI,(1:12) (Shotgun) 16-J.Goff pass short left to 0-J.Gibbs to CHI 29 for 14 yards (99-J.Simmons; 53-T.Edwards).,pass,14.0,0.0
+2026_12_CHI_DET,12,2026-11-26,Thursday,DET,CHI,(:30) (Shotgun) 1-J.Williams right end to CHI 17 for 12 yards (21-C.Lewis).,run,12.0,0.0
+2026_12_CHI_DET,12,2026-11-26,Thursday,DET,CHI,END QUARTER 1,,,
+2026_12_CHI_DET,12,2026-11-26,Thursday,DET,CHI,(15:00) (Shotgun) 16-J.Goff pass short right to 33-S.Vaki to CHI 16 for 1 yard (1-J.Johnson).,pass,1.0,0.0
+2026_12_CHI_DET,12,2026-11-26,Thursday,DET,CHI,(14:15) (Shotgun) 16-J.Goff pass short right to 0-J.Gibbs to CHI 10 for 6 yards (1-J.Johnson; 44-N.Sewell).,pass,6.0,0.0
+2026_12_CHI_DET,12,2026-11-26,Thursday,DET,CHI,(13:41) (Shotgun) 0-J.Gibbs up the middle to CHI 1 for 9 yards (12-D.Bush; 31-D.Thieneman).,run,9.0,0.0
+2026_12_CHI_DET,12,2026-11-26,Thursday,DET,CHI,(13:01) 79-L.Borom reported in as eligible. 16-J.Goff pass incomplete short left to 79-L.Borom.,pass,0.0,0.0
+2026_12_CHI_DET,12,2026-11-26,Thursday,DET,CHI,"(12:56) 0-J.Gibbs left tackle for 1 yard, TOUCHDOWN.",run,1.0,1.0
+2026_12_CHI_DET,12,2026-11-26,Thursday,DET,CHI,"39-J.Bates extra point is GOOD, Center-49-H.Hatten, Holder-3-J.Fox.",extra_point,0.0,0.0
+2026_12_CHI_DET,12,2026-11-26,Thursday,CHI,DET,"39-J.Bates kicks 65 yards from DET 35 to end zone, Touchback to the CHI 35.",kickoff,0.0,0.0
+2026_12_CHI_DET,12,2026-11-26,Thursday,CHI,DET,(12:51) (Shotgun) 18-C.Williams pass incomplete short right to 10-L.Burden (21-R.McCreary). ** Injury Update: CHI-67-G.Bradbury has returned to the game.,pass,0.0,0.0
+2026_12_CHI_DET,12,2026-11-26,Thursday,CHI,DET,(12:46) (Shotgun) 36-S.Ahmed right end to DET 19 for 46 yards (31-K.Joseph).,run,46.0,0.0
+2026_12_CHI_DET,12,2026-11-26,Thursday,CHI,DET,"(12:13) (No Huddle, Shotgun) 18-C.Williams sacked at DET 27 for -8 yards (8-D.Moore).",pass,-8.0,0.0
+2026_12_CHI_DET,12,2026-11-26,Thursday,CHI,DET,(11:32) (Shotgun) 18-C.Williams pass short right to 14-K.Raymond ran ob at DET 22 for 5 yards.,pass,5.0,0.0
+2026_12_CHI_DET,12,2026-11-26,Thursday,CHI,DET,(11:01) (Shotgun) 18-C.Williams pass incomplete short left to 14-K.Raymond (21-R.McCreary).,pass,0.0,0.0
+2026_12_CHI_DET,12,2026-11-26,Thursday,CHI,DET,"(10:56) 8-C.Santos 40 yard field goal is GOOD, Center-46-S.Daly, Holder-19-T.Taylor.",field_goal,0.0,0.0
+2026_12_CHI_DET,12,2026-11-26,Thursday,DET,CHI,8-C.Santos kicks 63 yards from CHI 35 to DET 2. 25-J.Saylors to DET 29 for 27 yards (92-D.Hardy; 48-D.Jackson).,kickoff,0.0,0.0
+2026_12_CHI_DET,12,2026-11-26,Thursday,DET,CHI,(10:45) 0-J.Gibbs left tackle to DET 39 for 10 yards (24-M.Muhammad).,run,10.0,0.0
+2026_12_CHI_DET,12,2026-11-26,Thursday,DET,CHI,(10:04) 0-J.Gibbs left tackle to DET 43 for 4 yards (94-A.Booker).,run,4.0,0.0
+2026_12_CHI_DET,12,2026-11-26,Thursday,DET,CHI,"(9:24) (Shotgun) PENALTY on DET-70-J.Scruggs, False Start, 5 yards, enforced at DET 43 - No Play.",no_play,0.0,0.0
+2026_12_CHI_DET,12,2026-11-26,Thursday,DET,CHI,"(9:12) (Shotgun) PENALTY on DET-70-J.Scruggs, False Start, 5 yards, enforced at DET 38 - No Play.",no_play,0.0,0.0
+2026_12_CHI_DET,12,2026-11-26,Thursday,DET,CHI,(8:58) (Shotgun) 33-S.Vaki left tackle to DET 39 for 6 yards (50-G.Jarrett).,run,6.0,0.0
+2026_12_CHI_DET,12,2026-11-26,Thursday,DET,CHI,(8:23) (Shotgun) 16-J.Goff pass incomplete short right to 33-S.Vaki.,pass,0.0,0.0
+2026_12_CHI_DET,12,2026-11-26,Thursday,DET,CHI,"(8:17) 3-J.Fox punts 61 yards to end zone, Center-49-H.Hatten, Touchback.",punt,0.0,0.0
+2026_12_CHI_DET,12,2026-11-26,Thursday,CHI,DET,(8:09) 4-D.Swift left end pushed ob at CHI 26 for 6 yards (21-R.McCreary).,run,6.0,0.0
+2026_12_CHI_DET,12,2026-11-26,Thursday,CHI,DET,(7:41) 18-C.Williams pass incomplete short left to 88-S.Carlson.,pass,0.0,0.0
+2026_12_CHI_DET,12,2026-11-26,Thursday,CHI,DET,(7:31) (Shotgun) 18-C.Williams pass short right to 88-S.Carlson to CHI 44 for 18 yards (4-D.Reed).,pass,18.0,0.0
+2026_12_CHI_DET,12,2026-11-26,Thursday,CHI,DET,(6:51) 18-C.Williams pass short middle to 4-D.Swift to DET 48 for 8 yards (44-M.Rodriguez).,pass,8.0,0.0
+2026_12_CHI_DET,12,2026-11-26,Thursday,CHI,DET,(6:18) (Shotgun) 18-C.Williams pass short right to 4-D.Swift to DET 15 for 33 yards (21-R.McCreary).,pass,33.0,0.0
+2026_12_CHI_DET,12,2026-11-26,Thursday,CHI,DET,(5:34) 18-C.Williams pass short left to 88-S.Carlson ran ob at DET 3 for 12 yards.,pass,12.0,0.0
+2026_12_CHI_DET,12,2026-11-26,Thursday,CHI,DET,(4:58) 25-K.Monangai right tackle to DET 1 for 2 yards (61-A.Lucas; 94-M.Wingo).,run,2.0,0.0
+2026_12_CHI_DET,12,2026-11-26,Thursday,CHI,DET,"(4:12) (Shotgun) 25-K.Monangai right guard for 1 yard, TOUCHDOWN.",run,1.0,1.0
+2026_12_CHI_DET,12,2026-11-26,Thursday,CHI,DET,"8-C.Santos extra point is GOOD, Center-46-S.Daly, Holder-19-T.Taylor.",extra_point,0.0,0.0
+2026_12_CHI_DET,12,2026-11-26,Thursday,DET,CHI,"8-C.Santos kicks 65 yards from CHI 35 to landing zone to end zone, Touchback to the DET 20.",kickoff,0.0,0.0
+2026_12_CHI_DET,12,2026-11-26,Thursday,DET,CHI,"(4:07) 16-J.Goff pass deep left to 14-A.St. Brown ran ob at DET 48 for 28 yards (21-C.Lewis). Penalty on CHI-24-M.Muhammad, Defensive Holding, declined.",pass,28.0,0.0
+2026_12_CHI_DET,12,2026-11-26,Thursday,DET,CHI,"(3:45) 16-J.Goff sacked at DET 41 for -7 yards. FUMBLES, and recovers at DET 38. Chicago challenged the loose ball recovery ruling, and the play was Upheld. The ruling on the field stands. (Timeout #1.)",pass,-10.0,0.0
+2026_12_CHI_DET,12,2026-11-26,Thursday,DET,CHI,(3:08) (Shotgun) 16-J.Goff pass incomplete deep right to 1-J.Williams.,pass,0.0,0.0
+2026_12_CHI_DET,12,2026-11-26,Thursday,DET,CHI,(3:02) (Shotgun) 16-J.Goff scrambles up the middle to DET 43 for 5 yards (31-D.Thieneman).,run,5.0,0.0
+2026_12_CHI_DET,12,2026-11-26,Thursday,DET,CHI,"(2:25) 3-J.Fox punts 47 yards to CHI 10, Center-49-H.Hatten, fair catch by 14-K.Raymond.",punt,0.0,0.0
+2026_12_CHI_DET,12,2026-11-26,Thursday,CHI,DET,(2:17) (Shotgun) 18-C.Williams sacked at CHI 2 for -8 yards (54-A.McNeill).,pass,-8.0,0.0
+2026_12_CHI_DET,12,2026-11-26,Thursday,CHI,DET,(2:00) (Shotgun) 18-C.Williams pass short right to 87-S.Roush to CHI 9 for 7 yards (4-D.Reed).,pass,7.0,0.0
+2026_12_CHI_DET,12,2026-11-26,Thursday,CHI,DET,"(1:26) (Shotgun) 18-C.Williams sacked at CHI 2 for -7 yards (8-D.Moore). FUMBLES (8-D.Moore) [8-D.Moore], touched at CHI 2, RECOVERED by DET-32-B.Branch at CHI 10. 32-B.Branch to CHI 14 for -4 yards (4-D.Swift). PENALTY on CHI-58-D.Wright, Illegal Bat, 0 yards, enforced in End Zone, SAFETY.",pass,-7.0,0.0
+2026_12_CHI_DET,12,2026-11-26,Thursday,DET,CHI,8-C.Santos kicks 71 yards from CHI 20 to DET 9. 25-J.Saylors to DET 29 for 20 yards (48-D.Jackson).,kickoff,0.0,0.0
+2026_12_CHI_DET,12,2026-11-26,Thursday,DET,CHI,(1:07) (Shotgun) 16-J.Goff pass incomplete deep left to 87-S.LaPorta [50-G.Jarrett].,pass,0.0,0.0
+2026_12_CHI_DET,12,2026-11-26,Thursday,DET,CHI,(1:02) (Shotgun) 0-J.Gibbs right guard to DET 37 for 8 yards (12-D.Bush; 53-T.Edwards).,run,8.0,0.0
+2026_12_CHI_DET,12,2026-11-26,Thursday,,,Timeout #1 by DET at 00:53.,no_play,0.0,0.0
+2026_12_CHI_DET,12,2026-11-26,Thursday,DET,CHI,"(:53) (Shotgun) PENALTY on DET-70-J.Scruggs, False Start, 5 yards, enforced at DET 37 - No Play.",no_play,0.0,0.0
+2026_12_CHI_DET,12,2026-11-26,Thursday,DET,CHI,"(:53) (Shotgun) PENALTY on DET-73-C.Mahogany, False Start, 5 yards, enforced at DET 32 - No Play.",no_play,0.0,0.0
+2026_12_CHI_DET,12,2026-11-26,Thursday,DET,CHI,(:53) (Shotgun) 16-J.Goff pass short middle to 0-J.Gibbs to DET 38 for 11 yards (50-G.Jarrett).,pass,11.0,0.0
+2026_12_CHI_DET,12,2026-11-26,Thursday,DET,CHI,(:30) (No Huddle) 16-J.Goff up the middle to DET 40 for 2 yards (98-M.Sweat).,run,2.0,0.0
+2026_12_CHI_DET,12,2026-11-26,Thursday,,,Timeout #2 by DET at 00:28.,no_play,0.0,0.0
+2026_12_CHI_DET,12,2026-11-26,Thursday,DET,CHI,(:28) (Shotgun) 16-J.Goff pass incomplete deep right to 14-A.St. Brown [20-C.Phillips].,pass,0.0,0.0
+2026_12_CHI_DET,12,2026-11-26,Thursday,DET,CHI,(:23) (Shotgun) 16-J.Goff pass deep right to 1-J.Williams pushed ob at CHI 21 for 39 yards (31-D.Thieneman).,pass,39.0,0.0
+2026_12_CHI_DET,12,2026-11-26,Thursday,DET,CHI,(:16) (Shotgun) 16-J.Goff pass short middle to 0-J.Gibbs to CHI 11 for 10 yards (20-C.Phillips).,pass,10.0,0.0
+2026_12_CHI_DET,12,2026-11-26,Thursday,,,Timeout #3 by DET at 00:10.,no_play,0.0,0.0
+2026_12_CHI_DET,12,2026-11-26,Thursday,DET,CHI,"(:10) (Shotgun) 16-J.Goff pass short middle to 87-S.LaPorta for 11 yards, TOUCHDOWN.",pass,11.0,1.0
+2026_12_CHI_DET,12,2026-11-26,Thursday,DET,CHI,"39-J.Bates extra point is GOOD, Center-49-H.Hatten, Holder-3-J.Fox.",extra_point,0.0,0.0
+2026_12_CHI_DET,12,2026-11-26,Thursday,CHI,DET,39-J.Bates kicks 73 yards from DET 35 to CHI -8. 13-Z.Thomas to CHI 19 for 27 yards (17-T.Martin; 5-C.Izien).,kickoff,0.0,0.0
+2026_12_CHI_DET,12,2026-11-26,Thursday,CHI,DET,(:02) (Shotgun) 18-C.Williams pass incomplete deep right to 15-R.Odunze.,pass,0.0,0.0
+2026_12_CHI_DET,12,2026-11-26,Thursday,,,END QUARTER 2,,,
+2026_12_CHI_DET,12,2026-11-26,Thursday,CHI,DET,39-J.Bates kicks 59 yards from DET 35 to CHI 6. 13-Z.Thomas to CHI 27 for 21 yards (33-S.Vaki).,kickoff,0.0,0.0
+2026_12_CHI_DET,12,2026-11-26,Thursday,CHI,DET,"(14:56) (Shotgun) 18-C.Williams pass incomplete short right to 15-R.Odunze (28-A.Cisco). PENALTY on DET-23-R.Ya-Sin, Illegal Contact, 5 yards, enforced at CHI 27 - No Play.",no_play,0.0,0.0
+2026_12_CHI_DET,12,2026-11-26,Thursday,CHI,DET,(14:47) 18-C.Williams pass short right to 25-K.Monangai to CHI 46 for 14 yards (21-R.McCreary; 40-K.Britt).,pass,14.0,0.0
+2026_12_CHI_DET,12,2026-11-26,Thursday,CHI,DET,(14:06) 25-K.Monangai right guard to 50 for 4 yards (44-M.Rodriguez; 91-T.Williams).,run,4.0,0.0
+2026_12_CHI_DET,12,2026-11-26,Thursday,CHI,DET,(13:34) (Shotgun) 18-C.Williams pass incomplete short right to 25-K.Monangai.,pass,0.0,0.0
+2026_12_CHI_DET,12,2026-11-26,Thursday,CHI,DET,(13:30) (Shotgun) 18-C.Williams pass deep right to 10-L.Burden to DET 25 for 25 yards (21-R.McCreary). DET-21-R.McCreary was injured during the play.,pass,25.0,0.0
+2026_12_CHI_DET,12,2026-11-26,Thursday,CHI,DET,(13:06) (Shotgun) 18-C.Williams scrambles right end pushed ob at DET 20 for 5 yards (44-M.Rodriguez). DET-44-M.Rodriguez was injured during the play.,run,5.0,0.0
+2026_12_CHI_DET,12,2026-11-26,Thursday,CHI,DET,(12:50) 18-C.Williams pass incomplete deep left to 15-R.Odunze.,pass,0.0,0.0
+2026_12_CHI_DET,12,2026-11-26,Thursday,CHI,DET,(12:42) (Shotgun) 18-C.Williams pass short right to 36-S.Ahmed pushed ob at DET 11 for 9 yards (55-D.Barnes).,pass,9.0,0.0
+2026_12_CHI_DET,12,2026-11-26,Thursday,CHI,DET,(12:14) 10-L.Burden right end to DET 10 for 1 yard (53-T.Nowaske; 31-K.Joseph).,run,1.0,0.0
+2026_12_CHI_DET,12,2026-11-26,Thursday,CHI,DET,(11:32) 25-K.Monangai up the middle to DET 2 for 8 yards (40-K.Britt; 5-C.Izien).,run,8.0,0.0
+2026_12_CHI_DET,12,2026-11-26,Thursday,CHI,DET,"(10:46) 25-K.Monangai right tackle for 2 yards, TOUCHDOWN.",run,2.0,1.0
+2026_12_CHI_DET,12,2026-11-26,Thursday,CHI,DET,"8-C.Santos extra point is GOOD, Center-46-S.Daly, Holder-19-T.Taylor.",extra_point,0.0,0.0
+2026_12_CHI_DET,12,2026-11-26,Thursday,DET,CHI,"8-C.Santos kicks 65 yards from CHI 35 to end zone, Touchback to the DET 35.",kickoff,0.0,0.0
+2026_12_CHI_DET,12,2026-11-26,Thursday,DET,CHI,"(10:40) (Shotgun) 16-J.Goff pass incomplete deep middle to 89-B.Wright (44-N.Sewell). PENALTY on CHI-99-J.Simmons, Defensive Offside, 5 yards, enforced at DET 35 - No Play.",no_play,0.0,0.0
+2026_12_CHI_DET,12,2026-11-26,Thursday,DET,CHI,(10:33) 0-J.Gibbs right tackle to DET 44 for 4 yards (21-C.Lewis).,run,4.0,0.0
+2026_12_CHI_DET,12,2026-11-26,Thursday,DET,CHI,(9:54) (Shotgun) 16-J.Goff pass short left to 87-S.LaPorta to CHI 43 for 13 yards (31-D.Thieneman).,pass,13.0,0.0
+2026_12_CHI_DET,12,2026-11-26,Thursday,DET,CHI,(9:08) (Shotgun) 16-J.Goff pass deep left to 14-A.St. Brown to CHI 26 for 17 yards (21-C.Lewis).,pass,17.0,0.0
+2026_12_CHI_DET,12,2026-11-26,Thursday,DET,CHI,(8:24) 0-J.Gibbs right guard to CHI 28 for -2 yards (50-G.Jarrett).,run,-2.0,0.0
+2026_12_CHI_DET,12,2026-11-26,Thursday,DET,CHI,(7:43) (Shotgun) 16-J.Goff scrambles left end ran ob at CHI 25 for 3 yards (99-J.Simmons).,run,3.0,0.0
+2026_12_CHI_DET,12,2026-11-26,Thursday,DET,CHI,(7:08) (Shotgun) 16-J.Goff pass deep left to 87-S.LaPorta to CHI 8 for 17 yards.,pass,17.0,0.0
+2026_12_CHI_DET,12,2026-11-26,Thursday,DET,CHI,(6:31) 0-J.Gibbs up the middle to CHI 6 for 2 yards (97-J.Lynch).,run,2.0,0.0
+2026_12_CHI_DET,12,2026-11-26,Thursday,DET,CHI,"(5:52) 16-J.Goff pass incomplete short right to 14-A.St. Brown. PENALTY on CHI-1-J.Johnson, Defensive Pass Interference, 5 yards, enforced at CHI 6 - No Play.",no_play,0.0,0.0
+2026_12_CHI_DET,12,2026-11-26,Thursday,DET,CHI,"(5:48) 79-L.Borom reported in as eligible. 0-J.Gibbs left guard for 1 yard, TOUCHDOWN.",run,1.0,1.0
+2026_12_CHI_DET,12,2026-11-26,Thursday,DET,CHI,"39-J.Bates extra point is GOOD, Center-49-H.Hatten, Holder-3-J.Fox.",extra_point,0.0,0.0
+2026_12_CHI_DET,12,2026-11-26,Thursday,CHI,DET,39-J.Bates kicks 62 yards from DET 35 to CHI 3. 13-Z.Thomas to CHI 29 for 26 yards (5-C.Izien).,kickoff,0.0,0.0
+2026_12_CHI_DET,12,2026-11-26,Thursday,CHI,DET,(5:41) 4-D.Swift up the middle to CHI 35 for 6 yards (91-T.Williams; 32-B.Branch). ** Injury Update: DET-21-R.McCreary has returned to the game.,run,6.0,0.0
+2026_12_CHI_DET,12,2026-11-26,Thursday,CHI,DET,(5:10) (Shotgun) 18-C.Williams pass short right to 4-D.Swift ran ob at DET 47 for 18 yards (21-R.McCreary).,pass,18.0,0.0
+2026_12_CHI_DET,12,2026-11-26,Thursday,CHI,DET,(4:40) (Shotgun) 18-C.Williams pass short middle to 87-S.Roush to DET 36 for 11 yards (28-A.Cisco).,pass,11.0,0.0
+2026_12_CHI_DET,12,2026-11-26,Thursday,CHI,DET,(3:58) 18-C.Williams pass short left to 4-D.Swift to DET 30 for 6 yards (31-K.Joseph).,pass,6.0,0.0
+2026_12_CHI_DET,12,2026-11-26,Thursday,CHI,DET,"(3:17) (Shotgun) 4-D.Swift left tackle for 30 yards, TOUCHDOWN.",run,30.0,1.0
+2026_12_CHI_DET,12,2026-11-26,Thursday,CHI,DET,"8-C.Santos extra point is GOOD, Center-46-S.Daly, Holder-19-T.Taylor.",extra_point,0.0,0.0
+2026_12_CHI_DET,12,2026-11-26,Thursday,DET,CHI,8-C.Santos kicks 62 yards from CHI 35 to DET 3. 25-J.Saylors to DET 35 for 32 yards (57-J.Sanborn; 38-S.Thomas). ** Injury Update: DET-44-M.Rodriguez has returned to the game.,kickoff,0.0,0.0
+2026_12_CHI_DET,12,2026-11-26,Thursday,DET,CHI,(3:05) 16-J.Goff pass short left to 1-J.Williams ran ob at DET 42 for 7 yards (1-J.Johnson).,pass,7.0,0.0
+2026_12_CHI_DET,12,2026-11-26,Thursday,DET,CHI,(2:30) 0-J.Gibbs right tackle pushed ob at CHI 26 for 32 yards (21-C.Lewis).,run,32.0,0.0
+2026_12_CHI_DET,12,2026-11-26,Thursday,DET,CHI,(1:51) 33-S.Vaki right guard to CHI 24 for 2 yards (97-J.Lynch).,run,2.0,0.0
+2026_12_CHI_DET,12,2026-11-26,Thursday,DET,CHI,(1:15) (Shotgun) 16-J.Goff pass short left to 1-J.Williams to CHI 27 for -3 yards (97-J.Lynch).,pass,-3.0,0.0
+2026_12_CHI_DET,12,2026-11-26,Thursday,DET,CHI,(:27) (Shotgun) 16-J.Goff pass short middle to 1-J.Williams to CHI 22 for 5 yards (20-C.Phillips).,pass,5.0,0.0
+2026_12_CHI_DET,12,2026-11-26,Thursday,DET,CHI,END QUARTER 3,,,
+2026_12_CHI_DET,12,2026-11-26,Thursday,DET,CHI,"(15:00) 39-J.Bates 40 yard field goal is GOOD, Center-49-H.Hatten, Holder-3-J.Fox.",field_goal,0.0,0.0
+2026_12_CHI_DET,12,2026-11-26,Thursday,CHI,DET,"39-J.Bates kicks 65 yards from DET 35 to end zone, Touchback to the CHI 35.",kickoff,0.0,0.0
+2026_12_CHI_DET,12,2026-11-26,Thursday,CHI,DET,"(14:57) 25-K.Monangai right end to CHI 34 for -1 yards (40-K.Britt, 93-T.Lacy).",run,-1.0,0.0
+2026_12_CHI_DET,12,2026-11-26,Thursday,CHI,DET,"(14:14) (Shotgun) 18-C.Williams pass incomplete deep left to 10-L.Burden. Penalty on CHI-10-L.Burden, Offensive Pass Interference, declined.",pass,0.0,0.0
+2026_12_CHI_DET,12,2026-11-26,Thursday,CHI,DET,(14:07) (Shotgun) 18-C.Williams scrambles left tackle to CHI 42 for 8 yards (31-K.Joseph).,run,8.0,0.0
+2026_12_CHI_DET,12,2026-11-26,Thursday,CHI,DET,(13:19) (Shotgun) 18-C.Williams pass short right to 15-R.Odunze to CHI 47 for 5 yards (23-R.Ya-Sin).,pass,5.0,0.0
+2026_12_CHI_DET,12,2026-11-26,Thursday,CHI,DET,(12:35) (Shotgun) 18-C.Williams pass short middle to 14-K.Raymond to 50 for 3 yards (32-B.Branch).,pass,3.0,0.0
+2026_12_CHI_DET,12,2026-11-26,Thursday,CHI,DET,(11:56) 25-K.Monangai right end to CHI 47 for -3 yards (32-B.Branch).,run,-3.0,0.0
+2026_12_CHI_DET,12,2026-11-26,Thursday,CHI,DET,(11:19) (Shotgun) 18-C.Williams sacked at CHI 37 for -10 yards (44-M.Rodriguez).,pass,-10.0,0.0
+2026_12_CHI_DET,12,2026-11-26,Thursday,CHI,DET,"(10:42) 19-T.Taylor punts 44 yards to DET 19, Center-46-S.Daly, out of bounds.",punt,0.0,0.0
+2026_12_CHI_DET,12,2026-11-26,Thursday,DET,CHI,(10:32) 0-J.Gibbs up the middle to DET 23 for 4 yards (53-T.Edwards).,run,4.0,0.0
+2026_12_CHI_DET,12,2026-11-26,Thursday,DET,CHI,(9:56) 0-J.Gibbs left tackle to DET 26 for 3 yards (31-D.Thieneman).,run,3.0,0.0
+2026_12_CHI_DET,12,2026-11-26,Thursday,DET,CHI,(9:11) (Shotgun) 16-J.Goff pass short left to 1-J.Williams to DET 30 for 4 yards (1-J.Johnson).,pass,4.0,0.0
+2026_12_CHI_DET,12,2026-11-26,Thursday,DET,CHI,"(8:30) 0-J.Gibbs left tackle for 70 yards, TOUCHDOWN. PENALTY on DET-73-C.Mahogany, Taunting, 15 yards, enforced between downs.",run,70.0,1.0
+2026_12_CHI_DET,12,2026-11-26,Thursday,DET,CHI,"39-J.Bates extra point is No Good, Wide Left, Center-49-H.Hatten, Holder-3-J.Fox.",extra_point,0.0,0.0
+2026_12_CHI_DET,12,2026-11-26,Thursday,CHI,DET,39-J.Bates kicks 57 yards from DET 35 to CHI 8. 13-Z.Thomas to CHI 29 for 21 yards (53-T.Nowaske).,kickoff,0.0,0.0
+2026_12_CHI_DET,12,2026-11-26,Thursday,CHI,DET,(8:16) (Shotgun) 18-C.Williams pass short middle to 10-L.Burden to CHI 44 for 15 yards (44-M.Rodriguez).,pass,15.0,0.0
+2026_12_CHI_DET,12,2026-11-26,Thursday,CHI,DET,"(7:51) (No Huddle, Shotgun) 18-C.Williams pass short middle to 15-R.Odunze to DET 41 for 15 yards (4-D.Reed; 44-M.Rodriguez).",pass,15.0,0.0
+2026_12_CHI_DET,12,2026-11-26,Thursday,CHI,DET,"(7:27) (No Huddle, Shotgun) 18-C.Williams pass deep right to 15-R.Odunze for 41 yards, TOUCHDOWN.",pass,41.0,1.0
+2026_12_CHI_DET,12,2026-11-26,Thursday,CHI,DET,TWO-POINT CONVERSION ATTEMPT. 18-C.Williams rushes left end. ATTEMPT SUCCEEDS.,run,2.0,0.0
+2026_12_CHI_DET,12,2026-11-26,Thursday,DET,CHI,8-C.Santos kicks 60 yards from CHI 35 to DET 5. 25-J.Saylors to DET 34 for 29 yards (49-K.Elliott; 92-D.Hardy).,kickoff,0.0,0.0
+2026_12_CHI_DET,12,2026-11-26,Thursday,DET,CHI,"(7:12) 16-J.Goff pass deep left to 14-A.St. Brown ran ob at CHI 43 for 23 yards (21-C.Lewis). Penalty on CHI-21-C.Lewis, Illegal Contact, declined.",pass,23.0,0.0
+2026_12_CHI_DET,12,2026-11-26,Thursday,DET,CHI,(6:42) (Shotgun) 16-J.Goff pass short left to 1-J.Williams pushed ob at CHI 36 for 7 yards (24-M.Muhammad).,pass,7.0,0.0
+2026_12_CHI_DET,12,2026-11-26,Thursday,DET,CHI,(6:13) 33-S.Vaki right tackle to CHI 34 for 2 yards (12-D.Bush).,run,2.0,0.0
+2026_12_CHI_DET,12,2026-11-26,Thursday,DET,CHI,(5:34) 16-J.Goff pass short left intended for 1-J.Williams INTERCEPTED by 31-D.Thieneman (53-T.Edwards) at CHI 21. 31-D.Thieneman to CHI 39 for 18 yards (83-T.Conklin).,pass,0.0,0.0
+2026_12_CHI_DET,12,2026-11-26,Thursday,CHI,DET,(5:25) 4-D.Swift up the middle to CHI 41 for 2 yards (31-K.Joseph; 54-A.McNeill).,run,2.0,0.0
+2026_12_CHI_DET,12,2026-11-26,Thursday,CHI,DET,(4:48) (Shotgun) 18-C.Williams pass short left to 87-S.Roush to CHI 43 for 2 yards (4-D.Reed).,pass,2.0,0.0
+2026_12_CHI_DET,12,2026-11-26,Thursday,CHI,DET,(4:09) (Shotgun) 18-C.Williams pass short right to 36-S.Ahmed ran ob at DET 49 for 8 yards.,pass,8.0,0.0
+2026_12_CHI_DET,12,2026-11-26,Thursday,CHI,DET,"(4:04) (No Huddle, Shotgun) 36-S.Ahmed left guard to 50 for -1 yards (32-B.Branch).",run,-1.0,0.0
+2026_12_CHI_DET,12,2026-11-26,Thursday,CHI,DET,(3:25) (Shotgun) 18-C.Williams pass short right to 87-S.Roush to DET 42 for 8 yards (23-R.Ya-Sin).,pass,8.0,0.0
+2026_12_CHI_DET,12,2026-11-26,Thursday,CHI,DET,"(2:59) (No Huddle, Shotgun) 18-C.Williams pass incomplete short middle to 10-L.Burden.",pass,0.0,0.0
+2026_12_CHI_DET,12,2026-11-26,Thursday,CHI,DET,"(2:53) (Shotgun) 18-C.Williams pass incomplete deep right to 9-J.Walker (31-K.Joseph) [44-M.Rodriguez]. PENALTY on DET-61-A.Lucas, Taunting, 15 yards, enforced at DET 42.",pass,0.0,0.0
+2026_12_CHI_DET,12,2026-11-26,Thursday,DET,CHI,(2:41) 0-J.Gibbs left tackle to CHI 39 for 34 yards (31-D.Thieneman).,run,34.0,0.0
+2026_12_CHI_DET,12,2026-11-26,Thursday,,,Timeout #1 by DET at 02:34.,no_play,0.0,0.0
+2026_12_CHI_DET,12,2026-11-26,Thursday,DET,CHI,(2:34) 33-S.Vaki right tackle to CHI 36 for 3 yards (1-J.Johnson).,run,3.0,0.0
+2026_12_CHI_DET,12,2026-11-26,Thursday,,,Timeout #1 by CHI at 02:31.,no_play,0.0,0.0
+2026_12_CHI_DET,12,2026-11-26,Thursday,DET,CHI,(2:31) 16-J.Goff pass incomplete short left to 89-B.Wright.,pass,0.0,0.0
+2026_12_CHI_DET,12,2026-11-26,Thursday,DET,CHI,(2:27) (Shotgun) 16-J.Goff pass short right to 87-S.LaPorta to CHI 33 for 3 yards (53-T.Edwards).,pass,3.0,0.0
+2026_12_CHI_DET,12,2026-11-26,Thursday,,,Timeout #2 by CHI at 02:22.,no_play,0.0,0.0
+2026_12_CHI_DET,12,2026-11-26,Thursday,DET,CHI,(2:22) (Shotgun) 16-J.Goff pass short left to 0-J.Gibbs to CHI 32 for 1 yard (53-T.Edwards).,pass,1.0,0.0
+2026_12_CHI_DET,12,2026-11-26,Thursday,CHI,DET,(2:17) (Shotgun) 18-C.Williams pass short right to 87-S.Roush pushed ob at CHI 35 for 3 yards (55-D.Barnes).,pass,3.0,0.0
+2026_12_CHI_DET,12,2026-11-26,Thursday,CHI,DET,(2:13) (Shotgun) 18-C.Williams pass incomplete deep middle to 15-R.Odunze.,pass,0.0,0.0
+2026_12_CHI_DET,12,2026-11-26,Thursday,CHI,DET,(2:09) (Shotgun) 18-C.Williams pass short left to 4-D.Swift to CHI 41 for 6 yards (31-K.Joseph).,pass,6.0,0.0
+2026_12_CHI_DET,12,2026-11-26,Thursday,CHI,DET,(2:00) 18-C.Williams right end pushed ob at CHI 43 for 2 yards (21-R.McCreary).,run,2.0,0.0
+2026_12_CHI_DET,12,2026-11-26,Thursday,CHI,DET,"(1:56) (No Huddle, Shotgun) 18-C.Williams pass incomplete short middle to 88-S.Carlson (21-R.McCreary).",pass,0.0,0.0
+2026_12_CHI_DET,12,2026-11-26,Thursday,CHI,DET,(1:51) (Shotgun) 18-C.Williams pass short middle to 15-R.Odunze to DET 46 for 11 yards (4-D.Reed; 53-T.Nowaske).,pass,11.0,0.0
+2026_12_CHI_DET,12,2026-11-26,Thursday,CHI,DET,"(1:29) (No Huddle, Shotgun) 18-C.Williams pass incomplete short left to 25-K.Monangai. PENALTY on DET-4-D.Reed, Face Mask, 15 yards, enforced at DET 46 - No Play.",no_play,0.0,0.0
+2026_12_CHI_DET,12,2026-11-26,Thursday,CHI,DET,(1:21) (Shotgun) 36-S.Ahmed right end to DET 26 for 5 yards (32-B.Branch).,run,5.0,0.0
+2026_12_CHI_DET,12,2026-11-26,Thursday,,,Timeout #2 by DET at 01:12.,no_play,0.0,0.0
+2026_12_CHI_DET,12,2026-11-26,Thursday,CHI,DET,(1:12) (Shotgun) 18-C.Williams pass incomplete short left to 14-K.Raymond.,pass,0.0,0.0
+2026_12_CHI_DET,12,2026-11-26,Thursday,CHI,DET,(1:08) (Shotgun) 4-D.Swift left end to DET 21 for 5 yards (31-K.Joseph).,run,5.0,0.0
+2026_12_CHI_DET,12,2026-11-26,Thursday,,,Timeout #3 by DET at 00:53.,no_play,0.0,0.0
+2026_12_CHI_DET,12,2026-11-26,Thursday,CHI,DET,(:53) (Shotgun) 18-C.Williams pass short right to 4-D.Swift to DET 9 for 12 yards (61-A.Lucas; 38-N.Whiteside).,pass,12.0,0.0
+2026_12_CHI_DET,12,2026-11-26,Thursday,CHI,DET,(:17) 4-D.Swift up the middle to DET 6 for 3 yards (55-D.Barnes).,run,3.0,0.0
+2026_12_CHI_DET,12,2026-11-26,Thursday,,,Timeout #3 by CHI at 00:13.,no_play,0.0,0.0
+2026_12_CHI_DET,12,2026-11-26,Thursday,CHI,DET,(:13) (Shotgun) 18-C.Williams pass incomplete short left to 4-D.Swift (55-D.Barnes).,pass,0.0,0.0
+2026_12_CHI_DET,12,2026-11-26,Thursday,CHI,DET,"(:09) (Shotgun) 18-C.Williams pass short right to 15-R.Odunze for 6 yards, TOUCHDOWN. The Replay Official reviewed the pass completion ruling, and the play was Upheld. The ruling on the field stands.",pass,6.0,1.0
+2026_12_CHI_DET,12,2026-11-26,Thursday,CHI,DET,"8-C.Santos extra point is GOOD, Center-46-S.Daly, Holder-19-T.Taylor.",extra_point,0.0,0.0
+2026_12_CHI_DET,12,2026-11-26,Thursday,DET,CHI,"8-C.Santos kicks 65 yards from CHI 35 to end zone, Touchback to the DET 35.",kickoff,0.0,0.0
+2026_12_CHI_DET,12,2026-11-26,Thursday,DET,CHI,"(:03) (Shotgun) 16-J.Goff pass short left to 14-A.St. Brown to DET 44 for 9 yards. Lateral to 1-J.Williams to CHI 47 for 9 yards. Lateral to 0-J.Gibbs to DET 47 for -6 yards. Lateral to 16-J.Goff to 50 for 3 yards. Lateral to 0-J.Gibbs to CHI 39 for 11 yards. PENALTY on DET-0-J.Gibbs, Illegal Forward Pass, 0 yards, enforced at CHI 39.",pass,11.0,0.0
+2026_12_CHI_DET,12,2026-11-26,Thursday,DET,CHI,END GAME,,,
 2026_12_GB_LA,12,2026-11-25,Wednesday,,,GAME,,,
 2026_12_GB_LA,12,2026-11-25,Wednesday,GB,LA,16-J.Karty kicks 54 yards from LA 35 to GB 11. 16-B.Melton to GB 23 for 12 yards (44-G.Stuard).,kickoff,0.0,0.0
 2026_12_GB_LA,12,2026-11-25,Wednesday,GB,LA,(14:53) (Shotgun) 10-J.Love pass short left to 9-C.Watson to GB 29 for 6 yards (30-J.Wallace).,pass,6.0,0.0
@@ -28633,3 +28828,351 @@ game_id,week,game_date,day_of_week,posteam,defteam,desc,play_type,yards_gained,t
 2026_12_GB_LA,12,2026-11-25,Wednesday,GB,LA,"16-J.Karty kicks 65 yards from LA 35 to landing zone to end zone, Touchback to the GB 20.",kickoff,0.0,0.0
 2026_12_GB_LA,12,2026-11-25,Wednesday,GB,LA,(:20) (Shotgun) 26-K.Johnson up the middle to GB 24 for 4 yards (91-K.Turner).,run,4.0,0.0
 2026_12_GB_LA,12,2026-11-25,Wednesday,GB,LA,END GAME,,,
+2026_12_KC_BUF,12,2026-11-26,Thursday,,,GAME,,,
+2026_12_KC_BUF,12,2026-11-26,Thursday,BUF,KC,7-H.Butker kicks 55 yards from KC 35 to BUF 10. 7-R.Davis to BUF 29 for 19 yards (43-J.Cochrane; 51-R.Thomas).,kickoff,0.0,0.0
+2026_12_KC_BUF,12,2026-11-26,Thursday,BUF,KC,(14:53) 17-J.Allen pass short left to 4-J.Cook to BUF 37 for 8 yards (17-A.Gilman).,pass,8.0,0.0
+2026_12_KC_BUF,12,2026-11-26,Thursday,BUF,KC,(14:12) 4-J.Cook right guard to BUF 38 for 1 yard (32-N.Bolton).,run,1.0,0.0
+2026_12_KC_BUF,12,2026-11-26,Thursday,BUF,KC,(13:43) 4-J.Cook right guard to BUF 41 for 3 yards (23-D.Tranquill).,run,3.0,0.0
+2026_12_KC_BUF,12,2026-11-26,Thursday,BUF,KC,(13:06) (Shotgun) 7-R.Davis left guard to BUF 45 for 4 yards (32-N.Bolton; 92-K.Tonga).,run,4.0,0.0
+2026_12_KC_BUF,12,2026-11-26,Thursday,BUF,KC,(12:30) (Shotgun) 17-J.Allen scrambles right tackle to KC 45 for 10 yards (17-A.Gilman).,run,10.0,0.0
+2026_12_KC_BUF,12,2026-11-26,Thursday,BUF,KC,(11:47) 4-J.Cook left tackle to KC 42 for 3 yards (92-K.Tonga).,run,3.0,0.0
+2026_12_KC_BUF,12,2026-11-26,Thursday,BUF,KC,(11:11) 17-J.Allen pass incomplete short left to 7-R.Davis.,pass,0.0,0.0
+2026_12_KC_BUF,12,2026-11-26,Thursday,BUF,KC,(11:06) (Shotgun) 17-J.Allen pass incomplete short middle to 10-K.Shakir.,pass,0.0,0.0
+2026_12_KC_BUF,12,2026-11-26,Thursday,BUF,KC,"(11:02) 39-T.Doman punts 42 yards to end zone, Center-69-R.Ferguson, Touchback.",punt,0.0,0.0
+2026_12_KC_BUF,12,2026-11-26,Thursday,KC,BUF,(10:56) 10-E.Johnson up the middle to KC 26 for 6 yards (94-L.Jackson; 9-B.Chubb).,run,6.0,0.0
+2026_12_KC_BUF,12,2026-11-26,Thursday,KC,BUF,(10:23) (Shotgun) 10-E.Johnson up the middle to KC 29 for 3 yards (96-D.Walker).,run,3.0,0.0
+2026_12_KC_BUF,12,2026-11-26,Thursday,KC,BUF,(9:42) (Shotgun) 10-E.Johnson up the middle to KC 27 for -2 yards (9-B.Chubb).,run,-2.0,0.0
+2026_12_KC_BUF,12,2026-11-26,Thursday,KC,BUF,"(9:03) 14-M.Araiza punts 44 yards to BUF 29, Center-41-J.Winchester. 19-G.Dortch to BUF 31 for 2 yards (22-J.Canady).",punt,0.0,0.0
+2026_12_KC_BUF,12,2026-11-26,Thursday,BUF,KC,(8:54) 4-J.Cook right tackle to BUF 35 for 4 yards (17-A.Gilman; 97-A.Gillotte).,run,4.0,0.0
+2026_12_KC_BUF,12,2026-11-26,Thursday,BUF,KC,(8:16) (Shotgun) 17-J.Allen right end to BUF 35 for no gain (97-A.Gillotte; 56-G.Karlaftis).,run,0.0,0.0
+2026_12_KC_BUF,12,2026-11-26,Thursday,BUF,KC,(7:35) (Shotgun) 17-J.Allen pass incomplete deep left to 2-D.Moore.,pass,0.0,0.0
+2026_12_KC_BUF,12,2026-11-26,Thursday,BUF,KC,"(7:29) 39-T.Doman punts 61 yards to KC 4, Center-69-R.Ferguson, downed by BUF-14-T.Shavers.",punt,0.0,0.0
+2026_12_KC_BUF,12,2026-11-26,Thursday,KC,BUF,(7:18) 15-P.Mahomes pass short right to 11-J.Royals to KC 9 for 5 yards (23-D.Alford).,pass,5.0,0.0
+2026_12_KC_BUF,12,2026-11-26,Thursday,KC,BUF,(6:41) (Shotgun) 10-E.Johnson up the middle to KC 13 for 4 yards (96-D.Walker; 42-D.Williams).,run,4.0,0.0
+2026_12_KC_BUF,12,2026-11-26,Thursday,KC,BUF,(6:02) 15-P.Mahomes pass short right to 83-N.Gray pushed ob at KC 13 for no gain (8-T.Bernard).,pass,0.0,0.0
+2026_12_KC_BUF,12,2026-11-26,Thursday,KC,BUF,"(5:47) 14-M.Araiza punts 36 yards to KC 49, Center-41-J.Winchester, out of bounds.",punt,0.0,0.0
+2026_12_KC_BUF,12,2026-11-26,Thursday,BUF,KC,(5:40) 4-J.Cook right guard to KC 45 for 4 yards (97-A.Gillotte; 20-N.Williams).,run,4.0,0.0
+2026_12_KC_BUF,12,2026-11-26,Thursday,BUF,KC,(5:01) (Shotgun) 4-J.Cook up the middle to KC 35 for 10 yards (23-D.Tranquill; 27-C.Conner).,run,10.0,0.0
+2026_12_KC_BUF,12,2026-11-26,Thursday,BUF,KC,(4:24) 4-J.Cook right tackle to KC 30 for 5 yards (21-J.Hicks).,run,5.0,0.0
+2026_12_KC_BUF,12,2026-11-26,Thursday,BUF,KC,(3:42) (Shotgun) 4-J.Cook up the middle to KC 30 for no gain (23-D.Tranquill).,run,0.0,0.0
+2026_12_KC_BUF,12,2026-11-26,Thursday,BUF,KC,(2:59) (Shotgun) 17-J.Allen pass short right to 10-K.Shakir to KC 13 for 17 yards (23-D.Tranquill).,pass,17.0,0.0
+2026_12_KC_BUF,12,2026-11-26,Thursday,BUF,KC,(2:12) 4-J.Cook left guard to KC 10 for 3 yards (92-K.Tonga; 30-C.Roland-Wallace).,run,3.0,0.0
+2026_12_KC_BUF,12,2026-11-26,Thursday,BUF,KC,(1:30) 4-J.Cook right guard to KC 9 for 1 yard (97-A.Gillotte).,run,1.0,0.0
+2026_12_KC_BUF,12,2026-11-26,Thursday,BUF,KC,(:48) (Shotgun) 17-J.Allen pass short right to 26-T.Johnson pushed ob at KC 4 for 5 yards (32-N.Bolton).,pass,5.0,0.0
+2026_12_KC_BUF,12,2026-11-26,Thursday,BUF,KC,(:15) 63-A.Corbett reported in as eligible. 4-J.Cook right tackle to KC 3 for 1 yard (56-G.Karlaftis; 32-N.Bolton).,run,1.0,0.0
+2026_12_KC_BUF,12,2026-11-26,Thursday,BUF,KC,END QUARTER 1,,,
+2026_12_KC_BUF,12,2026-11-26,Thursday,BUF,KC,"(15:00) 4-J.Cook left guard for 3 yards, TOUCHDOWN. The Replay Official reviewed the runner broke the plane ruling, and the play was REVERSED. 4-J.Cook left guard to KC 1 for 2 yards (21-J.Hicks; 8-K.Fulton).",run,2.0,0.0
+2026_12_KC_BUF,12,2026-11-26,Thursday,BUF,KC,"(14:56) PENALTY on BUF-73-D.Dawkins, False Start, 4 yards, enforced at KC 1 - No Play.",no_play,0.0,0.0
+2026_12_KC_BUF,12,2026-11-26,Thursday,BUF,KC,"(14:36) 4-J.Cook up the middle for 5 yards, TOUCHDOWN.",run,5.0,1.0
+2026_12_KC_BUF,12,2026-11-26,Thursday,BUF,KC,"16-T.Bass extra point is GOOD, Center-69-R.Ferguson, Holder-39-T.Doman.",extra_point,0.0,0.0
+2026_12_KC_BUF,12,2026-11-26,Thursday,KC,BUF,"39-T.Doman kicks 53 yards from BUF 35 to KC 12. 35-N.Carter MUFFS catch, and recovers at KC 13. 35-N.Carter to KC 26 for 13 yards (14-T.Shavers). PENALTY on KC-34-J.Ott, Offensive Holding, 10 yards, enforced at KC 22.",kickoff,0.0,0.0
+2026_12_KC_BUF,12,2026-11-26,Thursday,KC,BUF,(14:25) 15-P.Mahomes pass short right to 87-T.Kelce to KC 28 for 16 yards (37-J.Hancock).,pass,16.0,0.0
+2026_12_KC_BUF,12,2026-11-26,Thursday,KC,BUF,(13:53) 10-E.Johnson right tackle to KC 29 for 1 yard (90-D.Carter; 94-L.Jackson).,run,1.0,0.0
+2026_12_KC_BUF,12,2026-11-26,Thursday,KC,BUF,(13:12) 64-H.Nourzad reported in as eligible. 15-P.Mahomes pass short left to 10-E.Johnson to KC 31 for 2 yards (1-M.Hairston).,pass,2.0,0.0
+2026_12_KC_BUF,12,2026-11-26,Thursday,KC,BUF,"(12:29) (Shotgun) 15-P.Mahomes pass incomplete short right to 12-J.Downs. Penalty on KC-76-K.Suamataia, Offensive Holding, declined.",pass,0.0,0.0
+2026_12_KC_BUF,12,2026-11-26,Thursday,KC,BUF,"(12:25) 14-M.Araiza to KC 18 for -13 yards. FUMBLES, and recovers at KC 19. 14-M.Araiza punts 13 yards to KC 44, out of bounds. PENALTY on KC-43-J.Cochrane, Ineligible Downfield Kick, 5 yards, enforced at KC 44.",punt,0.0,0.0
+2026_12_KC_BUF,12,2026-11-26,Thursday,BUF,KC,(12:17) 4-J.Cook up the middle to KC 34 for 5 yards (32-N.Bolton).,run,5.0,0.0
+2026_12_KC_BUF,12,2026-11-26,Thursday,BUF,KC,(11:36) 4-J.Cook left end pushed ob at KC 24 for 10 yards (5-M.Delane).,run,10.0,0.0
+2026_12_KC_BUF,12,2026-11-26,Thursday,BUF,KC,(10:59) 7-R.Davis up the middle to KC 22 for 2 yards (92-K.Tonga; 99-P.Woods).,run,2.0,0.0
+2026_12_KC_BUF,12,2026-11-26,Thursday,BUF,KC,(10:19) (Shotgun) 17-J.Allen pass short left to 26-T.Johnson to KC 15 for 7 yards (23-D.Tranquill).,pass,7.0,0.0
+2026_12_KC_BUF,12,2026-11-26,Thursday,BUF,KC,(9:38) 68-T.Grable reported in as eligible. 4-J.Cook right tackle to KC 11 for 4 yards (27-C.Conner; 32-N.Bolton).,run,4.0,0.0
+2026_12_KC_BUF,12,2026-11-26,Thursday,BUF,KC,"(8:55) 4-J.Cook right end to KC 9 for 2 yards (17-A.Gilman). PENALTY on KC-95-C.Jones, Defensive Offside, 5 yards, enforced at KC 11 - No Play.",no_play,0.0,0.0
+2026_12_KC_BUF,12,2026-11-26,Thursday,BUF,KC,(8:29) 4-J.Cook right tackle to KC 9 for -3 yards (32-N.Bolton).,run,-3.0,0.0
+2026_12_KC_BUF,12,2026-11-26,Thursday,BUF,KC,(7:55) 17-J.Allen pass short left intended for 88-D.Knox INTERCEPTED by 17-A.Gilman (56-G.Karlaftis) at KC -2. Touchback.,pass,0.0,0.0
+2026_12_KC_BUF,12,2026-11-26,Thursday,KC,BUF,(7:46) 15-P.Mahomes pass short right to 83-N.Gray pushed ob at KC 24 for 4 yards (52-K.Elarms-Orr).,pass,4.0,0.0
+2026_12_KC_BUF,12,2026-11-26,Thursday,KC,BUF,(7:19) (Shotgun) 10-E.Johnson up the middle to KC 29 for 5 yards (22-A.Hooker).,run,5.0,0.0
+2026_12_KC_BUF,12,2026-11-26,Thursday,KC,BUF,(6:41) (Shotgun) 10-E.Johnson up the middle to KC 32 for 3 yards (52-K.Elarms-Orr).,run,3.0,0.0
+2026_12_KC_BUF,12,2026-11-26,Thursday,KC,BUF,"(6:07) 15-P.Mahomes FUMBLES (Aborted) at KC 31, and recovers at KC 30.",run,0.0,0.0
+2026_12_KC_BUF,12,2026-11-26,Thursday,KC,BUF,(5:25) (Shotgun) 15-P.Mahomes pass incomplete short middle to 12-J.Downs.,pass,0.0,0.0
+2026_12_KC_BUF,12,2026-11-26,Thursday,KC,BUF,(5:21) (Shotgun) 15-P.Mahomes pass short left to 10-E.Johnson to KC 36 for 6 yards (1-M.Hairston; 15-G.Rousseau).,pass,6.0,0.0
+2026_12_KC_BUF,12,2026-11-26,Thursday,KC,BUF,"(4:44) 14-M.Araiza punts 55 yards to BUF 9, Center-41-J.Winchester. 19-G.Dortch to BUF 24 for 15 yards (29-X.Nwankpa; 88-J.Briningstool).",punt,0.0,0.0
+2026_12_KC_BUF,12,2026-11-26,Thursday,BUF,KC,(4:32) (Shotgun) 4-J.Cook left guard to BUF 28 for 4 yards (91-F.Anudike-Uzomah).,run,4.0,0.0
+2026_12_KC_BUF,12,2026-11-26,Thursday,BUF,KC,(3:55) 4-J.Cook right guard to BUF 37 for 9 yards (27-C.Conner; 30-C.Roland-Wallace).,run,9.0,0.0
+2026_12_KC_BUF,12,2026-11-26,Thursday,BUF,KC,(3:11) 7-R.Davis right tackle to BUF 37 for no gain (32-N.Bolton; 91-F.Anudike-Uzomah).,run,0.0,0.0
+2026_12_KC_BUF,12,2026-11-26,Thursday,BUF,KC,(2:25) (Shotgun) 17-J.Allen pass short right to 2-D.Moore to BUF 41 for 4 yards (17-A.Gilman).,pass,4.0,0.0
+2026_12_KC_BUF,12,2026-11-26,Thursday,BUF,KC,(2:00) (Shotgun) 17-J.Allen pass incomplete short left to 0-K.Coleman.,pass,0.0,0.0
+2026_12_KC_BUF,12,2026-11-26,Thursday,BUF,KC,"(1:56) 39-T.Doman punts 23 yards to KC 36, Center-69-R.Ferguson, out of bounds.",punt,0.0,0.0
+2026_12_KC_BUF,12,2026-11-26,Thursday,KC,BUF,"(1:50) (Shotgun) 15-P.Mahomes scrambles right tackle pushed ob at KC 39 for 3 yards (22-A.Hooker). PENALTY on KC-76-K.Suamataia, Offensive Holding, 10 yards, enforced at KC 36 - No Play.",no_play,0.0,0.0
+2026_12_KC_BUF,12,2026-11-26,Thursday,KC,BUF,(1:41) (Shotgun) 15-P.Mahomes pass short left to 87-T.Kelce to KC 36 for 10 yards (8-T.Bernard; 21-D.Igbinosun) [9-B.Chubb].,pass,10.0,0.0
+2026_12_KC_BUF,12,2026-11-26,Thursday,KC,BUF,"(1:21) (No Huddle, Shotgun) 15-P.Mahomes pass deep left to 87-T.Kelce to BUF 40 for 24 yards (24-C.Bishop) [90-D.Carter].",pass,24.0,0.0
+2026_12_KC_BUF,12,2026-11-26,Thursday,KC,BUF,"(:57) (No Huddle, Shotgun) 15-P.Mahomes pass incomplete deep middle to 87-T.Kelce (96-D.Walker).",pass,0.0,0.0
+2026_12_KC_BUF,12,2026-11-26,Thursday,KC,BUF,(:53) (Shotgun) 15-P.Mahomes pass short left to 4-R.Rice to BUF 31 for 9 yards (21-D.Igbinosun).,pass,9.0,0.0
+2026_12_KC_BUF,12,2026-11-26,Thursday,KC,BUF,"(:31) (No Huddle, Shotgun) 15-P.Mahomes pass incomplete short right to 1-X.Worthy [15-G.Rousseau].",pass,0.0,0.0
+2026_12_KC_BUF,12,2026-11-26,Thursday,,,Timeout #1 by KC at 00:25.,no_play,0.0,0.0
+2026_12_KC_BUF,12,2026-11-26,Thursday,KC,BUF,(:25) 64-H.Nourzad reported in as eligible. 15-P.Mahomes scrambles right end to BUF 29 for 2 yards (42-D.Williams).,run,2.0,0.0
+2026_12_KC_BUF,12,2026-11-26,Thursday,,,Timeout #2 by KC at 00:17.,no_play,0.0,0.0
+2026_12_KC_BUF,12,2026-11-26,Thursday,KC,BUF,(:17) (Shotgun) 15-P.Mahomes pass deep middle to 87-T.Kelce to BUF 8 for 21 yards (24-C.Bishop).,pass,21.0,0.0
+2026_12_KC_BUF,12,2026-11-26,Thursday,,,Timeout #3 by KC at 00:09.,no_play,0.0,0.0
+2026_12_KC_BUF,12,2026-11-26,Thursday,KC,BUF,(:09) (Shotgun) 15-P.Mahomes pass incomplete short left to 4-R.Rice (21-D.Igbinosun).,pass,0.0,0.0
+2026_12_KC_BUF,12,2026-11-26,Thursday,KC,BUF,"(:05) 7-H.Butker 26 yard field goal is GOOD, Center-41-J.Winchester, Holder-14-M.Araiza.",field_goal,0.0,0.0
+2026_12_KC_BUF,12,2026-11-26,Thursday,BUF,KC,7-H.Butker kicks 62 yards from KC 35 to BUF 3. 7-R.Davis to BUF 26 for 23 yards (29-X.Nwankpa; 85-A.Armstrong).,kickoff,0.0,0.0
+2026_12_KC_BUF,12,2026-11-26,Thursday,,,END QUARTER 2,,,
+2026_12_KC_BUF,12,2026-11-26,Thursday,KC,BUF,39-T.Doman kicks 58 yards from BUF 35 to KC 7. 11-J.Royals to KC 44 for 37 yards (3-D.Hamlin).,kickoff,0.0,0.0
+2026_12_KC_BUF,12,2026-11-26,Thursday,KC,BUF,(14:51) (Shotgun) 10-E.Johnson right tackle to BUF 43 for 13 yards (24-C.Bishop).,run,13.0,0.0
+2026_12_KC_BUF,12,2026-11-26,Thursday,KC,BUF,(14:13) (Shotgun) 10-E.Johnson right guard to BUF 31 for 12 yards (8-T.Bernard).,run,12.0,0.0
+2026_12_KC_BUF,12,2026-11-26,Thursday,KC,BUF,(13:39) (Shotgun) 15-P.Mahomes pass short middle to 4-R.Rice to BUF 21 for 10 yards (8-T.Bernard).,pass,10.0,0.0
+2026_12_KC_BUF,12,2026-11-26,Thursday,KC,BUF,(12:55) 10-E.Johnson left guard to BUF 14 for 7 yards (42-D.Williams).,run,7.0,0.0
+2026_12_KC_BUF,12,2026-11-26,Thursday,KC,BUF,(12:18) (Shotgun) 15-P.Mahomes pass short right to 12-J.Downs to BUF 1 for 13 yards (21-D.Igbinosun).,pass,13.0,0.0
+2026_12_KC_BUF,12,2026-11-26,Thursday,KC,BUF,(11:36) 15-P.Mahomes pass incomplete short left to 4-R.Rice.,pass,0.0,0.0
+2026_12_KC_BUF,12,2026-11-26,Thursday,KC,BUF,"(11:31) (Shotgun) 10-E.Johnson right guard for 1 yard, TOUCHDOWN.",run,1.0,1.0
+2026_12_KC_BUF,12,2026-11-26,Thursday,KC,BUF,"7-H.Butker extra point is GOOD, Center-41-J.Winchester, Holder-14-M.Araiza.",extra_point,0.0,0.0
+2026_12_KC_BUF,12,2026-11-26,Thursday,BUF,KC,7-H.Butker kicks 60 yards from KC 35 to BUF 5. 7-R.Davis to BUF 34 for 29 yards (44-C.McDonald; 34-J.Ott).,kickoff,0.0,0.0
+2026_12_KC_BUF,12,2026-11-26,Thursday,BUF,KC,(11:19) 17-J.Allen pass incomplete deep right to 2-D.Moore.,pass,0.0,0.0
+2026_12_KC_BUF,12,2026-11-26,Thursday,BUF,KC,(11:13) (Shotgun) 17-J.Allen pass incomplete short left to 10-K.Shakir.,pass,0.0,0.0
+2026_12_KC_BUF,12,2026-11-26,Thursday,BUF,KC,(11:08) (Shotgun) 17-J.Allen scrambles right tackle pushed ob at KC 49 for 17 yards (30-C.Roland-Wallace).,run,17.0,0.0
+2026_12_KC_BUF,12,2026-11-26,Thursday,BUF,KC,(10:31) 4-J.Cook up the middle to KC 46 for 3 yards (5-M.Delane; 56-G.Karlaftis).,run,3.0,0.0
+2026_12_KC_BUF,12,2026-11-26,Thursday,BUF,KC,(9:51) (Shotgun) 17-J.Allen pass incomplete short left to 2-D.Moore.,pass,0.0,0.0
+2026_12_KC_BUF,12,2026-11-26,Thursday,BUF,KC,(9:48) (Shotgun) 17-J.Allen pass short right to 10-K.Shakir to KC 36 for 10 yards (29-X.Nwankpa).,pass,10.0,0.0
+2026_12_KC_BUF,12,2026-11-26,Thursday,BUF,KC,(9:08) (Shotgun) 4-J.Cook up the middle to KC 31 for 5 yards (23-D.Tranquill).,run,5.0,0.0
+2026_12_KC_BUF,12,2026-11-26,Thursday,BUF,KC,(8:31) (Shotgun) 17-J.Allen pass short left to 86-D.Kincaid to KC 25 for 6 yards (17-A.Gilman).,pass,6.0,0.0
+2026_12_KC_BUF,12,2026-11-26,Thursday,BUF,KC,(7:50) 17-J.Allen scrambles right end to KC 16 for 9 yards (32-N.Bolton).,run,9.0,0.0
+2026_12_KC_BUF,12,2026-11-26,Thursday,BUF,KC,(7:06) 4-J.Cook up the middle to KC 16 for no gain (92-K.Tonga).,run,0.0,0.0
+2026_12_KC_BUF,12,2026-11-26,Thursday,BUF,KC,(6:29) 17-J.Allen left guard to KC 14 for 2 yards (32-N.Bolton).,run,2.0,0.0
+2026_12_KC_BUF,12,2026-11-26,Thursday,BUF,KC,(5:48) (Shotgun) 17-J.Allen pass short right intended for 10-K.Shakir INTERCEPTED by 20-N.Williams at KC 13. 20-N.Williams to KC 20 for 7 yards (86-D.Kincaid).,pass,0.0,0.0
+2026_12_KC_BUF,12,2026-11-26,Thursday,KC,BUF,(5:40) (Shotgun) 64-H.Nourzad reported in as eligible. 10-E.Johnson up the middle to KC 27 for 7 yards (15-G.Rousseau; 42-D.Williams).,run,7.0,0.0
+2026_12_KC_BUF,12,2026-11-26,Thursday,KC,BUF,"(5:04) 10-E.Johnson up the middle to KC 27 for no gain (96-D.Walker; 99-T.Parker). PENALTY on KC-76-K.Suamataia, Unnecessary Roughness, 13 yards, enforced at KC 27.",run,0.0,0.0
+2026_12_KC_BUF,12,2026-11-26,Thursday,KC,BUF,(4:40) (Shotgun) 15-P.Mahomes sacked at KC 7 for -7 yards (15-G.Rousseau).,pass,-7.0,0.0
+2026_12_KC_BUF,12,2026-11-26,Thursday,KC,BUF,"(3:59) 14-M.Araiza punts 60 yards to BUF 33, Center-41-J.Winchester, downed by KC-41-J.Winchester.",punt,0.0,0.0
+2026_12_KC_BUF,12,2026-11-26,Thursday,BUF,KC,(3:48) 4-J.Cook right tackle to BUF 38 for 5 yards (23-D.Tranquill).,run,5.0,0.0
+2026_12_KC_BUF,12,2026-11-26,Thursday,BUF,KC,(3:02) 4-J.Cook right tackle to BUF 42 for 4 yards (20-N.Williams; 97-A.Gillotte).,run,4.0,0.0
+2026_12_KC_BUF,12,2026-11-26,Thursday,BUF,KC,(2:21) 63-A.Corbett reported in as eligible. 17-J.Allen left guard to BUF 45 for 3 yards (94-B.Eason).,run,3.0,0.0
+2026_12_KC_BUF,12,2026-11-26,Thursday,BUF,KC,(1:42) 4-J.Cook left guard to BUF 48 for 3 yards (8-K.Fulton; 91-F.Anudike-Uzomah).,run,3.0,0.0
+2026_12_KC_BUF,12,2026-11-26,Thursday,BUF,KC,(1:04) (Shotgun) 17-J.Allen pass short middle to 10-K.Shakir to KC 46 for 6 yards (27-C.Conner).,pass,6.0,0.0
+2026_12_KC_BUF,12,2026-11-26,Thursday,BUF,KC,(:32) 4-J.Cook up the middle to KC 45 for 1 yard (97-A.Gillotte). KC-92-K.Tonga was injured during the play.,run,1.0,0.0
+2026_12_KC_BUF,12,2026-11-26,Thursday,BUF,KC,END QUARTER 3,,,
+2026_12_KC_BUF,12,2026-11-26,Thursday,BUF,KC,(15:00) 4-J.Cook right tackle to KC 36 for 9 yards (95-C.Jones).,run,9.0,0.0
+2026_12_KC_BUF,12,2026-11-26,Thursday,BUF,KC,(14:14) 4-J.Cook left guard to KC 33 for 3 yards (27-C.Conner).,run,3.0,0.0
+2026_12_KC_BUF,12,2026-11-26,Thursday,BUF,KC,(13:39) 7-R.Davis right tackle to KC 33 for no gain (32-N.Bolton; 99-P.Woods).,run,0.0,0.0
+2026_12_KC_BUF,12,2026-11-26,Thursday,BUF,KC,(13:01) (Shotgun) 17-J.Allen pass short middle to 86-D.Kincaid to KC 26 for 7 yards (32-N.Bolton).,pass,7.0,0.0
+2026_12_KC_BUF,12,2026-11-26,Thursday,BUF,KC,"(12:24) (Shotgun) 17-J.Allen right tackle to KC 20 for 6 yards (97-A.Gillotte; 27-C.Conner). PENALTY on BUF-88-D.Knox, Offensive Holding, 10 yards, enforced at KC 26 - No Play.",no_play,0.0,0.0
+2026_12_KC_BUF,12,2026-11-26,Thursday,BUF,KC,(12:07) (Shotgun) 17-J.Allen pass incomplete short middle to 2-D.Moore.,pass,0.0,0.0
+2026_12_KC_BUF,12,2026-11-26,Thursday,BUF,KC,"(12:03) 16-T.Bass 54 yard field goal is GOOD, Center-69-R.Ferguson, Holder-39-T.Doman. ** Injury Update: KC-92-K.Tonga has returned to the game.",field_goal,0.0,0.0
+2026_12_KC_BUF,12,2026-11-26,Thursday,KC,BUF,39-T.Doman kicks 56 yards from BUF 35 to KC 9. 35-N.Carter to KC 36 for 27 yards (55-M.Hoecht).,kickoff,0.0,0.0
+2026_12_KC_BUF,12,2026-11-26,Thursday,KC,BUF,(11:51) 15-P.Mahomes pass incomplete short right to 1-X.Worthy [21-D.Igbinosun].,pass,0.0,0.0
+2026_12_KC_BUF,12,2026-11-26,Thursday,KC,BUF,(11:46) (Shotgun) 15-P.Mahomes pass short right to 10-E.Johnson pushed ob at KC 48 for 12 yards (24-C.Bishop).,pass,12.0,0.0
+2026_12_KC_BUF,12,2026-11-26,Thursday,KC,BUF,(11:23) 10-E.Johnson right tackle to BUF 47 for 5 yards (8-T.Bernard).,run,5.0,0.0
+2026_12_KC_BUF,12,2026-11-26,Thursday,KC,BUF,"(10:44) 15-P.Mahomes pass short left to 87-T.Kelce to BUF 31 for 16 yards (8-T.Bernard). PENALTY on KC-87-T.Kelce, Offensive Pass Interference, 10 yards, enforced at BUF 47 - No Play.",no_play,0.0,0.0
+2026_12_KC_BUF,12,2026-11-26,Thursday,KC,BUF,(10:15) (Shotgun) 10-E.Johnson up the middle to KC 43 for no gain (91-E.Oliver).,run,0.0,0.0
+2026_12_KC_BUF,12,2026-11-26,Thursday,KC,BUF,(9:31) (Shotgun) 15-P.Mahomes pass deep middle to 13-C.Allen to BUF 38 for 19 yards (21-D.Igbinosun).,pass,19.0,0.0
+2026_12_KC_BUF,12,2026-11-26,Thursday,KC,BUF,(8:50) (Shotgun) 10-E.Johnson left tackle to BUF 36 for 2 yards (94-L.Jackson; 8-T.Bernard).,run,2.0,0.0
+2026_12_KC_BUF,12,2026-11-26,Thursday,KC,BUF,(8:13) 15-P.Mahomes pass short right to 83-N.Gray ran ob at BUF 17 for 19 yards (37-J.Hancock).,pass,19.0,0.0
+2026_12_KC_BUF,12,2026-11-26,Thursday,KC,BUF,(7:37) (Shotgun) 15-P.Mahomes pass incomplete deep middle to 87-T.Kelce.,pass,0.0,0.0
+2026_12_KC_BUF,12,2026-11-26,Thursday,KC,BUF,"(7:31) (Shotgun) 10-E.Johnson left tackle to BUF 7 for 10 yards (99-T.Parker). PENALTY on KC-64-H.Nourzad, Offensive Holding, 10 yards, enforced at BUF 17 - No Play.",no_play,0.0,0.0
+2026_12_KC_BUF,12,2026-11-26,Thursday,KC,BUF,"(6:55) (Shotgun) PENALTY on KC-74-F.Johnson, False Start, 5 yards, enforced at BUF 27 - No Play.",no_play,0.0,0.0
+2026_12_KC_BUF,12,2026-11-26,Thursday,KC,BUF,"(6:55) (Shotgun) 15-P.Mahomes pass incomplete short right. Penalty on KC-52-C.Humphrey, Ineligible Downfield Pass, declined.",pass,0.0,0.0
+2026_12_KC_BUF,12,2026-11-26,Thursday,KC,BUF,(6:48) (Shotgun) 15-P.Mahomes pass short left to 10-E.Johnson to BUF 28 for 4 yards (24-C.Bishop).,pass,4.0,0.0
+2026_12_KC_BUF,12,2026-11-26,Thursday,KC,BUF,"(6:01) 7-H.Butker 46 yard field goal is No Good, Wide Right, Center-41-J.Winchester, Holder-14-M.Araiza.",field_goal,0.0,0.0
+2026_12_KC_BUF,12,2026-11-26,Thursday,BUF,KC,(5:56) (Shotgun) 4-J.Cook left guard to BUF 39 for 3 yards (23-D.Tranquill).,run,3.0,0.0
+2026_12_KC_BUF,12,2026-11-26,Thursday,BUF,KC,(5:21) 4-J.Cook right guard to BUF 44 for 5 yards (91-F.Anudike-Uzomah; 17-A.Gilman).,run,5.0,0.0
+2026_12_KC_BUF,12,2026-11-26,Thursday,BUF,KC,(4:44) 4-J.Cook left tackle to BUF 47 for 3 yards (30-C.Roland-Wallace).,run,3.0,0.0
+2026_12_KC_BUF,12,2026-11-26,Thursday,BUF,KC,(4:06) 4-J.Cook right guard to BUF 49 for 2 yards (91-F.Anudike-Uzomah).,run,2.0,0.0
+2026_12_KC_BUF,12,2026-11-26,Thursday,BUF,KC,(3:29) (Shotgun) 17-J.Allen up the middle to KC 49 for 2 yards (92-K.Tonga; 32-N.Bolton).,run,2.0,0.0
+2026_12_KC_BUF,12,2026-11-26,Thursday,BUF,KC,(2:50) (Shotgun) 17-J.Allen sacked at BUF 41 for -10 yards (32-N.Bolton).,pass,-10.0,0.0
+2026_12_KC_BUF,12,2026-11-26,Thursday,BUF,KC,"(2:11) 39-T.Doman punts 57 yards to KC 2, Center-69-R.Ferguson. 12-J.Downs pushed ob at KC 9 for 7 yards (28-S.Franklin).",punt,0.0,0.0
+2026_12_KC_BUF,12,2026-11-26,Thursday,KC,BUF,(2:00) (Shotgun) 15-P.Mahomes pass incomplete short right to 1-X.Worthy [15-G.Rousseau].,pass,0.0,0.0
+2026_12_KC_BUF,12,2026-11-26,Thursday,KC,BUF,(1:55) (Shotgun) 15-P.Mahomes pass incomplete short left to 12-J.Downs.,pass,0.0,0.0
+2026_12_KC_BUF,12,2026-11-26,Thursday,KC,BUF,"(1:51) (Shotgun) 15-P.Mahomes pass short middle to 4-R.Rice to KC 20 for 11 yards (22-A.Hooker). The Replay Official reviewed the pass completion ruling, and the play was REVERSED. (Shotgun) 15-P.Mahomes pass incomplete short middle to 4-R.Rice (22-A.Hooker).",pass,0.0,0.0
+2026_12_KC_BUF,12,2026-11-26,Thursday,KC,BUF,"(1:47) 14-M.Araiza punts 38 yards to KC 47, Center-41-J.Winchester, out of bounds.",punt,0.0,0.0
+2026_12_KC_BUF,12,2026-11-26,Thursday,BUF,KC,(1:40) 17-J.Allen pass incomplete deep right.,pass,0.0,0.0
+2026_12_KC_BUF,12,2026-11-26,Thursday,BUF,KC,"(1:32) (Shotgun) 17-J.Allen pass short left to 10-K.Shakir pushed ob at KC 36 for 11 yards (27-C.Conner). PENALTY on BUF-86-D.Kincaid, Offensive Pass Interference, 10 yards, enforced at KC 47 - No Play.",no_play,0.0,0.0
+2026_12_KC_BUF,12,2026-11-26,Thursday,BUF,KC,(1:25) (Shotgun) 17-J.Allen pass short left to 2-D.Moore to KC 46 for 11 yards (5-M.Delane).,pass,11.0,0.0
+2026_12_KC_BUF,12,2026-11-26,Thursday,BUF,KC,(:46) (Shotgun) 17-J.Allen sacked at BUF 47 for -7 yards (sack split by 5-M.Delane and 29-X.Nwankpa).,pass,-7.0,0.0
+2026_12_KC_BUF,12,2026-11-26,Thursday,,,Timeout #1 by KC at 00:38.,no_play,0.0,0.0
+2026_12_KC_BUF,12,2026-11-26,Thursday,BUF,KC,"(:38) 39-T.Doman punts 46 yards to KC 7, Center-69-R.Ferguson. 12-J.Downs to KC 11 for 4 yards (28-S.Franklin).",punt,0.0,0.0
+2026_12_KC_BUF,12,2026-11-26,Thursday,KC,BUF,"(:26) (Shotgun) 15-P.Mahomes FUMBLES (Aborted) at KC 7, and recovers at KC 6.",run,0.0,0.0
+2026_12_KC_BUF,12,2026-11-26,Thursday,,,Timeout #1 by BUF at 00:25.,no_play,0.0,0.0
+2026_12_KC_BUF,12,2026-11-26,Thursday,KC,BUF,(:25) (Shotgun) 10-E.Johnson right guard to KC 11 for 5 yards (9-B.Chubb; 15-G.Rousseau).,run,5.0,0.0
+2026_12_KC_BUF,12,2026-11-26,Thursday,,,Timeout #2 by BUF at 00:20.,no_play,0.0,0.0
+2026_12_KC_BUF,12,2026-11-26,Thursday,KC,BUF,(:20) (Shotgun) 15-P.Mahomes pass incomplete short right to 87-T.Kelce.,pass,0.0,0.0
+2026_12_KC_BUF,12,2026-11-26,Thursday,KC,BUF,"(:15) 14-M.Araiza punts 45 yards to BUF 44, Center-41-J.Winchester. 19-G.Dortch to KC 39 for 17 yards (43-J.Cochrane; 22-J.Canady).",punt,0.0,0.0
+2026_12_KC_BUF,12,2026-11-26,Thursday,BUF,KC,"(:04) 16-T.Bass 57 yard field goal is GOOD, Center-69-R.Ferguson, Holder-39-T.Doman.",field_goal,0.0,0.0
+2026_12_KC_BUF,12,2026-11-26,Thursday,BUF,KC,END GAME,,,
+2026_12_PHI_DAL,12,2026-11-26,Thursday,,,GAME,,,
+2026_12_PHI_DAL,12,2026-11-26,Thursday,DAL,PHI,4-J.Elliott kicks 58 yards from PHI 35 to DAL 7. 9-K.Turpin ran ob at DAL 23 for 16 yards (7-K.Ringo).,kickoff,0.0,0.0
+2026_12_PHI_DAL,12,2026-11-26,Thursday,DAL,PHI,"(14:56) (Shotgun) 4-D.Prescott pass incomplete deep middle to 3-G.Pickens (27-Q.Mitchell). PENALTY on PHI-27-Q.Mitchell, Defensive Pass Interference, 17 yards, enforced at DAL 23 - No Play.",no_play,0.0,0.0
+2026_12_PHI_DAL,12,2026-11-26,Thursday,DAL,PHI,(14:51) 33-J.Williams left tackle to DAL 43 for 3 yards (29-M.Epps; 52-J.Greenard).,run,3.0,0.0
+2026_12_PHI_DAL,12,2026-11-26,Thursday,DAL,PHI,(14:18) 33-J.Williams left guard to DAL 47 for 4 yards (94-B.Young; 54-J.Trotter).,run,4.0,0.0
+2026_12_PHI_DAL,12,2026-11-26,Thursday,DAL,PHI,(13:41) (Shotgun) 4-D.Prescott pass short right to 33-J.Williams to PHI 48 for 5 yards (33-C.DeJean). PHI-33-C.DeJean was injured during the play.,pass,5.0,0.0
+2026_12_PHI_DAL,12,2026-11-26,Thursday,DAL,PHI,(13:16) (Shotgun) 77-B.Jones reported in as eligible. 33-J.Williams up the middle to PHI 39 for 9 yards (11-J.Campbell; 29-M.Epps).,run,9.0,0.0
+2026_12_PHI_DAL,12,2026-11-26,Thursday,DAL,PHI,(12:43) 33-J.Williams left tackle to PHI 27 for 12 yards (29-M.Epps).,run,12.0,0.0
+2026_12_PHI_DAL,12,2026-11-26,Thursday,DAL,PHI,(12:06) 4-D.Prescott pass incomplete deep right to 88-C.Lamb.,pass,0.0,0.0
+2026_12_PHI_DAL,12,2026-11-26,Thursday,DAL,PHI,(12:00) (Shotgun) 36-J.Corbin left tackle to PHI 25 for 2 yards (58-J.Hunt; 2-T.Woolen).,run,2.0,0.0
+2026_12_PHI_DAL,12,2026-11-26,Thursday,DAL,PHI,"(11:22) (Shotgun) 4-D.Prescott scrambles right end to PHI 11 for 14 yards (11-J.Campbell). PENALTY on DAL-78-T.Steele, Offensive Holding, 10 yards, enforced at PHI 25 - No Play.",no_play,0.0,0.0
+2026_12_PHI_DAL,12,2026-11-26,Thursday,DAL,PHI,(10:56) (Shotgun) 4-D.Prescott pass deep middle to 88-C.Lamb to PHI 7 for 28 yards (29-M.Epps; 24-A.Mukuba).,pass,28.0,0.0
+2026_12_PHI_DAL,12,2026-11-26,Thursday,DAL,PHI,(10:12) 33-J.Williams right tackle to PHI 3 for 4 yards (52-J.Greenard).,run,4.0,0.0
+2026_12_PHI_DAL,12,2026-11-26,Thursday,DAL,PHI,(9:37) (Shotgun) 33-J.Williams up the middle to PHI 1 for 2 yards (95-T.Robinson; 29-M.Epps).,run,2.0,0.0
+2026_12_PHI_DAL,12,2026-11-26,Thursday,DAL,PHI,"(8:53) 77-B.Jones reported in as eligible. 33-J.Williams left guard for 1 yard, TOUCHDOWN.",run,1.0,1.0
+2026_12_PHI_DAL,12,2026-11-26,Thursday,DAL,PHI,"17-B.Aubrey extra point is GOOD, Center-44-T.Sieg, Holder-5-B.Anger.",extra_point,0.0,0.0
+2026_12_PHI_DAL,12,2026-11-26,Thursday,PHI,DAL,17-B.Aubrey kicks 64 yards from DAL 35 to PHI 1. 85-B.Covey to PHI 6 for 5 yards (28-S.Revel).,kickoff,0.0,0.0
+2026_12_PHI_DAL,12,2026-11-26,Thursday,PHI,DAL,(8:45) 67-J.Ojukwu reported in as eligible. 26-S.Barkley left tackle to PHI 8 for 2 yards (92-Q.Williams; 50-S.James).,run,2.0,0.0
+2026_12_PHI_DAL,12,2026-11-26,Thursday,PHI,DAL,(8:05) (Shotgun) 14-J.Milton pass short left to 88-D.Goedert pushed ob at PHI 17 for 9 yards (25-J.Porter). DAL-25-J.Porter was injured during the play.,pass,9.0,0.0
+2026_12_PHI_DAL,12,2026-11-26,Thursday,PHI,DAL,(7:42) 26-S.Barkley left guard to PHI 19 for 2 yards (6-D.Ezeiruaku; 97-K.Clark).,run,2.0,0.0
+2026_12_PHI_DAL,12,2026-11-26,Thursday,PHI,DAL,(7:02) (Shotgun) 14-J.Milton pass incomplete short left to 88-D.Goedert.,pass,0.0,0.0
+2026_12_PHI_DAL,12,2026-11-26,Thursday,PHI,DAL,(6:58) (Shotgun) 14-J.Milton pass short left to 6-D.Smith to PHI 35 for 16 yards (23-A.Speed).,pass,16.0,0.0
+2026_12_PHI_DAL,12,2026-11-26,Thursday,PHI,DAL,(6:27) (Shotgun) 14-J.Milton pass short left to 9-M.Lemon to PHI 30 for -5 yards (34-J.Thompson).,pass,-5.0,0.0
+2026_12_PHI_DAL,12,2026-11-26,Thursday,PHI,DAL,(5:46) (Shotgun) 14-J.Milton pass deep right to 19-E.Moore ran ob at DAL 45 for 25 yards (2-C.Durant).,pass,25.0,0.0
+2026_12_PHI_DAL,12,2026-11-26,Thursday,PHI,DAL,"(5:16) (No Huddle, Shotgun) 26-S.Barkley right tackle to DAL 41 for 4 yards (23-A.Speed).",run,4.0,0.0
+2026_12_PHI_DAL,12,2026-11-26,Thursday,PHI,DAL,(4:38) (Shotgun) 26-S.Barkley right end pushed ob at DAL 41 for no gain (25-J.Porter). ** Injury Update: DAL-25-J.Porter has returned to the game.,run,0.0,0.0
+2026_12_PHI_DAL,12,2026-11-26,Thursday,PHI,DAL,(4:02) (Shotgun) 14-J.Milton pass short right to 6-D.Smith to DAL 36 for 5 yards (25-J.Porter).,pass,5.0,0.0
+2026_12_PHI_DAL,12,2026-11-26,Thursday,PHI,DAL,(3:19) 26-S.Barkley up the middle to DAL 37 for -1 yards (92-Q.Williams).,run,-1.0,0.0
+2026_12_PHI_DAL,12,2026-11-26,Thursday,DAL,PHI,(3:14) 77-B.Jones reported in as eligible. 4-D.Prescott pass incomplete deep middle to 3-G.Pickens [94-B.Young].,pass,0.0,0.0
+2026_12_PHI_DAL,12,2026-11-26,Thursday,DAL,PHI,(3:07) (Shotgun) 33-J.Williams right end to DAL 41 for 4 yards (2-T.Woolen).,run,4.0,0.0
+2026_12_PHI_DAL,12,2026-11-26,Thursday,DAL,PHI,"(2:25) (Shotgun) 4-D.Prescott scrambles left end to PHI 49 for 10 yards (58-J.Hunt; 2-T.Woolen). PENALTY on DAL-33-J.Williams, Offensive Holding, 10 yards, enforced at DAL 41 - No Play.",no_play,0.0,0.0
+2026_12_PHI_DAL,12,2026-11-26,Thursday,DAL,PHI,(1:56) (Shotgun) 4-D.Prescott pass deep right to 3-G.Pickens to PHI 33 for 36 yards (2-T.Woolen).,pass,36.0,0.0
+2026_12_PHI_DAL,12,2026-11-26,Thursday,DAL,PHI,(1:14) (Shotgun) 33-J.Williams right guard to PHI 31 for 2 yards (52-J.Greenard).,run,2.0,0.0
+2026_12_PHI_DAL,12,2026-11-26,Thursday,DAL,PHI,"(:43) 4-D.Prescott pass short right to 9-K.Turpin for 31 yards, TOUCHDOWN [52-J.Greenard].",pass,31.0,1.0
+2026_12_PHI_DAL,12,2026-11-26,Thursday,DAL,PHI,"17-B.Aubrey extra point is GOOD, Center-44-T.Sieg, Holder-5-B.Anger.",extra_point,0.0,0.0
+2026_12_PHI_DAL,12,2026-11-26,Thursday,PHI,DAL,"17-B.Aubrey kicks 65 yards from DAL 35 to PHI 0. 85-B.Covey to PHI 27 for 27 yards (28-S.Revel; 11-A.Clark). PENALTY on PHI-80-D.Cooper, Offensive Holding, 10 yards, enforced at PHI 25.",kickoff,0.0,0.0
+2026_12_PHI_DAL,12,2026-11-26,Thursday,PHI,DAL,"(:30) (Shotgun) 14-J.Milton pass short middle to 86-Z.Ertz to PHI 21 for 6 yards (50-S.James). PENALTY on DAL-25-J.Porter, Illegal Contact, 5 yards, enforced at PHI 15 - No Play.",no_play,0.0,0.0
+2026_12_PHI_DAL,12,2026-11-26,Thursday,PHI,DAL,END QUARTER 1,,,
+2026_12_PHI_DAL,12,2026-11-26,Thursday,PHI,DAL,(15:00) (Shotgun) 14-J.Milton pass short right to 9-M.Lemon to PHI 21 for 1 yard (34-J.Thompson).,pass,1.0,0.0
+2026_12_PHI_DAL,12,2026-11-26,Thursday,PHI,DAL,(14:21) (Shotgun) 28-W.Shipley left guard to PHI 25 for 4 yards (53-D.Winters).,run,4.0,0.0
+2026_12_PHI_DAL,12,2026-11-26,Thursday,PHI,DAL,"(13:46) (No Huddle, Shotgun) 14-J.Milton sacked ob at PHI 25 for 0 yards (92-Q.Williams).",pass,0.0,0.0
+2026_12_PHI_DAL,12,2026-11-26,Thursday,PHI,DAL,"(13:10) 10-B.Mann punts 64 yards to DAL 11, Center-41-R.Underwood. 9-K.Turpin to DAL 35 for 24 yards (58-J.Hunt).",punt,0.0,0.0
+2026_12_PHI_DAL,12,2026-11-26,Thursday,DAL,PHI,(12:58) 36-J.Corbin left guard to DAL 40 for 5 yards (52-J.Greenard).,run,5.0,0.0
+2026_12_PHI_DAL,12,2026-11-26,Thursday,DAL,PHI,(12:29) 4-D.Prescott pass incomplete deep left to 88-C.Lamb (11-J.Campbell).,pass,0.0,0.0
+2026_12_PHI_DAL,12,2026-11-26,Thursday,DAL,PHI,"(12:23) (Shotgun) 4-D.Prescott pass short right to 9-K.Turpin ran ob at DAL 48 for 8 yards [29-M.Epps]. Philadelphia challenged the pass completion ruling, and the play was REVERSED. (Shotgun) 4-D.Prescott pass incomplete short right to 9-K.Turpin [29-M.Epps].",pass,0.0,0.0
+2026_12_PHI_DAL,12,2026-11-26,Thursday,DAL,PHI,"(12:20) 5-B.Anger punts 54 yards to PHI 6, Center-44-T.Sieg. 85-B.Covey pushed ob at PHI 18 for 12 yards (11-A.Clark).",punt,0.0,0.0
+2026_12_PHI_DAL,12,2026-11-26,Thursday,PHI,DAL,(12:11) (Shotgun) 28-W.Shipley left tackle to PHI 24 for 6 yards (53-D.Winters; 34-J.Thompson).,run,6.0,0.0
+2026_12_PHI_DAL,12,2026-11-26,Thursday,PHI,DAL,(11:35) 14-J.Milton pass deep right to 6-D.Smith to PHI 48 for 24 yards (2-C.Durant).,pass,24.0,0.0
+2026_12_PHI_DAL,12,2026-11-26,Thursday,PHI,DAL,"(11:04) (No Huddle, Shotgun) 28-W.Shipley left guard to DAL 48 for 4 yards (50-S.James).",run,4.0,0.0
+2026_12_PHI_DAL,12,2026-11-26,Thursday,PHI,DAL,(10:27) (Shotgun) 14-J.Milton sacked at PHI 46 for -6 yards (7-R.Gary).,pass,-6.0,0.0
+2026_12_PHI_DAL,12,2026-11-26,Thursday,PHI,DAL,(9:44) (Shotgun) 14-J.Milton pass deep right to 9-M.Lemon to DAL 34 for 20 yards (13-C.Downs).,pass,20.0,0.0
+2026_12_PHI_DAL,12,2026-11-26,Thursday,PHI,DAL,(9:02) (Shotgun) 28-W.Shipley right end pushed ob at DAL 30 for 4 yards (45-J.Barron).,run,4.0,0.0
+2026_12_PHI_DAL,12,2026-11-26,Thursday,PHI,DAL,(8:24) (Shotgun) 14-J.Milton pass incomplete deep right to 6-D.Smith.,pass,0.0,0.0
+2026_12_PHI_DAL,12,2026-11-26,Thursday,PHI,DAL,(8:18) (Shotgun) 14-J.Milton pass incomplete short left to 6-D.Smith.,pass,0.0,0.0
+2026_12_PHI_DAL,12,2026-11-26,Thursday,PHI,DAL,"(8:14) 4-J.Elliott 48 yard field goal is GOOD, Center-41-R.Underwood, Holder-10-B.Mann.",field_goal,0.0,0.0
+2026_12_PHI_DAL,12,2026-11-26,Thursday,DAL,PHI,"4-J.Elliott kicks 44 yards from PHI 35 to DAL 21, short of landing zone. PENALTY on PHI-4-J.Elliott, Kickoff Short of Landing Zone, placed at DAL 40.",kickoff,0.0,0.0
+2026_12_PHI_DAL,12,2026-11-26,Thursday,DAL,PHI,(8:09) 77-B.Jones reported in as eligible. 33-J.Williams right tackle to DAL 44 for 4 yards (94-B.Young).,run,4.0,0.0
+2026_12_PHI_DAL,12,2026-11-26,Thursday,DAL,PHI,(7:27) 9-K.Turpin left end to PHI 46 for 10 yards (27-Q.Mitchell).,run,10.0,0.0
+2026_12_PHI_DAL,12,2026-11-26,Thursday,DAL,PHI,(6:49) (Shotgun) 4-D.Prescott scrambles right tackle to PHI 41 for 5 yards (58-J.Hunt; 2-T.Woolen).,run,5.0,0.0
+2026_12_PHI_DAL,12,2026-11-26,Thursday,,,Timeout #1 by DAL at 06:02.,no_play,0.0,0.0
+2026_12_PHI_DAL,12,2026-11-26,Thursday,DAL,PHI,(6:02) (Shotgun) 4-D.Prescott pass short middle to 88-C.Lamb to PHI 31 for 10 yards (35-M.Carter).,pass,10.0,0.0
+2026_12_PHI_DAL,12,2026-11-26,Thursday,DAL,PHI,"(5:27) 77-B.Jones reported in as eligible. 4-D.Prescott pass deep left to 88-C.Lamb to PHI 12 for 19 yards (24-A.Mukuba) [3-N.Smith]. Penalty on PHI-2-T.Woolen, Defensive Holding, declined.",pass,19.0,0.0
+2026_12_PHI_DAL,12,2026-11-26,Thursday,DAL,PHI,"(5:13) 33-J.Williams right guard for 12 yards, TOUCHDOWN.",run,12.0,1.0
+2026_12_PHI_DAL,12,2026-11-26,Thursday,DAL,PHI,"17-B.Aubrey extra point is GOOD, Center-44-T.Sieg, Holder-5-B.Anger.",extra_point,0.0,0.0
+2026_12_PHI_DAL,12,2026-11-26,Thursday,PHI,DAL,17-B.Aubrey kicks 60 yards from DAL 35 to PHI 5. 85-B.Covey to PHI 30 for 25 yards (99-L.Overton; 14-M.Bell).,kickoff,0.0,0.0
+2026_12_PHI_DAL,12,2026-11-26,Thursday,PHI,DAL,"(5:02) 67-J.Ojukwu reported in as eligible. 14-J.Milton pass incomplete deep right to 86-Z.Ertz (24-M.Hooker). PENALTY on DAL-24-M.Hooker, Defensive Pass Interference, 14 yards, enforced at PHI 30 - No Play.",no_play,0.0,0.0
+2026_12_PHI_DAL,12,2026-11-26,Thursday,PHI,DAL,(4:56) (Shotgun) 28-W.Shipley up the middle to 50 for 6 yards (50-S.James; 34-J.Thompson).,run,6.0,0.0
+2026_12_PHI_DAL,12,2026-11-26,Thursday,PHI,DAL,"(4:18) (Shotgun) 14-J.Milton pass deep right to 6-D.Smith for 50 yards, TOUCHDOWN.",pass,50.0,1.0
+2026_12_PHI_DAL,12,2026-11-26,Thursday,PHI,DAL,"4-J.Elliott extra point is GOOD, Center-41-R.Underwood, Holder-10-B.Mann.",extra_point,0.0,0.0
+2026_12_PHI_DAL,12,2026-11-26,Thursday,DAL,PHI,4-J.Elliott kicks 58 yards from PHI 35 to DAL 7. 9-K.Turpin to DAL 29 for 22 yards (80-D.Cooper).,kickoff,0.0,0.0
+2026_12_PHI_DAL,12,2026-11-26,Thursday,DAL,PHI,(4:01) 77-B.Jones reported in as eligible. 33-J.Williams up the middle to DAL 33 for 4 yards (54-J.Trotter; 11-J.Campbell).,run,4.0,0.0
+2026_12_PHI_DAL,12,2026-11-26,Thursday,DAL,PHI,(3:22) 4-D.Prescott pass short middle to 33-J.Williams to DAL 38 for 5 yards (54-J.Trotter).,pass,5.0,0.0
+2026_12_PHI_DAL,12,2026-11-26,Thursday,DAL,PHI,(2:40) 77-B.Jones reported in as eligible. 33-J.Williams up the middle to DAL 40 for 2 yards (94-B.Young).,run,2.0,0.0
+2026_12_PHI_DAL,12,2026-11-26,Thursday,DAL,PHI,"(2:00) 4-D.Prescott pass incomplete deep left to 88-C.Lamb (27-Q.Mitchell). PENALTY on PHI-27-Q.Mitchell, Illegal Contact, 5 yards, enforced at DAL 40 - No Play.",no_play,0.0,0.0
+2026_12_PHI_DAL,12,2026-11-26,Thursday,DAL,PHI,(1:52) (Shotgun) 4-D.Prescott pass short right to 3-G.Pickens to PHI 42 for 13 yards (35-M.Carter).,pass,13.0,0.0
+2026_12_PHI_DAL,12,2026-11-26,Thursday,DAL,PHI,(1:18) (Shotgun) 33-J.Williams up the middle to PHI 40 for 2 yards (54-J.Trotter; 97-M.Ojomo).,run,2.0,0.0
+2026_12_PHI_DAL,12,2026-11-26,Thursday,,,Timeout #2 by DAL at 01:12.,no_play,0.0,0.0
+2026_12_PHI_DAL,12,2026-11-26,Thursday,DAL,PHI,"(1:12) (Shotgun) 4-D.Prescott pass incomplete short left to 3-G.Pickens (2-T.Woolen). PENALTY on PHI-2-T.Woolen, Defensive Pass Interference, 10 yards, enforced at PHI 40 - No Play.",no_play,0.0,0.0
+2026_12_PHI_DAL,12,2026-11-26,Thursday,DAL,PHI,"(1:07) (Shotgun) 4-D.Prescott pass incomplete deep right to 88-C.Lamb. PENALTY on PHI-27-Q.Mitchell, Defensive Pass Interference, 29 yards, enforced at PHI 30 - No Play.",no_play,0.0,0.0
+2026_12_PHI_DAL,12,2026-11-26,Thursday,DAL,PHI,"(1:01) 77-B.Jones reported in as eligible. 33-J.Williams up the middle to PHI 2 for -1 yards (95-T.Robinson, 54-J.Trotter).",run,-1.0,0.0
+2026_12_PHI_DAL,12,2026-11-26,Thursday,,,Timeout #1 by PHI at 00:20.,no_play,0.0,0.0
+2026_12_PHI_DAL,12,2026-11-26,Thursday,DAL,PHI,(:20) (Shotgun) 4-D.Prescott pass incomplete short right to 88-C.Lamb.,pass,0.0,0.0
+2026_12_PHI_DAL,12,2026-11-26,Thursday,DAL,PHI,"(:16) (Shotgun) 4-D.Prescott pass short right to 89-B.Spann-Ford for 2 yards, TOUCHDOWN NULLIFIED by Penalty. PENALTY on DAL-88-C.Lamb, Offensive Pass Interference, 10 yards, enforced at PHI 2 - No Play.",no_play,0.0,0.0
+2026_12_PHI_DAL,12,2026-11-26,Thursday,,,Timeout #2 by PHI at 00:12.,no_play,0.0,0.0
+2026_12_PHI_DAL,12,2026-11-26,Thursday,DAL,PHI,"(:12) (Shotgun) 4-D.Prescott pass short right to 33-J.Williams for 12 yards, TOUCHDOWN.",pass,12.0,1.0
+2026_12_PHI_DAL,12,2026-11-26,Thursday,DAL,PHI,"17-B.Aubrey extra point is GOOD, Center-44-T.Sieg, Holder-5-B.Anger.",extra_point,0.0,0.0
+2026_12_PHI_DAL,12,2026-11-26,Thursday,PHI,DAL,"17-B.Aubrey kicks 65 yards from DAL 35 to end zone, Touchback to the PHI 35.",kickoff,0.0,0.0
+2026_12_PHI_DAL,12,2026-11-26,Thursday,PHI,DAL,(:04) 14-J.Milton kneels to PHI 34 for -1 yards.,qb_kneel,-1.0,0.0
+2026_12_PHI_DAL,12,2026-11-26,Thursday,,,END QUARTER 2,,,
+2026_12_PHI_DAL,12,2026-11-26,Thursday,PHI,DAL,17-B.Aubrey kicks 61 yards from DAL 35 to PHI 4. 85-B.Covey pushed ob at PHI 27 for 23 yards (14-M.Bell; 99-L.Overton).,kickoff,0.0,0.0
+2026_12_PHI_DAL,12,2026-11-26,Thursday,PHI,DAL,(14:52) (Shotgun) 14-J.Milton pass short left to 6-D.Smith to PHI 32 for 5 yards (53-D.Winters).,pass,5.0,0.0
+2026_12_PHI_DAL,12,2026-11-26,Thursday,PHI,DAL,(14:14) (Shotgun) 14-J.Milton sacked at PHI 23 for -9 yards (6-D.Ezeiruaku).,pass,-9.0,0.0
+2026_12_PHI_DAL,12,2026-11-26,Thursday,PHI,DAL,(13:33) (Shotgun) 14-J.Milton pass incomplete deep left to 19-E.Moore.,pass,0.0,0.0
+2026_12_PHI_DAL,12,2026-11-26,Thursday,PHI,DAL,"(13:25) 58-J.Hunt reported in as eligible. 10-B.Mann punts 56 yards to DAL 21, Center-41-R.Underwood, out of bounds.",punt,0.0,0.0
+2026_12_PHI_DAL,12,2026-11-26,Thursday,DAL,PHI,(13:17) 33-J.Williams left tackle to DAL 23 for 2 yards (94-B.Young; 11-J.Campbell).,run,2.0,0.0
+2026_12_PHI_DAL,12,2026-11-26,Thursday,DAL,PHI,(12:38) (Shotgun) 4-D.Prescott pass short right to 88-C.Lamb to DAL 45 for 22 yards (27-Q.Mitchell).,pass,22.0,0.0
+2026_12_PHI_DAL,12,2026-11-26,Thursday,DAL,PHI,(11:54) 33-J.Williams left tackle to DAL 40 for -5 yards (52-J.Greenard).,run,-5.0,0.0
+2026_12_PHI_DAL,12,2026-11-26,Thursday,DAL,PHI,(11:15) (Shotgun) 36-J.Corbin up the middle to DAL 48 for 8 yards (94-B.Young; 11-J.Campbell).,run,8.0,0.0
+2026_12_PHI_DAL,12,2026-11-26,Thursday,DAL,PHI,(10:39) (Shotgun) 4-D.Prescott sacked at DAL 37 for -11 yards (54-J.Trotter).,pass,-11.0,0.0
+2026_12_PHI_DAL,12,2026-11-26,Thursday,DAL,PHI,"(9:54) 5-B.Anger punts 44 yards to PHI 19, Center-44-T.Sieg. 85-B.Covey to PHI 21 for 2 yards (43-J.Thomas; 23-A.Speed).",punt,0.0,0.0
+2026_12_PHI_DAL,12,2026-11-26,Thursday,PHI,DAL,(9:44) (Shotgun) 28-W.Shipley right guard to PHI 25 for 4 yards (97-K.Clark).,run,4.0,0.0
+2026_12_PHI_DAL,12,2026-11-26,Thursday,PHI,DAL,(9:08) (Shotgun) 28-W.Shipley right tackle to PHI 31 for 6 yards (34-J.Thompson; 13-C.Downs).,run,6.0,0.0
+2026_12_PHI_DAL,12,2026-11-26,Thursday,PHI,DAL,(8:28) (Shotgun) 14-J.Milton sacked at PHI 21 for -10 yards (50-S.James).,pass,-10.0,0.0
+2026_12_PHI_DAL,12,2026-11-26,Thursday,PHI,DAL,(7:48) (Shotgun) 28-W.Shipley left end to PHI 24 for 3 yards (92-Q.Williams).,run,3.0,0.0
+2026_12_PHI_DAL,12,2026-11-26,Thursday,PHI,DAL,(7:08) (Shotgun) 14-J.Milton pass incomplete deep right to 19-E.Moore (13-C.Downs).,pass,0.0,0.0
+2026_12_PHI_DAL,12,2026-11-26,Thursday,PHI,DAL,"(6:59) 10-B.Mann punts 68 yards to DAL 8, Center-41-R.Underwood. 9-K.Turpin pushed ob at DAL 41 for 33 yards (41-R.Underwood).",punt,0.0,0.0
+2026_12_PHI_DAL,12,2026-11-26,Thursday,DAL,PHI,(6:46) 4-D.Prescott pass incomplete deep right to 3-G.Pickens.,pass,0.0,0.0
+2026_12_PHI_DAL,12,2026-11-26,Thursday,DAL,PHI,(6:38) (Shotgun) 4-D.Prescott pass short middle to 80-C.Brown to PHI 40 for 19 yards (23-K.Moore; 11-J.Campbell).,pass,19.0,0.0
+2026_12_PHI_DAL,12,2026-11-26,Thursday,DAL,PHI,"(5:56) 4-D.Prescott pass incomplete deep right to 88-C.Lamb. PENALTY on DAL-88-C.Lamb, Offensive Pass Interference, 10 yards, enforced at PHI 40 - No Play.",no_play,0.0,0.0
+2026_12_PHI_DAL,12,2026-11-26,Thursday,DAL,PHI,(5:50) (Shotgun) 33-J.Williams right guard to PHI 44 for 6 yards (11-J.Campbell).,run,6.0,0.0
+2026_12_PHI_DAL,12,2026-11-26,Thursday,DAL,PHI,(5:14) (Shotgun) 4-D.Prescott pass short right to 88-C.Lamb to PHI 40 for 4 yards (27-Q.Mitchell).,pass,4.0,0.0
+2026_12_PHI_DAL,12,2026-11-26,Thursday,DAL,PHI,"(4:32) (No Huddle, Shotgun) 4-D.Prescott pass short left to 3-G.Pickens to PHI 41 for -1 yards (54-J.Trotter) [58-J.Hunt].",pass,-1.0,0.0
+2026_12_PHI_DAL,12,2026-11-26,Thursday,DAL,PHI,"(3:40) 17-B.Aubrey 59 yard field goal is GOOD, Center-44-T.Sieg, Holder-5-B.Anger.",field_goal,0.0,0.0
+2026_12_PHI_DAL,12,2026-11-26,Thursday,PHI,DAL,17-B.Aubrey kicks 64 yards from DAL 35 to PHI 1. 85-B.Covey to PHI 20 for 19 yards (99-L.Overton; 0-D.Overshown).,kickoff,0.0,0.0
+2026_12_PHI_DAL,12,2026-11-26,Thursday,PHI,DAL,(3:30) (Shotgun) 28-W.Shipley up the middle to PHI 25 for 5 yards (53-D.Winters; 99-L.Overton).,run,5.0,0.0
+2026_12_PHI_DAL,12,2026-11-26,Thursday,PHI,DAL,(2:50) (Shotgun) 14-J.Milton pass short left to 6-D.Smith to PHI 39 for 14 yards (2-C.Durant).,pass,14.0,0.0
+2026_12_PHI_DAL,12,2026-11-26,Thursday,PHI,DAL,(2:24) (No Huddle) 28-W.Shipley left tackle to PHI 43 for 4 yards (91-O.Ogbonnia).,run,4.0,0.0
+2026_12_PHI_DAL,12,2026-11-26,Thursday,PHI,DAL,(1:45) 14-J.Milton scrambles left tackle to PHI 44 for 1 yard (7-R.Gary).,run,1.0,0.0
+2026_12_PHI_DAL,12,2026-11-26,Thursday,PHI,DAL,"(1:00) (Shotgun) 14-J.Milton pass short right to 9-M.Lemon to DAL 45 for 11 yards (0-D.Overshown). FUMBLES (0-D.Overshown), ball out of bounds at DAL 41. DAL-92-Q.Williams was injured during the play.",pass,11.0,0.0
+2026_12_PHI_DAL,12,2026-11-26,Thursday,PHI,DAL,"(:24) (Shotgun) 14-J.Milton pass deep right to 6-D.Smith for 45 yards, TOUCHDOWN.",pass,45.0,1.0
+2026_12_PHI_DAL,12,2026-11-26,Thursday,PHI,DAL,"4-J.Elliott extra point is GOOD, Center-41-R.Underwood, Holder-10-B.Mann.",extra_point,0.0,0.0
+2026_12_PHI_DAL,12,2026-11-26,Thursday,DAL,PHI,4-J.Elliott kicks 63 yards from PHI 35 to DAL 2. 9-K.Turpin to DAL 26 for 24 yards (43-M.Reiger; 35-M.Carter).,kickoff,0.0,0.0
+2026_12_PHI_DAL,12,2026-11-26,Thursday,DAL,PHI,(:10) 77-B.Jones reported in as eligible. 33-J.Williams up the middle to DAL 31 for 5 yards (11-J.Campbell).,run,5.0,0.0
+2026_12_PHI_DAL,12,2026-11-26,Thursday,DAL,PHI,END QUARTER 3,,,
+2026_12_PHI_DAL,12,2026-11-26,Thursday,DAL,PHI,(15:00) 36-J.Corbin right tackle to DAL 35 for 4 yards (94-B.Young). PHI-96-G.Hall was injured during the play.,run,4.0,0.0
+2026_12_PHI_DAL,12,2026-11-26,Thursday,DAL,PHI,(14:39) (Shotgun) 77-B.Jones reported in as eligible. 33-J.Williams up the middle to DAL 35 for no gain (98-J.Carter).,run,0.0,0.0
+2026_12_PHI_DAL,12,2026-11-26,Thursday,DAL,PHI,"(13:53) (Shotgun) PENALTY on DAL, Delay of Game, 5 yards, enforced at DAL 35 - No Play.",no_play,0.0,0.0
+2026_12_PHI_DAL,12,2026-11-26,Thursday,DAL,PHI,"(13:53) 5-B.Anger punt is BLOCKED by 95-T.Robinson, Center-44-T.Sieg, RECOVERED by PHI-23-K.Moore at DAL 3. 23-K.Moore for 3 yards, TOUCHDOWN.",punt,0.0,1.0
+2026_12_PHI_DAL,12,2026-11-26,Thursday,PHI,DAL,"4-J.Elliott extra point is GOOD, Center-41-R.Underwood, Holder-10-B.Mann. ** Injury Update: DAL-92-Q.Williams has returned to the game.",extra_point,0.0,0.0
+2026_12_PHI_DAL,12,2026-11-26,Thursday,DAL,PHI,"4-J.Elliott kicks 65 yards from PHI 35 to end zone, Touchback to the DAL 35.",kickoff,0.0,0.0
+2026_12_PHI_DAL,12,2026-11-26,Thursday,DAL,PHI,(13:46) (Shotgun) 4-D.Prescott sacked at DAL 29 for -6 yards (98-J.Carter).,pass,-6.0,0.0
+2026_12_PHI_DAL,12,2026-11-26,Thursday,DAL,PHI,(13:04) (Shotgun) 4-D.Prescott pass deep left to 88-C.Lamb ran ob at PHI 32 for 39 yards (54-J.Trotter).,pass,39.0,0.0
+2026_12_PHI_DAL,12,2026-11-26,Thursday,DAL,PHI,(12:24) 77-B.Jones reported in as eligible. 33-J.Williams left guard to PHI 30 for 2 yards (98-J.Carter).,run,2.0,0.0
+2026_12_PHI_DAL,12,2026-11-26,Thursday,DAL,PHI,(11:46) (Shotgun) 4-D.Prescott pass incomplete short left to 3-G.Pickens.,pass,0.0,0.0
+2026_12_PHI_DAL,12,2026-11-26,Thursday,DAL,PHI,(11:43) (Shotgun) 4-D.Prescott pass short middle to 88-C.Lamb to PHI 18 for 12 yards (23-K.Moore).,pass,12.0,0.0
+2026_12_PHI_DAL,12,2026-11-26,Thursday,DAL,PHI,(10:57) 77-B.Jones reported in as eligible. 33-J.Williams left tackle to PHI 14 for 4 yards (24-A.Mukuba).,run,4.0,0.0
+2026_12_PHI_DAL,12,2026-11-26,Thursday,DAL,PHI,"(10:19) 4-D.Prescott scrambles left end for 14 yards, TOUCHDOWN.",run,14.0,1.0
+2026_12_PHI_DAL,12,2026-11-26,Thursday,DAL,PHI,"(Kick formation) PENALTY on DAL-56-C.Beebe, False Start, 5 yards, enforced at PHI 15 - No Play.",no_play,0.0,0.0
+2026_12_PHI_DAL,12,2026-11-26,Thursday,DAL,PHI,"17-B.Aubrey extra point is GOOD, Center-44-T.Sieg, Holder-5-B.Anger.",extra_point,0.0,0.0
+2026_12_PHI_DAL,12,2026-11-26,Thursday,PHI,DAL,17-B.Aubrey kicks 62 yards from DAL 35 to PHI 3. 85-B.Covey pushed ob at DAL 42 for 55 yards (13-C.Downs; 17-B.Aubrey).,kickoff,0.0,0.0
+2026_12_PHI_DAL,12,2026-11-26,Thursday,PHI,DAL,(9:59) (Shotgun) 14-J.Milton pass short left to 6-D.Smith to DAL 38 for 4 yards (25-J.Porter).,pass,4.0,0.0
+2026_12_PHI_DAL,12,2026-11-26,Thursday,PHI,DAL,"(9:35) (No Huddle, Shotgun) 14-J.Milton pass deep left to 6-D.Smith ran ob at DAL 15 for 23 yards (34-J.Thompson).",pass,23.0,0.0
+2026_12_PHI_DAL,12,2026-11-26,Thursday,PHI,DAL,"(9:17) (No Huddle, Shotgun) 14-J.Milton scrambles left end for 15 yards, TOUCHDOWN.",run,15.0,1.0
+2026_12_PHI_DAL,12,2026-11-26,Thursday,PHI,DAL,TWO-POINT CONVERSION ATTEMPT. 14-J.Milton pass to 86-Z.Ertz is incomplete. ATTEMPT FAILS.,pass,0.0,0.0
+2026_12_PHI_DAL,12,2026-11-26,Thursday,DAL,PHI,"4-J.Elliott kicks 65 yards from PHI 35 to landing zone to end zone, Touchback to the DAL 20.",kickoff,0.0,0.0
+2026_12_PHI_DAL,12,2026-11-26,Thursday,DAL,PHI,(9:09) 33-J.Williams up the middle to DAL 26 for 6 yards (54-J.Trotter).,run,6.0,0.0
+2026_12_PHI_DAL,12,2026-11-26,Thursday,DAL,PHI,"(8:32) (Shotgun) 4-D.Prescott sacked at DAL 26 for 0 yards (58-J.Hunt). PENALTY on DAL-89-B.Spann-Ford, Offensive Holding, 10 yards, enforced at DAL 26 - No Play.",no_play,0.0,0.0
+2026_12_PHI_DAL,12,2026-11-26,Thursday,DAL,PHI,(8:12) (Shotgun) 4-D.Prescott pass incomplete short left to 9-K.Turpin.,pass,0.0,0.0
+2026_12_PHI_DAL,12,2026-11-26,Thursday,DAL,PHI,"(8:06) (Shotgun) 4-D.Prescott pass short right to 3-G.Pickens to DAL 20 for 4 yards. PENALTY on DAL-3-G.Pickens, Illegal Forward Pass, 5 yards, enforced at DAL 20. Penalty on DAL-19-R.Flournoy, Offensive Pass Interference, declined.",pass,4.0,0.0
+2026_12_PHI_DAL,12,2026-11-26,Thursday,DAL,PHI,"(7:48) 5-B.Anger punts 57 yards to PHI 28, Center-44-T.Sieg. 85-B.Covey to DAL 49 for 23 yards (14-M.Bell). Dallas challenged the runner was down by contact ruling, and the play was Upheld. The ruling on the field stands. (Timeout #1.)",punt,0.0,0.0
+2026_12_PHI_DAL,12,2026-11-26,Thursday,PHI,DAL,(7:37) (Shotgun) 14-J.Milton pass incomplete deep left to 6-D.Smith (24-M.Hooker). PHI-6-D.Smith was injured during the play.,pass,0.0,0.0
+2026_12_PHI_DAL,12,2026-11-26,Thursday,PHI,DAL,(7:30) (Shotgun) 14-J.Milton sacked at PHI 46 for -5 yards (0-D.Overshown). DAL-92-Q.Williams was injured during the play.,pass,-5.0,0.0
+2026_12_PHI_DAL,12,2026-11-26,Thursday,,,Timeout #2 by DAL at 07:14.,no_play,0.0,0.0
+2026_12_PHI_DAL,12,2026-11-26,Thursday,PHI,DAL,(7:14) (Shotgun) 14-J.Milton pass deep right intended for 9-M.Lemon INTERCEPTED by 2-C.Durant at DAL 38. 2-C.Durant ran ob at PHI 48 for 14 yards (9-M.Lemon).,pass,0.0,0.0
+2026_12_PHI_DAL,12,2026-11-26,Thursday,DAL,PHI,(7:05) 77-B.Jones reported in as eligible. 33-J.Williams left end to PHI 42 for 6 yards (11-J.Campbell).,run,6.0,0.0
+2026_12_PHI_DAL,12,2026-11-26,Thursday,DAL,PHI,(6:23) (Shotgun) 4-D.Prescott pass short right to 3-G.Pickens to PHI 27 for 15 yards (2-T.Woolen).,pass,15.0,0.0
+2026_12_PHI_DAL,12,2026-11-26,Thursday,DAL,PHI,(5:38) 33-J.Williams up the middle to PHI 27 for no gain (54-J.Trotter).,run,0.0,0.0
+2026_12_PHI_DAL,12,2026-11-26,Thursday,DAL,PHI,(4:55) 36-J.Corbin left tackle to PHI 25 for 2 yards (95-T.Robinson; 54-J.Trotter).,run,2.0,0.0
+2026_12_PHI_DAL,12,2026-11-26,Thursday,DAL,PHI,(4:14) (Shotgun) 4-D.Prescott pass short right to 30-H.Luepke to PHI 22 for 3 yards (54-J.Trotter).,pass,3.0,0.0
+2026_12_PHI_DAL,12,2026-11-26,Thursday,DAL,PHI,"(3:27) 17-B.Aubrey 40 yard field goal is No Good, Wide Left, Center-44-T.Sieg, Holder-5-B.Anger.",field_goal,0.0,0.0
+2026_12_PHI_DAL,12,2026-11-26,Thursday,PHI,DAL,(3:23) (Shotgun) 14-J.Milton pass short right to 80-D.Cooper ran ob at PHI 44 for 14 yards (2-C.Durant). ** Injury Update: PHI-6-D.Smith has returned to the game.,pass,14.0,0.0
+2026_12_PHI_DAL,12,2026-11-26,Thursday,PHI,DAL,(3:18) (Shotgun) 14-J.Milton pass short right to 19-E.Moore to DAL 33 for 23 yards (45-J.Barron).,pass,23.0,0.0
+2026_12_PHI_DAL,12,2026-11-26,Thursday,PHI,DAL,"(2:49) (No Huddle, Shotgun) 14-J.Milton pass short right to 19-E.Moore to DAL 24 for 9 yards (25-J.Porter).",pass,9.0,0.0
+2026_12_PHI_DAL,12,2026-11-26,Thursday,PHI,DAL,"(2:17) (No Huddle, Shotgun) 14-J.Milton pass deep right to 9-M.Lemon for 24 yards, TOUCHDOWN.",pass,24.0,1.0
+2026_12_PHI_DAL,12,2026-11-26,Thursday,PHI,DAL,"TWO-POINT CONVERSION ATTEMPT. 14-J.Milton pass to 6-D.Smith is complete. ATTEMPT SUCCEEDS. PENALTY on PHI-68-J.Mailata, Offensive Holding, 10 yards, enforced at DAL 2 - No Play.",no_play,0.0,0.0
+2026_12_PHI_DAL,12,2026-11-26,Thursday,PHI,DAL,TWO-POINT CONVERSION ATTEMPT. 14-J.Milton pass to 9-M.Lemon is incomplete. ATTEMPT FAILS.,pass,0.0,0.0
+2026_12_PHI_DAL,12,2026-11-26,Thursday,DAL,PHI,"4-J.Elliott kicks 65 yards from PHI 35 to end zone, Touchback to the DAL 35.",kickoff,0.0,0.0
+2026_12_PHI_DAL,12,2026-11-26,Thursday,DAL,PHI,(2:10) (Shotgun) 33-J.Williams left tackle to DAL 37 for 2 yards (38-C.Wisniewski).,run,2.0,0.0
+2026_12_PHI_DAL,12,2026-11-26,Thursday,DAL,PHI,(2:00) (Shotgun) 4-D.Prescott pass short left to 89-B.Spann-Ford to PHI 48 for 15 yards (38-C.Wisniewski).,pass,15.0,0.0
+2026_12_PHI_DAL,12,2026-11-26,Thursday,,,Timeout #1 by PHI at 01:54.,no_play,0.0,0.0
+2026_12_PHI_DAL,12,2026-11-26,Thursday,DAL,PHI,(1:54) 77-B.Jones reported in as eligible. 33-J.Williams up the middle to PHI 44 for 4 yards (97-M.Ojomo; 94-B.Young).,run,4.0,0.0
+2026_12_PHI_DAL,12,2026-11-26,Thursday,,,Timeout #2 by PHI at 01:49.,no_play,0.0,0.0
+2026_12_PHI_DAL,12,2026-11-26,Thursday,DAL,PHI,(1:49) 77-B.Jones reported in as eligible. 33-J.Williams left guard to PHI 41 for 3 yards (94-B.Young).,run,3.0,0.0
+2026_12_PHI_DAL,12,2026-11-26,Thursday,,,Timeout #3 by PHI at 01:44.,no_play,0.0,0.0
+2026_12_PHI_DAL,12,2026-11-26,Thursday,DAL,PHI,(1:44) 77-B.Jones reported in as eligible. 33-J.Williams right guard to PHI 39 for 2 yards (94-B.Young).,run,2.0,0.0
+2026_12_PHI_DAL,12,2026-11-26,Thursday,,,Timeout #3 by DAL at 00:55.,no_play,0.0,0.0
+2026_12_PHI_DAL,12,2026-11-26,Thursday,DAL,PHI,(:55) (Shotgun) 4-D.Prescott sacked at PHI 48 for -9 yards (95-T.Robinson).,pass,-9.0,0.0
+2026_12_PHI_DAL,12,2026-11-26,Thursday,PHI,DAL,(:50) (Shotgun) 14-J.Milton pass incomplete deep left to 80-D.Cooper. DAL-34-J.Thompson was injured during the play.,pass,0.0,0.0
+2026_12_PHI_DAL,12,2026-11-26,Thursday,,,Timeout #4 by DAL at 00:43.,no_play,0.0,0.0
+2026_12_PHI_DAL,12,2026-11-26,Thursday,PHI,DAL,(:43) (Shotgun) 14-J.Milton pass short left to 6-D.Smith to DAL 43 for 9 yards (13-C.Downs).,pass,9.0,0.0
+2026_12_PHI_DAL,12,2026-11-26,Thursday,PHI,DAL,"(:23) (No Huddle, Shotgun) 14-J.Milton pass incomplete short left to 86-Z.Ertz. PENALTY on DAL-14-M.Bell, Defensive Pass Interference, 2 yards, enforced at DAL 43 - No Play.",no_play,0.0,0.0
+2026_12_PHI_DAL,12,2026-11-26,Thursday,PHI,DAL,(:19) (Shotgun) 14-J.Milton pass incomplete short left. ** Injury Update: DAL-34-J.Thompson has returned to the game.,pass,0.0,0.0
+2026_12_PHI_DAL,12,2026-11-26,Thursday,PHI,DAL,(:15) (Shotgun) 14-J.Milton pass short right to 6-D.Smith ran ob at DAL 36 for 5 yards (2-C.Durant).,pass,5.0,0.0
+2026_12_PHI_DAL,12,2026-11-26,Thursday,PHI,DAL,"(:11) (Shotgun) PENALTY on PHI-72-M.Bell, False Start, 5 yards, enforced at DAL 36 - No Play.",no_play,0.0,0.0
+2026_12_PHI_DAL,12,2026-11-26,Thursday,PHI,DAL,(:11) (Shotgun) 14-J.Milton pass incomplete short right to 28-W.Shipley.,pass,0.0,0.0
+2026_12_PHI_DAL,12,2026-11-26,Thursday,PHI,DAL,"(:07) 4-J.Elliott 59 yard field goal is GOOD, Center-41-R.Underwood, Holder-10-B.Mann.",field_goal,0.0,0.0
+2026_12_PHI_DAL,12,2026-11-26,Thursday,DAL,PHI,"4-J.Elliott kicks 65 yards from PHI 35 to end zone, Touchback to the DAL 35.",kickoff,0.0,0.0
+2026_12_PHI_DAL,12,2026-11-26,Thursday,DAL,PHI,(:02) (Shotgun) 4-D.Prescott pass deep left intended for 3-G.Pickens INTERCEPTED by 24-A.Mukuba at PHI 28. 24-A.Mukuba ran ob at PHI 28 for no gain.,pass,0.0,0.0
+2026_12_PHI_DAL,12,2026-11-26,Thursday,DAL,PHI,END GAME,,,
