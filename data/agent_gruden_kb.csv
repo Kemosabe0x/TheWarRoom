@@ -28661,6 +28661,162 @@ game_id,week,game_date,day_of_week,posteam,defteam,desc,play_type,yards_gained,t
 2026_12_CHI_DET,12,2026-11-26,Thursday,DET,CHI,"8-C.Santos kicks 65 yards from CHI 35 to end zone, Touchback to the DET 35.",kickoff,0.0,0.0
 2026_12_CHI_DET,12,2026-11-26,Thursday,DET,CHI,"(:03) (Shotgun) 16-J.Goff pass short left to 14-A.St. Brown to DET 44 for 9 yards. Lateral to 1-J.Williams to CHI 47 for 9 yards. Lateral to 0-J.Gibbs to DET 47 for -6 yards. Lateral to 16-J.Goff to 50 for 3 yards. Lateral to 0-J.Gibbs to CHI 39 for 11 yards. PENALTY on DET-0-J.Gibbs, Illegal Forward Pass, 0 yards, enforced at CHI 39.",pass,11.0,0.0
 2026_12_CHI_DET,12,2026-11-26,Thursday,DET,CHI,END GAME,,,
+2026_12_DEN_PIT,12,2026-11-27,Friday,,,GAME,,,
+2026_12_DEN_PIT,12,2026-11-27,Friday,PIT,DEN,3-W.Lutz kicks 61 yards from DEN 35 to PIT 4. 84-M.Hurleman to PIT 26 for 22 yards (31-K.Abrams-Draine; 34-J.Skinner).,kickoff,0.0,0.0
+2026_12_DEN_PIT,12,2026-11-27,Friday,PIT,DEN,(14:54) 30-J.Warren left guard to PIT 28 for 2 yards (99-Z.Allen; 93-D.Jones).,run,2.0,0.0
+2026_12_DEN_PIT,12,2026-11-27,Friday,PIT,DEN,(14:18) (Shotgun) 2-M.Rudolph pass short left to 4-D.Metcalf to PIT 33 for 5 yards (9-T.Hufanga; 49-A.Singleton).,pass,5.0,0.0
+2026_12_DEN_PIT,12,2026-11-27,Friday,PIT,DEN,(13:54) (No Huddle) 30-J.Warren up the middle to PIT 39 for 6 yards (9-T.Hufanga; 99-Z.Allen).,run,6.0,0.0
+2026_12_DEN_PIT,12,2026-11-27,Friday,PIT,DEN,(13:22) 30-J.Warren left end to PIT 43 for 4 yards (49-A.Singleton; 99-Z.Allen).,run,4.0,0.0
+2026_12_DEN_PIT,12,2026-11-27,Friday,PIT,DEN,(12:41) 13-R.Dowdle left tackle to 50 for 7 yards (9-T.Hufanga; 98-T.Onyedim).,run,7.0,0.0
+2026_12_DEN_PIT,12,2026-11-27,Friday,PIT,DEN,(12:05) 13-R.Dowdle left tackle to DEN 46 for 4 yards (49-A.Singleton; 94-J.Jackson).,run,4.0,0.0
+2026_12_DEN_PIT,12,2026-11-27,Friday,PIT,DEN,(11:33) 2-M.Rudolph pass short right to 30-J.Warren to DEN 46 for no gain (40-J.Strnad) [51-Q.Robinson].,pass,0.0,0.0
+2026_12_DEN_PIT,12,2026-11-27,Friday,PIT,DEN,(10:46) (Shotgun) 30-J.Warren right guard to DEN 43 for 3 yards (22-B.Jones; 99-Z.Allen).,run,3.0,0.0
+2026_12_DEN_PIT,12,2026-11-27,Friday,PIT,DEN,"(10:05) 19-C.Johnston punts 39 yards to DEN 4, Center-46-C.Kuntz, downed by PIT-26-B.Echols.",punt,0.0,0.0
+2026_12_DEN_PIT,12,2026-11-27,Friday,DEN,PIT,(9:56) 20-J.Coleman up the middle to DEN 5 for 1 yard (3-J.Brisker).,run,1.0,0.0
+2026_12_DEN_PIT,12,2026-11-27,Friday,DEN,PIT,(9:18) (Shotgun) 10-B.Nix pass incomplete short left to 17-J.Waddle [95-K.Benton].,pass,0.0,0.0
+2026_12_DEN_PIT,12,2026-11-27,Friday,DEN,PIT,(9:14) (Shotgun) 10-B.Nix pass incomplete short right to 1-E.Engram.,pass,0.0,0.0
+2026_12_DEN_PIT,12,2026-11-27,Friday,DEN,PIT,"(9:10) 16-J.Crawshaw punts 42 yards to DEN 47, Center-48-M.Fraboni. 84-M.Hurleman to DEN 41 for 6 yards (47-K.Reid; 55-J.Turner).",punt,0.0,0.0
+2026_12_DEN_PIT,12,2026-11-27,Friday,PIT,DEN,(8:58) 30-J.Warren left tackle to DEN 40 for 1 yard (93-D.Jones; 49-A.Singleton).,run,1.0,0.0
+2026_12_DEN_PIT,12,2026-11-27,Friday,PIT,DEN,(8:26) 30-J.Warren left guard to DEN 40 for no gain (98-T.Onyedim).,run,0.0,0.0
+2026_12_DEN_PIT,12,2026-11-27,Friday,PIT,DEN,(7:47) (Shotgun) 2-M.Rudolph sacked at PIT 48 for -12 yards (15-N.Bonitto).,pass,-12.0,0.0
+2026_12_DEN_PIT,12,2026-11-27,Friday,PIT,DEN,"(7:00) 19-C.Johnston punts 28 yards to DEN 24, Center-46-C.Kuntz, out of bounds.",punt,0.0,0.0
+2026_12_DEN_PIT,12,2026-11-27,Friday,DEN,PIT,(6:54) (Shotgun) 20-J.Coleman right end to DEN 19 for -5 yards (90-T.Watt).,run,-5.0,0.0
+2026_12_DEN_PIT,12,2026-11-27,Friday,DEN,PIT,(6:13) (Shotgun) 10-B.Nix pass incomplete short middle to 1-E.Engram [41-P.Wilson].,pass,0.0,0.0
+2026_12_DEN_PIT,12,2026-11-27,Friday,DEN,PIT,"(6:10) (Shotgun) 10-B.Nix sacked at DEN 6 for -13 yards. FUMBLES, RECOVERED by PIT-90-T.Watt at DEN -3. TOUCHDOWN.",pass,-19.0,1.0
+2026_12_DEN_PIT,12,2026-11-27,Friday,PIT,DEN,"9-C.Boswell extra point is GOOD, Center-46-C.Kuntz, Holder-19-C.Johnston.",extra_point,0.0,0.0
+2026_12_DEN_PIT,12,2026-11-27,Friday,DEN,PIT,9-C.Boswell kicks 55 yards from PIT 35 to DEN 10. 19-M.Mims to DEN 30 for 20 yards (40-D.Slaughter; 33-J.Sawyer). PIT-26-B.Echols was injured during the play.,kickoff,0.0,0.0
+2026_12_DEN_PIT,12,2026-11-27,Friday,DEN,PIT,(5:55) (Shotgun) 10-B.Nix pass short left to 17-J.Waddle to DEN 33 for 3 yards (35-J.Dean).,pass,3.0,0.0
+2026_12_DEN_PIT,12,2026-11-27,Friday,DEN,PIT,(5:17) (Shotgun) 10-B.Nix pass short right to 20-J.Coleman to DEN 39 for 6 yards (28-R.Spears-Jennings; 41-P.Wilson).,pass,6.0,0.0
+2026_12_DEN_PIT,12,2026-11-27,Friday,DEN,PIT,(4:38) 20-J.Coleman right tackle to DEN 39 for no gain (51-N.Herbig).,run,0.0,0.0
+2026_12_DEN_PIT,12,2026-11-27,Friday,DEN,PIT,"(3:56) 16-J.Crawshaw punts 46 yards to PIT 15, Center-48-M.Fraboni. 84-M.Hurleman to PIT 15 for no gain (34-J.Skinner). ** Injury Update: PIT-26-B.Echols has returned to the game.",punt,0.0,0.0
+2026_12_DEN_PIT,12,2026-11-27,Friday,PIT,DEN,(3:46) (Shotgun) 2-M.Rudolph pass short right to 17-G.Bernard pushed ob at DEN 27 for 58 yards (22-B.Jones).,pass,58.0,0.0
+2026_12_DEN_PIT,12,2026-11-27,Friday,PIT,DEN,(3:05) 13-R.Dowdle right end to DEN 24 for 3 yards (94-J.Jackson).,run,3.0,0.0
+2026_12_DEN_PIT,12,2026-11-27,Friday,PIT,DEN,(2:27) 13-R.Dowdle left guard to DEN 22 for 2 yards (49-A.Singleton; 51-Q.Robinson).,run,2.0,0.0
+2026_12_DEN_PIT,12,2026-11-27,Friday,PIT,DEN,"(1:46) (Shotgun) 2-M.Rudolph pass deep left to 4-D.Metcalf for 22 yards, TOUCHDOWN.",pass,22.0,1.0
+2026_12_DEN_PIT,12,2026-11-27,Friday,PIT,DEN,"9-C.Boswell extra point is GOOD, Center-46-C.Kuntz, Holder-19-C.Johnston.",extra_point,0.0,0.0
+2026_12_DEN_PIT,12,2026-11-27,Friday,DEN,PIT,9-C.Boswell kicks 61 yards from PIT 35 to DEN 4. 28-T.Badie to DEN 42 for 38 yards (53-J.Windmon).,kickoff,0.0,0.0
+2026_12_DEN_PIT,12,2026-11-27,Friday,DEN,PIT,(1:32) (Shotgun) 10-B.Nix pass short right to 20-J.Coleman to DEN 46 for 4 yards (41-P.Wilson).,pass,4.0,0.0
+2026_12_DEN_PIT,12,2026-11-27,Friday,DEN,PIT,(:57) (Shotgun) 10-B.Nix pass short left to 17-J.Waddle ran ob at PIT 46 for 8 yards (23-D.Everette).,pass,8.0,0.0
+2026_12_DEN_PIT,12,2026-11-27,Friday,DEN,PIT,(:26) (Shotgun) 10-B.Nix pass short right to 13-P.Bryant to PIT 43 for 3 yards (90-T.Watt).,pass,3.0,0.0
+2026_12_DEN_PIT,12,2026-11-27,Friday,DEN,PIT,END QUARTER 1,,,
+2026_12_DEN_PIT,12,2026-11-27,Friday,DEN,PIT,(15:00) (Shotgun) 10-B.Nix pass short left to 20-J.Coleman to PIT 40 for 3 yards (94-Y.Black). ** Injury Update: DEN-11-T.Franklin has returned to the game.,pass,3.0,0.0
+2026_12_DEN_PIT,12,2026-11-27,Friday,DEN,PIT,(14:18) 28-T.Badie right end pushed ob at PIT 29 for 11 yards (28-R.Spears-Jennings).,run,11.0,0.0
+2026_12_DEN_PIT,12,2026-11-27,Friday,DEN,PIT,(13:44) 20-J.Coleman left tackle to PIT 30 for -1 yards (28-R.Spears-Jennings).,run,-1.0,0.0
+2026_12_DEN_PIT,12,2026-11-27,Friday,DEN,PIT,(13:01) (Shotgun) 10-B.Nix pass short right to 45-N.Adkins to PIT 24 for 6 yards (23-D.Everette).,pass,6.0,0.0
+2026_12_DEN_PIT,12,2026-11-27,Friday,DEN,PIT,(12:22) (Shotgun) 10-B.Nix sacked at PIT 36 for -12 yards (51-N.Herbig).,pass,-12.0,0.0
+2026_12_DEN_PIT,12,2026-11-27,Friday,DEN,PIT,"(11:35) (Punt formation) PENALTY on DEN, Delay of Game, 5 yards, enforced at PIT 36 - No Play.",no_play,0.0,0.0
+2026_12_DEN_PIT,12,2026-11-27,Friday,DEN,PIT,"(11:22) 16-J.Crawshaw punts 40 yards to PIT 1, Center-48-M.Fraboni, out of bounds.",punt,0.0,0.0
+2026_12_DEN_PIT,12,2026-11-27,Friday,PIT,DEN,"(11:14) 30-J.Warren up the middle tackled in End Zone for -1 yards, SAFETY (49-A.Singleton).",run,-1.0,0.0
+2026_12_DEN_PIT,12,2026-11-27,Friday,DEN,PIT,9-C.Boswell kicks 64 yards from PIT 20 to DEN 16. 28-T.Badie to DEN 34 for 18 yards (44-C.Bruener).,kickoff,0.0,0.0
+2026_12_DEN_PIT,12,2026-11-27,Friday,DEN,PIT,(11:06) (Shotgun) 20-J.Coleman right guard to DEN 35 for 1 yard (90-T.Watt; 94-Y.Black).,run,1.0,0.0
+2026_12_DEN_PIT,12,2026-11-27,Friday,DEN,PIT,(10:27) 10-B.Nix pass short left to 82-A.Trautman to DEN 49 for 14 yards (41-P.Wilson).,pass,14.0,0.0
+2026_12_DEN_PIT,12,2026-11-27,Friday,DEN,PIT,(9:42) (Shotgun) 20-J.Coleman left guard to DEN 49 for no gain (95-K.Benton; 90-T.Watt).,run,0.0,0.0
+2026_12_DEN_PIT,12,2026-11-27,Friday,DEN,PIT,(9:05) (Shotgun) 10-B.Nix pass short right to 14-C.Sutton to PIT 47 for 4 yards (6-P.Queen).,pass,4.0,0.0
+2026_12_DEN_PIT,12,2026-11-27,Friday,DEN,PIT,(8:25) (Shotgun) 10-B.Nix pass short left to 13-P.Bryant to PIT 40 for 7 yards (22-A.Samuel).,pass,7.0,0.0
+2026_12_DEN_PIT,12,2026-11-27,Friday,DEN,PIT,(7:49) (Shotgun) 20-J.Coleman up the middle to PIT 32 for 8 yards (41-P.Wilson; 99-D.Harmon).,run,8.0,0.0
+2026_12_DEN_PIT,12,2026-11-27,Friday,DEN,PIT,(7:13) 46-A.Prentice up the middle to PIT 28 for 4 yards (57-K.Henry).,run,4.0,0.0
+2026_12_DEN_PIT,12,2026-11-27,Friday,DEN,PIT,(6:39) 20-J.Coleman right guard to PIT 24 for 4 yards (99-D.Harmon).,run,4.0,0.0
+2026_12_DEN_PIT,12,2026-11-27,Friday,DEN,PIT,(5:58) 19-M.Mims right end to PIT 26 for -2 yards (41-P.Wilson).,run,-2.0,0.0
+2026_12_DEN_PIT,12,2026-11-27,Friday,DEN,PIT,(5:16) (Shotgun) 10-B.Nix pass incomplete deep left to 14-C.Sutton.,pass,0.0,0.0
+2026_12_DEN_PIT,12,2026-11-27,Friday,DEN,PIT,"(5:10) 3-W.Lutz 44 yard field goal is GOOD, Center-48-M.Fraboni, Holder-16-J.Crawshaw.",field_goal,0.0,0.0
+2026_12_DEN_PIT,12,2026-11-27,Friday,PIT,DEN,3-W.Lutz kicks 58 yards from DEN 35 to PIT 7. 31-L.Nichols to PIT 29 for 22 yards (51-Q.Robinson; 92-D.Tillman).,kickoff,0.0,0.0
+2026_12_DEN_PIT,12,2026-11-27,Friday,PIT,DEN,(5:00) 2-M.Rudolph pass short right to 4-D.Metcalf to PIT 38 for 9 yards (2-P.Surtain).,pass,9.0,0.0
+2026_12_DEN_PIT,12,2026-11-27,Friday,PIT,DEN,(4:25) 30-J.Warren right end to PIT 40 for 2 yards (0-J.Cooper; 93-D.Jones).,run,2.0,0.0
+2026_12_DEN_PIT,12,2026-11-27,Friday,PIT,DEN,(3:48) (Shotgun) 2-M.Rudolph pass incomplete deep right to 11-M.Pittman (21-R.Moss).,pass,0.0,0.0
+2026_12_DEN_PIT,12,2026-11-27,Friday,PIT,DEN,(3:42) (Shotgun) 30-J.Warren left tackle to PIT 45 for 5 yards (99-Z.Allen).,run,5.0,0.0
+2026_12_DEN_PIT,12,2026-11-27,Friday,PIT,DEN,"(2:58) (Shotgun) 2-M.Rudolph pass short left to 11-M.Pittman to DEN 48 for 7 yards (21-R.Moss). PENALTY on DEN-97-M.Roach, Roughing the Passer, 15 yards, enforced at DEN 48.",pass,7.0,0.0
+2026_12_DEN_PIT,12,2026-11-27,Friday,PIT,DEN,(2:31) (Shotgun) 30-J.Warren right end to DEN 31 for 2 yards (49-A.Singleton).,run,2.0,0.0
+2026_12_DEN_PIT,12,2026-11-27,Friday,,,Timeout #1 by DEN at 02:25.,no_play,0.0,0.0
+2026_12_DEN_PIT,12,2026-11-27,Friday,PIT,DEN,(2:25) (Shotgun) 2-M.Rudolph pass short right to 13-R.Dowdle to DEN 28 for 3 yards (97-M.Roach; 21-R.Moss).,pass,3.0,0.0
+2026_12_DEN_PIT,12,2026-11-27,Friday,PIT,DEN,(2:00) (Shotgun) 2-M.Rudolph pass incomplete short middle to 4-D.Metcalf (22-B.Jones).,pass,0.0,0.0
+2026_12_DEN_PIT,12,2026-11-27,Friday,PIT,DEN,"(1:55) 9-C.Boswell 47 yard field goal is GOOD, Center-46-C.Kuntz, Holder-19-C.Johnston.",field_goal,0.0,0.0
+2026_12_DEN_PIT,12,2026-11-27,Friday,DEN,PIT,9-C.Boswell kicks 64 yards from PIT 35 to DEN 1. 19-M.Mims to DEN 28 for 27 yards (26-B.Echols; 53-J.Windmon).,kickoff,0.0,0.0
+2026_12_DEN_PIT,12,2026-11-27,Friday,DEN,PIT,"(1:44) (Shotgun) 10-B.Nix pass short right intended for 17-J.Waddle INTERCEPTED by 5-J.Ramsey at DEN 36. 5-J.Ramsey for 36 yards, TOUCHDOWN.",pass,0.0,1.0
+2026_12_DEN_PIT,12,2026-11-27,Friday,PIT,DEN,"9-C.Boswell extra point is GOOD, Center-46-C.Kuntz, Holder-19-C.Johnston.",extra_point,0.0,0.0
+2026_12_DEN_PIT,12,2026-11-27,Friday,DEN,PIT,9-C.Boswell kicks 61 yards from PIT 35 to DEN 4. 28-T.Badie to DEN 25 for 21 yards (44-C.Bruener; 92-K.Jobity).,kickoff,0.0,0.0
+2026_12_DEN_PIT,12,2026-11-27,Friday,DEN,PIT,(1:26) (Shotgun) 20-J.Coleman left guard to DEN 26 for 1 yard (90-T.Watt; 97-C.Heyward).,run,1.0,0.0
+2026_12_DEN_PIT,12,2026-11-27,Friday,DEN,PIT,"(1:02) (Shotgun) 10-B.Nix pass incomplete deep left to 14-C.Sutton. PENALTY on PIT-35-J.Dean, Illegal Contact, 5 yards, enforced at DEN 26 - No Play.",no_play,0.0,0.0
+2026_12_DEN_PIT,12,2026-11-27,Friday,DEN,PIT,(:57) (Shotgun) 10-B.Nix pass short left to 20-J.Coleman to DEN 34 for 3 yards (41-P.Wilson).,pass,3.0,0.0
+2026_12_DEN_PIT,12,2026-11-27,Friday,DEN,PIT,"(:35) (No Huddle, Shotgun) 10-B.Nix pass incomplete short left to 14-C.Sutton.",pass,0.0,0.0
+2026_12_DEN_PIT,12,2026-11-27,Friday,DEN,PIT,(:30) (Shotgun) 10-B.Nix pass short left to 17-J.Waddle to DEN 40 for 6 yards (35-J.Dean).,pass,6.0,0.0
+2026_12_DEN_PIT,12,2026-11-27,Friday,,,END QUARTER 2,,,
+2026_12_DEN_PIT,12,2026-11-27,Friday,DEN,PIT,9-C.Boswell kicks 56 yards from PIT 35 to DEN 9. 28-T.Badie to DEN 26 for 17 yards (37-R.Nowakowski).,kickoff,0.0,0.0
+2026_12_DEN_PIT,12,2026-11-27,Friday,DEN,PIT,(14:53) 63-A.Palczewski reported in as eligible. 20-J.Coleman up the middle to DEN 30 for 4 yards (94-Y.Black; 95-K.Benton).,run,4.0,0.0
+2026_12_DEN_PIT,12,2026-11-27,Friday,DEN,PIT,(14:20) (Shotgun) 10-B.Nix pass incomplete short right to 45-N.Adkins.,pass,0.0,0.0
+2026_12_DEN_PIT,12,2026-11-27,Friday,DEN,PIT,(14:16) (Shotgun) 10-B.Nix pass incomplete short right to 14-C.Sutton (35-J.Dean).,pass,0.0,0.0
+2026_12_DEN_PIT,12,2026-11-27,Friday,DEN,PIT,"(14:13) 16-J.Crawshaw punts 52 yards to PIT 18, Center-48-M.Fraboni. 84-M.Hurleman to PIT 27 for 9 yards (51-Q.Robinson).",punt,0.0,0.0
+2026_12_DEN_PIT,12,2026-11-27,Friday,PIT,DEN,"(14:01) 2-M.Rudolph pass incomplete deep left to 4-D.Metcalf. PENALTY on DEN-2-P.Surtain, Illegal Contact, 5 yards, enforced at PIT 27 - No Play.",no_play,0.0,0.0
+2026_12_DEN_PIT,12,2026-11-27,Friday,PIT,DEN,(13:55) 30-J.Warren up the middle to PIT 34 for 2 yards (49-A.Singleton).,run,2.0,0.0
+2026_12_DEN_PIT,12,2026-11-27,Friday,PIT,DEN,(13:18) (Shotgun) 30-J.Warren right guard to PIT 34 for no gain (9-T.Hufanga; 49-A.Singleton).,run,0.0,0.0
+2026_12_DEN_PIT,12,2026-11-27,Friday,PIT,DEN,(12:45) (Shotgun) 2-M.Rudolph pass incomplete short left to 30-J.Warren.,pass,0.0,0.0
+2026_12_DEN_PIT,12,2026-11-27,Friday,PIT,DEN,"(12:41) 19-C.Johnston punts 40 yards to DEN 26, Center-46-C.Kuntz, downed by PIT-57-K.Henry.",punt,0.0,0.0
+2026_12_DEN_PIT,12,2026-11-27,Friday,DEN,PIT,(12:31) 10-B.Nix pass incomplete short right to 20-J.Coleman.,pass,0.0,0.0
+2026_12_DEN_PIT,12,2026-11-27,Friday,DEN,PIT,"(12:25) (Shotgun) PENALTY on DEN-77-Q.Meinerz, False Start, 5 yards, enforced at DEN 26 - No Play.",no_play,0.0,0.0
+2026_12_DEN_PIT,12,2026-11-27,Friday,DEN,PIT,(12:25) (Shotgun) 10-B.Nix pass incomplete deep middle to 17-J.Waddle (23-D.Everette).,pass,0.0,0.0
+2026_12_DEN_PIT,12,2026-11-27,Friday,DEN,PIT,(12:18) (Shotgun) 10-B.Nix pass short left to 11-T.Franklin to DEN 22 for 1 yard (51-N.Herbig).,pass,1.0,0.0
+2026_12_DEN_PIT,12,2026-11-27,Friday,DEN,PIT,"(11:39) 16-J.Crawshaw punts 52 yards to PIT 26, Center-48-M.Fraboni. 84-M.Hurleman to PIT 41 for 15 yards (26-D.Key; 47-K.Reid).",punt,0.0,0.0
+2026_12_DEN_PIT,12,2026-11-27,Friday,PIT,DEN,(11:29) 2-M.Rudolph pass incomplete short right.,pass,0.0,0.0
+2026_12_DEN_PIT,12,2026-11-27,Friday,PIT,DEN,(11:24) (Shotgun) 2-M.Rudolph pass incomplete deep left to 17-G.Bernard.,pass,0.0,0.0
+2026_12_DEN_PIT,12,2026-11-27,Friday,PIT,DEN,(11:18) (Shotgun) 13-R.Dowdle up the middle to PIT 48 for 7 yards (49-A.Singleton; 0-J.Cooper).,run,7.0,0.0
+2026_12_DEN_PIT,12,2026-11-27,Friday,PIT,DEN,"(10:41) 19-C.Johnston punts 45 yards to DEN 7, Center-46-C.Kuntz, downed by PIT-26-B.Echols.",punt,0.0,0.0
+2026_12_DEN_PIT,12,2026-11-27,Friday,DEN,PIT,(10:32) 63-A.Palczewski reported in as eligible. 20-J.Coleman right guard to DEN 16 for 9 yards (6-P.Queen). PIT-97-C.Heyward was injured during the play.,run,9.0,0.0
+2026_12_DEN_PIT,12,2026-11-27,Friday,DEN,PIT,(10:02) 20-J.Coleman left guard to DEN 18 for 2 yards (41-P.Wilson; 57-K.Henry).,run,2.0,0.0
+2026_12_DEN_PIT,12,2026-11-27,Friday,DEN,PIT,(9:23) (Shotgun) 10-B.Nix pass deep left to 17-J.Waddle pushed ob at DEN 40 for 22 yards (3-J.Brisker).,pass,22.0,0.0
+2026_12_DEN_PIT,12,2026-11-27,Friday,DEN,PIT,(8:52) (Shotgun) 10-B.Nix pass incomplete short left to 20-J.Coleman.,pass,0.0,0.0
+2026_12_DEN_PIT,12,2026-11-27,Friday,DEN,PIT,(8:49) (Shotgun) 20-J.Coleman up the middle to DEN 43 for 3 yards (6-P.Queen).,run,3.0,0.0
+2026_12_DEN_PIT,12,2026-11-27,Friday,DEN,PIT,(8:05) (Shotgun) 10-B.Nix scrambles left guard to 50 for 7 yards (35-J.Dean).,run,7.0,0.0
+2026_12_DEN_PIT,12,2026-11-27,Friday,DEN,PIT,"(7:31) (No Huddle, Shotgun) 20-J.Coleman left guard to DEN 48 for -2 yards (6-P.Queen). ** Injury Update: PIT-97-C.Heyward has returned to the game.",run,-2.0,0.0
+2026_12_DEN_PIT,12,2026-11-27,Friday,DEN,PIT,(6:56) (Shotgun) 10-B.Nix pass short right to 20-J.Coleman pushed ob at PIT 49 for 3 yards (28-R.Spears-Jennings; 23-D.Everette).,pass,3.0,0.0
+2026_12_DEN_PIT,12,2026-11-27,Friday,DEN,PIT,(6:19) (Shotgun) 10-B.Nix pass incomplete short middle to 13-P.Bryant (23-D.Everette).,pass,0.0,0.0
+2026_12_DEN_PIT,12,2026-11-27,Friday,DEN,PIT,"(6:15) 16-J.Crawshaw punts 39 yards to PIT 10, Center-48-M.Fraboni, fair catch by 84-M.Hurleman.",punt,0.0,0.0
+2026_12_DEN_PIT,12,2026-11-27,Friday,PIT,DEN,(6:08) 30-J.Warren right tackle to PIT 12 for 2 yards (51-Q.Robinson; 22-B.Jones).,run,2.0,0.0
+2026_12_DEN_PIT,12,2026-11-27,Friday,PIT,DEN,(5:24) 30-J.Warren right end pushed ob at PIT 18 for 6 yards (92-D.Tillman; 2-P.Surtain).,run,6.0,0.0
+2026_12_DEN_PIT,12,2026-11-27,Friday,PIT,DEN,(4:50) 13-R.Dowdle up the middle to PIT 26 for 8 yards (22-B.Jones).,run,8.0,0.0
+2026_12_DEN_PIT,12,2026-11-27,Friday,PIT,DEN,(4:13) 13-R.Dowdle left guard to DEN 47 for 27 yards (21-R.Moss).,run,27.0,0.0
+2026_12_DEN_PIT,12,2026-11-27,Friday,PIT,DEN,"(3:31) 13-R.Dowdle up the middle to DEN 45 for 2 yards (99-Z.Allen). FUMBLES (99-Z.Allen), RECOVERED by DEN-21-R.Moss at DEN 45.",run,2.0,0.0
+2026_12_DEN_PIT,12,2026-11-27,Friday,DEN,PIT,(3:22) (Shotgun) 10-B.Nix pass deep middle to 13-P.Bryant to PIT 38 for 17 yards (35-J.Dean).,pass,17.0,0.0
+2026_12_DEN_PIT,12,2026-11-27,Friday,DEN,PIT,"(2:56) (No Huddle, Shotgun) 10-B.Nix pass short middle to 20-J.Coleman to PIT 29 for 9 yards (28-R.Spears-Jennings).",pass,9.0,0.0
+2026_12_DEN_PIT,12,2026-11-27,Friday,DEN,PIT,(2:14) 20-J.Coleman left guard to PIT 28 for 1 yard (97-C.Heyward).,run,1.0,0.0
+2026_12_DEN_PIT,12,2026-11-27,Friday,DEN,PIT,(1:34) (Shotgun) 10-B.Nix pass short right to 82-A.Trautman to PIT 25 for 3 yards (51-N.Herbig).,pass,3.0,0.0
+2026_12_DEN_PIT,12,2026-11-27,Friday,DEN,PIT,"(:56) 10-B.Nix pass incomplete deep left to 14-C.Sutton. PENALTY on DEN-14-C.Sutton, Offensive Pass Interference, 10 yards, enforced at PIT 25 - No Play.",no_play,0.0,0.0
+2026_12_DEN_PIT,12,2026-11-27,Friday,DEN,PIT,(:50) (Shotgun) 10-B.Nix pass short left to 20-J.Coleman to PIT 34 for 1 yard (41-P.Wilson).,pass,1.0,0.0
+2026_12_DEN_PIT,12,2026-11-27,Friday,DEN,PIT,(:04) (Shotgun) 10-B.Nix pass incomplete deep left to 14-C.Sutton (5-J.Ramsey).,pass,0.0,0.0
+2026_12_DEN_PIT,12,2026-11-27,Friday,DEN,PIT,END QUARTER 3,,,
+2026_12_DEN_PIT,12,2026-11-27,Friday,DEN,PIT,"(15:00) 3-W.Lutz 53 yard field goal is No Good, Short, Center-48-M.Fraboni, Holder-16-J.Crawshaw.",field_goal,0.0,0.0
+2026_12_DEN_PIT,12,2026-11-27,Friday,PIT,DEN,(14:55) 30-J.Warren right end to PIT 41 for -2 yards (15-N.Bonitto).,run,-2.0,0.0
+2026_12_DEN_PIT,12,2026-11-27,Friday,PIT,DEN,(14:14) 30-J.Warren up the middle to PIT 44 for 3 yards (0-J.Cooper; 98-T.Onyedim).,run,3.0,0.0
+2026_12_DEN_PIT,12,2026-11-27,Friday,PIT,DEN,(13:30) (Shotgun) 2-M.Rudolph pass deep left to 14-R.Wilson to DEN 19 for 37 yards (29-J.McMillian). DEN-29-J.McMillian was injured during the play.,pass,37.0,0.0
+2026_12_DEN_PIT,12,2026-11-27,Friday,PIT,DEN,(12:51) 13-R.Dowdle left tackle to DEN 16 for 3 yards (9-T.Hufanga; 98-T.Onyedim).,run,3.0,0.0
+2026_12_DEN_PIT,12,2026-11-27,Friday,PIT,DEN,(12:08) 2-M.Rudolph pass incomplete short right.,pass,0.0,0.0
+2026_12_DEN_PIT,12,2026-11-27,Friday,PIT,DEN,(12:03) (Shotgun) 2-M.Rudolph pass short left to 88-P.Freiermuth to DEN 15 for 1 yard (9-T.Hufanga; 49-A.Singleton). ** Injury Update: DEN-29-J.McMillian has returned to the game.,pass,1.0,0.0
+2026_12_DEN_PIT,12,2026-11-27,Friday,PIT,DEN,"(11:19) 9-C.Boswell 33 yard field goal is GOOD, Center-46-C.Kuntz, Holder-19-C.Johnston.",field_goal,0.0,0.0
+2026_12_DEN_PIT,12,2026-11-27,Friday,DEN,PIT,"9-C.Boswell kicks 65 yards from PIT 35 to landing zone to end zone, Touchback to the DEN 20.",kickoff,0.0,0.0
+2026_12_DEN_PIT,12,2026-11-27,Friday,DEN,PIT,(11:16) (Shotgun) 10-B.Nix pass incomplete deep middle to 13-P.Bryant.,pass,0.0,0.0
+2026_12_DEN_PIT,12,2026-11-27,Friday,DEN,PIT,"(11:11) (Shotgun) 10-B.Nix pass short middle to 13-P.Bryant to DEN 35 for 15 yards (3-J.Brisker). PENALTY on PIT-5-J.Ramsey, Unsportsmanlike Conduct, 15 yards, enforced at DEN 35.",pass,15.0,0.0
+2026_12_DEN_PIT,12,2026-11-27,Friday,DEN,PIT,(10:44) (Shotgun) 10-B.Nix pass short right to 17-J.Waddle to PIT 36 for 14 yards (23-D.Everette) [94-Y.Black].,pass,14.0,0.0
+2026_12_DEN_PIT,12,2026-11-27,Friday,DEN,PIT,(10:07) (Shotgun) 10-B.Nix pass incomplete deep left to 14-C.Sutton.,pass,0.0,0.0
+2026_12_DEN_PIT,12,2026-11-27,Friday,DEN,PIT,(10:00) (Shotgun) 10-B.Nix pass short right to 20-J.Coleman to PIT 19 for 17 yards (35-J.Dean).,pass,17.0,0.0
+2026_12_DEN_PIT,12,2026-11-27,Friday,DEN,PIT,"(9:22) (No Huddle, Shotgun) 10-B.Nix pass incomplete short left to 13-P.Bryant.",pass,0.0,0.0
+2026_12_DEN_PIT,12,2026-11-27,Friday,DEN,PIT,"(9:19) (Shotgun) PENALTY on DEN-69-M.McGlinchey, False Start, 5 yards, enforced at PIT 19 - No Play.",no_play,0.0,0.0
+2026_12_DEN_PIT,12,2026-11-27,Friday,DEN,PIT,(9:19) (Shotgun) 10-B.Nix pass incomplete short middle to 14-C.Sutton (95-K.Benton).,pass,0.0,0.0
+2026_12_DEN_PIT,12,2026-11-27,Friday,DEN,PIT,(9:16) (Shotgun) 10-B.Nix sacked at PIT 30 for -6 yards (97-C.Heyward).,pass,-6.0,0.0
+2026_12_DEN_PIT,12,2026-11-27,Friday,,,Timeout #1 by PIT at 09:05.,no_play,0.0,0.0
+2026_12_DEN_PIT,12,2026-11-27,Friday,DEN,PIT,(9:05) (Shotgun) 10-B.Nix pass deep left intended for 14-C.Sutton INTERCEPTED by 23-D.Everette at PIT 7. 23-D.Everette to PIT 27 for 20 yards (17-J.Waddle).,pass,0.0,0.0
+2026_12_DEN_PIT,12,2026-11-27,Friday,PIT,DEN,(8:52) 30-J.Warren up the middle to PIT 29 for 2 yards (15-N.Bonitto).,run,2.0,0.0
+2026_12_DEN_PIT,12,2026-11-27,Friday,PIT,DEN,(8:07) 30-J.Warren up the middle to PIT 31 for 2 yards (55-J.Turner; 49-A.Singleton).,run,2.0,0.0
+2026_12_DEN_PIT,12,2026-11-27,Friday,PIT,DEN,(7:26) 13-R.Dowdle right tackle to PIT 38 for 7 yards (9-T.Hufanga).,run,7.0,0.0
+2026_12_DEN_PIT,12,2026-11-27,Friday,PIT,DEN,(6:40) 30-J.Warren left guard to PIT 43 for 5 yards (92-D.Tillman; 21-R.Moss).,run,5.0,0.0
+2026_12_DEN_PIT,12,2026-11-27,Friday,PIT,DEN,(5:54) 30-J.Warren left tackle to PIT 45 for 2 yards (97-M.Roach; 99-Z.Allen).,run,2.0,0.0
+2026_12_DEN_PIT,12,2026-11-27,Friday,PIT,DEN,(5:06) 13-R.Dowdle right tackle to PIT 46 for 1 yard (9-T.Hufanga; 49-A.Singleton).,run,1.0,0.0
+2026_12_DEN_PIT,12,2026-11-27,Friday,PIT,DEN,"(4:16) 19-C.Johnston punts 54 yards to end zone, Center-46-C.Kuntz, Touchback.",punt,0.0,0.0
+2026_12_DEN_PIT,12,2026-11-27,Friday,DEN,PIT,(4:09) 25-C.Schrader up the middle to DEN 25 for 5 yards (92-K.Jobity; 6-P.Queen).,run,5.0,0.0
+2026_12_DEN_PIT,12,2026-11-27,Friday,DEN,PIT,(3:35) 25-C.Schrader right guard to DEN 29 for 4 yards (51-N.Herbig).,run,4.0,0.0
+2026_12_DEN_PIT,12,2026-11-27,Friday,DEN,PIT,(2:56) 25-C.Schrader left guard to DEN 32 for 3 yards (57-K.Henry; 3-J.Brisker).,run,3.0,0.0
+2026_12_DEN_PIT,12,2026-11-27,Friday,DEN,PIT,(2:18) 25-C.Schrader up the middle to DEN 41 for 9 yards (3-J.Brisker; 28-R.Spears-Jennings).,run,9.0,0.0
+2026_12_DEN_PIT,12,2026-11-27,Friday,DEN,PIT,(2:00) 63-A.Palczewski reported in as eligible. 25-C.Schrader up the middle to DEN 46 for 5 yards (92-K.Jobity).,run,5.0,0.0
+2026_12_DEN_PIT,12,2026-11-27,Friday,DEN,PIT,(1:15) 25-C.Schrader left tackle to DEN 47 for 1 yard (3-J.Brisker).,run,1.0,0.0
+2026_12_DEN_PIT,12,2026-11-27,Friday,DEN,PIT,(:34) 25-C.Schrader up the middle to DEN 47 for no gain (94-Y.Black; 99-D.Harmon).,run,0.0,0.0
+2026_12_DEN_PIT,12,2026-11-27,Friday,DEN,PIT,END GAME,,,
 2026_12_GB_LA,12,2026-11-25,Wednesday,,,GAME,,,
 2026_12_GB_LA,12,2026-11-25,Wednesday,GB,LA,16-J.Karty kicks 54 yards from LA 35 to GB 11. 16-B.Melton to GB 23 for 12 yards (44-G.Stuard).,kickoff,0.0,0.0
 2026_12_GB_LA,12,2026-11-25,Wednesday,GB,LA,(14:53) (Shotgun) 10-J.Love pass short left to 9-C.Watson to GB 29 for 6 yards (30-J.Wallace).,pass,6.0,0.0
